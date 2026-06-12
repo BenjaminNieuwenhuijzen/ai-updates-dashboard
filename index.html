@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AI Updates Dashboard</title>
+<title>Model Monitor</title>
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231f56c4'/%3E%3Crect x='13' y='13' width='17' height='17' rx='5' fill='%23fff' opacity='.5'/%3E%3Crect x='34' y='13' width='17' height='17' rx='5' fill='%23fff'/%3E%3Crect x='13' y='34' width='17' height='17' rx='5' fill='%23fff' opacity='.5'/%3E%3Crect x='34' y='34' width='17' height='17' rx='5' fill='%23fff' opacity='.5'/%3E%3Ccircle cx='51' cy='13' r='8' fill='%237cc4ff' stroke='%231f56c4' stroke-width='3.5'/%3E%3C/svg%3E">
 <style>
   /* ------------------------------------------------------------------
@@ -21,6 +21,8 @@
     --unread: #eef4ff;
     --chip: #f1f2f5;
     --error: #b3261e;
+    --badge-bg: #efe9fd;
+    --badge-text: #5430c9;
     --shadow: 0 1px 2px rgba(16, 24, 40, .05);
   }
   @media (prefers-color-scheme: dark) {
@@ -35,6 +37,8 @@
       --unread: #1d2738;
       --chip: #232830;
       --error: #ff9c9c;
+      --badge-bg: #2c2454;
+      --badge-text: #b9a5ff;
       --shadow: 0 1px 2px rgba(0, 0, 0, .3);
     }
   }
@@ -277,26 +281,83 @@
   }
 
   /* ------------------------------------------------------------------
-     Uitleg onderaan (Nielsen #10: korte, taakgerichte hulp).
+     Label voor berichten over modelupdates of nieuwe versies.
+  ------------------------------------------------------------------ */
+  .modelbadge {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 650;
+    letter-spacing: .03em;
+    color: var(--badge-text);
+    background: var(--badge-bg);
+    border-radius: 999px;
+    padding: 1px 8px;
+    margin-right: 7px;
+    vertical-align: 1px;
+  }
+
+  /* ------------------------------------------------------------------
+     Abonneren per mail.
+  ------------------------------------------------------------------ */
+  #subscribe {
+    margin: 0 32px 8px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+    padding: 16px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px 28px;
+  }
+  #subscribe .sub-text { flex: 1 1 380px; }
+  #subscribe h3 { margin: 0 0 3px; font-size: 14px; }
+  #subscribe p { margin: 0; color: var(--muted); font-size: 12.5px; }
+  .sub-btn {
+    flex: none;
+    display: inline-block;
+    background: var(--link);
+    color: #fff;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 9px 18px;
+  }
+  .sub-btn:hover { opacity: .9; }
+  @media (prefers-color-scheme: dark) {
+    .sub-btn { color: #10131a; }
+  }
+
+  /* ------------------------------------------------------------------
+     Footer: uitgelijnd met de paginamarge, twee kolommen plus colofon.
   ------------------------------------------------------------------ */
   footer {
-    max-width: 760px;
-    margin: 8px auto 0;
+    margin-top: 8px;
     padding: 0 32px 36px;
     color: var(--muted);
     font-size: 12.5px;
   }
+  .foot-cols {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 8px 48px;
+    align-items: start;
+  }
   footer h3 { font-size: 12.5px; color: var(--text); margin: 14px 0 4px; }
-  footer h3:first-child { margin-top: 0; }
+  footer p { margin: 0; }
   .colophon {
-    margin-top: 16px;
+    margin-top: 18px;
     padding-top: 12px;
     border-top: 1px solid var(--border);
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: space-between;
     gap: 6px 18px;
   }
+  .colophon .links { display: flex; gap: 18px; }
   .colophon a { text-decoration: none; }
   .colophon a:hover { text-decoration: underline; }
 </style>
@@ -304,9 +365,9 @@
 <body>
 <header>
   <div class="brand">
-    <svg viewBox="0 0 64 64" role="img" aria-label="AI Updates logo"><rect width="64" height="64" rx="14" fill="#1f56c4"/><rect x="13" y="13" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><rect x="34" y="13" width="17" height="17" rx="5" fill="#fff"/><rect x="13" y="34" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><rect x="34" y="34" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><circle cx="51" cy="13" r="8" fill="#7cc4ff" stroke="#1f56c4" stroke-width="3.5"/></svg>
+    <svg viewBox="0 0 64 64" role="img" aria-label="Model Monitor logo"><rect width="64" height="64" rx="14" fill="#1f56c4"/><rect x="13" y="13" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><rect x="34" y="13" width="17" height="17" rx="5" fill="#fff"/><rect x="13" y="34" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><rect x="34" y="34" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><circle cx="51" cy="13" r="8" fill="#7cc4ff" stroke="#1f56c4" stroke-width="3.5"/></svg>
     <div>
-      <h1>AI Updates</h1>
+      <h1>Model Monitor</h1>
       <div class="meta" id="updated">Updates worden geladen…</div>
     </div>
   </div>
@@ -334,30 +395,48 @@
 <div class="grid" id="grid"></div>
 <div id="stream" style="display:none"></div>
 
+<section id="subscribe">
+  <div class="sub-text">
+    <h3>Updates in je mail</h3>
+    <p>Abonneer je gratis via Blogtrottr op de gecombineerde feed van Model Monitor: per bericht direct,
+    of gebundeld als dagelijkse digest. Je e-mailadres vul je in bij Blogtrottr en bevestig je per mail;
+    het adres komt niet bij Model Monitor terecht. Afmelden kan in elke mail.</p>
+  </div>
+  <a class="sub-btn" href="https://blogtrottr.com/?subscribe=https%3A%2F%2Fbenjaminnieuwenhuijzen.github.io%2Fai-updates-dashboard%2Ffeed.xml" target="_blank" rel="noopener">Abonneer via Blogtrottr</a>
+</section>
+
 <footer>
-  <h3>Over dit dashboard</h3>
-  Dit overzicht haalt bij het openen en daarna elk half uur de nieuwsfeeds van zes AI-bedrijven op.
-  OpenAI en Google publiceren een officiële feed; voor Anthropic, Meta, xAI en Mistral wordt een
-  community-feed gebruikt die kan achterlopen. Klik op een bericht om het originele artikel te openen.
-  Een blauwe stip markeert berichten die sinds de vorige verversing zijn binnengekomen.
-
-  <h3>Disclaimer</h3>
-  De inhoud op deze pagina is geen eigendom van de maker. Het dashboard leest uitsluitend openbaar
-  beschikbare bronnen uit (nieuwsfeeds van de genoemde bedrijven en community-feeds) en toont die
-  ongewijzigd. Aan de getoonde informatie kunnen geen rechten worden ontleend: de maker geeft geen
-  garantie op juistheid, volledigheid of actualiteit van de data en is niet verantwoordelijk of
-  aansprakelijk voor onjuiste, verouderde of onvolledige berichten, noch voor beslissingen die op
-  basis daarvan worden genomen. Alle rechten op de berichten berusten bij de oorspronkelijke bronnen.
-  Genoemde merknamen en logo&#8217;s zijn eigendom van hun respectievelijke eigenaren en worden hier
-  uitsluitend ter herkenning gebruikt; deze pagina heeft geen banden met en wordt niet onderschreven
-  door de genoemde bedrijven. Links naar externe websites vallen buiten de verantwoordelijkheid van
-  de maker.
-
+  <div class="foot-cols">
+    <div>
+      <h3>Over Model Monitor</h3>
+      <p>Model Monitor haalt bij het openen en daarna elk half uur de nieuwsfeeds van zeven AI-bedrijven op.
+      OpenAI en Google publiceren een officiële feed; voor de overige bedrijven wordt een community-feed
+      gebruikt die kan achterlopen. Klik op een bericht om het originele artikel te openen. Een blauwe stip
+      markeert berichten die sinds de vorige verversing zijn binnengekomen; het label Modelupdate markeert
+      berichten die op basis van titel en samenvatting over een nieuw of bijgewerkt AI-model lijken te gaan
+      (automatische herkenning, niet waterdicht).</p>
+    </div>
+    <div>
+      <h3>Disclaimer</h3>
+      <p>De inhoud op deze pagina is geen eigendom van de maker. Model Monitor leest uitsluitend openbaar
+      beschikbare bronnen uit (nieuwsfeeds van de genoemde bedrijven en community-feeds) en toont die
+      ongewijzigd. Aan de getoonde informatie kunnen geen rechten worden ontleend: de maker geeft geen
+      garantie op juistheid, volledigheid of actualiteit van de data en is niet verantwoordelijk of
+      aansprakelijk voor onjuiste, verouderde of onvolledige berichten, noch voor beslissingen die op
+      basis daarvan worden genomen. Alle rechten op de berichten berusten bij de oorspronkelijke bronnen.
+      Genoemde merknamen en logo&#8217;s zijn eigendom van hun respectievelijke eigenaren en worden hier
+      uitsluitend ter herkenning gebruikt; deze pagina heeft geen banden met en wordt niet onderschreven
+      door de genoemde bedrijven. Links naar externe websites en de mailbezorging via Blogtrottr vallen
+      buiten de verantwoordelijkheid van de maker.</p>
+    </div>
+  </div>
   <div class="colophon">
-    <span>Gemaakt door Benjamin Nieuwenhuijzen</span>
-    <a href="https://github.com/BenjaminNieuwenhuijzen" target="_blank" rel="noopener">GitHub</a>
-    <a href="https://www.linkedin.com/in/benjamin-nieuwenhuijzen-58a16b105/" target="_blank" rel="noopener">LinkedIn</a>
-    <a href="https://www.instagram.com/bnieuwenhuijzen/" target="_blank" rel="noopener">Instagram</a>
+    <span>Model Monitor &middot; Gemaakt door Benjamin Nieuwenhuijzen</span>
+    <span class="links">
+      <a href="https://github.com/BenjaminNieuwenhuijzen" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://www.linkedin.com/in/benjamin-nieuwenhuijzen-58a16b105/" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://www.instagram.com/bnieuwenhuijzen/" target="_blank" rel="noopener">Instagram</a>
+    </span>
   </div>
 </footer>
 
@@ -374,6 +453,7 @@ const LOGOS = {
   google: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><defs><clipPath id="gemclip"><path d="M12 0C12.96 6.5 17.5 11.04 24 12 17.5 12.96 12.96 17.5 12 24 11.04 17.5 6.5 12.96 0 12 6.5 11.04 11.04 6.5 12 0Z"/></clipPath><radialGradient id="gemred" gradientUnits="userSpaceOnUse" cx="12" cy="2" r="11"><stop offset="0%" stop-color="#FF4641"/><stop offset="100%" stop-color="#FF4641" stop-opacity="0"/></radialGradient><radialGradient id="gemyellow" gradientUnits="userSpaceOnUse" cx="2" cy="12" r="11"><stop offset="0%" stop-color="#FFC400"/><stop offset="100%" stop-color="#FFC400" stop-opacity="0"/></radialGradient><radialGradient id="gemgreen" gradientUnits="userSpaceOnUse" cx="12" cy="22" r="11"><stop offset="0%" stop-color="#00A661"/><stop offset="100%" stop-color="#00A661" stop-opacity="0"/></radialGradient></defs><g clip-path="url(#gemclip)"><rect width="24" height="24" fill="#4285F4"/><rect width="24" height="24" fill="url(#gemred)"/><rect width="24" height="24" fill="url(#gemyellow)"/><rect width="24" height="24" fill="url(#gemgreen)"/></g></svg>`,
   meta: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="metag" gradientUnits="userSpaceOnUse" x1="12" y1="0" x2="12" y2="24"><stop offset="0%" stop-color="#E04AFD"/><stop offset="50%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#4845F5"/></linearGradient></defs><g fill="url(#metag)"><ellipse cx="12" cy="5" rx="2.8" ry="4.6"/><ellipse cx="17.47" cy="7.63" rx="2.8" ry="4.6" transform="rotate(51.43 17.47 7.63)"/><ellipse cx="18.83" cy="13.56" rx="2.8" ry="4.6" transform="rotate(102.86 18.83 13.56)"/><ellipse cx="15.04" cy="18.31" rx="2.8" ry="4.6" transform="rotate(154.29 15.04 18.31)"/><ellipse cx="8.96" cy="18.31" rx="2.8" ry="4.6" transform="rotate(205.71 8.96 18.31)"/><ellipse cx="5.17" cy="13.56" rx="2.8" ry="4.6" transform="rotate(257.14 5.17 13.56)"/><ellipse cx="6.53" cy="7.63" rx="2.8" ry="4.6" transform="rotate(308.57 6.53 7.63)"/></g></svg>`,
   xai: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><polygon points="18.6,2.6 21.4,2.6 12.4,21.5 9.6,21.5"/><polygon points="18.8,10.2 21.4,6.6 21.4,21.5 18.8,21.5"/><polygon points="2.6,4.4 5.8,4.4 13.6,15.4 10.4,15.4"/><polygon points="2.6,21.5 5.6,21.5 9.4,16.2 6.4,16.2"/></svg>`,
+  perplexity: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.9"><path d="M12 1.5v21"/><path d="M4.5 3l15 18"/><path d="M19.5 3l-15 18"/><rect x="3" y="8" width="18" height="8"/></svg>`,
   /* Exacte rasterindeling van het aangeleverde Mistral-logo (6 kolommen x 5 rijen). */
   mistral: `<svg viewBox="0 0 24 20" xmlns="http://www.w3.org/2000/svg"><g fill="#FFD800"><rect x="4" y="0" width="4" height="4"/><rect x="16" y="0" width="4" height="4"/></g><g fill="#FFAF00"><rect x="4" y="4" width="8" height="4"/><rect x="14" y="4" width="6" height="4"/></g><g fill="#FF8205"><rect x="4" y="8" width="16" height="4"/></g><g fill="#FA500F"><rect x="4" y="12" width="4" height="4"/><rect x="10" y="12" width="4" height="4"/><rect x="16" y="12" width="4" height="4"/></g><g fill="#E10500"><rect x="0" y="16" width="8" height="4"/><rect x="12" y="16" width="12" height="4"/></g></svg>`
 };
@@ -442,6 +522,16 @@ const COMPANIES = [
     ]
   },
   {
+    name: "Perplexity",
+    logo: LOGOS.perplexity,
+    official: false,
+    feeds: ["https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_perplexity_hub.xml"],
+    links: [
+      { label: "Hub", url: "https://www.perplexity.ai/hub" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/company/perplexity-ai" }
+    ]
+  },
+  {
     name: "Mistral AI",
     logo: LOGOS.mistral,
     official: false,
@@ -463,6 +553,17 @@ let firstLoad = true;           // bij de allereerste render niets als "nieuw" m
 
 // Item is nieuw als het na de eerste lading opduikt en we het nog niet kenden.
 function isNew(link) { return !firstLoad && !!link && !seenLinks.has(link); }
+
+/* Heuristiek: markeer berichten die over een nieuw of bijgewerkt AI-model
+   lijken te gaan. Twee signalen: een modelnaam met versienummer in de tekst,
+   of een release-woord in combinatie met een modelwoord. Niet waterdicht. */
+const VERSION_PAT = /\b(gpt|claude|gemini|gemma|llama|grok|mistral|codex|sonar|veo|imagen|sora|deepseek|qwen|opus|sonnet|haiku|fable|mythos)[ -]?v?\d+(\.\d+)?\b/i;
+const MODEL_WORDS = /\b(model|gpt|claude|gemini|gemma|llama|grok|codex|sonar|veo|imagen|sora|deepseek|qwen)\b/i;
+const RELEASE_WORDS = /\b(introduc\w+|announc\w+|releas\w+|launch\w*|now available|general availability|preview|upgrade\w*|updated?|nieuw|nieuwe versie)\b/i;
+function isModelUpdate(it) {
+  const t = (it.title || "") + " " + (it.summary || "");
+  return VERSION_PAT.test(t) || (MODEL_WORDS.test(t) && RELEASE_WORDS.test(t));
+}
 
 const UNOFFICIAL_HINT = "Geen officiële RSS-feed beschikbaar; updates komen via een community-feed en kunnen achterlopen.";
 
@@ -651,7 +752,8 @@ function renderItems(i, items) {
     const summary = it.summary ? `<span class="summary">${escapeHtml(it.summary)}</span>` : "";
     const fresh = isNew(it.link);
     const dot = fresh ? `<span class="newdot" title="Nieuw sinds de vorige verversing"></span>` : "";
-    const inner = `<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${meta}</span>`;
+    const mu = isModelUpdate(it) ? `<span class="modelbadge" title="Gaat vermoedelijk over een nieuw of bijgewerkt AI-model">Modelupdate</span>` : "";
+    const inner = `<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${mu}${meta}</span>`;
     return it.link
       ? `<li><a class="row${fresh ? " is-new" : ""}" href="${it.link}" target="_blank" rel="noopener">${inner}</a></li>`
       : `<li><span class="row nolink">${inner}</span></li>`;
@@ -681,8 +783,9 @@ function renderStream() {
     const meta = fmtDate(it.date) + (it.source ? (fmtDate(it.date) ? " · " : "") + it.source : "");
     const fresh = isNew(it.link);
     const dot = fresh ? `<span class="newdot" title="Nieuw sinds de vorige verversing"></span>` : "";
+    const mu = isModelUpdate(it) ? `<span class="modelbadge" title="Gaat vermoedelijk over een nieuw of bijgewerkt AI-model">Modelupdate</span>` : "";
     const co = `<span class="stream-co">${it.logo || ""}${escapeHtml(it.company)}</span>`;
-    const inner = `${co}<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${meta}</span>`;
+    const inner = `${co}<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${mu}${meta}</span>`;
     return it.link
       ? `<a class="stream-row${fresh ? " is-new" : ""}" href="${it.link}" target="_blank" rel="noopener">${inner}</a>`
       : `<span class="stream-row nolink">${inner}</span>`;
