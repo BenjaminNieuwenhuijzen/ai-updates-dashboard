@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Model Monitor</title>
+<link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
+<description>Gecombineerde updates van AI-bedrijven: OpenAI, Anthropic, Google, Meta, xAI, Mistral en Perplexity.</description>
+<language>nl</language>
+<lastBuildDate>Fri, 12 Jun 2026 09:29:47 GMT</lastBuildDate>
+<item>
+<title>[OpenAI] How Preply combines AI and human tutors to personalize learning</title>
+<link>https://openai.com/index/preply</link>
+<guid isPermaLink="false">https://openai.com/index/preply</guid>
+<pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+<description>Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.</description>
+</item>
+<item>
+<title>[Google AI] Our new community investments in Virginia support local jobs and expand energy affordability.</title>
+<link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/</guid>
+<pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"&amp;gt;We’re helping build the state’s next-generation workforce and investing in energy programs.</description>
+</item>
+<item>
+<title>[OpenAI] Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
+<link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
+<guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
+</item>
+<item>
+<title>[OpenAI] BBVA puts AI at the core of banking with OpenAI</title>
+<link>https://openai.com/index/bbva</link>
+<guid isPermaLink="false">https://openai.com/index/bbva</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</description>
+</item>
+<item>
+<title>[OpenAI] How an astrophysicist uses Codex to help simulate black holes</title>
+<link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
+<guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</description>
+</item>
+<item>
+<title>[OpenAI] OpenAI to acquire Ona</title>
+<link>https://openai.com/index/openai-to-acquire-ona</link>
+<guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</description>
+</item>
+<item>
+<title>[Anthropic] DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
+<link>https://www.anthropic.com/news/dxc-anthropic-alliance</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Anthropic] Introducing Claude Corps</title>
+<link>https://www.anthropic.com/news/claude-corps</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/claude-corps</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[OpenAI] Access OpenAI models and Codex through your Oracle cloud commitment</title>
+<link>https://openai.com/index/openai-on-oracle-cloud</link>
+<guid isPermaLink="false">https://openai.com/index/openai-on-oracle-cloud</guid>
+<pubDate>Wed, 10 Jun 2026 20:00:00 GMT</pubDate>
+<description>Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.</description>
+</item>
+<item>
+<title>[DeepMind] DiffusionGemma: 4x faster text generation</title>
+<link>https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</guid>
+<pubDate>Wed, 10 Jun 2026 16:24:11 +0000</pubDate>
+
+</item>
+<item>
+<title>[OpenAI] PRC-linked influence operations are targeting AI debates in the US</title>
+<link>https://openai.com/index/prc-linked-influence-operations-ai-debates</link>
+<guid isPermaLink="false">https://openai.com/index/prc-linked-influence-operations-ai-debates</guid>
+<pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+<description>A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.</description>
+</item>
+<item>
+<title>[DeepMind] Investing in multi-agent AI safety research</title>
+<link>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</guid>
+<pubDate>Wed, 10 Jun 2026 10:21:19 +0000</pubDate>
+<description>Google DeepMind and partners announce a $10M funding call for multi-agent safety research.</description>
+</item>
+<item>
+<title>[OpenAI] From data to decisions: how LSEG is scaling trusted AI</title>
+<link>https://openai.com/index/lseg</link>
+<guid isPermaLink="false">https://openai.com/index/lseg</guid>
+<pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+<description>See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.</description>
+</item>
+<item>
+<title>[DeepMind] Fluid, natural voice translation with Gemini 3.5 Live Translate</title>
+<link>https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/</guid>
+<pubDate>Tue, 09 Jun 2026 15:16:25 +0000</pubDate>
+<description>Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.</description>
+</item>
+<item>
+<title>[DeepMind] Introducing Gemma 4 12B: a unified, encoder-free multimodal model</title>
+<link>https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/</guid>
+<pubDate>Tue, 09 Jun 2026 14:10:19 +0000</pubDate>
+
+</item>
+<item>
+<title>[DeepMind] Powering the future of robotics in Europe</title>
+<link>https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/</guid>
+<pubDate>Tue, 09 Jun 2026 14:02:33 +0000</pubDate>
+
+</item>
+<item>
+<title>[OpenAI] How engineers at Nextdoor use Codex to build without limits</title>
+<link>https://openai.com/index/nextdoor</link>
+<guid isPermaLink="false">https://openai.com/index/nextdoor</guid>
+<pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+<description>How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.</description>
+</item>
+<item>
+<title>[OpenAI] What Codex unlocks for Notion</title>
+<link>https://openai.com/index/notion</link>
+<guid isPermaLink="false">https://openai.com/index/notion</guid>
+<pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
+<description>How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.</description>
+</item>
+<item>
+<title>[OpenAI] Industrial policy for the Intelligence Age</title>
+<link>https://openai.com/index/industrial-policy-for-the-intelligence-age</link>
+<guid isPermaLink="false">https://openai.com/index/industrial-policy-for-the-intelligence-age</guid>
+<pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+<description>Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.</description>
+</item>
+<item>
+<title>[Anthropic] Claude Fable 5 and Claude Mythos 5</title>
+<link>https://www.anthropic.com/news/claude-fable-5-mythos-5</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/claude-fable-5-mythos-5</guid>
+<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[OpenAI] Confidential submission of draft S-1 to the SEC</title>
+<link>https://openai.com/index/openai-submits-confidential-s-1</link>
+<guid isPermaLink="false">https://openai.com/index/openai-submits-confidential-s-1</guid>
+<pubDate>Mon, 08 Jun 2026 14:00:00 GMT</pubDate>
+<description>OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.</description>
+</item>
+<item>
+<title>[DeepMind] Measuring the impact of learning with AI in Sierra Leone and beyond</title>
+<link>https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/</guid>
+<pubDate>Mon, 08 Jun 2026 13:04:59 +0000</pubDate>
+<description>Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.</description>
+</item>
+<item>
+<title>[OpenAI] Built to benefit everyone: our plan</title>
+<link>https://openai.com/index/built-to-benefit-everyone-our-plan</link>
+<guid isPermaLink="false">https://openai.com/index/built-to-benefit-everyone-our-plan</guid>
+<pubDate>Mon, 08 Jun 2026 01:30:00 GMT</pubDate>
+<description>A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.</description>
+</item>
+<item>
+<title>[OpenAI] Introducing the OpenAI Economic Research Exchange</title>
+<link>https://openai.com/index/economic-research-exchange</link>
+<guid isPermaLink="false">https://openai.com/index/economic-research-exchange</guid>
+<pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+<description>OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.</description>
+</item>
+<item>
+<title>[Google AI] The latest AI news we announced in May 2026</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</guid>
+<pubDate>Fri, 05 Jun 2026 14:45:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"&amp;gt;Here are Google’s latest AI updates from May 2026</description>
+</item>
+<item>
+<title>[OpenAI] How Endava is redesigning software delivery around AI agents</title>
+<link>https://openai.com/index/endava-frontiers</link>
+<guid isPermaLink="false">https://openai.com/index/endava-frontiers</guid>
+<pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+<description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
+</item>
+<item>
+<title>[Google AI] 5 ways Google Search can level up your thrift and vintage shopping</title>
+<link>https://blog.google/products-and-platforms/products/search/thrifting-tips/</link>
+<guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/thrifting-tips/</guid>
+<pubDate>Wed, 03 Jun 2026 13:00:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"&amp;gt;Uncover second-hand scores with AI tools in Google Search and Shopping.</description>
+</item>
+<item>
+<title>[Anthropic] What we learned mapping a year’s worth of AI-enabled cyber threats</title>
+<link>https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</guid>
+<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Anthropic] Introducing the Services Track and Partner Hub of the Claude Partner Network</title>
+<link>https://www.anthropic.com/news/services-track-partner-hub</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/services-track-partner-hub</guid>
+<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Anthropic] Expanding Project Glasswing</title>
+<link>https://www.anthropic.com/news/expanding-project-glasswing</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/expanding-project-glasswing</guid>
+<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Google AI] How we used Gemini to build Google I/O 2026</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/</guid>
+<pubDate>Mon, 01 Jun 2026 16:00:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp"&amp;gt;Learn how Googlers used AI to produce Google I/O 2026.</description>
+</item>
+<item>
+<title>[Anthropic] Anthropic confidentially submits draft S-1 to the SEC</title>
+<link>https://www.anthropic.com/news/confidential-draft-s1-sec</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/confidential-draft-s1-sec</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Google AI] Take our I/O 2026 quiz, vibe coded in Google AI Studio.</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/</guid>
+<pubDate>Fri, 29 May 2026 19:00:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp"&amp;gt;We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.</description>
+</item>
+<item>
+<title>[Google AI] 9 demos of Gemini Omni and Gemini 3.5 in action</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/</guid>
+<pubDate>Fri, 29 May 2026 17:30:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"&amp;gt;Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.</description>
+</item>
+<item>
+<title>[Google AI] Check out real-life AI prototypes from the Futures Lab.</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</guid>
+<pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp"&amp;gt;University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.</description>
+</item>
+<item>
+<title>[Google AI] Catch up on 12 major I/O 2026 moments</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/</guid>
+<pubDate>Thu, 28 May 2026 15:00:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"&amp;gt;Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.</description>
+</item>
+<item>
+<title>[Anthropic] Introducing Claude Opus 4.8</title>
+<link>https://www.anthropic.com/news/claude-opus-4-8</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/claude-opus-4-8</guid>
+<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Anthropic] Anthropic raises $65B in Series H funding at $965B post-money valuation</title>
+<link>https://www.anthropic.com/news/series-h</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/series-h</guid>
+<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Anthropic] Anthropic opens Milan office to support Italian enterprise, research, and developers</title>
+<link>https://www.anthropic.com/news/milan-office-opening</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/milan-office-opening</guid>
+<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Anthropic] Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening</title>
+<link>https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea</guid>
+<pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Anthropic] Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"</title>
+<link>https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</guid>
+<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Google AI] Catch up on the Dialogues stage at Google I/O 2026.</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/</guid>
+<pubDate>Fri, 22 May 2026 18:00:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"&amp;gt;A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.</description>
+</item>
+<item>
+<title>[Mistral AI] Emmi joins Mistral to accelerate the AI-native industry</title>
+<link>https://mistral.ai/news/accelerate-ai-native-industry</link>
+<guid isPermaLink="false">https://mistral.ai/news/accelerate-ai-native-industry</guid>
+<pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Perplexity] Perplexity Is Open-Sourcing Bumblebee</title>
+<link>https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee</link>
+<guid isPermaLink="false">https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee</guid>
+<pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[DeepMind] We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks</title>
+<link>https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/</guid>
+<pubDate>Thu, 21 May 2026 19:46:42 +0000</pubDate>
+
+</item>
+<item>
+<title>[xAI] Use Grok in OpenCode</title>
+<link>https://x.ai/news/grok-opencode</link>
+<guid isPermaLink="false">https://x.ai/news/grok-opencode</guid>
+<pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+<description>Use your SuperGrok or X Premium subscription inside OpenCode.</description>
+</item>
+<item>
+<title>[Google AI] We’re announcing new community investments in Missouri.</title>
+<link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/</guid>
+<pubDate>Wed, 20 May 2026 20:40:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp"&amp;gt;We’re helping build the state’s next-generation workforce and investing in energy programs.</description>
+</item>
+<item>
+<title>[Google AI] 100 things we announced at I/O 2026</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/</guid>
+<pubDate>Wed, 20 May 2026 19:30:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp"&amp;gt;We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026.</description>
+</item>
+<item>
+<title>[Google AI] A new experiment brings better group meetings to Google Beam</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/</guid>
+<pubDate>Wed, 20 May 2026 16:45:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp"&amp;gt;See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.</description>
+</item>
+<item>
+<title>[Google AI] How AI Mode is changing the way people search in the U.S.</title>
+<link>https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/</link>
+<guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/</guid>
+<pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp"&amp;gt;One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.</description>
+</item>
+<item>
+<title>[Google AI] New ways to create and get things done in Google Workspace</title>
+<link>https://blog.google/products-and-platforms/products/workspace/workspace-updates/</link>
+<guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/workspace-updates/</guid>
+<pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp"&amp;gt;Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.</description>
+</item>
+<item>
+<title>[Google AI] I/O 2026: Welcome to the agentic Gemini era</title>
+<link>https://blog.google/innovation-and-ai/sundar-pichai-io-2026/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/sundar-pichai-io-2026/</guid>
+<pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
+<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp"&amp;gt;The latest from Google I/O: See how we’re helping you get more done with Gemini.</description>
+</item>
+<item>
+<title>[Anthropic] KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance</title>
+<link>https://www.anthropic.com/news/anthropic-kpmg</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/anthropic-kpmg</guid>
+<pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Anthropic] Widening the conversation on frontier AI</title>
+<link>https://www.anthropic.com/news/widening-conversation-ai</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/widening-conversation-ai</guid>
+<pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[xAI] Use Grok in OpenClaw</title>
+<link>https://x.ai/news/grok-openclaw</link>
+<guid isPermaLink="false">https://x.ai/news/grok-openclaw</guid>
+<pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+<description>Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.</description>
+</item>
+<item>
+<title>[DeepMind] Fast-tracking genetic leads to reverse cellular aging</title>
+<link>https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/</guid>
+<pubDate>Mon, 18 May 2026 18:21:39 +0000</pubDate>
+<description>Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.</description>
+</item>
+<item>
+<title>[Anthropic] Anthropic acquires Stainless</title>
+<link>https://www.anthropic.com/news/anthropic-acquires-stainless</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/anthropic-acquires-stainless</guid>
+<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[xAI] Skills in web, iOS, and Android</title>
+<link>https://x.ai/news/grok-skills</link>
+<guid isPermaLink="false">https://x.ai/news/grok-skills</guid>
+<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+<description>Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.</description>
+</item>
+<item>
+<title>[DeepMind] Simulate real-world places with Project Genie and Street View</title>
+<link>https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/</guid>
+<pubDate>Sun, 17 May 2026 19:53:18 +0000</pubDate>
+<description>We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.</description>
+</item>
+<item>
+<title>[DeepMind] Introducing Gemini Omni</title>
+<link>https://deepmind.google/blog/introducing-gemini-omni/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-omni/</guid>
+<pubDate>Sun, 17 May 2026 19:50:57 +0000</pubDate>
+
+</item>
+</channel>
+</rss>
