@@ -233,6 +233,7 @@
     color: inherit;
     background: var(--card);
     border: 1px solid var(--border);
+    border-left: 3px solid var(--accent-co, var(--border));
     border-radius: 10px;
     box-shadow: var(--shadow);
     padding: 12px 16px;
@@ -244,12 +245,13 @@
   .stream-co {
     display: flex;
     align-items: center;
-    gap: 7px;
-    font-size: 12px;
-    color: var(--muted);
-    margin-bottom: 5px;
+    gap: 8px;
+    font-size: 12.5px;
+    font-weight: 650;
+    color: var(--accent-co, var(--text));
+    margin-bottom: 6px;
   }
-  .stream-co svg { width: 15px; height: 15px; display: block; }
+  .stream-co svg { width: 18px; height: 18px; display: block; flex: none; }
   .stream-row .title { font-size: 14.5px; font-weight: 550; display: block; padding-right: 16px; }
   .stream-row:hover .title { color: var(--link); }
   .stream-row .summary {
@@ -281,19 +283,53 @@
   }
 
   /* ------------------------------------------------------------------
-     Label voor berichten over modelupdates of nieuwe versies.
+     Categorielabels per bericht (automatische indeling).
   ------------------------------------------------------------------ */
-  .modelbadge {
+  .cat {
     display: inline-block;
     font-size: 10px;
     font-weight: 650;
     letter-spacing: .03em;
-    color: var(--badge-text);
-    background: var(--badge-bg);
     border-radius: 999px;
     padding: 1px 8px;
     margin-right: 7px;
     vertical-align: 1px;
+  }
+  .cat-model { background: var(--badge-bg); color: var(--badge-text); }
+  .cat-product { background: #e6f1fb; color: #185fa5; }
+  .cat-onderzoek { background: #e1f5ee; color: #0f6e56; }
+  .cat-bedrijf { background: #faeeda; color: #854f0b; }
+  .cat-veiligheid { background: #fbe9e9; color: #a32d2d; }
+  .cat-overig { background: var(--chip); color: var(--muted); }
+  @media (prefers-color-scheme: dark) {
+    .cat-product { background: #16283c; color: #8ab8ef; }
+    .cat-onderzoek { background: #11332b; color: #7fd6b8; }
+    .cat-bedrijf { background: #3a2d12; color: #f0c674; }
+    .cat-veiligheid { background: #3a2020; color: #ff9c9c; }
+  }
+
+  /* ------------------------------------------------------------------
+     Navigatiebalk: filteren op categorie.
+  ------------------------------------------------------------------ */
+  .catbar { width: 100%; display: flex; flex-wrap: wrap; gap: 6px; }
+  .catbar button {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--muted);
+    border-radius: 999px;
+    padding: 4px 13px;
+    font-size: 12.5px;
+    cursor: pointer;
+  }
+  .catbar button:hover { color: var(--text); border-color: var(--muted); }
+  .catbar button.active {
+    background: var(--link);
+    border-color: var(--link);
+    color: #fff;
+    font-weight: 600;
+  }
+  @media (prefers-color-scheme: dark) {
+    .catbar button.active { color: #10131a; }
   }
 
   /* ------------------------------------------------------------------
@@ -390,6 +426,15 @@
     </div>
     <button id="refresh">Ververs</button>
   </div>
+  <nav class="catbar" aria-label="Filter op categorie">
+    <button type="button" data-cat="all" class="active">Alles</button>
+    <button type="button" data-cat="model">Modelupdates</button>
+    <button type="button" data-cat="product">Producten</button>
+    <button type="button" data-cat="onderzoek">Onderzoek</button>
+    <button type="button" data-cat="bedrijf">Bedrijfsnieuws</button>
+    <button type="button" data-cat="veiligheid">Veiligheid &amp; beleid</button>
+    <button type="button" data-cat="overig">Overig</button>
+  </nav>
 </header>
 
 <div class="grid" id="grid"></div>
@@ -412,9 +457,10 @@
       <p>Model Monitor haalt bij het openen en daarna elk half uur de nieuwsfeeds van zeven AI-bedrijven op.
       OpenAI en Google publiceren een officiële feed; voor de overige bedrijven wordt een community-feed
       gebruikt die kan achterlopen. Klik op een bericht om het originele artikel te openen. Een blauwe stip
-      markeert berichten die sinds de vorige verversing zijn binnengekomen; het label Modelupdate markeert
-      berichten die op basis van titel en samenvatting over een nieuw of bijgewerkt AI-model lijken te gaan
-      (automatische herkenning, niet waterdicht).</p>
+      markeert berichten die sinds de vorige verversing zijn binnengekomen. Elk bericht krijgt automatisch
+      een categorie (Modelupdate, Product, Onderzoek, Bedrijf, Veiligheid of Overig) op basis van titel en
+      samenvatting; via de balk bovenaan filter je erop. Die indeling is een automatische inschatting en
+      niet waterdicht.</p>
     </div>
     <div>
       <h3>Disclaimer</h3>
@@ -450,8 +496,11 @@
 const LOGOS = {
   openai: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.073zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.8956zm16.5963 3.8558L13.1038 8.364 15.1192 7.2a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.407-.667zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.6802 4.66zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.4992 4.4992 0 0 1 7.3757-3.4537l-.142.0805L8.704 5.459a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654l2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997z"/></svg>`,
   anthropic: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" stroke="#d97757" stroke-width="2.2" stroke-linecap="round"><line x1="12" y1="12" x2="21" y2="12"/><line x1="12" y1="12" x2="18.5" y2="15.75"/><line x1="12" y1="12" x2="16.5" y2="19.8"/><line x1="12" y1="12" x2="12" y2="19"/><line x1="12" y1="12" x2="8" y2="19.5"/><line x1="12" y1="12" x2="4.2" y2="16.5"/><line x1="12" y1="12" x2="5" y2="12"/><line x1="12" y1="12" x2="4.6" y2="7.75"/><line x1="12" y1="12" x2="8.5" y2="5.9"/><line x1="12" y1="12" x2="12" y2="3"/><line x1="12" y1="12" x2="15.75" y2="5.5"/><line x1="12" y1="12" x2="19.5" y2="8"/></svg>`,
-  google: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><defs><clipPath id="gemclip"><path d="M12 0C12.96 6.5 17.5 11.04 24 12 17.5 12.96 12.96 17.5 12 24 11.04 17.5 6.5 12.96 0 12 6.5 11.04 11.04 6.5 12 0Z"/></clipPath><radialGradient id="gemred" gradientUnits="userSpaceOnUse" cx="12" cy="2" r="11"><stop offset="0%" stop-color="#FF4641"/><stop offset="100%" stop-color="#FF4641" stop-opacity="0"/></radialGradient><radialGradient id="gemyellow" gradientUnits="userSpaceOnUse" cx="2" cy="12" r="11"><stop offset="0%" stop-color="#FFC400"/><stop offset="100%" stop-color="#FFC400" stop-opacity="0"/></radialGradient><radialGradient id="gemgreen" gradientUnits="userSpaceOnUse" cx="12" cy="22" r="11"><stop offset="0%" stop-color="#00A661"/><stop offset="100%" stop-color="#00A661" stop-opacity="0"/></radialGradient></defs><g clip-path="url(#gemclip)"><rect width="24" height="24" fill="#4285F4"/><rect width="24" height="24" fill="url(#gemred)"/><rect width="24" height="24" fill="url(#gemyellow)"/><rect width="24" height="24" fill="url(#gemgreen)"/></g></svg>`,
-  meta: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="metag" gradientUnits="userSpaceOnUse" x1="12" y1="0" x2="12" y2="24"><stop offset="0%" stop-color="#E04AFD"/><stop offset="50%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#4845F5"/></linearGradient></defs><g fill="url(#metag)"><ellipse cx="12" cy="5" rx="2.8" ry="4.6"/><ellipse cx="17.47" cy="7.63" rx="2.8" ry="4.6" transform="rotate(51.43 17.47 7.63)"/><ellipse cx="18.83" cy="13.56" rx="2.8" ry="4.6" transform="rotate(102.86 18.83 13.56)"/><ellipse cx="15.04" cy="18.31" rx="2.8" ry="4.6" transform="rotate(154.29 15.04 18.31)"/><ellipse cx="8.96" cy="18.31" rx="2.8" ry="4.6" transform="rotate(205.71 8.96 18.31)"/><ellipse cx="5.17" cy="13.56" rx="2.8" ry="4.6" transform="rotate(257.14 5.17 13.56)"/><ellipse cx="6.53" cy="7.63" rx="2.8" ry="4.6" transform="rotate(308.57 6.53 7.63)"/></g></svg>`,
+  /* Google en Meta gebruiken interne SVG-ids (gradiënten, clip-path). Die moeten
+     per gebruik uniek zijn (placeholder __U__), anders verwijst een logo in de
+     tijdlijn naar definities in de verborgen rasterweergave en rendert het niet. */
+  google: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><defs><clipPath id="gemclip__U__"><path d="M12 0C12.96 6.5 17.5 11.04 24 12 17.5 12.96 12.96 17.5 12 24 11.04 17.5 6.5 12.96 0 12 6.5 11.04 11.04 6.5 12 0Z"/></clipPath><radialGradient id="gemred__U__" gradientUnits="userSpaceOnUse" cx="12" cy="2" r="11"><stop offset="0%" stop-color="#FF4641"/><stop offset="100%" stop-color="#FF4641" stop-opacity="0"/></radialGradient><radialGradient id="gemyellow__U__" gradientUnits="userSpaceOnUse" cx="2" cy="12" r="11"><stop offset="0%" stop-color="#FFC400"/><stop offset="100%" stop-color="#FFC400" stop-opacity="0"/></radialGradient><radialGradient id="gemgreen__U__" gradientUnits="userSpaceOnUse" cx="12" cy="22" r="11"><stop offset="0%" stop-color="#00A661"/><stop offset="100%" stop-color="#00A661" stop-opacity="0"/></radialGradient></defs><g clip-path="url(#gemclip__U__)"><rect width="24" height="24" fill="#4285F4"/><rect width="24" height="24" fill="url(#gemred__U__)"/><rect width="24" height="24" fill="url(#gemyellow__U__)"/><rect width="24" height="24" fill="url(#gemgreen__U__)"/></g></svg>`,
+  meta: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="metag__U__" gradientUnits="userSpaceOnUse" x1="12" y1="0" x2="12" y2="24"><stop offset="0%" stop-color="#E04AFD"/><stop offset="50%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#4845F5"/></linearGradient></defs><g fill="url(#metag__U__)"><ellipse cx="12" cy="5" rx="2.8" ry="4.6"/><ellipse cx="17.47" cy="7.63" rx="2.8" ry="4.6" transform="rotate(51.43 17.47 7.63)"/><ellipse cx="18.83" cy="13.56" rx="2.8" ry="4.6" transform="rotate(102.86 18.83 13.56)"/><ellipse cx="15.04" cy="18.31" rx="2.8" ry="4.6" transform="rotate(154.29 15.04 18.31)"/><ellipse cx="8.96" cy="18.31" rx="2.8" ry="4.6" transform="rotate(205.71 8.96 18.31)"/><ellipse cx="5.17" cy="13.56" rx="2.8" ry="4.6" transform="rotate(257.14 5.17 13.56)"/><ellipse cx="6.53" cy="7.63" rx="2.8" ry="4.6" transform="rotate(308.57 6.53 7.63)"/></g></svg>`,
   xai: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><polygon points="18.6,2.6 21.4,2.6 12.4,21.5 9.6,21.5"/><polygon points="18.8,10.2 21.4,6.6 21.4,21.5 18.8,21.5"/><polygon points="2.6,4.4 5.8,4.4 13.6,15.4 10.4,15.4"/><polygon points="2.6,21.5 5.6,21.5 9.4,16.2 6.4,16.2"/></svg>`,
   perplexity: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.9"><path d="M12 1.5v21"/><path d="M4.5 3l15 18"/><path d="M19.5 3l-15 18"/><rect x="3" y="8" width="18" height="8"/></svg>`,
   /* Exacte rasterindeling van het aangeleverde Mistral-logo (6 kolommen x 5 rijen). */
@@ -467,6 +516,7 @@ const COMPANIES = [
   {
     name: "OpenAI",
     logo: LOGOS.openai,
+    accent: "#10a37f",
     official: true,
     feeds: ["https://openai.com/news/rss.xml"],
     links: [
@@ -479,6 +529,7 @@ const COMPANIES = [
   {
     name: "Anthropic",
     logo: LOGOS.anthropic,
+    accent: "#d97757",
     official: false,
     feeds: ["https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml"],
     links: [
@@ -490,6 +541,7 @@ const COMPANIES = [
   {
     name: "Google (AI & DeepMind)",
     logo: LOGOS.google,
+    accent: "#4285f4",
     official: true,
     feeds: [
       "https://blog.google/technology/ai/rss/",
@@ -504,6 +556,7 @@ const COMPANIES = [
   {
     name: "Meta AI",
     logo: LOGOS.meta,
+    accent: "#8b5cf6",
     official: false,
     feeds: ["https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml"],
     links: [
@@ -514,6 +567,7 @@ const COMPANIES = [
   {
     name: "xAI (Grok)",
     logo: LOGOS.xai,
+    accent: "#8a919d",
     official: false,
     feeds: ["https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml"],
     links: [
@@ -524,6 +578,7 @@ const COMPANIES = [
   {
     name: "Perplexity",
     logo: LOGOS.perplexity,
+    accent: "#20808d",
     official: false,
     feeds: ["https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_perplexity_hub.xml"],
     links: [
@@ -534,6 +589,7 @@ const COMPANIES = [
   {
     name: "Mistral AI",
     logo: LOGOS.mistral,
+    accent: "#fa520f",
     official: false,
     feeds: ["https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml"],
     links: [
@@ -563,6 +619,42 @@ const RELEASE_WORDS = /\b(introduc\w+|announc\w+|releas\w+|launch\w*|now availab
 function isModelUpdate(it) {
   const t = (it.title || "") + " " + (it.summary || "");
   return VERSION_PAT.test(t) || (MODEL_WORDS.test(t) && RELEASE_WORDS.test(t));
+}
+
+/* Categorie-indeling per bericht, op basis van titel en samenvatting.
+   Volgorde bepaalt prioriteit; eerste treffer wint. Automatische
+   inschatting, dus niet waterdicht. */
+const CATS = {
+  model: "Modelupdate",
+  veiligheid: "Veiligheid",
+  onderzoek: "Onderzoek",
+  bedrijf: "Bedrijf",
+  product: "Product",
+  overig: "Overig"
+};
+function categorize(it) {
+  const t = ((it.title || "") + " " + (it.summary || "")).toLowerCase();
+  if (isModelUpdate(it)) return "model";
+  if (/\b(safety|secur\w+|cyber\w*|threat\w*|policy|policies|regulat\w+|governance|privacy|misuse|jailbreak|red.team|alignment|biodefense|veiligheid|beleid)\b/.test(t)) return "veiligheid";
+  if (/\b(research|paper|study|benchmark\w*|science|scientific|breakthrough|discover\w+|genome|biolog\w+|physics|mathemat\w+|robotics|onderzoek)\b/.test(t)) return "onderzoek";
+  if (/\b(funding|raise[sd]?|valuation|partner\w*|acquisition|acquir\w+|merger|ipo|s-1|revenue|appoint\w*|ceo|invest\w*|hiring|joins?|economic|samenwerking|overname)\b/.test(t)) return "bedrijf";
+  if (/\b(app|apps|feature\w*|integrat\w+|api|platform|tool\w*|product\w*|enterprise|subscription|pricing|workflow\w*|agent\w*|assistant|available|launch\w*|introduc\w+|update[sd]?)\b/.test(t)) return "product";
+  return "overig";
+}
+function catTag(it) {
+  const c = categorize(it);
+  return `<span class="cat cat-${c}" title="Automatisch ingedeeld op basis van titel en samenvatting">${CATS[c]}</span>`;
+}
+
+let currentCategory = "all";   // actieve filter uit de navigatiebalk
+
+/* Logo's met interne ids (gradiënten, clip-paths) krijgen per gebruik unieke
+   ids; anders verwijst een logo naar definities in een verborgen weergave en
+   rendert het niet (zoals Google en Meta in de tijdlijn). */
+let logoUid = 0;
+function logoFor(logo) {
+  if (!logo) return "";
+  return logo.includes("__U__") ? logo.replaceAll("__U__", "u" + (logoUid++)) : logo;
 }
 
 const UNOFFICIAL_HINT = "Geen officiële RSS-feed beschikbaar; updates komen via een community-feed en kunnen achterlopen.";
@@ -699,7 +791,7 @@ function buildCards() {
       : `<span class="srcline" title="${UNOFFICIAL_HINT}">Community-feed, kan achterlopen</span>`;
     card.innerHTML = `
       <div class="card-head">
-        <span class="avatar">${c.logo || c.name[0]}</span>
+        <span class="avatar">${logoFor(c.logo) || c.name[0]}</span>
         <div class="card-id">
           <h2>${c.name}</h2>
           ${src}
@@ -730,17 +822,20 @@ function renderItems(i, items) {
     return;
   }
 
-  // Periodefilter toepassen (0 = alles).
+  // Periode- en categoriefilter toepassen.
   const days = currentPeriodDays();
   let shown = items;
   if (days > 0) {
     const cutoff = Date.now() - days * 86400000;
-    shown = items.filter(it => { const t = Date.parse(it.date); return isNaN(t) ? false : t >= cutoff; });
+    shown = shown.filter(it => { const t = Date.parse(it.date); return isNaN(t) ? false : t >= cutoff; });
+  }
+  if (currentCategory !== "all") {
+    shown = shown.filter(it => categorize(it) === currentCategory);
   }
 
   if (!shown.length) {
-    status.innerHTML = `Geen updates in deze periode.
-      <br><button class="actionbtn" data-action="reset-period">Toon alle updates</button>`;
+    status.innerHTML = `Geen updates binnen dit filter.
+      <br><button class="actionbtn" data-action="reset-filters">Toon alle updates</button>`;
     status.className = "status";
     ul.innerHTML = "";
     return;
@@ -752,8 +847,7 @@ function renderItems(i, items) {
     const summary = it.summary ? `<span class="summary">${escapeHtml(it.summary)}</span>` : "";
     const fresh = isNew(it.link);
     const dot = fresh ? `<span class="newdot" title="Nieuw sinds de vorige verversing"></span>` : "";
-    const mu = isModelUpdate(it) ? `<span class="modelbadge" title="Gaat vermoedelijk over een nieuw of bijgewerkt AI-model">Modelupdate</span>` : "";
-    const inner = `<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${mu}${meta}</span>`;
+    const inner = `<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}</span>`;
     return it.link
       ? `<li><a class="row${fresh ? " is-new" : ""}" href="${it.link}" target="_blank" rel="noopener">${inner}</a></li>`
       : `<li><span class="row nolink">${inner}</span></li>`;
@@ -768,14 +862,15 @@ function renderStream() {
 
   let all = [];
   COMPANIES.forEach(c => {
-    (STATE[c.name] || []).forEach(it => all.push(Object.assign({}, it, { company: c.name, logo: c.logo })));
+    (STATE[c.name] || []).forEach(it => all.push(Object.assign({}, it, { company: c.name, logo: c.logo, accent: c.accent })));
   });
   if (cutoff) all = all.filter(it => { const t = Date.parse(it.date); return !isNaN(t) && t >= cutoff; });
+  if (currentCategory !== "all") all = all.filter(it => categorize(it) === currentCategory);
   all.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
 
   if (!all.length) {
-    wrap.innerHTML = `<div class="status">Geen updates in deze periode.
-      <br><button class="actionbtn" data-action="reset-period">Toon alle updates</button></div>`;
+    wrap.innerHTML = `<div class="status">Geen updates binnen dit filter.
+      <br><button class="actionbtn" data-action="reset-filters">Toon alle updates</button></div>`;
     return;
   }
   wrap.innerHTML = all.map(it => {
@@ -783,12 +878,11 @@ function renderStream() {
     const meta = fmtDate(it.date) + (it.source ? (fmtDate(it.date) ? " · " : "") + it.source : "");
     const fresh = isNew(it.link);
     const dot = fresh ? `<span class="newdot" title="Nieuw sinds de vorige verversing"></span>` : "";
-    const mu = isModelUpdate(it) ? `<span class="modelbadge" title="Gaat vermoedelijk over een nieuw of bijgewerkt AI-model">Modelupdate</span>` : "";
-    const co = `<span class="stream-co">${it.logo || ""}${escapeHtml(it.company)}</span>`;
-    const inner = `${co}<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${mu}${meta}</span>`;
+    const co = `<span class="stream-co">${logoFor(it.logo)}${escapeHtml(it.company)}</span>`;
+    const inner = `${co}<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}</span>`;
     return it.link
-      ? `<a class="stream-row${fresh ? " is-new" : ""}" href="${it.link}" target="_blank" rel="noopener">${inner}</a>`
-      : `<span class="stream-row nolink">${inner}</span>`;
+      ? `<a class="stream-row${fresh ? " is-new" : ""}" style="--accent-co:${it.accent}" href="${it.link}" target="_blank" rel="noopener">${inner}</a>`
+      : `<span class="stream-row nolink" style="--accent-co:${it.accent}">${inner}</span>`;
   }).join("");
 }
 
@@ -884,13 +978,23 @@ document.getElementById("period").addEventListener("change", applyFilter);
 document.querySelectorAll("#view button").forEach(b =>
   b.addEventListener("click", () => setView(b.dataset.view)));
 
+// Filteren op categorie via de navigatiebalk.
+document.querySelectorAll(".catbar button").forEach(b =>
+  b.addEventListener("click", () => {
+    currentCategory = b.dataset.cat;
+    document.querySelectorAll(".catbar button").forEach(x => x.classList.toggle("active", x === b));
+    applyFilter();
+  }));
+
 // Herstelacties in status- en foutmeldingen (Nielsen #9: bied een uitweg).
 document.addEventListener("click", e => {
   const btn = e.target.closest("[data-action]");
   if (!btn) return;
   if (btn.dataset.action === "retry") refreshAll();
-  if (btn.dataset.action === "reset-period") {
+  if (btn.dataset.action === "reset-filters") {
     document.getElementById("period").value = "0";
+    currentCategory = "all";
+    document.querySelectorAll(".catbar button").forEach(x => x.classList.toggle("active", x.dataset.cat === "all"));
     applyFilter();
   }
 });
