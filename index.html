@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Updates Dashboard</title>
+<style>
+  /* ------------------------------------------------------------------
+     Thema. Licht als standaard (conventie voor nieuwsdashboards),
+     automatisch donker wanneer het systeem donker staat.
+  ------------------------------------------------------------------ */
+  :root {
+    --bg: #f5f6f8;
+    --card: #ffffff;
+    --card-hover: #f6f8fa;
+    --border: #e3e6ea;
+    --text: #1a1d23;
+    --muted: #5f6672;
+    --link: #1f56c4;
+    --unread: #eef4ff;
+    --chip: #f1f2f5;
+    --error: #b3261e;
+    --shadow: 0 1px 2px rgba(16, 24, 40, .05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #111418;
+      --card: #1a1e25;
+      --card-hover: #20252e;
+      --border: #2a2f38;
+      --text: #e8eaee;
+      --muted: #9aa1ad;
+      --link: #82a8ff;
+      --unread: #1d2738;
+      --chip: #232830;
+      --error: #ff9c9c;
+      --shadow: 0 1px 2px rgba(0, 0, 0, .3);
+    }
+  }
+  * { box-sizing: border-box; }
+  html { scrollbar-gutter: stable; }
+  body {
+    margin: 0;
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+  a { color: var(--link); }
+  button { font: inherit; }
+  :focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation: none !important; transition: none !important; }
+  }
+
+  /* ------------------------------------------------------------------
+     Header: vaste balk met titel, status en bediening. Labels bij de
+     bedieningselementen (herkenning boven herinnering, Nielsen #6).
+  ------------------------------------------------------------------ */
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--card);
+    border-bottom: 1px solid var(--border);
+    padding: 14px 32px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px 28px;
+    justify-content: space-between;
+  }
+  header h1 { margin: 0; font-size: 18px; font-weight: 650; }
+  .meta { color: var(--muted); font-size: 12.5px; margin-top: 1px; }
+  .controls { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 16px; }
+  .control { display: flex; flex-direction: column; gap: 3px; }
+  .control-label { font-size: 11px; color: var(--muted); }
+
+  .seg {
+    display: inline-flex;
+    background: var(--chip);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 2px;
+    gap: 2px;
+  }
+  .seg button {
+    border: 0;
+    background: transparent;
+    color: var(--muted);
+    font-size: 13px;
+    padding: 5px 13px;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  .seg button:hover { color: var(--text); }
+  .seg button.active { background: var(--card); color: var(--text); font-weight: 600; box-shadow: var(--shadow); }
+
+  select#period {
+    background: var(--card);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 6px 10px;
+    font-size: 13px;
+    cursor: pointer;
+  }
+  button#refresh {
+    background: var(--card);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 6px 16px;
+    font-size: 13px;
+    cursor: pointer;
+  }
+  button#refresh:hover { background: var(--card-hover); }
+  button#refresh:disabled { opacity: .55; cursor: default; }
+
+  /* ------------------------------------------------------------------
+     Raster van bedrijfskaarten.
+  ------------------------------------------------------------------ */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 16px;
+    padding: 24px 32px;
+  }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  .card-head {
+    padding: 14px 16px 12px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .avatar {
+    flex: none;
+    width: 36px; height: 36px;
+    border-radius: 8px;
+    display: grid; place-items: center;
+    background: var(--chip);
+    color: var(--text);            /* monochrome logo's volgen het thema */
+    font-weight: 700;
+  }
+  .avatar svg { width: 20px; height: 20px; display: block; }
+  .card-id { min-width: 0; }
+  .card-head h2 { margin: 0; font-size: 15px; font-weight: 650; }
+  .srcline { font-size: 11.5px; color: var(--muted); }
+  .srcline .dot { margin: 0 5px; }
+  .card-links { margin-left: auto; display: flex; flex-direction: column; align-items: flex-end; gap: 2px; }
+  .card-links a { font-size: 12px; text-decoration: none; white-space: nowrap; }
+  .card-links a:hover { text-decoration: underline; }
+
+  /* ------------------------------------------------------------------
+     Lijst met updates. Hele rij klikbaar naar het bronartikel.
+  ------------------------------------------------------------------ */
+  .items { list-style: none; margin: 0; padding: 0; flex: 1; }
+  .items li { border-bottom: 1px solid var(--border); }
+  .items li:last-child { border-bottom: none; }
+  .items a.row, .items span.row {
+    display: block;
+    padding: 11px 16px;
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+  }
+  .items a.row:hover { background: var(--card-hover); }
+  .items a.row::after {
+    content: "↗";
+    position: absolute;
+    top: 11px; right: 12px;
+    color: var(--muted);
+    font-size: 12px;
+    opacity: 0;
+  }
+  .items a.row:hover::after { opacity: 1; }
+  .row .title { font-size: 13.5px; font-weight: 550; display: block; padding-right: 16px; }
+  .items a.row:hover .title { color: var(--link); }
+  .row .summary {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    color: var(--muted);
+    font-size: 12.5px;
+    line-height: 1.45;
+    margin-top: 3px;
+  }
+  .row .date { display: block; color: var(--muted); font-size: 11.5px; margin-top: 4px; }
+  .row.nolink { cursor: default; }
+
+  /* Status-, fout- en lege toestanden: gewone taal plus een handeling
+     (Nielsen #9: probleem benoemen en een oplossing aanreiken). */
+  .status { padding: 16px; color: var(--muted); font-size: 13px; }
+  .status.error { color: var(--error); }
+  .status .actionbtn {
+    display: inline-block;
+    margin-top: 8px;
+    background: var(--card);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    padding: 4px 12px;
+    font-size: 12.5px;
+    cursor: pointer;
+  }
+  .status .actionbtn:hover { background: var(--card-hover); }
+
+  /* ------------------------------------------------------------------
+     Tijdlijn: alle bedrijven in één stroom.
+  ------------------------------------------------------------------ */
+  #stream { max-width: 760px; margin: 0 auto; padding: 24px 32px; }
+  .stream-row {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+    padding: 12px 16px;
+    margin-bottom: 10px;
+    position: relative;
+  }
+  .stream-row:hover { background: var(--card-hover); }
+  .stream-row.nolink { cursor: default; }
+  .stream-co {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 12px;
+    color: var(--muted);
+    margin-bottom: 5px;
+  }
+  .stream-co svg { width: 15px; height: 15px; display: block; }
+  .stream-row .title { font-size: 14.5px; font-weight: 550; display: block; padding-right: 16px; }
+  .stream-row:hover .title { color: var(--link); }
+  .stream-row .summary {
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+    overflow: hidden; color: var(--muted); font-size: 13px; line-height: 1.45; margin-top: 3px;
+  }
+  .stream-row .date { display: block; color: var(--muted); font-size: 11.5px; margin-top: 5px; }
+  .stream-row::after {
+    content: "↗"; position: absolute; top: 12px; right: 12px;
+    color: var(--muted); font-size: 12px; opacity: 0;
+  }
+  .stream-row:hover::after { opacity: 1; }
+  .stream-row.nolink:hover::after { opacity: 0; }
+
+  /* ------------------------------------------------------------------
+     Nieuw binnengekomen items: ongelezen-conventie (stip + korte
+     achtergrondmarkering), geen gloed.
+  ------------------------------------------------------------------ */
+  @keyframes rowIn { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
+  @keyframes unreadFade { from { background-color: var(--unread); } to { background-color: transparent; } }
+  .is-new { animation: rowIn .3s ease, unreadFade 4s ease .3s; }
+  .newdot {
+    display: inline-block;
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--link);
+    margin-right: 7px;
+    vertical-align: 2px;
+  }
+
+  /* ------------------------------------------------------------------
+     Uitleg onderaan (Nielsen #10: korte, taakgerichte hulp).
+  ------------------------------------------------------------------ */
+  footer {
+    max-width: 760px;
+    margin: 8px auto 0;
+    padding: 0 32px 36px;
+    color: var(--muted);
+    font-size: 12.5px;
+  }
+  footer h3 { font-size: 12.5px; color: var(--text); margin: 14px 0 4px; }
+  footer h3:first-child { margin-top: 0; }
+  .colophon {
+    margin-top: 16px;
+    padding-top: 12px;
+    border-top: 1px solid var(--border);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 18px;
+  }
+  .colophon a { text-decoration: none; }
+  .colophon a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>AI Updates</h1>
+    <div class="meta" id="updated">Updates worden geladen…</div>
+  </div>
+  <div class="controls">
+    <div class="control">
+      <span class="control-label" id="viewlabel">Weergave</span>
+      <div class="seg" id="view" role="group" aria-labelledby="viewlabel">
+        <button type="button" data-view="grid" class="active">Per bedrijf</button>
+        <button type="button" data-view="stream">Tijdlijn</button>
+      </div>
+    </div>
+    <div class="control">
+      <label class="control-label" for="period">Periode</label>
+      <select id="period">
+        <option value="0">Alle updates</option>
+        <option value="30">Laatste 30 dagen</option>
+        <option value="90">Laatste 90 dagen</option>
+        <option value="365">Laatste 12 maanden</option>
+      </select>
+    </div>
+    <button id="refresh">Ververs</button>
+  </div>
+</header>
+
+<div class="grid" id="grid"></div>
+<div id="stream" style="display:none"></div>
+
+<footer>
+  <h3>Over dit dashboard</h3>
+  Dit overzicht haalt bij het openen en daarna elk half uur de nieuwsfeeds van zes AI-bedrijven op.
+  OpenAI en Google publiceren een officiële feed; voor Anthropic, Meta, xAI en Mistral wordt een
+  community-feed gebruikt die kan achterlopen. Klik op een bericht om het originele artikel te openen.
+  Een blauwe stip markeert berichten die sinds de vorige verversing zijn binnengekomen.
+
+  <h3>Disclaimer</h3>
+  De inhoud op deze pagina is geen eigendom van de maker. Het dashboard leest uitsluitend openbaar
+  beschikbare bronnen uit (nieuwsfeeds van de genoemde bedrijven en community-feeds) en toont die
+  ongewijzigd. Aan de getoonde informatie kunnen geen rechten worden ontleend: de maker geeft geen
+  garantie op juistheid, volledigheid of actualiteit van de data en is niet verantwoordelijk of
+  aansprakelijk voor onjuiste, verouderde of onvolledige berichten, noch voor beslissingen die op
+  basis daarvan worden genomen. Alle rechten op de berichten berusten bij de oorspronkelijke bronnen.
+  Genoemde merknamen en logo&#8217;s zijn eigendom van hun respectievelijke eigenaren en worden hier
+  uitsluitend ter herkenning gebruikt; deze pagina heeft geen banden met en wordt niet onderschreven
+  door de genoemde bedrijven. Links naar externe websites vallen buiten de verantwoordelijkheid van
+  de maker.
+
+  <div class="colophon">
+    <span>Gemaakt door Benjamin Nieuwenhuijzen</span>
+    <a href="https://github.com/BenjaminNieuwenhuijzen" target="_blank" rel="noopener">GitHub</a>
+    <a href="https://www.linkedin.com/in/benjamin-nieuwenhuijzen-58a16b105/" target="_blank" rel="noopener">LinkedIn</a>
+    <a href="https://www.instagram.com/bnieuwenhuijzen/" target="_blank" rel="noopener">Instagram</a>
+  </div>
+</footer>
+
+<script>
+/* ------------------------------------------------------------------
+   Bedrijfslogo's als inline SVG (geen losse bestanden nodig).
+   OpenAI: officieel vectorpad. Monochrome logo's (OpenAI, xAI) volgen
+   via currentColor de themakleur. De overige merken zijn nagebouwd in
+   vorm en kleur; op avatar-formaat gelijk aan het origineel.
+------------------------------------------------------------------ */
+const LOGOS = {
+  openai: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.073zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.8956zm16.5963 3.8558L13.1038 8.364 15.1192 7.2a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.407-.667zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.6802 4.66zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.4992 4.4992 0 0 1 7.3757-3.4537l-.142.0805L8.704 5.459a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654l2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997z"/></svg>`,
+  anthropic: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" stroke="#d97757" stroke-width="2.2" stroke-linecap="round"><line x1="12" y1="12" x2="21" y2="12"/><line x1="12" y1="12" x2="18.5" y2="15.75"/><line x1="12" y1="12" x2="16.5" y2="19.8"/><line x1="12" y1="12" x2="12" y2="19"/><line x1="12" y1="12" x2="8" y2="19.5"/><line x1="12" y1="12" x2="4.2" y2="16.5"/><line x1="12" y1="12" x2="5" y2="12"/><line x1="12" y1="12" x2="4.6" y2="7.75"/><line x1="12" y1="12" x2="8.5" y2="5.9"/><line x1="12" y1="12" x2="12" y2="3"/><line x1="12" y1="12" x2="15.75" y2="5.5"/><line x1="12" y1="12" x2="19.5" y2="8"/></svg>`,
+  google: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><defs><clipPath id="gemclip"><path d="M12 0C12.96 6.5 17.5 11.04 24 12 17.5 12.96 12.96 17.5 12 24 11.04 17.5 6.5 12.96 0 12 6.5 11.04 11.04 6.5 12 0Z"/></clipPath><radialGradient id="gemred" gradientUnits="userSpaceOnUse" cx="12" cy="2" r="11"><stop offset="0%" stop-color="#FF4641"/><stop offset="100%" stop-color="#FF4641" stop-opacity="0"/></radialGradient><radialGradient id="gemyellow" gradientUnits="userSpaceOnUse" cx="2" cy="12" r="11"><stop offset="0%" stop-color="#FFC400"/><stop offset="100%" stop-color="#FFC400" stop-opacity="0"/></radialGradient><radialGradient id="gemgreen" gradientUnits="userSpaceOnUse" cx="12" cy="22" r="11"><stop offset="0%" stop-color="#00A661"/><stop offset="100%" stop-color="#00A661" stop-opacity="0"/></radialGradient></defs><g clip-path="url(#gemclip)"><rect width="24" height="24" fill="#4285F4"/><rect width="24" height="24" fill="url(#gemred)"/><rect width="24" height="24" fill="url(#gemyellow)"/><rect width="24" height="24" fill="url(#gemgreen)"/></g></svg>`,
+  meta: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="metag" gradientUnits="userSpaceOnUse" x1="12" y1="0" x2="12" y2="24"><stop offset="0%" stop-color="#E04AFD"/><stop offset="50%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#4845F5"/></linearGradient></defs><g fill="url(#metag)"><ellipse cx="12" cy="5" rx="2.8" ry="4.6"/><ellipse cx="17.47" cy="7.63" rx="2.8" ry="4.6" transform="rotate(51.43 17.47 7.63)"/><ellipse cx="18.83" cy="13.56" rx="2.8" ry="4.6" transform="rotate(102.86 18.83 13.56)"/><ellipse cx="15.04" cy="18.31" rx="2.8" ry="4.6" transform="rotate(154.29 15.04 18.31)"/><ellipse cx="8.96" cy="18.31" rx="2.8" ry="4.6" transform="rotate(205.71 8.96 18.31)"/><ellipse cx="5.17" cy="13.56" rx="2.8" ry="4.6" transform="rotate(257.14 5.17 13.56)"/><ellipse cx="6.53" cy="7.63" rx="2.8" ry="4.6" transform="rotate(308.57 6.53 7.63)"/></g></svg>`,
+  xai: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><polygon points="18.6,2.6 21.4,2.6 12.4,21.5 9.6,21.5"/><polygon points="18.8,10.2 21.4,6.6 21.4,21.5 18.8,21.5"/><polygon points="2.6,4.4 5.8,4.4 13.6,15.4 10.4,15.4"/><polygon points="2.6,21.5 5.6,21.5 9.4,16.2 6.4,16.2"/></svg>`,
+  /* Exacte rasterindeling van het aangeleverde Mistral-logo (6 kolommen x 5 rijen). */
+  mistral: `<svg viewBox="0 0 24 20" xmlns="http://www.w3.org/2000/svg"><g fill="#FFD800"><rect x="4" y="0" width="4" height="4"/><rect x="16" y="0" width="4" height="4"/></g><g fill="#FFAF00"><rect x="4" y="4" width="8" height="4"/><rect x="14" y="4" width="6" height="4"/></g><g fill="#FF8205"><rect x="4" y="8" width="16" height="4"/></g><g fill="#FA500F"><rect x="4" y="12" width="4" height="4"/><rect x="10" y="12" width="4" height="4"/><rect x="16" y="12" width="4" height="4"/></g><g fill="#E10500"><rect x="0" y="16" width="8" height="4"/><rect x="12" y="16" width="12" height="4"/></g></svg>`
+};
+
+/* ------------------------------------------------------------------
+   Configuratie: per bedrijf de feeds, brontype en directe links.
+   `official` stuurt het betrouwbaarheidslabel in de kaartkop.
+   LinkedIn heeft geen openbare feed (loginmuur); daarom alleen een link.
+------------------------------------------------------------------ */
+const COMPANIES = [
+  {
+    name: "OpenAI",
+    logo: LOGOS.openai,
+    official: true,
+    feeds: ["https://openai.com/news/rss.xml"],
+    links: [
+      { label: "News", url: "https://openai.com/news" },
+      { label: "Changelog", url: "https://platform.openai.com/docs/changelog" },
+      { label: "Discord", url: "https://discord.gg/openai" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/company/openai" }
+    ]
+  },
+  {
+    name: "Anthropic",
+    logo: LOGOS.anthropic,
+    official: false,
+    feeds: ["https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml"],
+    links: [
+      { label: "Newsroom", url: "https://www.anthropic.com/news" },
+      { label: "Release notes", url: "https://platform.claude.com/docs/en/release-notes" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/company/anthropicresearch" }
+    ]
+  },
+  {
+    name: "Google (AI & DeepMind)",
+    logo: LOGOS.google,
+    official: true,
+    feeds: [
+      "https://blog.google/technology/ai/rss/",
+      "https://deepmind.google/blog/rss.xml"
+    ],
+    links: [
+      { label: "Google AI blog", url: "https://blog.google/technology/ai/" },
+      { label: "DeepMind", url: "https://deepmind.google/blog" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/company/googledeepmind" }
+    ]
+  },
+  {
+    name: "Meta AI",
+    logo: LOGOS.meta,
+    official: false,
+    feeds: ["https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml"],
+    links: [
+      { label: "Blog", url: "https://ai.meta.com/blog/" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/showcase/aiatmeta" }
+    ]
+  },
+  {
+    name: "xAI (Grok)",
+    logo: LOGOS.xai,
+    official: false,
+    feeds: ["https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml"],
+    links: [
+      { label: "News", url: "https://x.ai/news" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/company/xai" }
+    ]
+  },
+  {
+    name: "Mistral AI",
+    logo: LOGOS.mistral,
+    official: false,
+    feeds: ["https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml"],
+    links: [
+      { label: "News", url: "https://mistral.ai/news" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/company/mistralai" }
+    ]
+  }
+];
+
+const REFRESH_MINUTES = 30;    // automatische verversing voor schermgebruik (0 = uit)
+const MAX_ITEMS = 6;            // aantal updates dat per kaart getoond wordt
+const CACHE_LIMIT = 30;         // aantal items dat per bedrijf bewaard wordt (voor het filter)
+const CACHE_KEY = "ai-dashboard-cache-v3";
+const STATE = {};               // bedrijf -> volledige, gesorteerde itemlijst
+const seenLinks = new Set();    // links die we al getoond hebben (voor de "nieuw"-markering)
+let firstLoad = true;           // bij de allereerste render niets als "nieuw" markeren
+
+// Item is nieuw als het na de eerste lading opduikt en we het nog niet kenden.
+function isNew(link) { return !firstLoad && !!link && !seenLinks.has(link); }
+
+const UNOFFICIAL_HINT = "Geen officiële RSS-feed beschikbaar; updates komen via een community-feed en kunnen achterlopen.";
+
+/* ------------------------------------------------------------------
+   Ophalen met proxy-fallback.
+   Sommige feeds (raw.githubusercontent) staan CORS toe en lukken direct;
+   de rest gaat via een van de publieke proxies, in volgorde geprobeerd.
+------------------------------------------------------------------ */
+const PROXIES = [
+  url => url,                                                              // 1: directe poging
+  url => "https://api.allorigins.win/raw?url=" + encodeURIComponent(url),  // 2
+  url => "https://corsproxy.io/?url=" + encodeURIComponent(url),           // 3
+  url => "https://api.codetabs.com/v1/proxy/?quest=" + encodeURIComponent(url) // 4
+];
+
+const FETCH_TIMEOUT = 8000;   // ms per poging; daarna naar de volgende proxy
+
+async function fetchFeedText(feedUrl) {
+  for (const build of PROXIES) {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT);
+    try {
+      const res = await fetch(build(feedUrl), { cache: "no-store", signal: ctrl.signal });
+      if (!res.ok) continue;
+      const text = await res.text();
+      if (text && text.includes("<")) return text;   // ruwe sanity-check op XML
+    } catch (e) {
+      /* timeout of fout: volgende proxy proberen */
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+  throw new Error("Alle proxies faalden voor " + feedUrl);
+}
+
+/* ------------------------------------------------------------------
+   Parsen: ondersteunt zowel RSS (<item>) als Atom (<entry>).
+------------------------------------------------------------------ */
+function parseFeed(xmlText, sourceName) {
+  const doc = new DOMParser().parseFromString(xmlText, "text/xml");
+  if (doc.querySelector("parsererror")) return [];
+  const out = [];
+
+  doc.querySelectorAll("item").forEach(item => {
+    out.push({
+      title: text(item, "title"),
+      link: text(item, "link"),
+      date: text(item, "pubDate") || text(item, "date"),
+      summary: pickSummary(item, text(item, "title")),
+      source: sourceName
+    });
+  });
+  doc.querySelectorAll("entry").forEach(entry => {
+    const linkEl = entry.querySelector("link");
+    out.push({
+      title: text(entry, "title"),
+      link: linkEl ? (linkEl.getAttribute("href") || linkEl.textContent) : "",
+      date: text(entry, "updated") || text(entry, "published"),
+      summary: pickSummary(entry, text(entry, "title")),
+      source: sourceName
+    });
+  });
+  return out;
+}
+
+// Kies de meest informatieve samenvatting uit het item: de langste tekst
+// die echt iets toevoegt boven de titel (sommige feeds herhalen de titel).
+function pickSummary(el, title) {
+  const candidates = [];
+  for (const tag of ["description", "summary"]) {
+    const e = el.querySelector(tag);
+    if (e) candidates.push(e.textContent);
+  }
+  const enc = el.getElementsByTagName("content:encoded")[0] || el.getElementsByTagName("content")[0];
+  if (enc) candidates.push(enc.textContent);
+
+  const nt = norm(title);
+  let best = "";
+  for (const c of candidates) {
+    const clean = cleanSummary(c);
+    if (!clean) continue;
+    const nc = norm(clean);
+    if (nc === nt) continue;            // exacte herhaling van de titel: overslaan
+    if (nt && nc.startsWith(nt) && clean.length - title.length < 25) continue; // titel + ruis
+    if (clean.length > best.length) best = clean;
+  }
+  return best;
+}
+
+function norm(s) { return (s || "").toLowerCase().replace(/\s+/g, " ").trim(); }
+
+// Strip HTML (veilig, zonder scripts/afbeeldingen te laden) en kort in.
+function cleanSummary(html) {
+  if (!html) return "";
+  const doc = new DOMParser().parseFromString(html, "text/html");
+  let txt = (doc.body.textContent || "").replace(/\s+/g, " ").trim();
+  const LIMIT = 180;
+  if (txt.length > LIMIT) txt = txt.slice(0, LIMIT).replace(/\s+\S*$/, "") + "…";
+  return txt;
+}
+
+function text(parent, tag) {
+  const el = parent.querySelector(tag);
+  return el ? el.textContent.trim() : "";
+}
+
+// Leesbare datum: vandaag/gisteren/x dagen geleden, daarna gewoon de datum.
+function fmtDate(d) {
+  const t = Date.parse(d);
+  if (isNaN(t)) return "";
+  const dayMs = 86400000;
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  const then = new Date(t); then.setHours(0, 0, 0, 0);
+  const days = Math.round((today - then) / dayMs);
+  if (days <= 0) return "vandaag";
+  if (days === 1) return "gisteren";
+  if (days < 7) return days + " dagen geleden";
+  return new Date(t).toLocaleDateString("nl-NL", { day: "numeric", month: "short", year: "numeric" });
+}
+
+/* ------------------------------------------------------------------
+   Rendering.
+------------------------------------------------------------------ */
+function buildCards() {
+  const grid = document.getElementById("grid");
+  grid.innerHTML = "";
+  COMPANIES.forEach((c, i) => {
+    const card = document.createElement("section");
+    card.className = "card";
+    const links = c.links.map(l => `<a href="${l.url}" target="_blank" rel="noopener">${l.label}</a>`).join("");
+    const src = c.official
+      ? `<span class="srcline">Officiële feed</span>`
+      : `<span class="srcline" title="${UNOFFICIAL_HINT}">Community-feed, kan achterlopen</span>`;
+    card.innerHTML = `
+      <div class="card-head">
+        <span class="avatar">${c.logo || c.name[0]}</span>
+        <div class="card-id">
+          <h2>${c.name}</h2>
+          ${src}
+        </div>
+        <div class="card-links">${links}</div>
+      </div>
+      <div class="status" id="status-${i}">Laden…</div>
+      <ul class="items" id="items-${i}"></ul>`;
+    grid.appendChild(card);
+  });
+}
+
+function currentPeriodDays() {
+  return parseInt(document.getElementById("period").value, 10) || 0;
+}
+
+function renderItems(i, items) {
+  const ul = document.getElementById("items-" + i);
+  const status = document.getElementById("status-" + i);
+  status.style.display = "";
+
+  if (!items || !items.length) {
+    status.innerHTML = `De updates konden niet worden opgehaald. Controleer de internetverbinding
+      of open de bron via de links rechtsboven.
+      <br><button class="actionbtn" data-action="retry">Opnieuw proberen</button>`;
+    status.className = "status error";
+    ul.innerHTML = "";
+    return;
+  }
+
+  // Periodefilter toepassen (0 = alles).
+  const days = currentPeriodDays();
+  let shown = items;
+  if (days > 0) {
+    const cutoff = Date.now() - days * 86400000;
+    shown = items.filter(it => { const t = Date.parse(it.date); return isNaN(t) ? false : t >= cutoff; });
+  }
+
+  if (!shown.length) {
+    status.innerHTML = `Geen updates in deze periode.
+      <br><button class="actionbtn" data-action="reset-period">Toon alle updates</button>`;
+    status.className = "status";
+    ul.innerHTML = "";
+    return;
+  }
+
+  status.style.display = "none";
+  ul.innerHTML = shown.slice(0, MAX_ITEMS).map(it => {
+    const meta = fmtDate(it.date) + (it.source ? (fmtDate(it.date) ? " · " : "") + it.source : "");
+    const summary = it.summary ? `<span class="summary">${escapeHtml(it.summary)}</span>` : "";
+    const fresh = isNew(it.link);
+    const dot = fresh ? `<span class="newdot" title="Nieuw sinds de vorige verversing"></span>` : "";
+    const inner = `<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${meta}</span>`;
+    return it.link
+      ? `<li><a class="row${fresh ? " is-new" : ""}" href="${it.link}" target="_blank" rel="noopener">${inner}</a></li>`
+      : `<li><span class="row nolink">${inner}</span></li>`;
+  }).join("");
+}
+
+// Gecombineerde tijdlijn: alle bedrijven door elkaar, op datum, met logo en naam.
+function renderStream() {
+  const wrap = document.getElementById("stream");
+  const days = currentPeriodDays();
+  const cutoff = days > 0 ? Date.now() - days * 86400000 : 0;
+
+  let all = [];
+  COMPANIES.forEach(c => {
+    (STATE[c.name] || []).forEach(it => all.push(Object.assign({}, it, { company: c.name, logo: c.logo })));
+  });
+  if (cutoff) all = all.filter(it => { const t = Date.parse(it.date); return !isNaN(t) && t >= cutoff; });
+  all.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
+
+  if (!all.length) {
+    wrap.innerHTML = `<div class="status">Geen updates in deze periode.
+      <br><button class="actionbtn" data-action="reset-period">Toon alle updates</button></div>`;
+    return;
+  }
+  wrap.innerHTML = all.map(it => {
+    const summary = it.summary ? `<span class="summary">${escapeHtml(it.summary)}</span>` : "";
+    const meta = fmtDate(it.date) + (it.source ? (fmtDate(it.date) ? " · " : "") + it.source : "");
+    const fresh = isNew(it.link);
+    const dot = fresh ? `<span class="newdot" title="Nieuw sinds de vorige verversing"></span>` : "";
+    const co = `<span class="stream-co">${it.logo || ""}${escapeHtml(it.company)}</span>`;
+    const inner = `${co}<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${meta}</span>`;
+    return it.link
+      ? `<a class="stream-row${fresh ? " is-new" : ""}" href="${it.link}" target="_blank" rel="noopener">${inner}</a>`
+      : `<span class="stream-row nolink">${inner}</span>`;
+  }).join("");
+}
+
+function escapeHtml(s) {
+  return (s || "").replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch]));
+}
+
+/* ------------------------------------------------------------------
+   Laad-cyclus: cache tonen, dan live ophalen, dan cache verversen.
+------------------------------------------------------------------ */
+function loadCache() {
+  try { return JSON.parse(localStorage.getItem(CACHE_KEY)) || {}; } catch (e) { return {}; }
+}
+function saveCache(data) {
+  try { localStorage.setItem(CACHE_KEY, JSON.stringify(data)); } catch (e) {}
+}
+
+async function refreshAll() {
+  const btn = document.getElementById("refresh");
+  btn.disabled = true;
+  btn.textContent = "Bezig…";
+  document.getElementById("updated").textContent = "Bezig met verversen…";
+
+  const cache = loadCache();
+
+  await Promise.all(COMPANIES.map(async (c, i) => {
+    // 1) toon meteen wat we de vorige keer hadden
+    if (cache[c.name] && cache[c.name].length) {
+      STATE[c.name] = cache[c.name];
+      renderItems(i, STATE[c.name]);
+    }
+
+    // 2) haal alle feeds van dit bedrijf op
+    const collected = [];
+    for (const feed of c.feeds) {
+      try {
+        const xml = await fetchFeedText(feed);
+        const src = c.feeds.length > 1 ? labelFor(feed) : "";
+        collected.push(...parseFeed(xml, src));
+      } catch (e) { /* feed overslaan, andere feeds tellen nog */ }
+    }
+
+    if (collected.length) {
+      collected.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
+      STATE[c.name] = collected.slice(0, CACHE_LIMIT);
+      cache[c.name] = STATE[c.name];
+      renderItems(i, STATE[c.name]);
+    } else if (!cache[c.name] || !cache[c.name].length) {
+      renderItems(i, []);   // toont de foutmelding met herstelactie
+    }
+  }));
+
+  saveCache(cache);
+  renderStream();
+
+  // Alles wat nu getoond is, geldt voortaan als "gezien". Daarna mag de
+  // volgende verversing weer nieuwe items markeren.
+  COMPANIES.forEach(c => (STATE[c.name] || []).forEach(it => { if (it.link) seenLinks.add(it.link); }));
+  firstLoad = false;
+
+  const now = new Date().toLocaleString("nl-NL", { dateStyle: "long", timeStyle: "short" });
+  document.getElementById("updated").textContent = "Bijgewerkt: " + now;
+  btn.disabled = false;
+  btn.textContent = "Ververs";
+}
+
+// Korte bronlabels voor bedrijven met meerdere feeds (Google).
+function labelFor(feedUrl) {
+  if (feedUrl.includes("deepmind")) return "DeepMind";
+  if (feedUrl.includes("blog.google")) return "Google AI";
+  return "";
+}
+
+// Beide weergaven opnieuw opbouwen uit STATE, zonder feeds opnieuw op te halen.
+function applyFilter() {
+  COMPANIES.forEach((c, i) => renderItems(i, STATE[c.name] || []));
+  renderStream();
+}
+
+// Wisselen tussen raster en tijdlijn via de segmented control.
+function setView(view) {
+  const stream = view === "stream";
+  document.getElementById("grid").style.display = stream ? "none" : "";
+  document.getElementById("stream").style.display = stream ? "block" : "none";
+  document.querySelectorAll("#view button").forEach(b =>
+    b.classList.toggle("active", b.dataset.view === view));
+}
+
+buildCards();
+refreshAll();
+document.getElementById("refresh").addEventListener("click", refreshAll);
+document.getElementById("period").addEventListener("change", applyFilter);
+document.querySelectorAll("#view button").forEach(b =>
+  b.addEventListener("click", () => setView(b.dataset.view)));
+
+// Herstelacties in status- en foutmeldingen (Nielsen #9: bied een uitweg).
+document.addEventListener("click", e => {
+  const btn = e.target.closest("[data-action]");
+  if (!btn) return;
+  if (btn.dataset.action === "retry") refreshAll();
+  if (btn.dataset.action === "reset-period") {
+    document.getElementById("period").value = "0";
+    applyFilter();
+  }
+});
+
+// Automatische verversing voor schermgebruik (kiosk/wanddisplay).
+if (REFRESH_MINUTES > 0) {
+  setInterval(refreshAll, REFRESH_MINUTES * 60 * 1000);
+}
+</script>
+</body>
+</html>
