@@ -5,7 +5,7 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Gecombineerde updates van AI-bedrijven: OpenAI, Anthropic, Google, Meta, xAI, Mistral en Perplexity.</description>
 <language>nl</language>
-<lastBuildDate>Fri, 12 Jun 2026 09:29:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 15:43:40 GMT</lastBuildDate>
 <item>
 <title>[OpenAI] How Preply combines AI and human tutors to personalize learning</title>
 <link>https://openai.com/index/preply</link>
@@ -19,6 +19,13 @@
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/</guid>
 <pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"&amp;gt;We’re helping build the state’s next-generation workforce and investing in energy programs.</description>
+</item>
+<item>
+<title>[OpenAI] OpenAI to acquire Ona</title>
+<link>https://openai.com/index/openai-to-acquire-ona</link>
+<guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</description>
 </item>
 <item>
 <title>[OpenAI] Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
@@ -40,13 +47,6 @@
 <guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
 <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
 <description>Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</description>
-</item>
-<item>
-<title>[OpenAI] OpenAI to acquire Ona</title>
-<link>https://openai.com/index/openai-to-acquire-ona</link>
-<guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</description>
 </item>
 <item>
 <title>[Anthropic] DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
