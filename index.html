@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AI Updates Dashboard</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231f56c4'/%3E%3Crect x='13' y='13' width='17' height='17' rx='5' fill='%23fff' opacity='.5'/%3E%3Crect x='34' y='13' width='17' height='17' rx='5' fill='%23fff'/%3E%3Crect x='13' y='34' width='17' height='17' rx='5' fill='%23fff' opacity='.5'/%3E%3Crect x='34' y='34' width='17' height='17' rx='5' fill='%23fff' opacity='.5'/%3E%3Ccircle cx='51' cy='13' r='8' fill='%237cc4ff' stroke='%231f56c4' stroke-width='3.5'/%3E%3C/svg%3E">
 <style>
   /* ------------------------------------------------------------------
      Thema. Licht als standaard (conventie voor nieuwsdashboards),
@@ -71,6 +72,8 @@
     gap: 12px 28px;
     justify-content: space-between;
   }
+  .brand { display: flex; align-items: center; gap: 11px; }
+  .brand svg { width: 30px; height: 30px; display: block; flex: none; }
   header h1 { margin: 0; font-size: 18px; font-weight: 650; }
   .meta { color: var(--muted); font-size: 12.5px; margin-top: 1px; }
   .controls { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 16px; }
@@ -300,9 +303,12 @@
 </head>
 <body>
 <header>
-  <div>
-    <h1>AI Updates</h1>
-    <div class="meta" id="updated">Updates worden geladen…</div>
+  <div class="brand">
+    <svg viewBox="0 0 64 64" role="img" aria-label="AI Updates logo"><rect width="64" height="64" rx="14" fill="#1f56c4"/><rect x="13" y="13" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><rect x="34" y="13" width="17" height="17" rx="5" fill="#fff"/><rect x="13" y="34" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><rect x="34" y="34" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><circle cx="51" cy="13" r="8" fill="#7cc4ff" stroke="#1f56c4" stroke-width="3.5"/></svg>
+    <div>
+      <h1>AI Updates</h1>
+      <div class="meta" id="updated">Updates worden geladen…</div>
+    </div>
   </div>
   <div class="controls">
     <div class="control">
