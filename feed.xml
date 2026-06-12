@@ -5,13 +5,34 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Gecombineerde updates van AI-bedrijven: OpenAI, Anthropic, Google, Meta, xAI, Mistral en Perplexity.</description>
 <language>nl</language>
-<lastBuildDate>Fri, 12 Jun 2026 15:43:40 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 20:29:27 GMT</lastBuildDate>
+<item>
+<title>[OpenAI] New OpenAI Academy courses for the next era of work</title>
+<link>https://openai.com/index/academy-courses-applying-ai-at-work</link>
+<guid isPermaLink="false">https://openai.com/index/academy-courses-applying-ai-at-work</guid>
+<pubDate>Fri, 12 Jun 2026 10:00:00 GMT</pubDate>
+<description>OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.</description>
+</item>
 <item>
 <title>[OpenAI] How Preply combines AI and human tutors to personalize learning</title>
 <link>https://openai.com/index/preply</link>
 <guid isPermaLink="false">https://openai.com/index/preply</guid>
 <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
 <description>Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.</description>
+</item>
+<item>
+<title>[Anthropic] TCS and Anthropic partner to bring Claude to regulated industries</title>
+<link>https://www.anthropic.com/news/tcs-anthropic-partnership</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/tcs-anthropic-partnership</guid>
+<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Anthropic] Results from the first Anthropic Public Record</title>
+<link>https://www.anthropic.com/news/anthropic-public-record</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/anthropic-public-record</guid>
+<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+
 </item>
 <item>
 <title>[Google AI] Our new community investments in Virginia support local jobs and expand energy affordability.</title>
@@ -28,11 +49,11 @@
 <description>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</description>
 </item>
 <item>
-<title>[OpenAI] Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
-<link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
-<guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
+<title>[OpenAI] How an astrophysicist uses Codex to help simulate black holes</title>
+<link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
+<guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
 <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
+<description>Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</description>
 </item>
 <item>
 <title>[OpenAI] BBVA puts AI at the core of banking with OpenAI</title>
@@ -42,11 +63,11 @@
 <description>Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</description>
 </item>
 <item>
-<title>[OpenAI] How an astrophysicist uses Codex to help simulate black holes</title>
-<link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
-<guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
+<title>[OpenAI] Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
+<link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
+<guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
 <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</description>
+<description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
 </item>
 <item>
 <title>[Anthropic] DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
@@ -180,13 +201,6 @@
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</guid>
 <pubDate>Fri, 05 Jun 2026 14:45:00 +0000</pubDate>
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"&amp;gt;Here are Google’s latest AI updates from May 2026</description>
-</item>
-<item>
-<title>[OpenAI] How Endava is redesigning software delivery around AI agents</title>
-<link>https://openai.com/index/endava-frontiers</link>
-<guid isPermaLink="false">https://openai.com/index/endava-frontiers</guid>
-<pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-<description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
 </item>
 <item>
 <title>[Google AI] 5 ways Google Search can level up your thrift and vintage shopping</title>
@@ -378,13 +392,6 @@
 
 </item>
 <item>
-<title>[Anthropic] Widening the conversation on frontier AI</title>
-<link>https://www.anthropic.com/news/widening-conversation-ai</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/widening-conversation-ai</guid>
-<pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-
-</item>
-<item>
 <title>[xAI] Use Grok in OpenClaw</title>
 <link>https://x.ai/news/grok-openclaw</link>
 <guid isPermaLink="false">https://x.ai/news/grok-openclaw</guid>
@@ -397,13 +404,6 @@
 <guid isPermaLink="false">https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/</guid>
 <pubDate>Mon, 18 May 2026 18:21:39 +0000</pubDate>
 <description>Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.</description>
-</item>
-<item>
-<title>[Anthropic] Anthropic acquires Stainless</title>
-<link>https://www.anthropic.com/news/anthropic-acquires-stainless</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/anthropic-acquires-stainless</guid>
-<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-
 </item>
 <item>
 <title>[xAI] Skills in web, iOS, and Android</title>
