@@ -5,7 +5,7 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Gecombineerde updates van AI-bedrijven: OpenAI, Anthropic, Google, Meta, xAI, Mistral en Perplexity.</description>
 <language>nl</language>
-<lastBuildDate>Fri, 12 Jun 2026 20:29:27 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 04:54:58 GMT</lastBuildDate>
 <item>
 <title>[OpenAI] New OpenAI Academy courses for the next era of work</title>
 <link>https://openai.com/index/academy-courses-applying-ai-at-work</link>
@@ -35,11 +35,32 @@
 
 </item>
 <item>
+<title>[Anthropic] Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
+<link>https://www.anthropic.com/news/fable-mythos-access</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/fable-mythos-access</guid>
+<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
 <title>[Google AI] Our new community investments in Virginia support local jobs and expand energy affordability.</title>
 <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/</link>
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/</guid>
 <pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"&amp;gt;We’re helping build the state’s next-generation workforce and investing in energy programs.</description>
+</item>
+<item>
+<title>[OpenAI] Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
+<link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
+<guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
+</item>
+<item>
+<title>[OpenAI] BBVA puts AI at the core of banking with OpenAI</title>
+<link>https://openai.com/index/bbva</link>
+<guid isPermaLink="false">https://openai.com/index/bbva</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</description>
 </item>
 <item>
 <title>[OpenAI] OpenAI to acquire Ona</title>
@@ -54,20 +75,6 @@
 <guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
 <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
 <description>Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</description>
-</item>
-<item>
-<title>[OpenAI] BBVA puts AI at the core of banking with OpenAI</title>
-<link>https://openai.com/index/bbva</link>
-<guid isPermaLink="false">https://openai.com/index/bbva</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</description>
-</item>
-<item>
-<title>[OpenAI] Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
-<link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
-<guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
 </item>
 <item>
 <title>[Anthropic] DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
@@ -273,16 +280,16 @@
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"&amp;gt;Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.</description>
 </item>
 <item>
-<title>[Anthropic] Introducing Claude Opus 4.8</title>
-<link>https://www.anthropic.com/news/claude-opus-4-8</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/claude-opus-4-8</guid>
+<title>[Anthropic] Anthropic raises $65B in Series H funding at $965B post-money valuation</title>
+<link>https://www.anthropic.com/news/series-h</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/series-h</guid>
 <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
 
 </item>
 <item>
-<title>[Anthropic] Anthropic raises $65B in Series H funding at $965B post-money valuation</title>
-<link>https://www.anthropic.com/news/series-h</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/series-h</guid>
+<title>[Anthropic] Introducing Claude Opus 4.8</title>
+<link>https://www.anthropic.com/news/claude-opus-4-8</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/claude-opus-4-8</guid>
 <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
 
 </item>
@@ -383,13 +390,6 @@
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/sundar-pichai-io-2026/</guid>
 <pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp"&amp;gt;The latest from Google I/O: See how we’re helping you get more done with Gemini.</description>
-</item>
-<item>
-<title>[Anthropic] KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance</title>
-<link>https://www.anthropic.com/news/anthropic-kpmg</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/anthropic-kpmg</guid>
-<pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-
 </item>
 <item>
 <title>[xAI] Use Grok in OpenClaw</title>
