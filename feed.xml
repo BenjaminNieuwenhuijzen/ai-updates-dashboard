@@ -5,7 +5,7 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Gecombineerde updates van AI-bedrijven: OpenAI, Anthropic, Google, Meta, xAI, Mistral en Perplexity.</description>
 <language>nl</language>
-<lastBuildDate>Sun, 14 Jun 2026 14:33:53 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 20:01:15 GMT</lastBuildDate>
 <item>
 <title>[OpenAI] New OpenAI Academy courses for the next era of work</title>
 <link>https://openai.com/index/academy-courses-applying-ai-at-work</link>
@@ -49,13 +49,6 @@
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"&amp;gt;We’re helping build the state’s next-generation workforce and investing in energy programs.</description>
 </item>
 <item>
-<title>[OpenAI] OpenAI to acquire Ona</title>
-<link>https://openai.com/index/openai-to-acquire-ona</link>
-<guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</description>
-</item>
-<item>
 <title>[OpenAI] Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
 <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
 <guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
@@ -75,6 +68,13 @@
 <guid isPermaLink="false">https://openai.com/index/bbva</guid>
 <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
 <description>Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</description>
+</item>
+<item>
+<title>[OpenAI] OpenAI to acquire Ona</title>
+<link>https://openai.com/index/openai-to-acquire-ona</link>
+<guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</description>
 </item>
 <item>
 <title>[Anthropic] DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
