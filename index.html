@@ -221,11 +221,18 @@
   .thumb {
     flex: none;
     width: 64px; height: 64px;
-    object-fit: cover;
     border-radius: 6px;
-    background: var(--chip);
     border: 1px solid var(--border);
+    background: color-mix(in srgb, var(--t-accent, var(--muted)) 14%, var(--card));
+    display: grid; place-items: center;
+    overflow: hidden;
+    position: relative;
   }
+  .thumb img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .thumb .ph { display: grid; place-items: center; }
+  .thumb .ph svg { width: 26px; height: 26px; display: block; }
+  .thumb .ph-letter { font-weight: 700; font-size: 20px; color: var(--t-accent, var(--muted)); }
+  .thumb .ph { color: var(--t-accent, var(--muted)); }
   .row .title { font-size: 13.5px; font-weight: 550; display: block; }
   .items a.row:hover .title { color: var(--link); }
   .row .summary {
@@ -279,6 +286,7 @@
   }
   .stream-row .row-text { flex: 1; min-width: 0; }
   .stream-row .thumb { width: 92px; height: 69px; }
+  .stream-row .thumb .ph svg { width: 30px; height: 30px; }
   .stream-row:hover { background: var(--card-hover); }
   .stream-row.nolink { cursor: default; }
   .stream-co {
@@ -810,6 +818,17 @@ function logoFor(logo) {
   return logo.includes("__U__") ? logo.replaceAll("__U__", "u" + (logoUid++)) : logo;
 }
 
+// Thumbnail: de afbeelding als die er is, anders een merkplaceholder (gekleurd
+// tegeltje met het bedrijfslogo of de beginletter). Zo nooit een lege of
+// "geen toegang"-afbeelding.
+function thumbHtml(it, logo, accent, name) {
+  if (it.image) {
+    return `<span class="thumb" style="--t-accent:${accent}"><img src="${escapeHtml(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></span>`;
+  }
+  const ph = logo ? logoFor(logo) : `<span class="ph-letter">${escapeHtml((name || "?")[0])}</span>`;
+  return `<span class="thumb" style="--t-accent:${accent}"><span class="ph">${ph}</span></span>`;
+}
+
 const UNOFFICIAL_HINT = "No official RSS feed available; updates come from a community feed and may lag behind.";
 
 /* ------------------------------------------------------------------
@@ -1017,7 +1036,8 @@ function renderItems(i, items) {
     const summary = it.summary ? `<span class="summary">${escapeHtml(it.summary)}</span>` : "";
     const fresh = isNew(it.link);
     const dot = fresh ? `<span class="newdot" title="New since the last refresh"></span>` : "";
-    const thumb = it.image ? `<img class="thumb" src="${escapeHtml(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
+    const co = COMPANIES[i];
+    const thumb = thumbHtml(it, co.logo, co.accent, co.name);
     const inner = `${thumb}<div class="row-text"><span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}</span></div>`;
     return it.link
       ? `<li><a class="row${fresh ? " is-new" : ""}" href="${it.link}" target="_blank" rel="noopener">${inner}</a></li>`
@@ -1051,7 +1071,7 @@ function renderStream() {
     const meta = fmtDate(it.date) + (it.source ? (fmtDate(it.date) ? " · " : "") + it.source : "");
     const fresh = isNew(it.link);
     const dot = fresh ? `<span class="newdot" title="New since the last refresh"></span>` : "";
-    const thumb = it.image ? `<img class="thumb" src="${escapeHtml(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
+    const thumb = thumbHtml(it, it.logo, it.accent, it.company);
     const co = `<span class="stream-co">${logoFor(it.logo)}${escapeHtml(it.company)}</span>`;
     const inner = `${thumb}<div class="row-text">${co}<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}</span></div>`;
     return it.link
