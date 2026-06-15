@@ -3,9 +3,9 @@
 <channel>
 <title>Model Monitor</title>
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
-<description>Gecombineerde updates van AI-bedrijven: OpenAI, Anthropic, Google, Meta, xAI, Mistral en Perplexity.</description>
-<language>nl</language>
-<lastBuildDate>Mon, 15 Jun 2026 05:31:37 GMT</lastBuildDate>
+<description>Combined updates from AI companies: OpenAI, Anthropic, Google, Meta, xAI, Mistral and Perplexity.</description>
+<language>en</language>
+<lastBuildDate>Mon, 15 Jun 2026 08:22:52 GMT</lastBuildDate>
 <item>
 <title>[OpenAI] Introducing the OpenAI Partner Network</title>
 <link>https://openai.com/index/introducing-openai-partner-network</link>
@@ -203,11 +203,46 @@
 <description>A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.</description>
 </item>
 <item>
+<title>[OpenAI] Introducing the OpenAI Economic Research Exchange</title>
+<link>https://openai.com/index/economic-research-exchange</link>
+<guid isPermaLink="false">https://openai.com/index/economic-research-exchange</guid>
+<pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+<description>OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.</description>
+</item>
+<item>
 <title>[Google AI] The latest AI news we announced in May 2026</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</link>
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</guid>
 <pubDate>Fri, 05 Jun 2026 14:45:00 +0000</pubDate>
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"&amp;gt;Here are Google’s latest AI updates from May 2026</description>
+</item>
+<item>
+<title>[OpenAI] How Endava is redesigning software delivery around AI agents</title>
+<link>https://openai.com/index/endava-frontiers</link>
+<guid isPermaLink="false">https://openai.com/index/endava-frontiers</guid>
+<pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+<description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
+</item>
+<item>
+<title>[OpenAI] Dreaming: Better memory for a more helpful ChatGPT</title>
+<link>https://openai.com/index/chatgpt-memory-dreaming</link>
+<guid isPermaLink="false">https://openai.com/index/chatgpt-memory-dreaming</guid>
+<pubDate>Thu, 04 Jun 2026 09:00:00 GMT</pubDate>
+<description>ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.</description>
+</item>
+<item>
+<title>[OpenAI] Biodefense in the Intelligence Age</title>
+<link>https://openai.com/index/biodefense-in-the-intelligence-age</link>
+<guid isPermaLink="false">https://openai.com/index/biodefense-in-the-intelligence-age</guid>
+<pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+<description>An action plan for AI-powered biological resilience</description>
+</item>
+<item>
+<title>[OpenAI] Introducing new capabilities to GPT-Rosalind</title>
+<link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</guid>
+<pubDate>Wed, 03 Jun 2026 13:15:00 GMT</pubDate>
+<description>GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.</description>
 </item>
 <item>
 <title>[Google AI] 5 ways Google Search can level up your thrift and vintage shopping</title>
@@ -322,16 +357,16 @@
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"&amp;gt;A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.</description>
 </item>
 <item>
-<title>[Mistral AI] Emmi joins Mistral to accelerate the AI-native industry</title>
-<link>https://mistral.ai/news/accelerate-ai-native-industry</link>
-<guid isPermaLink="false">https://mistral.ai/news/accelerate-ai-native-industry</guid>
+<title>[Perplexity] Perplexity Is Open-Sourcing Bumblebee</title>
+<link>https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee</link>
+<guid isPermaLink="false">https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee</guid>
 <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
 
 </item>
 <item>
-<title>[Perplexity] Perplexity Is Open-Sourcing Bumblebee</title>
-<link>https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee</link>
-<guid isPermaLink="false">https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee</guid>
+<title>[Mistral AI] Emmi joins Mistral to accelerate the AI-native industry</title>
+<link>https://mistral.ai/news/accelerate-ai-native-industry</link>
+<guid isPermaLink="false">https://mistral.ai/news/accelerate-ai-native-industry</guid>
 <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
 
 </item>
@@ -343,7 +378,7 @@
 
 </item>
 <item>
-<title>[xAI] Use Grok in OpenCode</title>
+<title>[xAI (Grok)] Use Grok in OpenCode</title>
 <link>https://x.ai/news/grok-opencode</link>
 <guid isPermaLink="false">https://x.ai/news/grok-opencode</guid>
 <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
@@ -390,41 +425,6 @@
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/sundar-pichai-io-2026/</guid>
 <pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp"&amp;gt;The latest from Google I/O: See how we’re helping you get more done with Gemini.</description>
-</item>
-<item>
-<title>[xAI] Use Grok in OpenClaw</title>
-<link>https://x.ai/news/grok-openclaw</link>
-<guid isPermaLink="false">https://x.ai/news/grok-openclaw</guid>
-<pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-<description>Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.</description>
-</item>
-<item>
-<title>[DeepMind] Fast-tracking genetic leads to reverse cellular aging</title>
-<link>https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/</guid>
-<pubDate>Mon, 18 May 2026 18:21:39 +0000</pubDate>
-<description>Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.</description>
-</item>
-<item>
-<title>[xAI] Skills in web, iOS, and Android</title>
-<link>https://x.ai/news/grok-skills</link>
-<guid isPermaLink="false">https://x.ai/news/grok-skills</guid>
-<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-<description>Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.</description>
-</item>
-<item>
-<title>[DeepMind] Simulate real-world places with Project Genie and Street View</title>
-<link>https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/</guid>
-<pubDate>Sun, 17 May 2026 19:53:18 +0000</pubDate>
-<description>We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.</description>
-</item>
-<item>
-<title>[DeepMind] Introducing Gemini Omni</title>
-<link>https://deepmind.google/blog/introducing-gemini-omni/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-omni/</guid>
-<pubDate>Sun, 17 May 2026 19:50:57 +0000</pubDate>
-
 </item>
 </channel>
 </rss>
