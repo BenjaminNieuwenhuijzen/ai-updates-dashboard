@@ -173,12 +173,28 @@
   }
   .avatar svg { width: 20px; height: 20px; display: block; }
   .card-id { min-width: 0; }
-  .card-head h2 { margin: 0; font-size: 15px; font-weight: 650; }
-  .srcline { font-size: 11.5px; color: var(--muted); }
-  .srcline .dot { margin: 0 5px; }
-  .card-links { margin-left: auto; display: flex; flex-direction: column; align-items: flex-end; gap: 2px; }
-  .card-links a { font-size: 12px; text-decoration: none; white-space: nowrap; }
-  .card-links a:hover { text-decoration: underline; }
+  .card-head h2 { margin: 0; font-size: 15px; font-weight: 650; line-height: 1.25; }
+  /* Bron-regel: één regel (nooit afbreken), zodat elke kop even hoog is. */
+  .srcline { display: flex; align-items: center; gap: 6px; font-size: 11.5px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 2px; }
+  .rss-dot { flex: none; width: 7px; height: 7px; border-radius: 2px; background: var(--card-accent, var(--muted)); }
+  /* Bronnen-balk: vaste, uniforme strook met de geraadpleegde bron + links. */
+  .card-sources {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
+    padding: 9px 16px;
+    border-bottom: 1px solid var(--border);
+    font-size: 11px;
+  }
+  .card-sources .src-prefix { color: var(--muted); font-weight: 600; }
+  .card-links { display: contents; }
+  .card-sources a {
+    text-decoration: none;
+    color: var(--muted);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 2px 9px;
+    white-space: nowrap;
+  }
+  .card-sources a:hover { color: var(--card-accent, var(--link)); border-color: var(--card-accent, var(--link)); }
 
   /* ------------------------------------------------------------------
      Lijst met updates. Hele rij klikbaar naar het bronartikel.
@@ -713,6 +729,21 @@ const COMPANIES = [
   }
 ];
 
+// De bron die per bedrijf daadwerkelijk wordt uitgelezen (getoond in de kaartkop).
+const FEED_SOURCE = {
+  "OpenAI": "openai.com/news",
+  "Anthropic": "anthropic.com/news",
+  "Google (AI & DeepMind)": "Google AI + DeepMind",
+  "Meta AI": "ai.meta.com/blog",
+  "Microsoft AI": "Microsoft AI news",
+  "NVIDIA": "blogs.nvidia.com",
+  "Hugging Face": "huggingface.co/blog",
+  "xAI (Grok)": "x.ai/news",
+  "Perplexity": "perplexity.ai/hub",
+  "Mistral AI": "mistral.ai/news",
+  "Cohere": "cohere.com/blog"
+};
+
 const REFRESH_MINUTES = 30;    // automatische verversing voor schermgebruik (0 = uit)
 const MAX_ITEMS = 12;           // aantal updates dat per kaart getoond wordt
 const CACHE_LIMIT = 40;         // aantal items dat per bedrijf bewaard wordt (voor het filter)
@@ -923,9 +954,8 @@ function buildCards() {
     card.dataset.company = c.name;
     card.style.setProperty("--card-accent", c.accent);
     const links = c.links.map(l => `<a href="${l.url}" target="_blank" rel="noopener">${l.label}</a>`).join("");
-    const src = c.official
-      ? `<span class="srcline">Official feed</span>`
-      : `<span class="srcline" title="${UNOFFICIAL_HINT}">Community feed, may lag behind</span>`;
+    const srcName = FEED_SOURCE[c.name] || "";
+    const src = `<span class="srcline" title="${c.official ? "Official RSS feed read for this card" : UNOFFICIAL_HINT}"><span class="rss-dot"></span>${c.official ? "Official feed" : "Community feed"}${srcName ? " · " + srcName : ""}</span>`;
     card.innerHTML = `
       <div class="card-head">
         <span class="avatar">${logoFor(c.logo) || c.name[0]}</span>
@@ -933,8 +963,8 @@ function buildCards() {
           <h2>${c.name}</h2>
           ${src}
         </div>
-        <div class="card-links">${links}</div>
       </div>
+      <div class="card-sources"><span class="src-prefix">Links</span><div class="card-links">${links}</div></div>
       <div class="status" id="status-${i}">Loading…</div>
       <ul class="items" id="items-${i}"></ul>`;
     grid.appendChild(card);

@@ -150,7 +150,13 @@ for (const list of Object.values(byCo)) {
     if (norm(it.desc) === norm(it.title)) it.desc = "";
   }
 }
-console.log(`images: ${kept.filter(i => i.image).length}/${kept.length} | summaries: ${kept.filter(i => i.desc).length}/${kept.length} | fetched: ${fetched}`);
+// Fallback-thumbnail: screenshot van de artikelpagina via thum.io. Werkt ook voor
+// pagina's die og:image blokkeren (OpenAI, xAI, Perplexity), zodat elke kaart beeld krijgt.
+const ogImages = kept.filter(i => i.image).length;
+for (const it of kept) {
+  if (!it.image && it.link) it.image = "https://image.thum.io/get/width/1200/crop/700/" + it.link;
+}
+console.log(`images: ${kept.filter(i => i.image).length}/${kept.length} (og:${ogImages}, screenshot:${kept.length - ogImages}) | summaries: ${kept.filter(i => i.desc).length}/${kept.length} | fetched: ${fetched}`);
 
 // ---- data.json (dashboard) ----
 const json = {
