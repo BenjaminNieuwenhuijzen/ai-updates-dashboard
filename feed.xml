@@ -5,7 +5,7 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Combined updates from AI companies: OpenAI, Anthropic, Google, Meta, xAI, Mistral and Perplexity.</description>
 <language>en</language>
-<lastBuildDate>Mon, 15 Jun 2026 08:22:52 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 09:17:20 GMT</lastBuildDate>
 <item>
 <title>[OpenAI] Introducing the OpenAI Partner Network</title>
 <link>https://openai.com/index/introducing-openai-partner-network</link>
@@ -252,6 +252,27 @@
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"&amp;gt;Uncover second-hand scores with AI tools in Google Search and Shopping.</description>
 </item>
 <item>
+<title>[OpenAI] How Wasmer used Codex to build a Node.js runtime for the edge</title>
+<link>https://openai.com/index/wasmer</link>
+<guid isPermaLink="false">https://openai.com/index/wasmer</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+<description>See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.</description>
+</item>
+<item>
+<title>[OpenAI] A blueprint for democratic governance of frontier AI</title>
+<link>https://openai.com/index/frontier-safety-blueprint</link>
+<guid isPermaLink="false">https://openai.com/index/frontier-safety-blueprint</guid>
+<pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
+<description>OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.</description>
+</item>
+<item>
+<title>[OpenAI] OpenAI public policy agenda</title>
+<link>https://openai.com/index/public-policy-agenda</link>
+<guid isPermaLink="false">https://openai.com/index/public-policy-agenda</guid>
+<pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
+<description>OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.</description>
+</item>
+<item>
 <title>[Anthropic] What we learned mapping a year’s worth of AI-enabled cyber threats</title>
 <link>https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</link>
 <guid isPermaLink="false">https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</guid>
@@ -266,6 +287,34 @@
 
 </item>
 <item>
+<title>[OpenAI] Travelers deploys AI-powered claims countrywide with OpenAI</title>
+<link>https://openai.com/index/travelers</link>
+<guid isPermaLink="false">https://openai.com/index/travelers</guid>
+<pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
+<description>Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.</description>
+</item>
+<item>
+<title>[OpenAI] Codex for every role, tool, and workflow</title>
+<link>https://openai.com/index/codex-for-every-role-tool-workflow</link>
+<guid isPermaLink="false">https://openai.com/index/codex-for-every-role-tool-workflow</guid>
+<pubDate>Tue, 02 Jun 2026 09:00:00 GMT</pubDate>
+<description>Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.</description>
+</item>
+<item>
+<title>[OpenAI] Advancing youth safety and opportunity through global leadership</title>
+<link>https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership</link>
+<guid isPermaLink="false">https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership</guid>
+<pubDate>Tue, 02 Jun 2026 07:00:00 GMT</pubDate>
+<description>OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.</description>
+</item>
+<item>
+<title>[OpenAI] Codex is becoming a productivity tool for everyone</title>
+<link>https://openai.com/index/codex-for-knowledge-work</link>
+<guid isPermaLink="false">https://openai.com/index/codex-for-knowledge-work</guid>
+<pubDate>Tue, 02 Jun 2026 02:00:00 GMT</pubDate>
+<description>The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.</description>
+</item>
+<item>
 <title>[Anthropic] Expanding Project Glasswing</title>
 <link>https://www.anthropic.com/news/expanding-project-glasswing</link>
 <guid isPermaLink="false">https://www.anthropic.com/news/expanding-project-glasswing</guid>
@@ -273,11 +322,32 @@
 
 </item>
 <item>
+<title>[OpenAI] Our views on AI policy and political advocacy</title>
+<link>https://openai.com/index/our-views-on-ai-policy-and-political-advocacy</link>
+<guid isPermaLink="false">https://openai.com/index/our-views-on-ai-policy-and-political-advocacy</guid>
+<pubDate>Mon, 01 Jun 2026 17:00:00 GMT</pubDate>
+<description>Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.</description>
+</item>
+<item>
 <title>[Google AI] How we used Gemini to build Google I/O 2026</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/</link>
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/</guid>
 <pubDate>Mon, 01 Jun 2026 16:00:00 +0000</pubDate>
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp"&amp;gt;Learn how Googlers used AI to produce Google I/O 2026.</description>
+</item>
+<item>
+<title>[OpenAI] Building the infrastructure for the Intelligence Age in Michigan</title>
+<link>https://openai.com/index/stargate-michigan-data-center</link>
+<guid isPermaLink="false">https://openai.com/index/stargate-michigan-data-center</guid>
+<pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+<description>OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.</description>
+</item>
+<item>
+<title>[OpenAI] OpenAI frontier models and Codex are now available on AWS</title>
+<link>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws</link>
+<guid isPermaLink="false">https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws</guid>
+<pubDate>Mon, 01 Jun 2026 10:00:00 GMT</pubDate>
+<description>OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.</description>
 </item>
 <item>
 <title>[Anthropic] Anthropic confidentially submits draft S-1 to the SEC</title>
@@ -301,11 +371,39 @@
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"&amp;gt;Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.</description>
 </item>
 <item>
+<title>[OpenAI] Boston Children’s uses AI to unlock new diagnoses</title>
+<link>https://openai.com/index/boston-childrens-hospital</link>
+<guid isPermaLink="false">https://openai.com/index/boston-childrens-hospital</guid>
+<pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+<description>Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.</description>
+</item>
+<item>
+<title>[OpenAI] How Braintrust turns customer requests into code with Codex</title>
+<link>https://openai.com/index/braintrust</link>
+<guid isPermaLink="false">https://openai.com/index/braintrust</guid>
+<pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+<description>How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.</description>
+</item>
+<item>
 <title>[Google AI] Check out real-life AI prototypes from the Futures Lab.</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</link>
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</guid>
 <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp"&amp;gt;University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.</description>
+</item>
+<item>
+<title>[OpenAI] Strengthening societal resilience with Rosalind Biodefense</title>
+<link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense</link>
+<guid isPermaLink="false">https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense</guid>
+<pubDate>Fri, 29 May 2026 03:00:00 GMT</pubDate>
+<description>OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.</description>
+</item>
+<item>
+<title>[OpenAI] A shared playbook for trustworthy third party evaluations</title>
+<link>https://openai.com/index/trustworthy-third-party-evaluations-foundations</link>
+<guid isPermaLink="false">https://openai.com/index/trustworthy-third-party-evaluations-foundations</guid>
+<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+<description>OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.</description>
 </item>
 <item>
 <title>[Google AI] Catch up on 12 major I/O 2026 moments</title>
@@ -315,116 +413,18 @@
 <description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"&amp;gt;Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.</description>
 </item>
 <item>
-<title>[Anthropic] Anthropic raises $65B in Series H funding at $965B post-money valuation</title>
-<link>https://www.anthropic.com/news/series-h</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/series-h</guid>
-<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-
+<title>[OpenAI] How Endava builds an agentic organization with Codex</title>
+<link>https://openai.com/index/endava</link>
+<guid isPermaLink="false">https://openai.com/index/endava</guid>
+<pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
+<description>Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.</description>
 </item>
 <item>
-<title>[Anthropic] Introducing Claude Opus 4.8</title>
-<link>https://www.anthropic.com/news/claude-opus-4-8</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/claude-opus-4-8</guid>
-<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[Anthropic] Anthropic opens Milan office to support Italian enterprise, research, and developers</title>
-<link>https://www.anthropic.com/news/milan-office-opening</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/milan-office-opening</guid>
-<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[Anthropic] Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening</title>
-<link>https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea</guid>
-<pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[Anthropic] Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"</title>
-<link>https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</guid>
-<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[Google AI] Catch up on the Dialogues stage at Google I/O 2026.</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/</guid>
-<pubDate>Fri, 22 May 2026 18:00:00 +0000</pubDate>
-<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"&amp;gt;A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.</description>
-</item>
-<item>
-<title>[Perplexity] Perplexity Is Open-Sourcing Bumblebee</title>
-<link>https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee</link>
-<guid isPermaLink="false">https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee</guid>
-<pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[Mistral AI] Emmi joins Mistral to accelerate the AI-native industry</title>
-<link>https://mistral.ai/news/accelerate-ai-native-industry</link>
-<guid isPermaLink="false">https://mistral.ai/news/accelerate-ai-native-industry</guid>
-<pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[DeepMind] We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks</title>
-<link>https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/</guid>
-<pubDate>Thu, 21 May 2026 19:46:42 +0000</pubDate>
-
-</item>
-<item>
-<title>[xAI (Grok)] Use Grok in OpenCode</title>
-<link>https://x.ai/news/grok-opencode</link>
-<guid isPermaLink="false">https://x.ai/news/grok-opencode</guid>
-<pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-<description>Use your SuperGrok or X Premium subscription inside OpenCode.</description>
-</item>
-<item>
-<title>[Google AI] We’re announcing new community investments in Missouri.</title>
-<link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/</guid>
-<pubDate>Wed, 20 May 2026 20:40:00 +0000</pubDate>
-<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp"&amp;gt;We’re helping build the state’s next-generation workforce and investing in energy programs.</description>
-</item>
-<item>
-<title>[Google AI] 100 things we announced at I/O 2026</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/</guid>
-<pubDate>Wed, 20 May 2026 19:30:00 +0000</pubDate>
-<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp"&amp;gt;We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026.</description>
-</item>
-<item>
-<title>[Google AI] A new experiment brings better group meetings to Google Beam</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/</guid>
-<pubDate>Wed, 20 May 2026 16:45:00 +0000</pubDate>
-<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp"&amp;gt;See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.</description>
-</item>
-<item>
-<title>[Google AI] How AI Mode is changing the way people search in the U.S.</title>
-<link>https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/</link>
-<guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/</guid>
-<pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
-<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp"&amp;gt;One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.</description>
-</item>
-<item>
-<title>[Google AI] New ways to create and get things done in Google Workspace</title>
-<link>https://blog.google/products-and-platforms/products/workspace/workspace-updates/</link>
-<guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/workspace-updates/</guid>
-<pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
-<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp"&amp;gt;Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.</description>
-</item>
-<item>
-<title>[Google AI] I/O 2026: Welcome to the agentic Gemini era</title>
-<link>https://blog.google/innovation-and-ai/sundar-pichai-io-2026/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/sundar-pichai-io-2026/</guid>
-<pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
-<description>&amp;lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp"&amp;gt;The latest from Google I/O: See how we’re helping you get more done with Gemini.</description>
+<title>[OpenAI] OpenAI’s Frontier Governance Framework</title>
+<link>https://openai.com/index/openai-frontier-governance-framework</link>
+<guid isPermaLink="false">https://openai.com/index/openai-frontier-governance-framework</guid>
+<pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+<description>Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.</description>
 </item>
 </channel>
 </rss>
