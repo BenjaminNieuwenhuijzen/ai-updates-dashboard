@@ -181,27 +181,34 @@
   /* ------------------------------------------------------------------
      Lijst met updates. Hele rij klikbaar naar het bronartikel.
   ------------------------------------------------------------------ */
-  .items { list-style: none; margin: 0; padding: 0; flex: 1; }
+  /* Vaste, kortere kaarthoogte met een scrollbar per feed: in één oogopslag
+     overzicht, de rest scrollt binnen de kaart. */
+  .items { list-style: none; margin: 0; padding: 0; flex: 1; max-height: 340px; overflow-y: auto; }
+  .items::-webkit-scrollbar { width: 8px; }
+  .items::-webkit-scrollbar-thumb { background: var(--border); border-radius: 8px; }
+  .items { scrollbar-width: thin; scrollbar-color: var(--border) transparent; }
   .items li { border-bottom: 1px solid var(--border); }
   .items li:last-child { border-bottom: none; }
   .items a.row, .items span.row {
-    display: block;
-    padding: 11px 16px;
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    padding: 10px 16px;
     text-decoration: none;
     color: inherit;
     position: relative;
   }
   .items a.row:hover { background: var(--card-hover); }
-  .items a.row::after {
-    content: "↗";
-    position: absolute;
-    top: 11px; right: 12px;
-    color: var(--muted);
-    font-size: 12px;
-    opacity: 0;
+  .row-text { flex: 1; min-width: 0; }
+  .thumb {
+    flex: none;
+    width: 64px; height: 64px;
+    object-fit: cover;
+    border-radius: 6px;
+    background: var(--chip);
+    border: 1px solid var(--border);
   }
-  .items a.row:hover::after { opacity: 1; }
-  .row .title { font-size: 13.5px; font-weight: 550; display: block; padding-right: 16px; }
+  .row .title { font-size: 13.5px; font-weight: 550; display: block; }
   .items a.row:hover .title { color: var(--link); }
   .row .summary {
     display: -webkit-box;
@@ -238,7 +245,9 @@
   ------------------------------------------------------------------ */
   #stream { max-width: 760px; margin: 0 auto; padding: 24px 32px; }
   .stream-row {
-    display: block;
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
     text-decoration: none;
     color: inherit;
     background: var(--card);
@@ -250,6 +259,8 @@
     margin-bottom: 10px;
     position: relative;
   }
+  .stream-row .row-text { flex: 1; min-width: 0; }
+  .stream-row .thumb { width: 92px; height: 69px; }
   .stream-row:hover { background: var(--card-hover); }
   .stream-row.nolink { cursor: default; }
   .stream-co {
@@ -726,6 +737,7 @@ function parseFeed(xmlText, sourceName) {
       link: text(item, "link"),
       date: text(item, "pubDate") || text(item, "date"),
       summary: pickSummary(item, text(item, "title")),
+      image: feedImage(item),
       source: sourceName
     });
   });
@@ -736,10 +748,22 @@ function parseFeed(xmlText, sourceName) {
       link: linkEl ? (linkEl.getAttribute("href") || linkEl.textContent) : "",
       date: text(entry, "updated") || text(entry, "published"),
       summary: pickSummary(entry, text(entry, "title")),
+      image: feedImage(entry),
       source: sourceName
     });
   });
   return out;
+}
+
+// Afbeelding uit een feed-item: Media RSS, enclosure, of een <img> in de tekst.
+function feedImage(el) {
+  const mc = el.getElementsByTagName("media:content")[0] || el.getElementsByTagName("media:thumbnail")[0];
+  if (mc && mc.getAttribute("url")) return mc.getAttribute("url");
+  const enc = el.querySelector('enclosure[type^="image"]');
+  if (enc && enc.getAttribute("url")) return enc.getAttribute("url");
+  const body = (el.getElementsByTagName("content:encoded")[0] || el.querySelector("description") || {}).textContent || "";
+  const m = body.match(/<img[^>]*\bsrc="([^"]+)"/i);
+  return m ? m[1] : "";
 }
 
 // Kies de meest informatieve samenvatting uit het item: de langste tekst
@@ -871,7 +895,8 @@ function renderItems(i, items) {
     const summary = it.summary ? `<span class="summary">${escapeHtml(it.summary)}</span>` : "";
     const fresh = isNew(it.link);
     const dot = fresh ? `<span class="newdot" title="New since the last refresh"></span>` : "";
-    const inner = `<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}</span>`;
+    const thumb = it.image ? `<img class="thumb" src="${escapeHtml(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
+    const inner = `${thumb}<div class="row-text"><span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}</span></div>`;
     return it.link
       ? `<li><a class="row${fresh ? " is-new" : ""}" href="${it.link}" target="_blank" rel="noopener">${inner}</a></li>`
       : `<li><span class="row nolink">${inner}</span></li>`;
@@ -903,8 +928,9 @@ function renderStream() {
     const meta = fmtDate(it.date) + (it.source ? (fmtDate(it.date) ? " · " : "") + it.source : "");
     const fresh = isNew(it.link);
     const dot = fresh ? `<span class="newdot" title="New since the last refresh"></span>` : "";
+    const thumb = it.image ? `<img class="thumb" src="${escapeHtml(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
     const co = `<span class="stream-co">${logoFor(it.logo)}${escapeHtml(it.company)}</span>`;
-    const inner = `${co}<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}</span>`;
+    const inner = `${thumb}<div class="row-text">${co}<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}</span></div>`;
     return it.link
       ? `<a class="stream-row${fresh ? " is-new" : ""}" style="--accent-co:${it.accent}" href="${it.link}" target="_blank" rel="noopener">${inner}</a>`
       : `<span class="stream-row nolink" style="--accent-co:${it.accent}">${inner}</span>`;
@@ -940,7 +966,7 @@ async function loadFromData(cache) {
     COMPANIES.forEach(c => { byCompany[c.name] = []; });
     data.items.forEach(it => {
       if (byCompany[it.company]) byCompany[it.company].push({
-        title: it.title, link: it.link, date: it.date, summary: it.summary || "", source: it.source || ""
+        title: it.title, link: it.link, date: it.date, summary: it.summary || "", image: it.image || "", source: it.source || ""
       });
     });
 
