@@ -5,7 +5,14 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Gecombineerde updates van AI-bedrijven: OpenAI, Anthropic, Google, Meta, xAI, Mistral en Perplexity.</description>
 <language>nl</language>
-<lastBuildDate>Sun, 14 Jun 2026 20:01:15 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 05:31:37 GMT</lastBuildDate>
+<item>
+<title>[OpenAI] Introducing the OpenAI Partner Network</title>
+<link>https://openai.com/index/introducing-openai-partner-network</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-openai-partner-network</guid>
+<pubDate>Sun, 14 Jun 2026 17:00:00 GMT</pubDate>
+<description>OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.</description>
+</item>
 <item>
 <title>[OpenAI] New OpenAI Academy courses for the next era of work</title>
 <link>https://openai.com/index/academy-courses-applying-ai-at-work</link>
@@ -56,13 +63,6 @@
 <description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
 </item>
 <item>
-<title>[OpenAI] How an astrophysicist uses Codex to help simulate black holes</title>
-<link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
-<guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</description>
-</item>
-<item>
 <title>[OpenAI] BBVA puts AI at the core of banking with OpenAI</title>
 <link>https://openai.com/index/bbva</link>
 <guid isPermaLink="false">https://openai.com/index/bbva</guid>
@@ -75,6 +75,13 @@
 <guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
 <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
 <description>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</description>
+</item>
+<item>
+<title>[OpenAI] How an astrophysicist uses Codex to help simulate black holes</title>
+<link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
+<guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</description>
 </item>
 <item>
 <title>[Anthropic] DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
@@ -194,13 +201,6 @@
 <guid isPermaLink="false">https://openai.com/index/built-to-benefit-everyone-our-plan</guid>
 <pubDate>Mon, 08 Jun 2026 01:30:00 GMT</pubDate>
 <description>A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.</description>
-</item>
-<item>
-<title>[OpenAI] Introducing the OpenAI Economic Research Exchange</title>
-<link>https://openai.com/index/economic-research-exchange</link>
-<guid isPermaLink="false">https://openai.com/index/economic-research-exchange</guid>
-<pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
-<description>OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.</description>
 </item>
 <item>
 <title>[Google AI] The latest AI news we announced in May 2026</title>
