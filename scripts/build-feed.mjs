@@ -55,8 +55,8 @@ const out = `<?xml version="1.0" encoding="UTF-8"?>
 <channel>
 <title>Model Monitor</title>
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
-<description>Gecombineerde updates van AI-bedrijven: OpenAI, Anthropic, Google, Meta, xAI, Mistral en Perplexity.</description>
-<language>nl</language>
+<description>Combined updates from AI companies: OpenAI, Anthropic, Google, Meta, xAI, Mistral and Perplexity.</description>
+<language>en</language>
 <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
 ${top.map(i => `<item>
 <title>${esc("[" + i.name + "] " + i.title)}</title>

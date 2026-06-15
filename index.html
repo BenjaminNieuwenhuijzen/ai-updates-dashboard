@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -404,36 +404,36 @@
     <svg viewBox="0 0 64 64" role="img" aria-label="Model Monitor logo"><rect width="64" height="64" rx="14" fill="#1f56c4"/><rect x="13" y="13" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><rect x="34" y="13" width="17" height="17" rx="5" fill="#fff"/><rect x="13" y="34" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><rect x="34" y="34" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><circle cx="51" cy="13" r="8" fill="#7cc4ff" stroke="#1f56c4" stroke-width="3.5"/></svg>
     <div>
       <h1>Model Monitor</h1>
-      <div class="meta" id="updated">Updates worden geladen…</div>
+      <div class="meta" id="updated">Loading updates…</div>
     </div>
   </div>
   <div class="controls">
     <div class="control">
-      <span class="control-label" id="viewlabel">Weergave</span>
+      <span class="control-label" id="viewlabel">View</span>
       <div class="seg" id="view" role="group" aria-labelledby="viewlabel">
-        <button type="button" data-view="grid" class="active">Per bedrijf</button>
-        <button type="button" data-view="stream">Tijdlijn</button>
+        <button type="button" data-view="grid" class="active">By company</button>
+        <button type="button" data-view="stream">Timeline</button>
       </div>
     </div>
     <div class="control">
-      <label class="control-label" for="period">Periode</label>
+      <label class="control-label" for="period">Period</label>
       <select id="period">
-        <option value="0">Alle updates</option>
-        <option value="30">Laatste 30 dagen</option>
-        <option value="90">Laatste 90 dagen</option>
-        <option value="365">Laatste 12 maanden</option>
+        <option value="0">All updates</option>
+        <option value="30">Last 30 days</option>
+        <option value="90">Last 90 days</option>
+        <option value="365">Last 12 months</option>
       </select>
     </div>
-    <button id="refresh">Ververs</button>
+    <button id="refresh">Refresh</button>
   </div>
-  <nav class="catbar" aria-label="Filter op categorie">
-    <button type="button" data-cat="all" class="active">Alles</button>
-    <button type="button" data-cat="model">Modelupdates</button>
-    <button type="button" data-cat="product">Producten</button>
-    <button type="button" data-cat="onderzoek">Onderzoek</button>
-    <button type="button" data-cat="bedrijf">Bedrijfsnieuws</button>
-    <button type="button" data-cat="veiligheid">Veiligheid &amp; beleid</button>
-    <button type="button" data-cat="overig">Overig</button>
+  <nav class="catbar" aria-label="Filter by category">
+    <button type="button" data-cat="all" class="active">All</button>
+    <button type="button" data-cat="model">Model updates</button>
+    <button type="button" data-cat="product">Products</button>
+    <button type="button" data-cat="onderzoek">Research</button>
+    <button type="button" data-cat="bedrijf">Company news</button>
+    <button type="button" data-cat="veiligheid">Safety &amp; policy</button>
+    <button type="button" data-cat="overig">Other</button>
   </nav>
 </header>
 
@@ -442,42 +442,40 @@
 
 <section id="subscribe">
   <div class="sub-text">
-    <h3>Updates in je mail</h3>
-    <p>Abonneer je gratis via Blogtrottr op de gecombineerde feed van Model Monitor: per bericht direct,
-    of gebundeld als dagelijkse digest. Je e-mailadres vul je in bij Blogtrottr en bevestig je per mail;
-    het adres komt niet bij Model Monitor terecht. Afmelden kan in elke mail.</p>
+    <h3>Updates in your inbox</h3>
+    <p>Subscribe for free via Blogtrottr to the combined Model Monitor feed: instantly per post, or
+    bundled as a daily digest. You enter your email address at Blogtrottr and confirm by email; the
+    address never reaches Model Monitor. You can unsubscribe from any email.</p>
   </div>
-  <a class="sub-btn" href="https://blogtrottr.com/?subscribe=https%3A%2F%2Fbenjaminnieuwenhuijzen.github.io%2Fai-updates-dashboard%2Ffeed.xml" target="_blank" rel="noopener">Abonneer via Blogtrottr</a>
+  <a class="sub-btn" href="https://blogtrottr.com/?subscribe=https%3A%2F%2Fbenjaminnieuwenhuijzen.github.io%2Fai-updates-dashboard%2Ffeed.xml" target="_blank" rel="noopener">Subscribe via Blogtrottr</a>
 </section>
 
 <footer>
   <div class="foot-cols">
     <div>
-      <h3>Over Model Monitor</h3>
-      <p>Model Monitor haalt bij het openen en daarna elk half uur de nieuwsfeeds van zeven AI-bedrijven op.
-      OpenAI en Google publiceren een officiële feed; voor de overige bedrijven wordt een community-feed
-      gebruikt die kan achterlopen. Klik op een bericht om het originele artikel te openen. Een blauwe stip
-      markeert berichten die sinds de vorige verversing zijn binnengekomen. Elk bericht krijgt automatisch
-      een categorie (Modelupdate, Product, Onderzoek, Bedrijf, Veiligheid of Overig) op basis van titel en
-      samenvatting; via de balk bovenaan filter je erop. Die indeling is een automatische inschatting en
-      niet waterdicht.</p>
+      <h3>About Model Monitor</h3>
+      <p>Model Monitor fetches the news feeds of seven AI companies when you open the page and every half
+      hour after that. OpenAI and Google publish an official feed; for the other companies a community
+      feed is used, which may lag behind. Click any post to open the original article. A blue dot marks
+      posts that arrived since the last refresh. Every post is automatically assigned a category (Model
+      update, Product, Research, Company, Safety or Other) based on its title and summary; use the bar at
+      the top to filter. This classification is an automated estimate and not foolproof.</p>
     </div>
     <div>
       <h3>Disclaimer</h3>
-      <p>De inhoud op deze pagina is geen eigendom van de maker. Model Monitor leest uitsluitend openbaar
-      beschikbare bronnen uit (nieuwsfeeds van de genoemde bedrijven en community-feeds) en toont die
-      ongewijzigd. Aan de getoonde informatie kunnen geen rechten worden ontleend: de maker geeft geen
-      garantie op juistheid, volledigheid of actualiteit van de data en is niet verantwoordelijk of
-      aansprakelijk voor onjuiste, verouderde of onvolledige berichten, noch voor beslissingen die op
-      basis daarvan worden genomen. Alle rechten op de berichten berusten bij de oorspronkelijke bronnen.
-      Genoemde merknamen en logo&#8217;s zijn eigendom van hun respectievelijke eigenaren en worden hier
-      uitsluitend ter herkenning gebruikt; deze pagina heeft geen banden met en wordt niet onderschreven
-      door de genoemde bedrijven. Links naar externe websites en de mailbezorging via Blogtrottr vallen
-      buiten de verantwoordelijkheid van de maker.</p>
+      <p>The content on this page is not owned by its creator. Model Monitor only reads publicly available
+      sources (news feeds of the companies listed and community feeds) and displays them unchanged. No
+      rights can be derived from the information shown: the creator offers no guarantee as to the
+      accuracy, completeness or timeliness of the data and accepts no responsibility or liability for
+      incorrect, outdated or incomplete posts, nor for decisions made based on them. All rights to the
+      posts remain with the original sources. Brand names and logos mentioned are the property of their
+      respective owners and are used here for identification purposes only; this page is not affiliated
+      with or endorsed by any of the companies listed. Links to external websites and email delivery via
+      Blogtrottr fall outside the creator&#8217;s responsibility.</p>
     </div>
   </div>
   <div class="colophon">
-    <span>Model Monitor &middot; Gemaakt door Benjamin Nieuwenhuijzen</span>
+    <span>Model Monitor &middot; Made by Benjamin Nieuwenhuijzen</span>
     <span class="links">
       <a href="https://github.com/BenjaminNieuwenhuijzen" target="_blank" rel="noopener">GitHub</a>
       <a href="https://www.linkedin.com/in/benjamin-nieuwenhuijzen-58a16b105/" target="_blank" rel="noopener">LinkedIn</a>
@@ -625,12 +623,12 @@ function isModelUpdate(it) {
    Volgorde bepaalt prioriteit; eerste treffer wint. Automatische
    inschatting, dus niet waterdicht. */
 const CATS = {
-  model: "Modelupdate",
-  veiligheid: "Veiligheid",
-  onderzoek: "Onderzoek",
-  bedrijf: "Bedrijf",
+  model: "Model update",
+  veiligheid: "Safety",
+  onderzoek: "Research",
+  bedrijf: "Company",
   product: "Product",
-  overig: "Overig"
+  overig: "Other"
 };
 function categorize(it) {
   const t = ((it.title || "") + " " + (it.summary || "")).toLowerCase();
@@ -643,7 +641,7 @@ function categorize(it) {
 }
 function catTag(it) {
   const c = categorize(it);
-  return `<span class="cat cat-${c}" title="Automatisch ingedeeld op basis van titel en samenvatting">${CATS[c]}</span>`;
+  return `<span class="cat cat-${c}" title="Automatically categorized based on title and summary">${CATS[c]}</span>`;
 }
 
 let currentCategory = "all";   // actieve filter uit de navigatiebalk
@@ -657,7 +655,7 @@ function logoFor(logo) {
   return logo.includes("__U__") ? logo.replaceAll("__U__", "u" + (logoUid++)) : logo;
 }
 
-const UNOFFICIAL_HINT = "Geen officiële RSS-feed beschikbaar; updates komen via een community-feed en kunnen achterlopen.";
+const UNOFFICIAL_HINT = "No official RSS feed available; updates come from a community feed and may lag behind.";
 
 /* ------------------------------------------------------------------
    Ophalen met proxy-fallback.
@@ -762,7 +760,7 @@ function text(parent, tag) {
   return el ? el.textContent.trim() : "";
 }
 
-// Leesbare datum: vandaag/gisteren/x dagen geleden, daarna gewoon de datum.
+// Leesbare datum: today/yesterday/x days ago, daarna gewoon de datum.
 function fmtDate(d) {
   const t = Date.parse(d);
   if (isNaN(t)) return "";
@@ -770,10 +768,10 @@ function fmtDate(d) {
   const today = new Date(); today.setHours(0, 0, 0, 0);
   const then = new Date(t); then.setHours(0, 0, 0, 0);
   const days = Math.round((today - then) / dayMs);
-  if (days <= 0) return "vandaag";
-  if (days === 1) return "gisteren";
-  if (days < 7) return days + " dagen geleden";
-  return new Date(t).toLocaleDateString("nl-NL", { day: "numeric", month: "short", year: "numeric" });
+  if (days <= 0) return "today";
+  if (days === 1) return "yesterday";
+  if (days < 7) return days + " days ago";
+  return new Date(t).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
 }
 
 /* ------------------------------------------------------------------
@@ -787,8 +785,8 @@ function buildCards() {
     card.className = "card";
     const links = c.links.map(l => `<a href="${l.url}" target="_blank" rel="noopener">${l.label}</a>`).join("");
     const src = c.official
-      ? `<span class="srcline">Officiële feed</span>`
-      : `<span class="srcline" title="${UNOFFICIAL_HINT}">Community-feed, kan achterlopen</span>`;
+      ? `<span class="srcline">Official feed</span>`
+      : `<span class="srcline" title="${UNOFFICIAL_HINT}">Community feed, may lag behind</span>`;
     card.innerHTML = `
       <div class="card-head">
         <span class="avatar">${logoFor(c.logo) || c.name[0]}</span>
@@ -798,7 +796,7 @@ function buildCards() {
         </div>
         <div class="card-links">${links}</div>
       </div>
-      <div class="status" id="status-${i}">Laden…</div>
+      <div class="status" id="status-${i}">Loading…</div>
       <ul class="items" id="items-${i}"></ul>`;
     grid.appendChild(card);
   });
@@ -814,9 +812,9 @@ function renderItems(i, items) {
   status.style.display = "";
 
   if (!items || !items.length) {
-    status.innerHTML = `De updates konden niet worden opgehaald. Controleer de internetverbinding
-      of open de bron via de links rechtsboven.
-      <br><button class="actionbtn" data-action="retry">Opnieuw proberen</button>`;
+    status.innerHTML = `The updates could not be fetched. Check your internet connection
+      or open the source via the links in the top right.
+      <br><button class="actionbtn" data-action="retry">Try again</button>`;
     status.className = "status error";
     ul.innerHTML = "";
     return;
@@ -834,8 +832,8 @@ function renderItems(i, items) {
   }
 
   if (!shown.length) {
-    status.innerHTML = `Geen updates binnen dit filter.
-      <br><button class="actionbtn" data-action="reset-filters">Toon alle updates</button>`;
+    status.innerHTML = `No updates match this filter.
+      <br><button class="actionbtn" data-action="reset-filters">Show all updates</button>`;
     status.className = "status";
     ul.innerHTML = "";
     return;
@@ -846,7 +844,7 @@ function renderItems(i, items) {
     const meta = fmtDate(it.date) + (it.source ? (fmtDate(it.date) ? " · " : "") + it.source : "");
     const summary = it.summary ? `<span class="summary">${escapeHtml(it.summary)}</span>` : "";
     const fresh = isNew(it.link);
-    const dot = fresh ? `<span class="newdot" title="Nieuw sinds de vorige verversing"></span>` : "";
+    const dot = fresh ? `<span class="newdot" title="New since the last refresh"></span>` : "";
     const inner = `<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}</span>`;
     return it.link
       ? `<li><a class="row${fresh ? " is-new" : ""}" href="${it.link}" target="_blank" rel="noopener">${inner}</a></li>`
@@ -869,15 +867,15 @@ function renderStream() {
   all.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
 
   if (!all.length) {
-    wrap.innerHTML = `<div class="status">Geen updates binnen dit filter.
-      <br><button class="actionbtn" data-action="reset-filters">Toon alle updates</button></div>`;
+    wrap.innerHTML = `<div class="status">No updates match this filter.
+      <br><button class="actionbtn" data-action="reset-filters">Show all updates</button></div>`;
     return;
   }
   wrap.innerHTML = all.map(it => {
     const summary = it.summary ? `<span class="summary">${escapeHtml(it.summary)}</span>` : "";
     const meta = fmtDate(it.date) + (it.source ? (fmtDate(it.date) ? " · " : "") + it.source : "");
     const fresh = isNew(it.link);
-    const dot = fresh ? `<span class="newdot" title="Nieuw sinds de vorige verversing"></span>` : "";
+    const dot = fresh ? `<span class="newdot" title="New since the last refresh"></span>` : "";
     const co = `<span class="stream-co">${logoFor(it.logo)}${escapeHtml(it.company)}</span>`;
     const inner = `${co}<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}</span>`;
     return it.link
@@ -903,8 +901,8 @@ function saveCache(data) {
 async function refreshAll() {
   const btn = document.getElementById("refresh");
   btn.disabled = true;
-  btn.textContent = "Bezig…";
-  document.getElementById("updated").textContent = "Bezig met verversen…";
+  btn.textContent = "Refreshing…";
+  document.getElementById("updated").textContent = "Refreshing…";
 
   const cache = loadCache();
 
@@ -943,10 +941,10 @@ async function refreshAll() {
   COMPANIES.forEach(c => (STATE[c.name] || []).forEach(it => { if (it.link) seenLinks.add(it.link); }));
   firstLoad = false;
 
-  const now = new Date().toLocaleString("nl-NL", { dateStyle: "long", timeStyle: "short" });
-  document.getElementById("updated").textContent = "Bijgewerkt: " + now;
+  const now = new Date().toLocaleString("en-GB", { dateStyle: "long", timeStyle: "short" });
+  document.getElementById("updated").textContent = "Updated: " + now;
   btn.disabled = false;
-  btn.textContent = "Ververs";
+  btn.textContent = "Refresh";
 }
 
 // Korte bronlabels voor bedrijven met meerdere feeds (Google).
