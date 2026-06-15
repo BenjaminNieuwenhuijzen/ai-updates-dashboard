@@ -1,7 +1,8 @@
 // Bouwt twee bestanden uit de bronfeeds van Model Monitor:
 //   feed.xml  - gecombineerde RSS, voor het Blogtrottr-mailabonnement.
-//   data.json - gestructureerd (incl. thumbnail per item), voor het dashboard.
-// Draait in GitHub Actions (Node 20+, geen dependencies).
+//   data.json - gestructureerd (incl. thumbnail + samenvatting), voor het dashboard.
+// Ontbrekende afbeeldingen/samenvattingen worden via og:-tags van de artikelpagina
+// aangevuld, met een cache over runs heen. Draait in GitHub Actions (Node 20+).
 import { writeFileSync, readFileSync } from "node:fs";
 
 // company = exacte kaartnaam in het dashboard; source = sublabel (bij meerdere feeds).
@@ -11,24 +12,27 @@ const FEEDS = [
   { company: "Google (AI & DeepMind)", source: "Google AI", url: "https://blog.google/technology/ai/rss/" },
   { company: "Google (AI & DeepMind)", source: "DeepMind", url: "https://deepmind.google/blog/rss.xml" },
   { company: "Meta AI", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml" },
+  { company: "Microsoft AI", source: "", url: "https://news.microsoft.com/source/topics/ai/feed/" },
+  { company: "NVIDIA", source: "", url: "https://blogs.nvidia.com/feed/" },
+  { company: "Hugging Face", source: "", url: "https://huggingface.co/blog/feed.xml" },
   { company: "xAI (Grok)", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml" },
   { company: "Perplexity", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_perplexity_hub.xml" },
-  { company: "Mistral AI", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml" }
+  { company: "Mistral AI", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml" },
+  { company: "Cohere", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml" }
 ];
 
-const PER_FEED = 40;     // items per bronfeed (diepte voor kaarten + tijdlijn)
-const RSS_MAX = 60;      // items in de gecombineerde RSS (e-mail)
-const JSON_MAX = 320;    // items in data.json (dashboard)
-const MAX_OG = 140;      // max. og:image-ophaalacties per run (rest komt uit de cache)
-const OG_CONCURRENCY = 8;
+const PER_FEED = 40;       // items per bronfeed
+const RSS_MAX = 60;        // items in de gecombineerde RSS (e-mail)
+const JSON_MAX = 360;      // items in data.json (dashboard)
+const MAX_FETCH = 170;     // max. artikelpagina's ophalen per run (rest uit cache)
+const CONCURRENCY = 8;
 
 const pick = (xml, tag) => {
   const m = xml.match(new RegExp("<" + tag + "[^>]*>([\\s\\S]*?)</" + tag + ">", "i"));
   return m ? m[1].trim() : "";
 };
 const unCdata = s => s.replace(/^<!\[CDATA\[([\s\S]*?)\]\]>$/, "$1").trim();
-// Decodeer ge-encode HTML-entiteiten, verwijder dan tags (ook <img> die als
-// &lt;img&gt; in de omschrijving zit), en normaliseer witruimte.
+// Decodeer ge-encode HTML-entiteiten, verwijder dan tags, normaliseer witruimte.
 const strip = s => (s || "")
   .replace(/&lt;/gi, "<").replace(/&gt;/gi, ">")
   .replace(/&quot;/gi, '"').replace(/&#0?39;/g, "'").replace(/&apos;/gi, "'").replace(/&nbsp;/gi, " ")
@@ -37,8 +41,8 @@ const strip = s => (s || "")
   .replace(/\s+/g, " ").trim();
 const escXml = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const deEnt = s => s.replace(/&amp;/g, "&").replace(/&#x2F;/gi, "/").replace(/&#38;/g, "&");
+const norm = s => (s || "").toLowerCase().replace(/\s+/g, " ").trim();
 
-// Afbeelding uit het ruwe <item>-blok: Media RSS, enclosure, of <img> in de tekst.
 function rssImage(block) {
   let m = block.match(/<media:(?:content|thumbnail)[^>]*\burl="([^"]+)"/i);
   if (m) return deEnt(m[1]);
@@ -49,36 +53,36 @@ function rssImage(block) {
   return m ? deEnt(m[1]) : "";
 }
 
-// og:image (of twitter:image) van de artikelpagina ophalen.
-async function fetchOgImage(url) {
+// Afbeelding + samenvatting van de artikelpagina (één request).
+async function fetchMeta(url) {
+  const out = { image: "", description: "" };
   try {
     const res = await fetch(url, {
       signal: AbortSignal.timeout(12000),
       headers: { "user-agent": "Mozilla/5.0 (compatible; ModelMonitorBot/1.0)" }
     });
-    if (!res.ok) return "";
-    const html = (await res.text()).slice(0, 120000);
-    const m = html.match(/<meta[^>]+(?:property|name)="og:image(?::secure_url)?"[^>]+content="([^"]+)"/i)
-           || html.match(/<meta[^>]+content="([^"]+)"[^>]+(?:property|name)="og:image"/i)
-           || html.match(/<meta[^>]+name="twitter:image(?::src)?"[^>]+content="([^"]+)"/i);
-    if (!m) return "";
-    try { return new URL(deEnt(m[1]), url).href; } catch { return ""; }
+    if (!res.ok) return out;
+    const html = (await res.text()).slice(0, 150000);
+    const img = html.match(/<meta[^>]+(?:property|name)="og:image(?::secure_url)?"[^>]+content="([^"]+)"/i)
+             || html.match(/<meta[^>]+content="([^"]+)"[^>]+(?:property|name)="og:image"/i)
+             || html.match(/<meta[^>]+name="twitter:image(?::src)?"[^>]+content="([^"]+)"/i);
+    if (img) { try { out.image = new URL(deEnt(img[1]), url).href; } catch {} }
+    const desc = html.match(/<meta[^>]+property="og:description"[^>]+content="([^"]*)"/i)
+              || html.match(/<meta[^>]+content="([^"]*)"[^>]+property="og:description"/i)
+              || html.match(/<meta[^>]+name="twitter:description"[^>]+content="([^"]*)"/i)
+              || html.match(/<meta[^>]+name="description"[^>]+content="([^"]*)"/i);
+    if (desc) out.description = strip(desc[1]).slice(0, 300);
+    return out;
   } catch {
-    return "";
+    return out;
   }
 }
 
-// Eenvoudige concurrency-pool.
 async function pool(tasks, size) {
-  const results = new Array(tasks.length);
   let i = 0;
   await Promise.all(Array.from({ length: Math.min(size, tasks.length) }, async () => {
-    while (i < tasks.length) {
-      const idx = i++;
-      results[idx] = await tasks[idx]();
-    }
+    while (i < tasks.length) { const idx = i++; await tasks[idx](); }
   }));
-  return results;
 }
 
 // ---- bronfeeds ophalen ----
@@ -97,7 +101,7 @@ for (const feed of FEEDS) {
       const t = Date.parse(pubDate);
       if (!title || !link || isNaN(t)) continue;
       let desc = strip(unCdata(pick(block, "description"))).slice(0, 300);
-      if (desc.toLowerCase() === title.toLowerCase()) desc = "";
+      if (norm(desc) === norm(title)) desc = "";
       items.push({ company: feed.company, source: feed.source, title, link, pubDate, t, desc, image: rssImage(block) });
       if (++count >= PER_FEED) break;
     }
@@ -110,24 +114,43 @@ for (const feed of FEEDS) {
 items.sort((a, b) => b.t - a.t);
 const kept = items.slice(0, JSON_MAX);
 
-// ---- afbeeldingen aanvullen: cache uit vorige data.json, dan og:image ----
+// ---- afbeeldingen + samenvattingen aanvullen ----
 const cache = {};
 try {
   const prev = JSON.parse(readFileSync("data.json", "utf8"));
-  for (const it of prev.items || []) if (it.link && it.image) cache[it.link] = it.image;
-} catch { /* eerste run: geen cache */ }
+  for (const it of prev.items || []) if (it.link) cache[it.link] = { image: it.image || "", summary: it.summary || "" };
+} catch { /* eerste run */ }
 
 let fetched = 0;
-const ogTasks = [];
+const tasks = [];
 for (const it of kept) {
-  if (it.image) continue;
-  if (cache[it.link]) { it.image = cache[it.link]; continue; }
-  if (fetched >= MAX_OG) continue;
-  fetched++;
-  ogTasks.push(async () => { it.image = await fetchOgImage(it.link); });
+  const c = cache[it.link];
+  if (!it.image && c && c.image) it.image = c.image;
+  if (!it.desc && c && c.summary) it.desc = c.summary;
+  if ((!it.image || !it.desc) && fetched < MAX_FETCH) {
+    fetched++;
+    tasks.push(async () => {
+      const m = await fetchMeta(it.link);
+      if (!it.image) it.image = m.image;
+      if (!it.desc) it.desc = m.description;
+    });
+  }
 }
-await pool(ogTasks, OG_CONCURRENCY);
-console.log(`images: ${kept.filter(i => i.image).length}/${kept.length} (og:image fetched this run: ${fetched})`);
+await pool(tasks, CONCURRENCY);
+
+// Blank boilerplate-samenvattingen: een tekst die binnen één bedrijf >1x voorkomt
+// is vrijwel zeker de generieke sitebeschrijving, geen artikelsamenvatting.
+const byCo = {};
+for (const it of kept) (byCo[it.company] = byCo[it.company] || []).push(it);
+for (const list of Object.values(byCo)) {
+  const counts = {};
+  for (const it of list) if (it.desc) counts[norm(it.desc)] = (counts[norm(it.desc)] || 0) + 1;
+  for (const it of list) {
+    if (it.desc && counts[norm(it.desc)] >= 2) it.desc = "";
+    if (norm(it.desc) === norm(it.title)) it.desc = "";
+  }
+}
+console.log(`images: ${kept.filter(i => i.image).length}/${kept.length} | summaries: ${kept.filter(i => i.desc).length}/${kept.length} | fetched: ${fetched}`);
 
 // ---- data.json (dashboard) ----
 const json = {
@@ -147,7 +170,7 @@ const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <channel>
 <title>Model Monitor</title>
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
-<description>Combined updates from AI companies: OpenAI, Anthropic, Google, Meta, xAI, Mistral and Perplexity.</description>
+<description>Combined updates from leading AI companies.</description>
 <language>en</language>
 <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
 ${top.map(i => `<item>

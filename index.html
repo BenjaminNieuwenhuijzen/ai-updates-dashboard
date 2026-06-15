@@ -104,7 +104,7 @@
   .seg button:hover { color: var(--text); }
   .seg button.active { background: var(--card); color: var(--text); font-weight: 600; box-shadow: var(--shadow); }
 
-  select#period {
+  select#period, select#company {
     background: var(--card);
     color: var(--text);
     border: 1px solid var(--border);
@@ -147,6 +147,7 @@
   .card {
     background: var(--card);
     border: 1px solid var(--border);
+    border-top: 3px solid var(--card-accent, var(--border));
     border-radius: 10px;
     box-shadow: var(--shadow);
     overflow: hidden;
@@ -156,6 +157,7 @@
   .card-head {
     padding: 14px 16px 12px;
     border-bottom: 1px solid var(--border);
+    background: color-mix(in srgb, var(--card-accent, transparent) 7%, transparent);
     display: flex;
     align-items: center;
     gap: 12px;
@@ -165,8 +167,8 @@
     width: 36px; height: 36px;
     border-radius: 8px;
     display: grid; place-items: center;
-    background: var(--chip);
-    color: var(--text);            /* monochrome logo's volgen het thema */
+    background: color-mix(in srgb, var(--card-accent, var(--muted)) 16%, var(--card));
+    color: var(--card-accent, var(--text));   /* monochrome logo's + letters volgen de bedrijfskleur */
     font-weight: 700;
   }
   .avatar svg { width: 20px; height: 20px; display: block; }
@@ -354,6 +356,40 @@
   }
 
   /* ------------------------------------------------------------------
+     Hero: het grootste recente nieuws bovenaan, als een nieuwssite.
+  ------------------------------------------------------------------ */
+  #hero { padding: 24px 32px 0; }
+  .hero-eyebrow { font-size: 12px; font-weight: 650; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0 0 8px; }
+  .hero-card {
+    display: flex;
+    gap: 0;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--accent-co, var(--link));
+    border-radius: 14px;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+  }
+  .hero-media { flex: none; width: 360px; max-width: 42%; background: var(--chip); }
+  .hero-media img { width: 100%; height: 100%; min-height: 190px; object-fit: cover; display: block; }
+  .hero-body { flex: 1; min-width: 0; padding: 22px 24px; display: flex; flex-direction: column; justify-content: center; }
+  .hero-kicker { display: flex; align-items: center; gap: 8px; font-size: 12.5px; font-weight: 650; color: var(--accent-co, var(--muted)); margin-bottom: 8px; }
+  .hero-kicker svg { width: 18px; height: 18px; flex: none; }
+  .hero-tag { font-size: 10px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; color: var(--muted); border: 1px solid var(--border); border-radius: 999px; padding: 1px 8px; }
+  .hero-title { margin: 0 0 8px; font-size: 23px; line-height: 1.22; font-weight: 700; }
+  .hero-card:hover .hero-title { color: var(--link); }
+  .hero-summary { margin: 0; color: var(--muted); font-size: 14px; line-height: 1.5;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .hero-date { margin-top: 10px; font-size: 12px; color: var(--muted); }
+  @media (max-width: 680px) {
+    .hero-card { flex-direction: column; }
+    .hero-media { width: 100%; max-width: none; }
+    .hero-media img { height: 180px; min-height: 0; }
+  }
+
+  /* ------------------------------------------------------------------
      Abonneren per mail.
   ------------------------------------------------------------------ */
   #subscribe {
@@ -437,6 +473,10 @@
       </div>
     </div>
     <div class="control">
+      <label class="control-label" for="company">Company</label>
+      <select id="company"><option value="all">All companies</option></select>
+    </div>
+    <div class="control">
       <label class="control-label" for="period">Period</label>
       <select id="period">
         <option value="0">All updates</option>
@@ -462,6 +502,7 @@
   </nav>
 </header>
 
+<div id="hero"></div>
 <div class="grid" id="grid"></div>
 <div id="stream" style="display:none"></div>
 
@@ -529,7 +570,11 @@ const LOGOS = {
   xai: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><polygon points="18.6,2.6 21.4,2.6 12.4,21.5 9.6,21.5"/><polygon points="18.8,10.2 21.4,6.6 21.4,21.5 18.8,21.5"/><polygon points="2.6,4.4 5.8,4.4 13.6,15.4 10.4,15.4"/><polygon points="2.6,21.5 5.6,21.5 9.4,16.2 6.4,16.2"/></svg>`,
   perplexity: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.9"><path d="M12 1.5v21"/><path d="M4.5 3l15 18"/><path d="M19.5 3l-15 18"/><rect x="3" y="8" width="18" height="8"/></svg>`,
   /* Exacte rasterindeling van het aangeleverde Mistral-logo (6 kolommen x 5 rijen). */
-  mistral: `<svg viewBox="0 0 24 20" xmlns="http://www.w3.org/2000/svg"><g fill="#FFD800"><rect x="4" y="0" width="4" height="4"/><rect x="16" y="0" width="4" height="4"/></g><g fill="#FFAF00"><rect x="4" y="4" width="8" height="4"/><rect x="14" y="4" width="6" height="4"/></g><g fill="#FF8205"><rect x="4" y="8" width="16" height="4"/></g><g fill="#FA500F"><rect x="4" y="12" width="4" height="4"/><rect x="10" y="12" width="4" height="4"/><rect x="16" y="12" width="4" height="4"/></g><g fill="#E10500"><rect x="0" y="16" width="8" height="4"/><rect x="12" y="16" width="12" height="4"/></g></svg>`
+  mistral: `<svg viewBox="0 0 24 20" xmlns="http://www.w3.org/2000/svg"><g fill="#FFD800"><rect x="4" y="0" width="4" height="4"/><rect x="16" y="0" width="4" height="4"/></g><g fill="#FFAF00"><rect x="4" y="4" width="8" height="4"/><rect x="14" y="4" width="6" height="4"/></g><g fill="#FF8205"><rect x="4" y="8" width="16" height="4"/></g><g fill="#FA500F"><rect x="4" y="12" width="4" height="4"/><rect x="10" y="12" width="4" height="4"/><rect x="16" y="12" width="4" height="4"/></g><g fill="#E10500"><rect x="0" y="16" width="8" height="4"/><rect x="12" y="16" width="12" height="4"/></g></svg>`,
+  /* Microsoft: het officiële vier-vlakken-logo. */
+  microsoft: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><rect x="2" y="2" width="9.4" height="9.4" fill="#F25022"/><rect x="12.6" y="2" width="9.4" height="9.4" fill="#7FBA00"/><rect x="2" y="12.6" width="9.4" height="9.4" fill="#00A4EF"/><rect x="12.6" y="12.6" width="9.4" height="9.4" fill="#FFB900"/></svg>`,
+  /* Hugging Face: vereenvoudigd gezicht (de 🤗). */
+  huggingface: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="10" fill="#FFD21E"/><circle cx="8.6" cy="10.5" r="1.5" fill="#3b3b3b"/><circle cx="15.4" cy="10.5" r="1.5" fill="#3b3b3b"/><path d="M7.5 14.2 Q12 18.2 16.5 14.2" stroke="#3b3b3b" stroke-width="1.6" fill="none" stroke-linecap="round"/></svg>`
 };
 
 /* ------------------------------------------------------------------
@@ -590,6 +635,39 @@ const COMPANIES = [
     ]
   },
   {
+    name: "Microsoft AI",
+    logo: LOGOS.microsoft,
+    accent: "#0078d4",
+    official: true,
+    feeds: ["https://news.microsoft.com/source/topics/ai/feed/"],
+    links: [
+      { label: "News", url: "https://news.microsoft.com/source/topics/ai/" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/company/microsoft" }
+    ]
+  },
+  {
+    name: "NVIDIA",
+    logo: LOGOS.nvidia,
+    accent: "#76b900",
+    official: true,
+    feeds: ["https://blogs.nvidia.com/feed/"],
+    links: [
+      { label: "Blog", url: "https://blogs.nvidia.com/" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/company/nvidia" }
+    ]
+  },
+  {
+    name: "Hugging Face",
+    logo: LOGOS.huggingface,
+    accent: "#e0a800",
+    official: true,
+    feeds: ["https://huggingface.co/blog/feed.xml"],
+    links: [
+      { label: "Blog", url: "https://huggingface.co/blog" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/company/huggingface" }
+    ]
+  },
+  {
     name: "xAI (Grok)",
     logo: LOGOS.xai,
     accent: "#8a919d",
@@ -620,6 +698,17 @@ const COMPANIES = [
     links: [
       { label: "News", url: "https://mistral.ai/news" },
       { label: "LinkedIn", url: "https://www.linkedin.com/company/mistralai" }
+    ]
+  },
+  {
+    name: "Cohere",
+    logo: LOGOS.cohere,
+    accent: "#d6409f",
+    official: false,
+    feeds: ["https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml"],
+    links: [
+      { label: "Blog", url: "https://cohere.com/blog" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/company/cohere-ai" }
     ]
   }
 ];
@@ -672,6 +761,7 @@ function catTag(it) {
 }
 
 let currentCategory = "all";   // actieve filter uit de navigatiebalk
+let currentCompany = "all";    // actief bedrijf uit de bedrijfsfilter
 let currentQuery = "";         // vrije-tekst zoekterm uit de zoekbalk
 
 // Vrije-tekst zoekfilter: zoekt in titel en samenvatting (hoofdletterongevoelig).
@@ -830,6 +920,8 @@ function buildCards() {
   COMPANIES.forEach((c, i) => {
     const card = document.createElement("section");
     card.className = "card";
+    card.dataset.company = c.name;
+    card.style.setProperty("--card-accent", c.accent);
     const links = c.links.map(l => `<a href="${l.url}" target="_blank" rel="noopener">${l.label}</a>`).join("");
     const src = c.official
       ? `<span class="srcline">Official feed</span>`
@@ -914,6 +1006,7 @@ function renderStream() {
     (STATE[c.name] || []).forEach(it => all.push(Object.assign({}, it, { company: c.name, logo: c.logo, accent: c.accent })));
   });
   if (cutoff) all = all.filter(it => { const t = Date.parse(it.date); return !isNaN(t) && t >= cutoff; });
+  if (currentCompany !== "all") all = all.filter(it => it.company === currentCompany);
   if (currentCategory !== "all") all = all.filter(it => categorize(it) === currentCategory);
   if (currentQuery) all = all.filter(matchesQuery);
   all.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
@@ -935,6 +1028,47 @@ function renderStream() {
       ? `<a class="stream-row${fresh ? " is-new" : ""}" style="--accent-co:${it.accent}" href="${it.link}" target="_blank" rel="noopener">${inner}</a>`
       : `<span class="stream-row nolink" style="--accent-co:${it.accent}">${inner}</span>`;
   }).join("");
+}
+
+// Hero: het grootste recente nieuws. Voorkeur voor een recente modelupdate met
+// afbeelding, anders het nieuwste item met afbeelding, anders het nieuwste.
+// Respecteert het bedrijfs- en zoekfilter (niet categorie/periode).
+function renderHero() {
+  const wrap = document.getElementById("hero");
+  let all = [];
+  COMPANIES.forEach(c => (STATE[c.name] || []).forEach(it =>
+    all.push(Object.assign({}, it, { company: c.name, logo: c.logo, accent: c.accent }))));
+  if (currentCompany !== "all") all = all.filter(it => it.company === currentCompany);
+  if (currentQuery) all = all.filter(matchesQuery);
+  all.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
+  if (!all.length) { wrap.innerHTML = ""; return; }
+
+  const withImg = all.filter(it => it.image);
+  const recentCut = Date.now() - 21 * 86400000;
+  const hero = withImg.find(it => isModelUpdate(it) && (Date.parse(it.date) || 0) >= recentCut) || withImg[0] || all[0];
+
+  const media = hero.image
+    ? `<div class="hero-media"><img src="${escapeHtml(hero.image)}" alt="" referrerpolicy="no-referrer" onerror="this.closest('.hero-media').remove()"></div>` : "";
+  const meta = fmtDate(hero.date) + (hero.source ? " · " + hero.source : "");
+  const summary = hero.summary ? `<p class="hero-summary">${escapeHtml(hero.summary)}</p>` : "";
+  wrap.innerHTML = `<p class="hero-eyebrow">Top story</p>
+    <a class="hero-card" style="--accent-co:${hero.accent}" href="${hero.link}" target="_blank" rel="noopener">
+      ${media}
+      <div class="hero-body">
+        <span class="hero-kicker">${logoFor(hero.logo)}${escapeHtml(hero.company)}<span class="hero-tag">${CATS[categorize(hero)]}</span></span>
+        <h2 class="hero-title">${escapeHtml(hero.title)}</h2>
+        ${summary}
+        <div class="hero-date">${meta}</div>
+      </div>
+    </a>`;
+}
+
+// Toon/verberg kaarten op basis van de bedrijfsfilter.
+function applyCompanyVisibility() {
+  const cards = document.querySelectorAll("#grid .card");
+  COMPANIES.forEach((c, i) => {
+    if (cards[i]) cards[i].style.display = (currentCompany === "all" || c.name === currentCompany) ? "" : "none";
+  });
 }
 
 function escapeHtml(s) {
@@ -1035,7 +1169,9 @@ async function refreshAll() {
   if (!usedData) await loadLive(cache);
 
   saveCache(cache);
+  applyCompanyVisibility();
   renderStream();
+  renderHero();
 
   // Alles wat nu getoond is, geldt voortaan als "gezien". Daarna mag de
   // volgende verversing weer nieuwe items markeren.
@@ -1055,10 +1191,12 @@ function labelFor(feedUrl) {
   return "";
 }
 
-// Beide weergaven opnieuw opbouwen uit STATE, zonder feeds opnieuw op te halen.
+// Alle weergaven opnieuw opbouwen uit STATE, zonder feeds opnieuw op te halen.
 function applyFilter() {
   COMPANIES.forEach((c, i) => renderItems(i, STATE[c.name] || []));
+  applyCompanyVisibility();
   renderStream();
+  renderHero();
 }
 
 // Wisselen tussen raster en tijdlijn via de segmented control.
@@ -1076,6 +1214,15 @@ document.getElementById("refresh").addEventListener("click", refreshAll);
 document.getElementById("period").addEventListener("change", applyFilter);
 document.querySelectorAll("#view button").forEach(b =>
   b.addEventListener("click", () => setView(b.dataset.view)));
+
+// Bedrijfsfilter vullen met de bedrijven en bedraden.
+const companySel = document.getElementById("company");
+COMPANIES.forEach(c => {
+  const o = document.createElement("option");
+  o.value = c.name; o.textContent = c.name;
+  companySel.appendChild(o);
+});
+companySel.addEventListener("change", () => { currentCompany = companySel.value; applyFilter(); });
 
 // Vrije-tekst zoeken: filtert beide weergaven terwijl je typt.
 document.getElementById("search").addEventListener("input", e => {
@@ -1099,8 +1246,10 @@ document.addEventListener("click", e => {
   if (btn.dataset.action === "reset-filters") {
     document.getElementById("period").value = "0";
     document.getElementById("search").value = "";
+    document.getElementById("company").value = "all";
     currentQuery = "";
     currentCategory = "all";
+    currentCompany = "all";
     document.querySelectorAll(".catbar button").forEach(x => x.classList.toggle("active", x.dataset.cat === "all"));
     applyFilter();
   }
