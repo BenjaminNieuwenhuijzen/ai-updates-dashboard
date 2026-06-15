@@ -5,7 +5,14 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Mon, 15 Jun 2026 11:41:40 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 16:06:24 GMT</lastBuildDate>
+<item>
+<title>[Google AI] We’re strengthening our presence in Alabama through new investments and community support.</title>
+<link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/</guid>
+<pubDate>Mon, 15 Jun 2026 15:00:00 +0000</pubDate>
+<description>Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…</description>
+</item>
 <item>
 <title>[OpenAI] Introducing the OpenAI Partner Network</title>
 <link>https://openai.com/index/introducing-openai-partner-network</link>
@@ -77,18 +84,18 @@
 <description>The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But [&amp;#8230;]</description>
 </item>
 <item>
-<title>[OpenAI] Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
-<link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
-<guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
-</item>
-<item>
 <title>[OpenAI] BBVA puts AI at the core of banking with OpenAI</title>
 <link>https://openai.com/index/bbva</link>
 <guid isPermaLink="false">https://openai.com/index/bbva</guid>
 <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
 <description>Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</description>
+</item>
+<item>
+<title>[OpenAI] How an astrophysicist uses Codex to help simulate black holes</title>
+<link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
+<guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</description>
 </item>
 <item>
 <title>[OpenAI] OpenAI to acquire Ona</title>
@@ -98,11 +105,11 @@
 <description>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</description>
 </item>
 <item>
-<title>[OpenAI] How an astrophysicist uses Codex to help simulate black holes</title>
-<link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
-<guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
+<title>[OpenAI] Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
+<link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
+<guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
 <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</description>
+<description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
 </item>
 <item>
 <title>[Anthropic] DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
@@ -418,13 +425,6 @@
 <guid isPermaLink="false">https://openai.com/index/frontier-safety-blueprint</guid>
 <pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
 <description>OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.</description>
-</item>
-<item>
-<title>[OpenAI] OpenAI public policy agenda</title>
-<link>https://openai.com/index/public-policy-agenda</link>
-<guid isPermaLink="false">https://openai.com/index/public-policy-agenda</guid>
-<pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
-<description>OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.</description>
 </item>
 </channel>
 </rss>
