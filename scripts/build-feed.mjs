@@ -16,9 +16,9 @@ const FEEDS = [
   { company: "Mistral AI", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml" }
 ];
 
-const PER_FEED = 20;     // items per bronfeed
+const PER_FEED = 40;     // items per bronfeed (diepte voor kaarten + tijdlijn)
 const RSS_MAX = 60;      // items in de gecombineerde RSS (e-mail)
-const JSON_MAX = 200;    // items in data.json (dashboard)
+const JSON_MAX = 320;    // items in data.json (dashboard)
 
 const pick = (xml, tag) => {
   const m = xml.match(new RegExp("<" + tag + "[^>]*>([\\s\\S]*?)</" + tag + ">", "i"));
