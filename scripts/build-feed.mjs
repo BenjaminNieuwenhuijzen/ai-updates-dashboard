@@ -27,7 +27,14 @@ const pick = (xml, tag) => {
   return m ? m[1].trim() : "";
 };
 const unCdata = s => s.replace(/^<!\[CDATA\[([\s\S]*?)\]\]>$/, "$1").trim();
-const strip = s => s.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+// Decodeer ge-encode HTML-entiteiten, verwijder dan tags (ook <img> die als
+// &lt;img&gt; in de omschrijving zit), en normaliseer witruimte.
+const strip = s => (s || "")
+  .replace(/&lt;/gi, "<").replace(/&gt;/gi, ">")
+  .replace(/&quot;/gi, '"').replace(/&#0?39;/g, "'").replace(/&apos;/gi, "'").replace(/&nbsp;/gi, " ")
+  .replace(/<[^>]+>/g, " ")
+  .replace(/&amp;/gi, "&")
+  .replace(/\s+/g, " ").trim();
 const escXml = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const deEnt = s => s.replace(/&amp;/g, "&").replace(/&#x2F;/gi, "/").replace(/&#38;/g, "&");
 
