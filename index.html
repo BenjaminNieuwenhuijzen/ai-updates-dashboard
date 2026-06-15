@@ -104,7 +104,7 @@
   .seg button:hover { color: var(--text); }
   .seg button.active { background: var(--card); color: var(--text); font-weight: 600; box-shadow: var(--shadow); }
 
-  select#period, select#company {
+  select#period {
     background: var(--card);
     color: var(--text);
     border: 1px solid var(--border);
@@ -113,6 +113,34 @@
     font-size: 13px;
     cursor: pointer;
   }
+
+  /* Bedrijfsselectie: knop + keuzepaneel met vinkjes (multi-select). */
+  #companyControl { position: relative; }
+  #companyBtn {
+    background: var(--card); color: var(--text); border: 1px solid var(--border);
+    border-radius: 8px; padding: 6px 10px; font-size: 13px; cursor: pointer;
+    min-width: 140px; text-align: left;
+  }
+  #companyBtn::after { content: "▾"; float: right; margin-left: 8px; color: var(--muted); }
+  .company-panel {
+    display: none; position: absolute; top: calc(100% + 4px); left: 0; z-index: 30;
+    background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, .22); padding: 8px; min-width: 230px;
+  }
+  .company-panel.open { display: block; }
+  .company-panel-actions { display: flex; gap: 6px; padding: 0 2px 8px; border-bottom: 1px solid var(--border); margin-bottom: 6px; }
+  .company-panel-actions button {
+    flex: 1; background: transparent; border: 1px solid var(--border); color: var(--muted);
+    border-radius: 6px; padding: 4px; font-size: 12px; cursor: pointer;
+  }
+  .company-panel-actions button:hover { color: var(--text); border-color: var(--muted); }
+  .company-panel-list { max-height: 300px; overflow-y: auto; display: flex; flex-direction: column; }
+  .company-panel-list label {
+    display: flex; align-items: center; gap: 9px; padding: 5px 6px; border-radius: 6px;
+    font-size: 13px; cursor: pointer; white-space: nowrap;
+  }
+  .company-panel-list label:hover { background: var(--card-hover); }
+  .company-panel-list input { accent-color: var(--link); width: 15px; height: 15px; flex: none; }
   button#refresh {
     background: var(--card);
     color: var(--text);
@@ -496,9 +524,16 @@
         <button type="button" data-view="stream">Timeline</button>
       </div>
     </div>
-    <div class="control">
-      <label class="control-label" for="company">Company</label>
-      <select id="company"><option value="all">All companies</option></select>
+    <div class="control" id="companyControl">
+      <span class="control-label">Companies</span>
+      <button type="button" id="companyBtn" aria-haspopup="true" aria-expanded="false">All companies</button>
+      <div class="company-panel" id="companyPanel">
+        <div class="company-panel-actions">
+          <button type="button" data-co-action="all">Select all</button>
+          <button type="button" data-co-action="none">Clear</button>
+        </div>
+        <div class="company-panel-list" id="companyList"></div>
+      </div>
     </div>
     <div class="control">
       <label class="control-label" for="period">Period</label>
@@ -804,8 +839,24 @@ function catTag(it) {
 }
 
 let currentCategory = "all";   // actieve filter uit de navigatiebalk
-let currentCompany = "all";    // actief bedrijf uit de bedrijfsfilter
 let currentQuery = "";         // vrije-tekst zoekterm uit de zoekbalk
+
+// Geselecteerde bedrijven (multi-select); standaard alle, bewaard in localStorage.
+const COMPANY_KEY = "mm-companies-v1";
+function loadSelectedCompanies() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(COMPANY_KEY));
+    if (Array.isArray(saved)) {
+      const valid = saved.filter(n => COMPANIES.some(c => c.name === n));
+      return new Set(valid);   // ook een lege selectie respecteren
+    }
+  } catch (e) {}
+  return new Set(COMPANIES.map(c => c.name));
+}
+function saveSelectedCompanies() {
+  try { localStorage.setItem(COMPANY_KEY, JSON.stringify([...selectedCompanies])); } catch (e) {}
+}
+let selectedCompanies = loadSelectedCompanies();
 
 // Vrije-tekst zoekfilter: zoekt in titel en samenvatting (hoofdletterongevoelig).
 function matchesQuery(it) {
@@ -1060,7 +1111,7 @@ function renderStream() {
     (STATE[c.name] || []).forEach(it => all.push(Object.assign({}, it, { company: c.name, logo: c.logo, accent: c.accent })));
   });
   if (cutoff) all = all.filter(it => { const t = Date.parse(it.date); return !isNaN(t) && t >= cutoff; });
-  if (currentCompany !== "all") all = all.filter(it => it.company === currentCompany);
+  all = all.filter(it => selectedCompanies.has(it.company));
   if (currentCategory !== "all") all = all.filter(it => categorize(it) === currentCategory);
   if (currentQuery) all = all.filter(matchesQuery);
   all.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
@@ -1092,7 +1143,7 @@ function renderHero() {
   let all = [];
   COMPANIES.forEach(c => (STATE[c.name] || []).forEach(it =>
     all.push(Object.assign({}, it, { company: c.name, logo: c.logo, accent: c.accent }))));
-  if (currentCompany !== "all") all = all.filter(it => it.company === currentCompany);
+  all = all.filter(it => selectedCompanies.has(it.company));
   if (currentQuery) all = all.filter(matchesQuery);
   all.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
   if (!all.length) { wrap.innerHTML = ""; return; }
@@ -1117,11 +1168,11 @@ function renderHero() {
     </a>`;
 }
 
-// Toon/verberg kaarten op basis van de bedrijfsfilter.
+// Toon/verberg kaarten op basis van de geselecteerde bedrijven.
 function applyCompanyVisibility() {
   const cards = document.querySelectorAll("#grid .card");
   COMPANIES.forEach((c, i) => {
-    if (cards[i]) cards[i].style.display = (currentCompany === "all" || c.name === currentCompany) ? "" : "none";
+    if (cards[i]) cards[i].style.display = selectedCompanies.has(c.name) ? "" : "none";
   });
 }
 
@@ -1269,14 +1320,45 @@ document.getElementById("period").addEventListener("change", applyFilter);
 document.querySelectorAll("#view button").forEach(b =>
   b.addEventListener("click", () => setView(b.dataset.view)));
 
-// Bedrijfsfilter vullen met de bedrijven en bedraden.
-const companySel = document.getElementById("company");
+// Bedrijfsselectie (multi-select) vullen en bedraden.
+const companyBtn = document.getElementById("companyBtn");
+const companyPanel = document.getElementById("companyPanel");
+const companyList = document.getElementById("companyList");
 COMPANIES.forEach(c => {
-  const o = document.createElement("option");
-  o.value = c.name; o.textContent = c.name;
-  companySel.appendChild(o);
+  const lab = document.createElement("label");
+  const inp = document.createElement("input");
+  inp.type = "checkbox"; inp.value = c.name;
+  const span = document.createElement("span");
+  span.textContent = c.name;
+  lab.appendChild(inp); lab.appendChild(span);
+  companyList.appendChild(lab);
 });
-companySel.addEventListener("change", () => { currentCompany = companySel.value; applyFilter(); });
+function syncCompanyUI() {
+  companyList.querySelectorAll("input").forEach(inp => { inp.checked = selectedCompanies.has(inp.value); });
+  const n = selectedCompanies.size, total = COMPANIES.length;
+  companyBtn.textContent = n === total ? "All companies" : (n === 0 ? "No companies" : n + " of " + total);
+}
+syncCompanyUI();
+companyBtn.addEventListener("click", () => {
+  const open = companyPanel.classList.toggle("open");
+  companyBtn.setAttribute("aria-expanded", open ? "true" : "false");
+});
+companyList.addEventListener("change", e => {
+  if (!e.target.matches("input")) return;
+  if (e.target.checked) selectedCompanies.add(e.target.value);
+  else selectedCompanies.delete(e.target.value);
+  saveSelectedCompanies(); syncCompanyUI(); applyFilter();
+});
+companyPanel.querySelectorAll("[data-co-action]").forEach(b => b.addEventListener("click", () => {
+  selectedCompanies = b.dataset.coAction === "all" ? new Set(COMPANIES.map(c => c.name)) : new Set();
+  saveSelectedCompanies(); syncCompanyUI(); applyFilter();
+}));
+document.addEventListener("click", e => {
+  if (companyPanel.classList.contains("open") && !e.target.closest("#companyControl")) {
+    companyPanel.classList.remove("open");
+    companyBtn.setAttribute("aria-expanded", "false");
+  }
+});
 
 // Vrije-tekst zoeken: filtert beide weergaven terwijl je typt.
 document.getElementById("search").addEventListener("input", e => {
@@ -1300,10 +1382,11 @@ document.addEventListener("click", e => {
   if (btn.dataset.action === "reset-filters") {
     document.getElementById("period").value = "0";
     document.getElementById("search").value = "";
-    document.getElementById("company").value = "all";
     currentQuery = "";
     currentCategory = "all";
-    currentCompany = "all";
+    selectedCompanies = new Set(COMPANIES.map(c => c.name));
+    saveSelectedCompanies();
+    syncCompanyUI();
     document.querySelectorAll(".catbar button").forEach(x => x.classList.toggle("active", x.dataset.cat === "all"));
     applyFilter();
   }
