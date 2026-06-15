@@ -3,15 +3,29 @@
 <channel>
 <title>Model Monitor</title>
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
-<description>Combined updates from AI companies: OpenAI, Anthropic, Google, Meta, xAI, Mistral and Perplexity.</description>
+<description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Mon, 15 Jun 2026 09:23:39 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 09:42:40 GMT</lastBuildDate>
 <item>
 <title>[OpenAI] Introducing the OpenAI Partner Network</title>
 <link>https://openai.com/index/introducing-openai-partner-network</link>
 <guid isPermaLink="false">https://openai.com/index/introducing-openai-partner-network</guid>
 <pubDate>Sun, 14 Jun 2026 17:00:00 GMT</pubDate>
 <description>OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.</description>
+</item>
+<item>
+<title>[NVIDIA] NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark</title>
+<link>https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/</guid>
+<pubDate>Fri, 12 Jun 2026 21:00:08 +0000</pubDate>
+<description>AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance acr</description>
+</item>
+<item>
+<title>[Hugging Face] olmo-eval: An evaluation workbench for the model development loop</title>
+<link>https://huggingface.co/blog/allenai/olmo-eval</link>
+<guid isPermaLink="false">https://huggingface.co/blog/allenai/olmo-eval</guid>
+<pubDate>Fri, 12 Jun 2026 15:56:10 GMT</pubDate>
+
 </item>
 <item>
 <title>[OpenAI] New OpenAI Academy courses for the next era of work</title>
@@ -32,28 +46,35 @@
 <link>https://www.anthropic.com/news/tcs-anthropic-partnership</link>
 <guid isPermaLink="false">https://www.anthropic.com/news/tcs-anthropic-partnership</guid>
 <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-
+<description>We’re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner</description>
 </item>
 <item>
 <title>[Anthropic] Results from the first Anthropic Public Record</title>
 <link>https://www.anthropic.com/news/anthropic-public-record</link>
 <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-public-record</guid>
 <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-
+<description>Anthropic Public Record is a national survey of attitudes and opinions towards AI.</description>
 </item>
 <item>
 <title>[Anthropic] Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
 <link>https://www.anthropic.com/news/fable-mythos-access</link>
 <guid isPermaLink="false">https://www.anthropic.com/news/fable-mythos-access</guid>
 <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-
+<description>The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.</description>
 </item>
 <item>
 <title>[Google AI] Our new community investments in Virginia support local jobs and expand energy affordability.</title>
 <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/</link>
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/</guid>
 <pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
-<description>We’re helping build the state’s next-generation workforce and investing in energy programs.</description>
+
+</item>
+<item>
+<title>[NVIDIA] Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings</title>
+<link>https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/</guid>
+<pubDate>Thu, 11 Jun 2026 13:00:17 +0000</pubDate>
+<description>The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But [&amp;#8230;]</description>
 </item>
 <item>
 <title>[OpenAI] Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
@@ -88,13 +109,20 @@
 <link>https://www.anthropic.com/news/dxc-anthropic-alliance</link>
 <guid isPermaLink="false">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>
 <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-
+<description>We’re announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.</description>
 </item>
 <item>
 <title>[Anthropic] Introducing Claude Corps</title>
 <link>https://www.anthropic.com/news/claude-corps</link>
 <guid isPermaLink="false">https://www.anthropic.com/news/claude-corps</guid>
 <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+<description>We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.</description>
+</item>
+<item>
+<title>[Hugging Face] Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP</title>
+<link>https://huggingface.co/blog/torch-mlp-fusion</link>
+<guid isPermaLink="false">https://huggingface.co/blog/torch-mlp-fusion</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
 
 </item>
 <item>
@@ -105,11 +133,25 @@
 <description>Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.</description>
 </item>
 <item>
+<title>[NVIDIA] For Robotaxis, Safety Must Be Built In, Not Bolted On</title>
+<link>https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/</guid>
+<pubDate>Wed, 10 Jun 2026 19:00:12 +0000</pubDate>
+<description>A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expan</description>
+</item>
+<item>
 <title>[DeepMind] DiffusionGemma: 4x faster text generation</title>
 <link>https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</link>
 <guid isPermaLink="false">https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</guid>
 <pubDate>Wed, 10 Jun 2026 16:24:11 +0000</pubDate>
-
+<description>An overview of DiffusionGemma, an exceptionally fast text generation model with up to 4x faster speeds.</description>
+</item>
+<item>
+<title>[NVIDIA] NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI</title>
+<link>https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/</guid>
+<pubDate>Wed, 10 Jun 2026 16:15:20 +0000</pubDate>
+<description>Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud. Rath</description>
 </item>
 <item>
 <title>[OpenAI] PRC-linked influence operations are targeting AI debates in the US</title>
@@ -133,6 +175,13 @@
 <description>See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.</description>
 </item>
 <item>
+<title>[NVIDIA] NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute</title>
+<link>https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/</guid>
+<pubDate>Tue, 09 Jun 2026 22:34:27 +0000</pubDate>
+<description>NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side </description>
+</item>
+<item>
 <title>[DeepMind] Fluid, natural voice translation with Gemini 3.5 Live Translate</title>
 <link>https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/</link>
 <guid isPermaLink="false">https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/</guid>
@@ -140,18 +189,25 @@
 <description>Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.</description>
 </item>
 <item>
+<title>[Microsoft AI] Why don’t cancer medicines work the same for everyone?</title>
+<link>https://news.microsoft.com/signal/articles/why-dont-cancer-medicines-work-the-same-for-everyone-ex-vivo/</link>
+<guid isPermaLink="false">https://news.microsoft.com/signal/articles/why-dont-cancer-medicines-work-the-same-for-everyone-ex-vivo/</guid>
+<pubDate>Tue, 09 Jun 2026 15:05:35 +0000</pubDate>
+<description>The post Why don’t cancer medicines work the same for everyone? appeared first on Source .</description>
+</item>
+<item>
 <title>[DeepMind] Introducing Gemma 4 12B: a unified, encoder-free multimodal model</title>
 <link>https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/</link>
 <guid isPermaLink="false">https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/</guid>
 <pubDate>Tue, 09 Jun 2026 14:10:19 +0000</pubDate>
-
+<description>An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.</description>
 </item>
 <item>
 <title>[DeepMind] Powering the future of robotics in Europe</title>
 <link>https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/</link>
 <guid isPermaLink="false">https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/</guid>
 <pubDate>Tue, 09 Jun 2026 14:02:33 +0000</pubDate>
-
+<description>Google DeepMind Accelerator selects 15 robotics companies from across Europe to join the program. Providing 3 months of intensive mentorship and technical support, enabl…</description>
 </item>
 <item>
 <title>[OpenAI] How engineers at Nextdoor use Codex to build without limits</title>
@@ -159,6 +215,13 @@
 <guid isPermaLink="false">https://openai.com/index/nextdoor</guid>
 <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
 <description>How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.</description>
+</item>
+<item>
+<title>[Hugging Face] How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces</title>
+<link>https://huggingface.co/blog/mishig/spaces-agents-md</link>
+<guid isPermaLink="false">https://huggingface.co/blog/mishig/spaces-agents-md</guid>
+<pubDate>Tue, 09 Jun 2026 10:46:19 GMT</pubDate>
+<description>A Blog post by Mishig Davaadorj on Hugging Face</description>
 </item>
 <item>
 <title>[OpenAI] What Codex unlocks for Notion</title>
@@ -179,6 +242,13 @@
 <link>https://www.anthropic.com/news/claude-fable-5-mythos-5</link>
 <guid isPermaLink="false">https://www.anthropic.com/news/claude-fable-5-mythos-5</guid>
 <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+<description>Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.</description>
+</item>
+<item>
+<title>[Hugging Face] Migrating Your GitHub CI to Hugging Face Jobs</title>
+<link>https://huggingface.co/blog/github-ci-hf-jobs</link>
+<guid isPermaLink="false">https://huggingface.co/blog/github-ci-hf-jobs</guid>
+<pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
 
 </item>
 <item>
@@ -196,6 +266,20 @@
 <description>Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.</description>
 </item>
 <item>
+<title>[NVIDIA] How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies</title>
+<link>https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/</guid>
+<pubDate>Mon, 08 Jun 2026 06:00:57 +0000</pubDate>
+<description>A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker. At this year’s event, NVIDIA and its partners are showcasing how that commitment is producing real momentum across the nation’s</description>
+</item>
+<item>
+<title>[NVIDIA] NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure</title>
+<link>https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/</guid>
+<pubDate>Mon, 08 Jun 2026 03:00:50 +0000</pubDate>
+<description>NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, valida</description>
+</item>
+<item>
 <title>[OpenAI] Built to benefit everyone: our plan</title>
 <link>https://openai.com/index/built-to-benefit-everyone-our-plan</link>
 <guid isPermaLink="false">https://openai.com/index/built-to-benefit-everyone-our-plan</guid>
@@ -210,11 +294,53 @@
 <description>OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.</description>
 </item>
 <item>
+<title>[Hugging Face] The Open Source Community is backing OpenEnv for Agentic RL</title>
+<link>https://huggingface.co/blog/openenv-agentic-rl</link>
+<guid isPermaLink="false">https://huggingface.co/blog/openenv-agentic-rl</guid>
+<pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[NVIDIA] NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure</title>
+<link>https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/</guid>
+<pubDate>Sun, 07 Jun 2026 23:00:36 +0000</pubDate>
+<description>NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s fu</description>
+</item>
+<item>
+<title>[NVIDIA] NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs</title>
+<link>https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/</guid>
+<pubDate>Sun, 07 Jun 2026 07:00:15 +0000</pubDate>
+<description>At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming co</description>
+</item>
+<item>
 <title>[Google AI] The latest AI news we announced in May 2026</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</link>
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</guid>
 <pubDate>Fri, 05 Jun 2026 14:45:00 +0000</pubDate>
 <description>Here are Google’s latest AI updates from May 2026</description>
+</item>
+<item>
+<title>[NVIDIA] Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI</title>
+<link>https://blogs.nvidia.com/blog/korea-ecosystem-2026/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/korea-ecosystem-2026/</guid>
+<pubDate>Fri, 05 Jun 2026 05:38:37 +0000</pubDate>
+<description>Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. M</description>
+</item>
+<item>
+<title>[Hugging Face] Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI</title>
+<link>https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety</link>
+<guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety</guid>
+<pubDate>Thu, 04 Jun 2026 18:57:45 GMT</pubDate>
+
+</item>
+<item>
+<title>[NVIDIA] Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW</title>
+<link>https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/</guid>
+<pubDate>Thu, 04 Jun 2026 13:00:27 +0000</pubDate>
+<description>June’s forecast with GeForce NOW: 100% chance of gaming. GeForce NOW is lining up new adventures for the month, from big-name blockbusters to quirky indies ready for the spotlight. Members can dive into fresh worlds, squad up in new playlists and discover “just one more run” favorites — all streamin</description>
 </item>
 <item>
 <title>[OpenAI] How Endava is redesigning software delivery around AI agents</title>
@@ -238,6 +364,27 @@
 <description>An action plan for AI-powered biological resilience</description>
 </item>
 <item>
+<title>[Hugging Face] Designing the hf CLI as an agent-optimized way to work with the Hub</title>
+<link>https://huggingface.co/blog/hf-cli-for-agents</link>
+<guid isPermaLink="false">https://huggingface.co/blog/hf-cli-for-agents</guid>
+<pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[NVIDIA] NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale</title>
+<link>https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/</guid>
+<pubDate>Wed, 03 Jun 2026 15:00:57 +0000</pubDate>
+<description>What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before. What makes an autonomous vehicle system safe isn’t just that it can reason through a situation — it’s that [&amp;#8230;]</description>
+</item>
+<item>
+<title>[NVIDIA] NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI</title>
+<link>https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/</guid>
+<pubDate>Wed, 03 Jun 2026 15:00:35 +0000</pubDate>
+<description>At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physical AI research isn’t simply developing stronger models. It’s building a full workflow around them — r</description>
+</item>
+<item>
 <title>[OpenAI] Introducing new capabilities to GPT-Rosalind</title>
 <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</link>
 <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</guid>
@@ -250,6 +397,13 @@
 <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/thrifting-tips/</guid>
 <pubDate>Wed, 03 Jun 2026 13:00:00 +0000</pubDate>
 <description>Uncover second-hand scores with AI tools in Google Search and Shopping.</description>
+</item>
+<item>
+<title>[Hugging Face] Direct Preference Optimization Beyond Chatbots</title>
+<link>https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots</link>
+<guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots</guid>
+<pubDate>Wed, 03 Jun 2026 12:55:11 GMT</pubDate>
+<description>A Blog post by Dharma-AI on Hugging Face</description>
 </item>
 <item>
 <title>[OpenAI] How Wasmer used Codex to build a Node.js runtime for the edge</title>
@@ -271,160 +425,6 @@
 <guid isPermaLink="false">https://openai.com/index/public-policy-agenda</guid>
 <pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
 <description>OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.</description>
-</item>
-<item>
-<title>[Anthropic] What we learned mapping a year’s worth of AI-enabled cyber threats</title>
-<link>https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</guid>
-<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[Anthropic] Introducing the Services Track and Partner Hub of the Claude Partner Network</title>
-<link>https://www.anthropic.com/news/services-track-partner-hub</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/services-track-partner-hub</guid>
-<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[OpenAI] Travelers deploys AI-powered claims countrywide with OpenAI</title>
-<link>https://openai.com/index/travelers</link>
-<guid isPermaLink="false">https://openai.com/index/travelers</guid>
-<pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-<description>Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.</description>
-</item>
-<item>
-<title>[OpenAI] Codex for every role, tool, and workflow</title>
-<link>https://openai.com/index/codex-for-every-role-tool-workflow</link>
-<guid isPermaLink="false">https://openai.com/index/codex-for-every-role-tool-workflow</guid>
-<pubDate>Tue, 02 Jun 2026 09:00:00 GMT</pubDate>
-<description>Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.</description>
-</item>
-<item>
-<title>[OpenAI] Advancing youth safety and opportunity through global leadership</title>
-<link>https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership</link>
-<guid isPermaLink="false">https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership</guid>
-<pubDate>Tue, 02 Jun 2026 07:00:00 GMT</pubDate>
-<description>OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.</description>
-</item>
-<item>
-<title>[OpenAI] Codex is becoming a productivity tool for everyone</title>
-<link>https://openai.com/index/codex-for-knowledge-work</link>
-<guid isPermaLink="false">https://openai.com/index/codex-for-knowledge-work</guid>
-<pubDate>Tue, 02 Jun 2026 02:00:00 GMT</pubDate>
-<description>The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.</description>
-</item>
-<item>
-<title>[Anthropic] Expanding Project Glasswing</title>
-<link>https://www.anthropic.com/news/expanding-project-glasswing</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/expanding-project-glasswing</guid>
-<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[OpenAI] Our views on AI policy and political advocacy</title>
-<link>https://openai.com/index/our-views-on-ai-policy-and-political-advocacy</link>
-<guid isPermaLink="false">https://openai.com/index/our-views-on-ai-policy-and-political-advocacy</guid>
-<pubDate>Mon, 01 Jun 2026 17:00:00 GMT</pubDate>
-<description>Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.</description>
-</item>
-<item>
-<title>[Google AI] How we used Gemini to build Google I/O 2026</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/</guid>
-<pubDate>Mon, 01 Jun 2026 16:00:00 +0000</pubDate>
-<description>Learn how Googlers used AI to produce Google I/O 2026.</description>
-</item>
-<item>
-<title>[OpenAI] Building the infrastructure for the Intelligence Age in Michigan</title>
-<link>https://openai.com/index/stargate-michigan-data-center</link>
-<guid isPermaLink="false">https://openai.com/index/stargate-michigan-data-center</guid>
-<pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-<description>OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.</description>
-</item>
-<item>
-<title>[OpenAI] OpenAI frontier models and Codex are now available on AWS</title>
-<link>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws</link>
-<guid isPermaLink="false">https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws</guid>
-<pubDate>Mon, 01 Jun 2026 10:00:00 GMT</pubDate>
-<description>OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.</description>
-</item>
-<item>
-<title>[Anthropic] Anthropic confidentially submits draft S-1 to the SEC</title>
-<link>https://www.anthropic.com/news/confidential-draft-s1-sec</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/confidential-draft-s1-sec</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[Google AI] Take our I/O 2026 quiz, vibe coded in Google AI Studio.</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/</guid>
-<pubDate>Fri, 29 May 2026 19:00:00 +0000</pubDate>
-<description>We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.</description>
-</item>
-<item>
-<title>[Google AI] 9 demos of Gemini Omni and Gemini 3.5 in action</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/</guid>
-<pubDate>Fri, 29 May 2026 17:30:00 +0000</pubDate>
-<description>Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.</description>
-</item>
-<item>
-<title>[OpenAI] Boston Children’s uses AI to unlock new diagnoses</title>
-<link>https://openai.com/index/boston-childrens-hospital</link>
-<guid isPermaLink="false">https://openai.com/index/boston-childrens-hospital</guid>
-<pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-<description>Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.</description>
-</item>
-<item>
-<title>[OpenAI] How Braintrust turns customer requests into code with Codex</title>
-<link>https://openai.com/index/braintrust</link>
-<guid isPermaLink="false">https://openai.com/index/braintrust</guid>
-<pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-<description>How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.</description>
-</item>
-<item>
-<title>[Google AI] Check out real-life AI prototypes from the Futures Lab.</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</guid>
-<pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
-<description>University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.</description>
-</item>
-<item>
-<title>[OpenAI] Strengthening societal resilience with Rosalind Biodefense</title>
-<link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense</link>
-<guid isPermaLink="false">https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense</guid>
-<pubDate>Fri, 29 May 2026 03:00:00 GMT</pubDate>
-<description>OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.</description>
-</item>
-<item>
-<title>[OpenAI] A shared playbook for trustworthy third party evaluations</title>
-<link>https://openai.com/index/trustworthy-third-party-evaluations-foundations</link>
-<guid isPermaLink="false">https://openai.com/index/trustworthy-third-party-evaluations-foundations</guid>
-<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-<description>OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.</description>
-</item>
-<item>
-<title>[Google AI] Catch up on 12 major I/O 2026 moments</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/</guid>
-<pubDate>Thu, 28 May 2026 15:00:00 +0000</pubDate>
-<description>Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.</description>
-</item>
-<item>
-<title>[OpenAI] How Endava builds an agentic organization with Codex</title>
-<link>https://openai.com/index/endava</link>
-<guid isPermaLink="false">https://openai.com/index/endava</guid>
-<pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
-<description>Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.</description>
-</item>
-<item>
-<title>[OpenAI] OpenAI’s Frontier Governance Framework</title>
-<link>https://openai.com/index/openai-frontier-governance-framework</link>
-<guid isPermaLink="false">https://openai.com/index/openai-frontier-governance-framework</guid>
-<pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-<description>Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.</description>
 </item>
 </channel>
 </rss>
