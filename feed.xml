@@ -5,7 +5,7 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Mon, 15 Jun 2026 22:29:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 05:34:06 GMT</lastBuildDate>
 <item>
 <title>[Google AI] We’re strengthening our presence in Alabama through new investments and community support.</title>
 <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/</link>
@@ -84,18 +84,18 @@
 <description>The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But [&amp;#8230;]</description>
 </item>
 <item>
-<title>[OpenAI] BBVA puts AI at the core of banking with OpenAI</title>
-<link>https://openai.com/index/bbva</link>
-<guid isPermaLink="false">https://openai.com/index/bbva</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</description>
-</item>
-<item>
 <title>[OpenAI] How an astrophysicist uses Codex to help simulate black holes</title>
 <link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
 <guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
 <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
 <description>Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</description>
+</item>
+<item>
+<title>[OpenAI] BBVA puts AI at the core of banking with OpenAI</title>
+<link>https://openai.com/index/bbva</link>
+<guid isPermaLink="false">https://openai.com/index/bbva</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</description>
 </item>
 <item>
 <title>[OpenAI] OpenAI to acquire Ona</title>
@@ -420,11 +420,11 @@
 <description>See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.</description>
 </item>
 <item>
-<title>[OpenAI] A blueprint for democratic governance of frontier AI</title>
-<link>https://openai.com/index/frontier-safety-blueprint</link>
-<guid isPermaLink="false">https://openai.com/index/frontier-safety-blueprint</guid>
+<title>[OpenAI] OpenAI public policy agenda</title>
+<link>https://openai.com/index/public-policy-agenda</link>
+<guid isPermaLink="false">https://openai.com/index/public-policy-agenda</guid>
 <pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
-<description>OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.</description>
+<description>OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.</description>
 </item>
 </channel>
 </rss>
