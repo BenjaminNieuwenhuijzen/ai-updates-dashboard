@@ -14,11 +14,10 @@ const FEEDS = [
   { company: "OpenAI", source: "Developer", url: "https://developers.openai.com/rss.xml" },
   { company: "OpenAI", source: "Status", url: "https://status.openai.com/history.rss" },
   { company: "OpenAI", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A" },
-  // Anthropic — community mirrors (Anthropic publishes no native RSS) + Claude Code releases + video
+  // Anthropic — community mirrors (Anthropic publishes no native RSS) + video
   { company: "Anthropic", source: "News", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" },
   { company: "Anthropic", source: "Research", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml" },
   { company: "Anthropic", source: "Engineering", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml" },
-  { company: "Anthropic", source: "Claude Code", url: "https://github.com/anthropics/claude-code/releases.atom" },
   { company: "Anthropic", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA" },
   // Google — AI blog + DeepMind + Research + Cloud AI + Gemini product + DeepMind video
   { company: "Google (AI & DeepMind)", source: "Google AI", url: "https://blog.google/technology/ai/rss/" },
