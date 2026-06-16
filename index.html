@@ -1390,12 +1390,39 @@ async function loadDigest() {
   } catch (e) { wrap.hidden = true; }
 }
 
-// Toon/verberg kaarten op basis van de geselecteerde bedrijven.
+// Toon/verberg kaarten op basis van de geselecteerde bedrijven (op naam, niet op
+// positie, want de kaarten worden geherordend op nieuwsdrukte).
 function applyCompanyVisibility() {
-  const cards = document.querySelectorAll("#grid .card");
-  COMPANIES.forEach((c, i) => {
-    if (cards[i]) cards[i].style.display = selectedCompanies.has(c.name) ? "" : "none";
+  document.querySelectorAll("#grid .card").forEach(card => {
+    card.style.display = selectedCompanies.has(card.dataset.company) ? "" : "none";
   });
+}
+
+// Kaarten herordenen op "hoeveel in het nieuws": het aantal updates binnen een
+// nieuwsvenster (de gekozen periode, of de laatste 30 dagen bij "All updates"),
+// rekening houdend met categorie/zoek/bewaard. Meeste eerst, bij gelijkspel het
+// nieuwste item, dan de oorspronkelijke configuratievolgorde. Het venster (i.p.v.
+// alle items) voorkomt dat bijna elk bedrijf op de itemlimiet vastloopt en gelijk
+// scoort; zo telt echte recente activiteit.
+const RANK_WINDOW_DAYS = 30;
+function reorderGrid() {
+  const grid = document.getElementById("grid");
+  if (!grid) return;
+  const days = currentPeriodDays() || RANK_WINDOW_DAYS;
+  const cutoff = Date.now() - days * 86400000;
+  const ranked = [...grid.querySelectorAll(".card")].map(card => {
+    const name = card.dataset.company;
+    let items = (STATE[name] || []).filter(it => { const t = Date.parse(it.date); return !isNaN(t) && t >= cutoff; });
+    if (currentCategory !== "all") items = items.filter(it => categorize(it) === currentCategory);
+    if (currentQuery) items = items.filter(matchesQuery);
+    if (savedOnly) items = items.filter(it => savedLinks.has(it.link));
+    let newest = 0;
+    for (const it of items) { const t = Date.parse(it.date) || 0; if (t > newest) newest = t; }
+    const origIdx = COMPANIES.findIndex(c => c.name === name);
+    return { card, count: items.length, newest, origIdx };
+  });
+  ranked.sort((a, b) => b.count - a.count || b.newest - a.newest || a.origIdx - b.origIdx);
+  ranked.forEach(r => grid.appendChild(r.card));
 }
 
 function escapeHtml(s) {
@@ -1497,6 +1524,7 @@ async function refreshAll() {
 
   saveCache(cache);
   applyCompanyVisibility();
+  reorderGrid();
   renderStream();
   renderHero();
   loadDigest();
@@ -1533,6 +1561,7 @@ function applyFilter() {
   expandedCards.clear();
   COMPANIES.forEach((c, i) => renderItems(i, STATE[c.name] || []));
   applyCompanyVisibility();
+  reorderGrid();
   renderStream();
   renderHero();
   updateFiltersBtn();
