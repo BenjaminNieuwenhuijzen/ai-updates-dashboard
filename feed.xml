@@ -5,13 +5,34 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 16 Jun 2026 21:20:45 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 23:48:56 GMT</lastBuildDate>
 <item>
-<title>[Research] Jun 17, 2026Economic ResearchAgentic coding and persistent returns to expertise</title>
-<link>https://www.anthropic.com/research/claude-code-expertise</link>
-<guid isPermaLink="false">https://www.anthropic.com/research/claude-code-expertise</guid>
-<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-
+<title>[Blog] Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses</title>
+<link>https://blogs.nvidia.com/blog/nvidia-xr-ai/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-xr-ai/</guid>
+<pubDate>Tue, 16 Jun 2026 22:30:41 +0000</pubDate>
+<description>NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &amp;#160;</description>
+</item>
+<item>
+<title>[Developer] Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI</title>
+<link>https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/</guid>
+<pubDate>Tue, 16 Jun 2026 22:30:00 GMT</pubDate>
+<description>Developers building for AR glasses and wearable devices face an infrastructure gap. The hardware is ready, but creating AI experiences requires integrating live...</description>
+</item>
+<item>
+<title>[Blog] Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone</title>
+<link>https://blogs.nvidia.com/blog/coherent-texas-ai-optical/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/coherent-texas-ai-optical/</guid>
+<pubDate>Tue, 16 Jun 2026 22:10:56 +0000</pubDate>
+<description>AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the worl</description>
+</item>
+<item>
+<title>[DeepMind] Unlocking UK house-building with AI-accelerated planning</title>
+<link>https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</guid>
+<pubDate>Tue, 16 Jun 2026 21:29:50 +0000</pubDate>
+<description>UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.</description>
 </item>
 <item>
 <title>[YouTube] O-Ring Automation &amp; the Economics of Bicycles for the Mind with Avi Goldfarb</title>
@@ -84,6 +105,13 @@
 <description>Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably. As models grow in size, complexity and intelligence, the de</description>
 </item>
 <item>
+<title>[Microsoft 365] Copilot Cowork is now generally available</title>
+<link>https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/</link>
+<guid isPermaLink="false">https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/</guid>
+<pubDate>Tue, 16 Jun 2026 15:00:00 +0000</pubDate>
+<description>Cowork is the fastest growing feature in the history of our Frontier program, and Cowork has among the highest user satisfaction of any Copilot or agent experience we have shipped. The post Copilot Cowork is now generally available appeared first on Microsoft 365 Blog .</description>
+</item>
+<item>
 <title>[Cloud AI] How Siemens "slices the elephant," advancing agentic workflows for industrial software development</title>
 <link>https://cloud.google.com/blog/products/ai-machine-learning/how-siemens-sliced-the-elephant-modernizing-legacy-code-with-agentic-workflows/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/how-siemens-sliced-the-elephant-modernizing-legacy-code-with-agentic-workflows/</guid>
@@ -124,6 +152,13 @@
 <guid isPermaLink="false">https://openai.com/index/deployment-simulation</guid>
 <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
 <description>OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.</description>
+</item>
+<item>
+<title>[Research] Jun 16, 2026Economic ResearchAgentic coding and persistent returns to expertise</title>
+<link>https://www.anthropic.com/research/claude-code-expertise</link>
+<guid isPermaLink="false">https://www.anthropic.com/research/claude-code-expertise</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+
 </item>
 <item>
 <title>[YouTube] Build and test iOS apps without leaving Codex</title>
@@ -390,41 +425,6 @@
 <guid isPermaLink="false">https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/</guid>
 <pubDate>Thu, 11 Jun 2026 19:52:37 GMT</pubDate>
 <description>NVIDIA Quantum InfiniBand now offers intent-based security profiles in Unified Fabric Manager (UFM) that enable multi-tenant fabric security in a single...</description>
-</item>
-<item>
-<title>[YouTube] Customer Ignite Talk: Antonio Bravo Acin (Global Head of AI Transformation, BBVA) &amp; OpenAI</title>
-<link>https://www.youtube.com/watch?v=UNJSk90Lz1c</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=UNJSk90Lz1c</guid>
-<pubDate>Thu, 11 Jun 2026 19:51:04 GMT</pubDate>
-<description>BBVA is bringing AI into the core of its business. In this conversation, Antonio Bravo, Chief Data and AI Officer at BBVA, shares how the bank rolled out ChatGPT Enterprise to 120,000+ employees and built an AI strategy around six business-focused robots. Hear how BBVA is using OpenAI and Codex to t</description>
-</item>
-<item>
-<title>[Cloud AI] Powering the next era of Confidential AI</title>
-<link>https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai/</guid>
-<pubDate>Thu, 11 Jun 2026 19:30:00 +0000</pubDate>
-<description>At Google Cloud, we’re committed to providing the most advanced, secure, and private infrastructure for the most demanding AI workloads, and partnering with a broad and diverse range of organizations to help them meet their AI workload needs. We are thrilled to collaborate with Apple on its expanded</description>
-</item>
-<item>
-<title>[YouTube] Build sales account strategies and outreach with Codex</title>
-<link>https://www.youtube.com/watch?v=4YkOAYNZVOQ</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=4YkOAYNZVOQ</guid>
-<pubDate>Thu, 11 Jun 2026 19:24:28 GMT</pubDate>
-<description>See how the sales plugin for Codex helps sales teams move from account context to seller-ready work. In this demo, Codex prioritizes prospect accounts from Salesforce, creates a prospecting plan, drafts account-specific outreach, and sets up a morning cadence to keep the plan updated when account st</description>
-</item>
-<item>
-<title>[Azure] 3 things leaders need to know from Microsoft Build 2026</title>
-<link>https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/</link>
-<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/</guid>
-<pubDate>Thu, 11 Jun 2026 19:00:00 +0000</pubDate>
-<description>At Microsoft Build 2026, AI moved from experimentation to execution—shifting from isolated tools to connected systems grounded in business data. Organizations that win will embed AI across workflows, scale it effectively, and translate it into measurable outcomes like faster growth, lower costs, and</description>
-</item>
-<item>
-<title>[YouTube] Creating black hole simulations with Codex</title>
-<link>https://www.youtube.com/watch?v=4XSI4SClBMA</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=4XSI4SClBMA</guid>
-<pubDate>Thu, 11 Jun 2026 16:14:47 GMT</pubDate>
-<description>To learn more about black holes, computational astrophysicist Chi-kwan “CK” Chan is working to create the first moving image of one. CK creates simulations and compares them to observational data gathered at telescopes – but these don’t always match up. CK creates simulations and compares them to ob</description>
 </item>
 </channel>
 </rss>
