@@ -5,7 +5,7 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 16 Jun 2026 11:18:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 11:35:32 GMT</lastBuildDate>
 <item>
 <title>[Newsroom] New Features to Celebrate 500 Million Monthly Users on Threads</title>
 <link>https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/</link>
@@ -242,7 +242,7 @@
 <link>https://status.openai.com//incidents/01KTWCER83NNKE698QXNXJG11M</link>
 <guid isPermaLink="false">https://status.openai.com//incidents/01KTWCER83NNKE698QXNXJG11M</guid>
 <pubDate>Fri, 12 Jun 2026 00:47:57 GMT</pubDate>
-<description>Status: Resolved All impacted services have now fully recovered. Affected components Audio (Operational) Fine-tuning (Operational) Realtime (Operational) Embeddings (Operational) Moderations (Operational) Files (Operational) Responses (Operational) Login (Operational) Sora (Operational) Images (Oper</description>
+<description>Status: Resolved All impacted services have now fully recovered. Affected components Moderations (Operational) Responses (Operational) Login (Operational) Images (Operational) Chat Completions (Operational) Fine-tuning (Operational) Realtime (Operational) Files (Operational) Sora (Operational) Batch</description>
 </item>
 <item>
 <title>[YouTube] Debug web apps with browser use in Codex</title>
@@ -284,7 +284,7 @@
 <link>https://status.openai.com//incidents/01KTW7QY5W9DDYT0ETXX6MPVSY</link>
 <guid isPermaLink="false">https://status.openai.com//incidents/01KTW7QY5W9DDYT0ETXX6MPVSY</guid>
 <pubDate>Thu, 11 Jun 2026 22:28:09 GMT</pubDate>
-
+<description>Status: Resolved All impacted services have now fully recovered. Affected components App (Operational) VS Code extension (Operational) Codex API (Operational) Codex Web (Operational) CLI (Operational)</description>
 </item>
 <item>
 <title>[Newsroom] NVIDIA Stockholder Meeting Set for June 24; Individuals Can Participate Online</title>
