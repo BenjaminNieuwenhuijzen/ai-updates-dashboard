@@ -1,4 +1,4 @@
-// Bouwt twee bestanden uit de bronfeeds van Model Monitor:
+// Bouwt twee bestanden uit de bronfeeds van AI Radar:
 //   feed.xml  - gecombineerde RSS, voor het Blogtrottr-mailabonnement.
 //   data.json - gestructureerd (incl. thumbnail + samenvatting), voor het dashboard.
 // Ontbrekende afbeeldingen/samenvattingen worden via og:-tags van de artikelpagina
@@ -59,7 +59,7 @@ async function fetchMeta(url) {
   try {
     const res = await fetch(url, {
       signal: AbortSignal.timeout(12000),
-      headers: { "user-agent": "Mozilla/5.0 (compatible; ModelMonitorBot/1.0)" }
+      headers: { "user-agent": "Mozilla/5.0 (compatible; AIRadarBot/1.0)" }
     });
     if (!res.ok) return out;
     const html = (await res.text()).slice(0, 150000);
@@ -268,7 +268,7 @@ console.log(`data.json: ${json.items.length} items`);
 const top = kept.slice(0, RSS_MAX);
 // Dagelijkse briefing als bovenste mailitem (guid per dag, dus eens per dag verzonden).
 const digestItem = digest && digest.items && digest.items.length ? `<item>
-<title>${escXml("Model Monitor — Today in AI (" + digest.date + ")")}</title>
+<title>${escXml("AI Radar — Today in AI (" + digest.date + ")")}</title>
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <guid isPermaLink="false">mm-digest-${digest.date}</guid>
 <pubDate>${new Date().toUTCString()}</pubDate>
@@ -278,7 +278,7 @@ const digestItem = digest && digest.items && digest.items.length ? `<item>
 const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>Model Monitor</title>
+<title>AI Radar</title>
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
