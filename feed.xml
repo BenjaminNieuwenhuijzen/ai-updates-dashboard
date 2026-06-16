@@ -5,7 +5,70 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 16 Jun 2026 13:09:56 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 17:21:53 GMT</lastBuildDate>
+<item>
+<title>[YouTube] Why Tejal Patwardhan stopped underestimating the models - Episode 21</title>
+<link>https://www.youtube.com/watch?v=CFqjjKp9Y-Q</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=CFqjjKp9Y-Q</guid>
+<pubDate>Tue, 16 Jun 2026 17:00:02 GMT</pubDate>
+<description>The old tests are getting too easy. Tejal Patwardhan leads OpenAI’s frontier evals team, which is finding new ways to measure and forecast progress as models become more capable. She and host Andrew Mayne discuss why evals matter for research, how benchmarks can break or get gamed, and what models n</description>
+</item>
+<item>
+<title>[Developer] Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins</title>
+<link>https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/</guid>
+<pubDate>Tue, 16 Jun 2026 17:00:00 GMT</pubDate>
+<description>NVIDIA RTX technologies are deeply integrated into Unreal Engine 5 through the NVIDIA RTX Branch of Unreal Engine and the NVIDIA DLSS Unreal Engine plugin. This...</description>
+</item>
+<item>
+<title>[Blog] HPE AI Factory With NVIDIA Expands for the Era of Agents</title>
+<link>https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/</guid>
+<pubDate>Tue, 16 Jun 2026 16:30:27 +0000</pubDate>
+<description>Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NV</description>
+</item>
+<item>
+<title>[Developer] How to Optimize Transformer-Based Models for Low-Precision Training</title>
+<link>https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/</guid>
+<pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
+<description>Transformer architectures are the backbone of many modern large language and generative AI models. As these models grow in size, training runs consume more GPU...</description>
+</item>
+<item>
+<title>[Developer] NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance</title>
+<link>https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/</guid>
+<pubDate>Tue, 16 Jun 2026 15:11:13 GMT</pubDate>
+<description>NVIDIA delivered a clean sweep in MLPerf Training v6.0, the latest edition of industry-standard AI training benchmarks developed by the MLCommons consortium....</description>
+</item>
+<item>
+<title>[Blog] Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0</title>
+<link>https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/</guid>
+<pubDate>Tue, 16 Jun 2026 15:00:36 +0000</pubDate>
+<description>Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably. As models grow in size, complexity and intelligence, the de</description>
+</item>
+<item>
+<title>[Cloud AI] How Siemens "slices the elephant," advancing agentic workflows for industrial software development</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/how-siemens-sliced-the-elephant-modernizing-legacy-code-with-agentic-workflows/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/how-siemens-sliced-the-elephant-modernizing-legacy-code-with-agentic-workflows/</guid>
+<pubDate>Tue, 16 Jun 2026 14:00:00 +0000</pubDate>
+<description>For technology companies like Siemens, software is the nervous system of factories, energy grids, and transportation networks worldwide. As a global leader in industrial AI, industrial software, and industrial automation, Siemens brings decades of domain expertise across factory and process automati</description>
+</item>
+<item>
+<title>[Source] Farming is risky business. This app helps Turkish growers succeed</title>
+<link>https://news.microsoft.com/source/emea/features/farming-is-risky-business-this-app-helps-turkish-growers-succeed/</link>
+<guid isPermaLink="false">https://news.microsoft.com/source/emea/features/farming-is-risky-business-this-app-helps-turkish-growers-succeed/</guid>
+<pubDate>Tue, 16 Jun 2026 13:41:44 +0000</pubDate>
+<description>The post Farming is risky business. This app helps Turkish growers succeed appeared first on Source .</description>
+</item>
+<item>
+<title>[YouTube] Quantization: The Size vs Quality Trade-Off</title>
+<link>https://www.youtube.com/shorts/-s4KGeAE6iQ</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/-s4KGeAE6iQ</guid>
+<pubDate>Tue, 16 Jun 2026 13:23:14 GMT</pubDate>
+<description>Models can shrink down to a fraction of their size and still be useful. That's the power of quantization: Trading a bit of precision for massive gains in speed and size. In Transformers.js, you control that trade-off with a single parameter: dtype. Watch to see how far it can go. #TransformersJS #Ja</description>
+</item>
 <item>
 <title>[Newsroom] New Features to Celebrate 500 Million Monthly Users on Threads</title>
 <link>https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/</link>
@@ -362,69 +425,6 @@
 <guid isPermaLink="false">https://about.fb.com/news/2026/06/how-to-verify-age-online/</guid>
 <pubDate>Thu, 11 Jun 2026 04:10:35 +0000</pubDate>
 <description>To help ensure young people stay safe online, we need a practical, centralized framework that verifies the ages of people using our apps. The post Why Social Media Bans Alone Can’t Solve the Age Verification Dilemma appeared first on Meta Newsroom .</description>
-</item>
-<item>
-<title>[YouTube] Build Small with Cohere Labs</title>
-<link>https://www.youtube.com/watch?v=TYIT3nRMXak</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=TYIT3nRMXak</guid>
-<pubDate>Thu, 11 Jun 2026 03:07:26 GMT</pubDate>
-<description>As part of the Build Small hackathon we are inviting our partners to share their knowledge on how to get the most out of the tiny models available today. Today we are joined by Cohere Labs who will walk us through their Tiny Aya and Transcribe models and answer any questions from the community! --- </description>
-</item>
-<item>
-<title>[News] How an astrophysicist uses Codex to help simulate black holes</title>
-<link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
-<guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</description>
-</item>
-<item>
-<title>[News] BBVA puts AI at the core of banking with OpenAI</title>
-<link>https://openai.com/index/bbva</link>
-<guid isPermaLink="false">https://openai.com/index/bbva</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</description>
-</item>
-<item>
-<title>[News] Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
-<link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
-<guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
-</item>
-<item>
-<title>[News] OpenAI to acquire Ona</title>
-<link>https://openai.com/index/openai-to-acquire-ona</link>
-<guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</description>
-</item>
-<item>
-<title>[News] DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
-<link>https://www.anthropic.com/news/dxc-anthropic-alliance</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-<description>We’re announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.</description>
-</item>
-<item>
-<title>[News] Introducing Claude Corps</title>
-<link>https://www.anthropic.com/news/claude-corps</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/claude-corps</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-<description>We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.</description>
-</item>
-<item>
-<title>[Blog] Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP</title>
-<link>https://huggingface.co/blog/torch-mlp-fusion</link>
-<guid isPermaLink="false">https://huggingface.co/blog/torch-mlp-fusion</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] For Robotaxis, Safety Must Be Built In, Not Bolted On</title>
-<link>https://www.youtube.com/shorts/0B62mzkASs8</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/0B62mzkASs8</guid>
-<pubDate>Wed, 10 Jun 2026 20:54:33 GMT</pubDate>
-<description>We asked people around the NVIDIA office what they really think about robotaxis. The answers: better vibes, safer rides, precise pickups, no parking, and no awkward small talk. Watch the office takes, then learn how NVIDIA Halos OS helps build safety into AI-driven vehicles from the start: https://n</description>
 </item>
 </channel>
 </rss>
