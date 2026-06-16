@@ -141,7 +141,7 @@
   }
   .company-panel-list label:hover { background: var(--card-hover); }
   .company-panel-list input { accent-color: var(--link); width: 15px; height: 15px; flex: none; }
-  button#refresh {
+  button#refresh, button#filtersBtn {
     background: var(--card);
     color: var(--text);
     border: 1px solid var(--border);
@@ -150,8 +150,23 @@
     font-size: 13px;
     cursor: pointer;
   }
-  button#refresh:hover { background: var(--card-hover); }
+  button#refresh:hover, button#filtersBtn:hover { background: var(--card-hover); }
   button#refresh:disabled { opacity: .55; cursor: default; }
+
+  /* Filters: één knop die de secundaire filters toont/verbergt (progressive
+     disclosure, Sweller). Caret + actief-teller houden de status zichtbaar. */
+  button#filtersBtn::after { content: "▾"; margin-left: 7px; font-size: 11px; color: var(--muted); }
+  button#filtersBtn[aria-expanded="true"]::after { content: "▴"; }
+  button#filtersBtn.has-active { border-color: var(--link); color: var(--link); font-weight: 600; }
+  .filters-panel {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: 12px 16px;
+    margin-top: 2px;
+  }
+  .filters-panel[hidden] { display: none; }
   input#search {
     background: var(--card);
     color: var(--text);
@@ -505,6 +520,23 @@
   .colophon .links { display: flex; gap: 18px; }
   .colophon a { text-decoration: none; }
   .colophon a:hover { text-decoration: underline; }
+
+  /* ------------------------------------------------------------------
+     Mobiel: compactere marges en bediening op smalle schermen, zodat de
+     content niet ver onder een lange bedieningsrij verdwijnt.
+  ------------------------------------------------------------------ */
+  @media (max-width: 600px) {
+    header { padding: 12px 16px; }
+    .controls { gap: 10px 12px; }
+    .control { flex: 1 1 auto; }
+    input#search { width: 100%; }
+    #hero { padding: 16px 16px 0; }
+    .hero-title { font-size: 20px; }
+    .grid { grid-template-columns: 1fr; padding: 16px 14px; gap: 12px; }
+    #stream { padding: 16px 16px; }
+    #subscribe { margin: 0 16px 8px; padding: 14px 16px; }
+    footer { padding: 0 16px 28px; }
+  }
 </style>
 </head>
 <body>
@@ -513,16 +545,33 @@
     <svg viewBox="0 0 64 64" role="img" aria-label="Model Monitor logo"><rect width="64" height="64" rx="14" fill="#1f56c4"/><rect x="13" y="13" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><rect x="34" y="13" width="17" height="17" rx="5" fill="#fff"/><rect x="13" y="34" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><rect x="34" y="34" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><circle cx="51" cy="13" r="8" fill="#7cc4ff" stroke="#1f56c4" stroke-width="3.5"/></svg>
     <div>
       <h1>Model Monitor</h1>
-      <div class="meta" id="updated">Loading updates…</div>
+      <div class="meta" id="updated" aria-live="polite">Loading updates…</div>
     </div>
   </div>
   <div class="controls">
     <div class="control">
       <span class="control-label" id="viewlabel">View</span>
       <div class="seg" id="view" role="group" aria-labelledby="viewlabel">
-        <button type="button" data-view="grid" class="active">By company</button>
-        <button type="button" data-view="stream">Timeline</button>
+        <button type="button" data-view="grid" class="active" aria-pressed="true">By company</button>
+        <button type="button" data-view="stream" aria-pressed="false">Timeline</button>
       </div>
+    </div>
+    <div class="control">
+      <label class="control-label" for="search">Search</label>
+      <input id="search" type="search" placeholder="Filter by keyword…" autocomplete="off">
+    </div>
+    <button id="filtersBtn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="filtersPanel">Filters</button>
+    <button id="refresh">Refresh</button>
+  </div>
+  <div class="filters-panel" id="filtersPanel" hidden>
+    <div class="control">
+      <label class="control-label" for="period">Period</label>
+      <select id="period">
+        <option value="0">All updates</option>
+        <option value="30">Last 30 days</option>
+        <option value="90">Last 90 days</option>
+        <option value="365">Last 12 months</option>
+      </select>
     </div>
     <div class="control" id="companyControl">
       <span class="control-label">Companies</span>
@@ -535,30 +584,16 @@
         <div class="company-panel-list" id="companyList"></div>
       </div>
     </div>
-    <div class="control">
-      <label class="control-label" for="period">Period</label>
-      <select id="period">
-        <option value="0">All updates</option>
-        <option value="30">Last 30 days</option>
-        <option value="90">Last 90 days</option>
-        <option value="365">Last 12 months</option>
-      </select>
-    </div>
-    <div class="control">
-      <label class="control-label" for="search">Search</label>
-      <input id="search" type="search" placeholder="Filter by keyword…" autocomplete="off">
-    </div>
-    <button id="refresh">Refresh</button>
+    <nav class="catbar" aria-label="Filter by category">
+      <button type="button" data-cat="all" class="active" aria-pressed="true">All</button>
+      <button type="button" data-cat="model" aria-pressed="false">Model updates</button>
+      <button type="button" data-cat="product" aria-pressed="false">Products</button>
+      <button type="button" data-cat="onderzoek" aria-pressed="false">Research</button>
+      <button type="button" data-cat="bedrijf" aria-pressed="false">Company news</button>
+      <button type="button" data-cat="veiligheid" aria-pressed="false">Safety &amp; policy</button>
+      <button type="button" data-cat="overig" aria-pressed="false">Other</button>
+    </nav>
   </div>
-  <nav class="catbar" aria-label="Filter by category">
-    <button type="button" data-cat="all" class="active">All</button>
-    <button type="button" data-cat="model">Model updates</button>
-    <button type="button" data-cat="product">Products</button>
-    <button type="button" data-cat="onderzoek">Research</button>
-    <button type="button" data-cat="bedrijf">Company news</button>
-    <button type="button" data-cat="veiligheid">Safety &amp; policy</button>
-    <button type="button" data-cat="overig">Other</button>
-  </nav>
 </header>
 
 <div id="hero"></div>
@@ -579,10 +614,10 @@
   <div class="foot-cols">
     <div>
       <h3>About Model Monitor</h3>
-      <p>Model Monitor shows updates from seven AI companies. On the live site it reads one combined feed
-      that is rebuilt every few hours on the server, so it loads fast and reliably; opened as a local file
-      it fetches each company&#8217;s feed directly. OpenAI and Google publish an official feed; for the
-      other companies a community feed is used, which may lag behind. Click any post to open the original
+      <p>Model Monitor shows updates from <span id="companyCount">several</span> AI companies. On the live
+      site it reads one combined feed that is rebuilt every few hours on the server, so it loads fast and
+      reliably; opened as a local file it fetches each company&#8217;s feed directly. Some companies are
+      read from an official feed; for the others a community feed is used, which may lag behind. Click any post to open the original
       article. A blue dot marks posts that arrived since the last refresh. Every post is automatically
       assigned a category (Model update, Product, Research, Company, Safety or Other) based on its title
       and summary; use the category bar and the search box at the top to filter. This classification is an
@@ -1278,13 +1313,20 @@ async function refreshAll() {
   renderStream();
   renderHero();
 
+  // Tel nieuwe items (nog niet eerder gezien) vóór we ze als gezien markeren,
+  // zodat de statusregel de binnenkomst benoemt. Met aria-live op #updated is
+  // dit ook hoorbaar voor schermlezers (de stip alleen is puur visueel).
+  const newCount = firstLoad ? 0 : COMPANIES.reduce((n, c) =>
+    n + (STATE[c.name] || []).filter(it => it.link && !seenLinks.has(it.link)).length, 0);
+
   // Alles wat nu getoond is, geldt voortaan als "gezien". Daarna mag de
   // volgende verversing weer nieuwe items markeren.
   COMPANIES.forEach(c => (STATE[c.name] || []).forEach(it => { if (it.link) seenLinks.add(it.link); }));
   firstLoad = false;
 
   const now = new Date().toLocaleString("en-GB", { dateStyle: "long", timeStyle: "short" });
-  document.getElementById("updated").textContent = "Updated: " + now;
+  document.getElementById("updated").textContent =
+    "Updated: " + now + (newCount ? " · " + newCount + " new" : "");
   btn.disabled = false;
   btn.textContent = "Refresh";
 }
@@ -1302,6 +1344,7 @@ function applyFilter() {
   applyCompanyVisibility();
   renderStream();
   renderHero();
+  updateFiltersBtn();
 }
 
 // Wisselen tussen raster en tijdlijn via de segmented control.
@@ -1309,8 +1352,11 @@ function setView(view) {
   const stream = view === "stream";
   document.getElementById("grid").style.display = stream ? "none" : "";
   document.getElementById("stream").style.display = stream ? "block" : "none";
-  document.querySelectorAll("#view button").forEach(b =>
-    b.classList.toggle("active", b.dataset.view === view));
+  document.querySelectorAll("#view button").forEach(b => {
+    const on = b.dataset.view === view;
+    b.classList.toggle("active", on);
+    b.setAttribute("aria-pressed", String(on));   // status hoorbaar voor schermlezers
+  });
 }
 
 buildCards();
@@ -1370,9 +1416,43 @@ document.getElementById("search").addEventListener("input", e => {
 document.querySelectorAll(".catbar button").forEach(b =>
   b.addEventListener("click", () => {
     currentCategory = b.dataset.cat;
-    document.querySelectorAll(".catbar button").forEach(x => x.classList.toggle("active", x === b));
+    document.querySelectorAll(".catbar button").forEach(x => {
+      const on = x === b;
+      x.classList.toggle("active", on);
+      x.setAttribute("aria-pressed", String(on));
+    });
     applyFilter();
   }));
+
+// Footer: aantal bedrijven uit de configuratie afleiden, zodat de tekst niet
+// veroudert wanneer er een bedrijf bij komt of afvalt.
+const companyCountEl = document.getElementById("companyCount");
+if (companyCountEl) companyCountEl.textContent = COMPANIES.length;
+
+// Filters-paneel: progressive disclosure van de secundaire filters (periode,
+// bedrijven, categorie). Houdt de header rustig bij de eerste indruk; een
+// teller op de knop laat zien hoeveel filters actief zijn (Nielsen #1).
+const filtersBtn = document.getElementById("filtersBtn");
+const filtersPanel = document.getElementById("filtersPanel");
+function activeFilterCount() {
+  let n = 0;
+  if (currentPeriodDays() > 0) n++;
+  if (currentCategory !== "all") n++;
+  if (selectedCompanies.size !== COMPANIES.length) n++;
+  return n;
+}
+function updateFiltersBtn() {
+  const n = activeFilterCount();
+  filtersBtn.textContent = n ? "Filters · " + n : "Filters";
+  filtersBtn.classList.toggle("has-active", n > 0);
+}
+filtersBtn.addEventListener("click", () => {
+  const opening = filtersPanel.hasAttribute("hidden");
+  if (opening) filtersPanel.removeAttribute("hidden");
+  else filtersPanel.setAttribute("hidden", "");
+  filtersBtn.setAttribute("aria-expanded", opening ? "true" : "false");
+});
+updateFiltersBtn();
 
 // Herstelacties in status- en foutmeldingen (Nielsen #9: bied een uitweg).
 document.addEventListener("click", e => {
@@ -1387,7 +1467,11 @@ document.addEventListener("click", e => {
     selectedCompanies = new Set(COMPANIES.map(c => c.name));
     saveSelectedCompanies();
     syncCompanyUI();
-    document.querySelectorAll(".catbar button").forEach(x => x.classList.toggle("active", x.dataset.cat === "all"));
+    document.querySelectorAll(".catbar button").forEach(x => {
+      const on = x.dataset.cat === "all";
+      x.classList.toggle("active", on);
+      x.setAttribute("aria-pressed", String(on));
+    });
     applyFilter();
   }
 });
