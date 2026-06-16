@@ -5,7 +5,42 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 16 Jun 2026 17:21:53 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 21:20:45 GMT</lastBuildDate>
+<item>
+<title>[Research] Jun 17, 2026Economic ResearchAgentic coding and persistent returns to expertise</title>
+<link>https://www.anthropic.com/research/claude-code-expertise</link>
+<guid isPermaLink="false">https://www.anthropic.com/research/claude-code-expertise</guid>
+<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[YouTube] O-Ring Automation &amp; the Economics of Bicycles for the Mind with Avi Goldfarb</title>
+<link>https://www.youtube.com/watch?v=uUUBApVevNI</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=uUUBApVevNI</guid>
+<pubDate>Tue, 16 Jun 2026 20:58:08 GMT</pubDate>
+<description>​O-Ring Automation and the Economics of Bicycles for the Mind Talk by Avi Goldfarb, Rotman Chair in Artificial Intelligence and Healthcare Hosted by Zanele Munyikwa, Research Fellow, Cohere Labs 00:00 Welcome and Introduction 01:07 Talk Setup and Agenda 02:14 Bicycle for the Mind 03:26 Seven Facts O</description>
+</item>
+<item>
+<title>[Developer] Build Your Own Transaction Foundation Model for Financial Intelligence</title>
+<link>https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/</guid>
+<pubDate>Tue, 16 Jun 2026 20:30:08 GMT</pubDate>
+<description>Every swipe, transfer, and payment on a modern financial network encodes a pattern of human behavior. Transaction data is one of the richest signals an...</description>
+</item>
+<item>
+<title>[Gemini] June Pixel Drop: New features for creators, Gemini upgrades and more</title>
+<link>https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/</link>
+<guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/</guid>
+<pubDate>Tue, 16 Jun 2026 18:00:00 +0000</pubDate>
+<description>Get new screen recording feature, text-to-video tools with Gemini Omni, and better multitasking on your Pixel devices.</description>
+</item>
+<item>
+<title>[Research] From pixels to planning: Earth AI for nature restoration</title>
+<link>https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/</link>
+<guid isPermaLink="false">https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/</guid>
+<pubDate>Tue, 16 Jun 2026 17:30:00 +0000</pubDate>
+
+</item>
 <item>
 <title>[YouTube] Why Tejal Patwardhan stopped underestimating the models - Episode 21</title>
 <link>https://www.youtube.com/watch?v=CFqjjKp9Y-Q</link>
@@ -82,6 +117,13 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=pphFTF8q_RQ</guid>
 <pubDate>Tue, 16 Jun 2026 02:44:14 GMT</pubDate>
 <description>In this interview, Arun Khurana, Senior Managing Partner at Accenture, talks to Savannah Peterson about the evolving landscape of technology, AI at scale, and corporate data strategies. They discuss: * Accenture’s creation of brand-new executive roles designed solely to navigate the exploding AI eco</description>
+</item>
+<item>
+<title>[News] Predicting model behavior before release by simulating deployment</title>
+<link>https://openai.com/index/deployment-simulation</link>
+<guid isPermaLink="false">https://openai.com/index/deployment-simulation</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+<description>OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.</description>
 </item>
 <item>
 <title>[YouTube] Build and test iOS apps without leaving Codex</title>
@@ -383,48 +425,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=4XSI4SClBMA</guid>
 <pubDate>Thu, 11 Jun 2026 16:14:47 GMT</pubDate>
 <description>To learn more about black holes, computational astrophysicist Chi-kwan “CK” Chan is working to create the first moving image of one. CK creates simulations and compares them to observational data gathered at telescopes – but these don’t always match up. CK creates simulations and compares them to ob</description>
-</item>
-<item>
-<title>[YouTube] NVIDIA Certification: Real Talk from AI Professionals Who Got Certified at GTC</title>
-<link>https://www.youtube.com/watch?v=U-jd4DdZyXw</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=U-jd4DdZyXw</guid>
-<pubDate>Thu, 11 Jun 2026 16:11:06 GMT</pubDate>
-<description>What does it actually take to get NVIDIA Certified — and is it worth it? At GTC, we sat down with five AI professionals who went through the certification process and came out the other side. They shared their stories: why they chose to get certified, how they prepared, and what changed afterward — </description>
-</item>
-<item>
-<title>[YouTube] Training to cycle across Antarctica | with ChatGPT</title>
-<link>https://www.youtube.com/watch?v=ACue0bPkrPs</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=ACue0bPkrPs</guid>
-<pubDate>Thu, 11 Jun 2026 15:59:45 GMT</pubDate>
-<description>In November, @jamesbensonking will attempt to become the first person to cycle solo and unsupported from the edge of Antarctica to the South Pole, a journey that could take up to 60 days. But for James, the real challenge begins long before he sets foot or wheel on the ice. With no existing blueprin</description>
-</item>
-<item>
-<title>[Blog] Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings</title>
-<link>https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/</guid>
-<pubDate>Thu, 11 Jun 2026 13:00:17 +0000</pubDate>
-<description>The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But [&amp;#8230;]</description>
-</item>
-<item>
-<title>[Newsroom] Going All in for Global Football Fans Across Meta Apps</title>
-<link>https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps/</link>
-<guid isPermaLink="false">https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps/</guid>
-<pubDate>Thu, 11 Jun 2026 12:00:40 +0000</pubDate>
-<description>We’re bringing new football features to Threads, Instagram, Facebook, and WhatsApp, including athlete content, match content, and in-product activations. The post Going All in for Global Football Fans Across Meta Apps appeared first on Meta Newsroom .</description>
-</item>
-<item>
-<title>[YouTube] Build Small with OpenBMB</title>
-<link>https://www.youtube.com/watch?v=B7XvicdImIE</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=B7XvicdImIE</guid>
-<pubDate>Thu, 11 Jun 2026 04:35:56 GMT</pubDate>
-<description>As part of the Build Small hackathon we are inviting our partners to share their knowledge on how to get the most out of the tiny models available today. Today we are joined by OpenBMB who will walk us through some of the best real-world uses cases for their family of tiny models and answer any ques</description>
-</item>
-<item>
-<title>[Newsroom] Why Social Media Bans Alone Can’t Solve the Age Verification Dilemma</title>
-<link>https://about.fb.com/news/2026/06/how-to-verify-age-online/</link>
-<guid isPermaLink="false">https://about.fb.com/news/2026/06/how-to-verify-age-online/</guid>
-<pubDate>Thu, 11 Jun 2026 04:10:35 +0000</pubDate>
-<description>To help ensure young people stay safe online, we need a practical, centralized framework that verifies the ages of people using our apps. The post Why Social Media Bans Alone Can’t Solve the Age Verification Dilemma appeared first on Meta Newsroom .</description>
 </item>
 </channel>
 </rss>
