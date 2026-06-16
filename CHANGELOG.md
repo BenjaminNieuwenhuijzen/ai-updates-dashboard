@@ -12,10 +12,9 @@ can see exactly what changed between any two versions.
 ### Added
 - Atom feed support in the build (`<entry>` / `<published>` / `<updated>` /
   `<link href>`), alongside the existing RSS `<item>` parsing.
-- Many more sources per company — **12 → 40 feeds across the same 11 companies**:
+- Many more sources per company — **12 → 36 feeds across the same 11 companies**:
   developer / research / engineering blogs, official newsrooms, product and
-  release-note changelogs, service-status feeds, and each company's official
-  YouTube channel.
+  release-note changelogs, and each company's official YouTube channel.
 - Mistral now reads its official native feed instead of the community mirror.
 
 ### Changed

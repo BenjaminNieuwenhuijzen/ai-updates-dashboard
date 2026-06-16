@@ -9,10 +9,9 @@ import { writeFileSync, readFileSync } from "node:fs";
 // All URLs verified live (2026-06-16). format=Atom feeds (<entry>) need the Atom branch
 // in the parser below; format=RSS feeds use <item>. Channel IDs for YouTube confirmed official.
 const FEEDS = [
-  // OpenAI — official news + developer-platform docs + status + video
+  // OpenAI — official news + developer-platform docs + video
   { company: "OpenAI", source: "News", url: "https://openai.com/news/rss.xml" },
   { company: "OpenAI", source: "Developer", url: "https://developers.openai.com/rss.xml" },
-  { company: "OpenAI", source: "Status", url: "https://status.openai.com/history.rss" },
   { company: "OpenAI", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A" },
   // Anthropic — community mirrors (Anthropic publishes no native RSS) + video
   { company: "Anthropic", source: "News", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" },
@@ -42,9 +41,8 @@ const FEEDS = [
   { company: "NVIDIA", source: "Newsroom", url: "https://nvidianews.nvidia.com/rss.xml" },
   { company: "NVIDIA", source: "Developer", url: "https://developer.nvidia.com/blog/feed/" },
   { company: "NVIDIA", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCHuiy8bXnmK5nisYHUd1J5g" },
-  // Hugging Face — official blog + status + video (HF exposes no other native RSS)
+  // Hugging Face — official blog + video (HF exposes no other native RSS)
   { company: "Hugging Face", source: "Blog", url: "https://huggingface.co/blog/feed.xml" },
-  { company: "Hugging Face", source: "Status", url: "https://status.huggingface.co/feed.rss" },
   { company: "Hugging Face", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCHlNU7kIZhRgSbhHvFoy72w" },
   // xAI (Grok) — community mirror of x.ai/news only (no official RSS or legitimate YouTube exists)
   { company: "xAI (Grok)", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml" },
@@ -54,10 +52,9 @@ const FEEDS = [
   // Mistral AI — official native feed (replaces the older mirror) + official video
   { company: "Mistral AI", source: "News", url: "https://mistral.ai/rss.xml" },
   { company: "Mistral AI", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC5-pBdfdA3KUo-vq72l-umA" },
-  // Cohere — blog mirror + official changelog + status + video
+  // Cohere — blog mirror + official changelog + video
   { company: "Cohere", source: "Blog", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml" },
   { company: "Cohere", source: "Changelog", url: "https://docs.cohere.com/changelog.rss" },
-  { company: "Cohere", source: "Status", url: "https://status.cohere.com/history.rss" },
   { company: "Cohere", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCAKTUy0tz47ZY02DFpxMqoQ" }
 ];
 
