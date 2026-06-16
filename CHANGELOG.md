@@ -24,6 +24,8 @@ can see exactly what changed between any two versions.
 - Items are de-duplicated by link, so overlapping feeds for one company (e.g. its
   AI-tag and full newsroom) no longer produce duplicates.
 - Raised the dashboard item cap (`JSON_MAX`) from 360 to 800 for the larger feed set.
+- Items published today now show the publication time (e.g. "today, 13:00") in the
+  reader's local timezone; date-only feeds still show just "today".
 
 ## [1.0.0] - 2026-06-16
 
