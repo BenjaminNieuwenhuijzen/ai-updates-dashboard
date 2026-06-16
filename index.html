@@ -243,12 +243,24 @@
   /* ------------------------------------------------------------------
      Lijst met updates. Hele rij klikbaar naar het bronartikel.
   ------------------------------------------------------------------ */
-  /* Vaste, kortere kaarthoogte met een scrollbar per feed: in één oogopslag
-     overzicht, de rest scrollt binnen de kaart. */
-  .items { list-style: none; margin: 0; padding: 0; flex: 1; max-height: 340px; overflow-y: auto; }
-  .items::-webkit-scrollbar { width: 8px; }
-  .items::-webkit-scrollbar-thumb { background: var(--border); border-radius: 8px; }
-  .items { scrollbar-width: thin; scrollbar-color: var(--border) transparent; }
+  /* Lijst met updates: standaard compact (enkele items) met een "toon meer"
+     in plaats van een scrollbalk binnen de kaart, dus geen geneste scroll. */
+  .items { list-style: none; margin: 0; padding: 0; flex: 1; }
+  .more-li { border-bottom: none !important; }
+  .showmore {
+    width: 100%; background: transparent; color: var(--link);
+    border: none; padding: 9px; font-size: 12.5px; font-weight: 600; cursor: pointer;
+  }
+  .showmore:hover { background: var(--card-hover); }
+  /* "Load more" in de tijdlijn: zicht op hoeveel er nog is (oriëntatie) en
+     houdt de footer bereikbaar (UX-advies tegen eindeloos doorscrollen). */
+  .loadmore-wrap { text-align: center; padding: 6px 0 24px; }
+  .loadmore {
+    background: var(--card); color: var(--text); border: 1px solid var(--border);
+    border-radius: 8px; padding: 8px 22px; font-size: 13px; font-weight: 600; cursor: pointer;
+  }
+  .loadmore:hover { background: var(--card-hover); }
+  .loadmore-count { color: var(--muted); font-size: 11.5px; margin-top: 8px; }
   .items li { border-bottom: 1px solid var(--border); }
   .items li:last-child { border-bottom: none; }
   .items a.row, .items span.row {
@@ -356,6 +368,17 @@
   }
   .stream-row:hover::after { opacity: 1; }
   .stream-row.nolink:hover::after { opacity: 0; }
+
+  /* Bewaren (star): inline rechts in de datumregel, in beide weergaven. */
+  .row .date, .stream-row .date { display: flex; align-items: center; }
+  .star {
+    margin-left: auto; flex: none; cursor: pointer; color: var(--muted);
+    font-size: 14px; line-height: 1; padding: 1px 5px; border-radius: 5px; user-select: none;
+  }
+  .star:hover { color: var(--card-accent, var(--link)); background: var(--card-hover); }
+  .star.saved { color: #e0a800; }
+  .saved-toggle { display: flex; align-items: center; gap: 7px; font-size: 13px; color: var(--muted); cursor: pointer; }
+  .saved-toggle input { accent-color: var(--link); width: 15px; height: 15px; }
 
   /* ------------------------------------------------------------------
      Nieuw binnengekomen items: ongelezen-conventie (stip + korte
@@ -499,6 +522,9 @@
   #subscribe .sub-text { flex: 1 1 380px; }
   #subscribe h3 { margin: 0 0 3px; font-size: 14px; }
   #subscribe p { margin: 0; color: var(--muted); font-size: 12.5px; }
+  #subscribe .sub-alt { margin-top: 6px; }
+  #subscribe .sub-alt a { color: var(--link); text-decoration: none; }
+  #subscribe .sub-alt a:hover { text-decoration: underline; }
   .sub-btn {
     flex: none;
     display: inline-block;
@@ -584,7 +610,7 @@
     <svg viewBox="0 0 64 64" role="img" aria-label="Model Monitor logo"><rect width="64" height="64" rx="14" fill="#1f56c4"/><rect x="13" y="13" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><rect x="34" y="13" width="17" height="17" rx="5" fill="#fff"/><rect x="13" y="34" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><rect x="34" y="34" width="17" height="17" rx="5" fill="#fff" opacity=".5"/><circle cx="51" cy="13" r="8" fill="#7cc4ff" stroke="#1f56c4" stroke-width="3.5"/></svg>
     <div>
       <h1>Model Monitor</h1>
-      <div class="meta" id="updated" aria-live="polite" title="A blue dot marks posts added since the last refresh.">Loading updates…</div>
+      <div class="meta" id="updated" aria-live="polite" title="A blue dot marks posts added since your last visit.">Loading updates…</div>
     </div>
   </div>
   <div class="controls">
@@ -597,7 +623,7 @@
     </div>
     <div class="control">
       <label class="control-label" for="search">Search</label>
-      <input id="search" type="search" placeholder="Filter by keyword…" autocomplete="off">
+      <input id="search" type="search" placeholder="Filter by keyword…" autocomplete="off" title="Press / to jump here">
     </div>
     <button id="filtersBtn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="filtersPanel">Filters</button>
     <button id="refresh">Refresh</button>
@@ -633,6 +659,7 @@
       <button type="button" data-cat="veiligheid" aria-pressed="false">Safety &amp; policy</button>
       <button type="button" data-cat="overig" aria-pressed="false">Other</button>
     </nav>
+    <label class="saved-toggle"><input type="checkbox" id="savedOnly"> Saved only</label>
   </div>
 </header>
 
@@ -646,6 +673,7 @@
     <p>Subscribe for free via Blogtrottr to the combined Model Monitor feed: instantly per post, or
     bundled as a daily digest. You enter your email address at Blogtrottr and confirm by email; the
     address never reaches Model Monitor. You can unsubscribe from any email.</p>
+    <p class="sub-alt">Prefer your own reader? <a href="feed.xml" target="_blank" rel="noopener">Use the RSS feed</a> directly.</p>
   </div>
   <a class="sub-btn" href="https://blogtrottr.com/?subscribe=https%3A%2F%2Fbenjaminnieuwenhuijzen.github.io%2Fai-updates-dashboard%2Ffeed.xml" target="_blank" rel="noopener">Subscribe via Blogtrottr</a>
 </section>
@@ -867,15 +895,46 @@ const FEED_SOURCE = {
 };
 
 const REFRESH_MINUTES = 30;    // automatische verversing voor schermgebruik (0 = uit)
-const MAX_ITEMS = 12;           // aantal updates dat per kaart getoond wordt
+const MAX_ITEMS = 12;           // maximum aantal updates per kaart (na uitklappen)
+const GRID_PAGE = 5;            // updates per kaart vóór "toon meer"
+const STREAM_PAGE = 25;         // tijdlijnitems vóór "load more"
 const CACHE_LIMIT = 40;         // aantal items dat per bedrijf bewaard wordt (voor het filter)
 const CACHE_KEY = "ai-dashboard-cache-v3";
+const VIEW_KEY = "mm-view";     // laatst gekozen weergave (raster/tijdlijn)
 const STATE = {};               // bedrijf -> volledige, gesorteerde itemlijst
-const seenLinks = new Set();    // links die we al getoond hebben (voor de "nieuw"-markering)
-let firstLoad = true;           // bij de allereerste render niets als "nieuw" markeren
+const expandedCards = new Set();// kaartindexen die volledig uitgeklapt zijn
+let streamShown = STREAM_PAGE;  // hoeveel tijdlijnitems nu getoond worden
 
-// Item is nieuw als het na de eerste lading opduikt en we het nog niet kenden.
+/* "Nieuw sinds je vorige bezoek": geziene links bewaren we in localStorage, zodat
+   een terugkerende bezoeker meteen ziet wat er nieuw is, niet alleen binnen de
+   sessie. Bij het allereerste bezoek (geen opslag) markeren we niets. */
+const SEEN_KEY = "mm-seen-v1";
+function loadSeen() {
+  try { const a = JSON.parse(localStorage.getItem(SEEN_KEY)); return Array.isArray(a) ? a : null; }
+  catch (e) { return null; }
+}
+const storedSeen = loadSeen();
+const seenLinks = new Set(storedSeen || []);
+let firstLoad = storedSeen === null;   // alleen het allereerste bezoek markeert niets
+function saveSeen() {
+  try { localStorage.setItem(SEEN_KEY, JSON.stringify([...seenLinks].slice(-800))); } catch (e) {}
+}
+
+// Item is nieuw als we het nog niet kenden (en het niet het allereerste bezoek is).
 function isNew(link) { return !firstLoad && !!link && !seenLinks.has(link); }
+
+/* Bewaren voor later: bewaarde links in localStorage, plus een "Saved only"-
+   filter. Volledig lokaal, in lijn met de privacybelofte in de disclaimer. */
+const SAVED_KEY = "mm-saved-v1";
+function loadSaved() { try { const a = JSON.parse(localStorage.getItem(SAVED_KEY)); return Array.isArray(a) ? a : []; } catch (e) { return []; } }
+const savedLinks = new Set(loadSaved());
+function saveSaved() { try { localStorage.setItem(SAVED_KEY, JSON.stringify([...savedLinks])); } catch (e) {} }
+let savedOnly = false;
+function starHtml(link) {
+  if (!link) return "";
+  const on = savedLinks.has(link);
+  return `<span class="star${on ? " saved" : ""}" data-action="toggle-save" data-link="${escapeHtml(link)}" role="button" tabindex="0" aria-pressed="${on}" aria-label="${on ? "Saved" : "Save"}" title="${on ? "Saved — click to remove" : "Save for later"}">${on ? "★" : "☆"}</span>`;
+}
 
 /* Heuristiek: markeer berichten die over een nieuw of bijgewerkt AI-model
    lijken te gaan. Twee signalen: een modelnaam met versienummer in de tekst,
@@ -1151,6 +1210,7 @@ function renderItems(i, items) {
   if (currentQuery) {
     shown = shown.filter(matchesQuery);
   }
+  if (savedOnly) shown = shown.filter(it => savedLinks.has(it.link));
 
   if (!shown.length) {
     status.innerHTML = `No updates match this filter.
@@ -1161,18 +1221,25 @@ function renderItems(i, items) {
   }
 
   status.style.display = "none";
-  ul.innerHTML = shown.slice(0, MAX_ITEMS).map(it => {
+  const expanded = expandedCards.has(i);
+  const visible = shown.slice(0, expanded ? MAX_ITEMS : GRID_PAGE);
+  let html = visible.map(it => {
     const meta = fmtDate(it.date) + (it.source ? (fmtDate(it.date) ? " · " : "") + it.source : "");
     const summary = it.summary ? `<span class="summary">${escapeHtml(it.summary)}</span>` : "";
     const fresh = isNew(it.link);
-    const dot = fresh ? `<span class="newdot" title="New since the last refresh"></span>` : "";
+    const dot = fresh ? `<span class="newdot" title="New since your last visit"></span>` : "";
     const co = COMPANIES[i];
     const thumb = thumbHtml(it, co.logo, co.accent, co.name);
-    const inner = `${thumb}<div class="row-text"><span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}</span></div>`;
+    const inner = `${thumb}<div class="row-text"><span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}${starHtml(it.link)}</span></div>`;
     return it.link
       ? `<li><a class="row${fresh ? " is-new" : ""}" href="${it.link}" target="_blank" rel="noopener">${inner}</a></li>`
       : `<li><span class="row nolink">${inner}</span></li>`;
   }).join("");
+  const hidden = Math.min(shown.length, MAX_ITEMS) - visible.length;
+  if (!expanded && hidden > 0) {
+    html += `<li class="more-li"><button class="showmore" data-action="expand-card" data-i="${i}">Show ${hidden} more</button></li>`;
+  }
+  ul.innerHTML = html;
 }
 
 // Gecombineerde tijdlijn: alle bedrijven door elkaar, op datum, met logo en naam.
@@ -1189,6 +1256,7 @@ function renderStream() {
   all = all.filter(it => selectedCompanies.has(it.company));
   if (currentCategory !== "all") all = all.filter(it => categorize(it) === currentCategory);
   if (currentQuery) all = all.filter(matchesQuery);
+  if (savedOnly) all = all.filter(it => savedLinks.has(it.link));
   all.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
 
   if (!all.length) {
@@ -1196,18 +1264,26 @@ function renderStream() {
       <br><button class="actionbtn" data-action="reset-filters">Show all updates</button></div>`;
     return;
   }
-  wrap.innerHTML = all.map(it => {
+  const visible = all.slice(0, streamShown);
+  let html = visible.map(it => {
     const summary = it.summary ? `<span class="summary">${escapeHtml(it.summary)}</span>` : "";
     const meta = fmtDate(it.date) + (it.source ? (fmtDate(it.date) ? " · " : "") + it.source : "");
     const fresh = isNew(it.link);
-    const dot = fresh ? `<span class="newdot" title="New since the last refresh"></span>` : "";
+    const dot = fresh ? `<span class="newdot" title="New since your last visit"></span>` : "";
     const thumb = thumbHtml(it, it.logo, it.accent, it.company);
     const co = `<span class="stream-co">${logoFor(it.logo)}${escapeHtml(it.company)}</span>`;
-    const inner = `${thumb}<div class="row-text">${co}<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}</span></div>`;
+    const inner = `${thumb}<div class="row-text">${co}<span class="title">${dot}${escapeHtml(it.title)}</span>${summary}<span class="date">${catTag(it)}${meta}${starHtml(it.link)}</span></div>`;
     return it.link
       ? `<a class="stream-row${fresh ? " is-new" : ""}" style="--accent-co:${it.accent}" href="${it.link}" target="_blank" rel="noopener">${inner}</a>`
       : `<span class="stream-row nolink" style="--accent-co:${it.accent}">${inner}</span>`;
   }).join("");
+  if (all.length > visible.length) {
+    html += `<div class="loadmore-wrap">
+      <button class="loadmore" data-action="load-more-stream">Load more</button>
+      <div class="loadmore-count">Showing ${visible.length} of ${all.length}</div>
+    </div>`;
+  }
+  wrap.innerHTML = html;
 }
 
 // Hero: het grootste recente nieuws. Voorkeur voor een recente modelupdate met
@@ -1220,6 +1296,7 @@ function renderHero() {
     all.push(Object.assign({}, it, { company: c.name, logo: c.logo, accent: c.accent }))));
   all = all.filter(it => selectedCompanies.has(it.company));
   if (currentQuery) all = all.filter(matchesQuery);
+  if (savedOnly) all = all.filter(it => savedLinks.has(it.link));
   all.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
   if (!all.length) { wrap.innerHTML = ""; return; }
 
@@ -1390,6 +1467,7 @@ async function refreshAll() {
   // Alles wat nu getoond is, geldt voortaan als "gezien". Daarna mag de
   // volgende verversing weer nieuwe items markeren.
   COMPANIES.forEach(c => (STATE[c.name] || []).forEach(it => { if (it.link) seenLinks.add(it.link); }));
+  saveSeen();
   firstLoad = false;
 
   const now = new Date().toLocaleString("en-GB", { dateStyle: "long", timeStyle: "short" });
@@ -1408,6 +1486,8 @@ function labelFor(feedUrl) {
 
 // Alle weergaven opnieuw opbouwen uit STATE, zonder feeds opnieuw op te halen.
 function applyFilter() {
+  streamShown = STREAM_PAGE;     // bij een filterwijziging weer vanaf het begin
+  expandedCards.clear();
   COMPANIES.forEach((c, i) => renderItems(i, STATE[c.name] || []));
   applyCompanyVisibility();
   renderStream();
@@ -1425,6 +1505,7 @@ function setView(view) {
     b.classList.toggle("active", on);
     b.setAttribute("aria-pressed", String(on));   // status hoorbaar voor schermlezers
   });
+  try { localStorage.setItem(VIEW_KEY, view); } catch (e) {}
 }
 
 buildCards();
@@ -1433,6 +1514,8 @@ document.getElementById("refresh").addEventListener("click", refreshAll);
 document.getElementById("period").addEventListener("change", applyFilter);
 document.querySelectorAll("#view button").forEach(b =>
   b.addEventListener("click", () => setView(b.dataset.view)));
+// Laatst gekozen weergave herstellen (raster blijft de standaard).
+try { const sv = localStorage.getItem(VIEW_KEY); if (sv === "stream" || sv === "grid") setView(sv); } catch (e) {}
 
 // Bedrijfsselectie (multi-select) vullen en bedraden.
 const companyBtn = document.getElementById("companyBtn");
@@ -1572,6 +1655,7 @@ function activeFilterCount() {
   if (currentPeriodDays() > 0) n++;
   if (currentCategory !== "all") n++;
   if (selectedCompanies.size !== COMPANIES.length) n++;
+  if (savedOnly) n++;
   return n;
 }
 function updateFiltersBtn() {
@@ -1587,16 +1671,45 @@ filtersBtn.addEventListener("click", () => {
 });
 updateFiltersBtn();
 
+// "Saved only"-filter: toont alleen items die je hebt bewaard.
+const savedOnlyEl = document.getElementById("savedOnly");
+if (savedOnlyEl) savedOnlyEl.addEventListener("change", () => { savedOnly = savedOnlyEl.checked; applyFilter(); });
+
 // Herstelacties in status- en foutmeldingen (Nielsen #9: bied een uitweg).
 document.addEventListener("click", e => {
   const btn = e.target.closest("[data-action]");
   if (!btn) return;
+  if (btn.dataset.action === "toggle-save") {
+    e.preventDefault();                       // niet doorklikken naar het artikel
+    const link = btn.dataset.link;
+    if (savedLinks.has(link)) savedLinks.delete(link); else savedLinks.add(link);
+    saveSaved();
+    const on = savedLinks.has(link);
+    btn.classList.toggle("saved", on);
+    btn.textContent = on ? "★" : "☆";
+    btn.setAttribute("aria-pressed", String(on));
+    btn.setAttribute("aria-label", on ? "Saved" : "Save");
+    btn.setAttribute("title", on ? "Saved — click to remove" : "Save for later");
+    if (savedOnly) applyFilter();             // verdwijnt uit de lijst als 'Saved only' aanstaat
+    return;
+  }
   if (btn.dataset.action === "retry") refreshAll();
+  if (btn.dataset.action === "expand-card") {
+    const i = parseInt(btn.dataset.i, 10);
+    expandedCards.add(i);
+    renderItems(i, STATE[COMPANIES[i].name] || []);
+  }
+  if (btn.dataset.action === "load-more-stream") {
+    streamShown += STREAM_PAGE;
+    renderStream();
+  }
   if (btn.dataset.action === "reset-filters") {
     document.getElementById("period").value = "0";
     document.getElementById("search").value = "";
     currentQuery = "";
     currentCategory = "all";
+    savedOnly = false;
+    { const so = document.getElementById("savedOnly"); if (so) so.checked = false; }
     selectedCompanies = new Set(COMPANIES.map(c => c.name));
     saveSelectedCompanies();
     syncCompanyUI();
@@ -1606,6 +1719,24 @@ document.addEventListener("click", e => {
       x.setAttribute("aria-pressed", String(on));
     });
     applyFilter();
+  }
+});
+
+// Sneltoets "/" zet de cursor in de zoekbalk (zoals Hacker News en Feedly).
+document.addEventListener("keydown", e => {
+  if (e.key !== "/" || e.metaKey || e.ctrlKey || e.altKey) return;
+  const tag = ((document.activeElement || {}).tagName || "");
+  if (/^(INPUT|TEXTAREA|SELECT)$/.test(tag)) return;
+  e.preventDefault();
+  document.getElementById("search").focus();
+});
+
+// Toetsenbordbediening voor de bewaar-ster (Enter of spatie).
+document.addEventListener("keydown", e => {
+  const t = e.target;
+  if ((e.key === "Enter" || e.key === " ") && t && t.classList && t.classList.contains("star")) {
+    e.preventDefault();
+    t.click();
   }
 });
 
