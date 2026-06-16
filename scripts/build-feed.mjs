@@ -6,24 +6,65 @@
 import { writeFileSync, readFileSync } from "node:fs";
 
 // company = exact card name in the dashboard; source = sublabel (when there are multiple feeds).
+// All URLs verified live (2026-06-16). format=Atom feeds (<entry>) need the Atom branch
+// in the parser below; format=RSS feeds use <item>. Channel IDs for YouTube confirmed official.
 const FEEDS = [
-  { company: "OpenAI", source: "", url: "https://openai.com/news/rss.xml" },
-  { company: "Anthropic", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" },
+  // OpenAI — official news + developer-platform docs + status + video
+  { company: "OpenAI", source: "News", url: "https://openai.com/news/rss.xml" },
+  { company: "OpenAI", source: "Developer", url: "https://developers.openai.com/rss.xml" },
+  { company: "OpenAI", source: "Status", url: "https://status.openai.com/history.rss" },
+  { company: "OpenAI", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A" },
+  // Anthropic — community mirrors (Anthropic publishes no native RSS) + Claude Code releases + video
+  { company: "Anthropic", source: "News", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" },
+  { company: "Anthropic", source: "Research", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml" },
+  { company: "Anthropic", source: "Engineering", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml" },
+  { company: "Anthropic", source: "Claude Code", url: "https://github.com/anthropics/claude-code/releases.atom" },
+  { company: "Anthropic", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA" },
+  // Google — AI blog + DeepMind + Research + Cloud AI + Gemini product + DeepMind video
   { company: "Google (AI & DeepMind)", source: "Google AI", url: "https://blog.google/technology/ai/rss/" },
   { company: "Google (AI & DeepMind)", source: "DeepMind", url: "https://deepmind.google/blog/rss.xml" },
-  { company: "Meta AI", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml" },
-  { company: "Microsoft AI", source: "", url: "https://news.microsoft.com/source/topics/ai/feed/" },
-  { company: "NVIDIA", source: "", url: "https://blogs.nvidia.com/feed/" },
-  { company: "Hugging Face", source: "", url: "https://huggingface.co/blog/feed.xml" },
+  { company: "Google (AI & DeepMind)", source: "Research", url: "https://research.google/blog/rss/" },
+  { company: "Google (AI & DeepMind)", source: "Cloud AI", url: "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/" },
+  { company: "Google (AI & DeepMind)", source: "Gemini", url: "https://blog.google/products/gemini/rss/" },
+  { company: "Google (AI & DeepMind)", source: "DeepMind video", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A" },
+  // Meta AI — research-blog mirror + AI-tag newsroom + full newsroom + video (dedup handles overlap)
+  { company: "Meta AI", source: "Blog", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml" },
+  { company: "Meta AI", source: "Newsroom (AI)", url: "https://about.fb.com/news/tag/ai/feed/" },
+  { company: "Meta AI", source: "Newsroom", url: "https://about.fb.com/news/feed/" },
+  { company: "Meta AI", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC5qxlwEKM7-5YZudb24l0bg" },
+  // Microsoft AI — Source newsroom + Research + Agent Framework + Azure + Microsoft 365
+  { company: "Microsoft AI", source: "Source", url: "https://news.microsoft.com/source/topics/ai/feed/" },
+  { company: "Microsoft AI", source: "Research", url: "https://www.microsoft.com/en-us/research/feed/" },
+  { company: "Microsoft AI", source: "Agent Framework", url: "https://devblogs.microsoft.com/semantic-kernel/feed/" },
+  { company: "Microsoft AI", source: "Azure", url: "https://azure.microsoft.com/en-us/blog/feed/" },
+  { company: "Microsoft AI", source: "Microsoft 365", url: "https://www.microsoft.com/en-us/microsoft-365/blog/feed/" },
+  // NVIDIA — corporate blog + newsroom press + technical/developer blog (Atom) + video
+  { company: "NVIDIA", source: "Blog", url: "https://blogs.nvidia.com/feed/" },
+  { company: "NVIDIA", source: "Newsroom", url: "https://nvidianews.nvidia.com/rss.xml" },
+  { company: "NVIDIA", source: "Developer", url: "https://developer.nvidia.com/blog/feed/" },
+  { company: "NVIDIA", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCHuiy8bXnmK5nisYHUd1J5g" },
+  // Hugging Face — official blog + status + video (HF exposes no other native RSS)
+  { company: "Hugging Face", source: "Blog", url: "https://huggingface.co/blog/feed.xml" },
+  { company: "Hugging Face", source: "Status", url: "https://status.huggingface.co/feed.rss" },
+  { company: "Hugging Face", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCHlNU7kIZhRgSbhHvFoy72w" },
+  // xAI (Grok) — community mirror of x.ai/news only (no official RSS or legitimate YouTube exists)
   { company: "xAI (Grok)", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml" },
-  { company: "Perplexity", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_perplexity_hub.xml" },
-  { company: "Mistral AI", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml" },
-  { company: "Cohere", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml" }
+  // Perplexity — community mirror of perplexity.ai/hub (no native RSS at all) + official video
+  { company: "Perplexity", source: "Hub", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_perplexity_hub.xml" },
+  { company: "Perplexity", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCYqxnCFtaC4-iC_bwt2bRLg" },
+  // Mistral AI — official native feed (replaces the older mirror) + official video
+  { company: "Mistral AI", source: "News", url: "https://mistral.ai/rss.xml" },
+  { company: "Mistral AI", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC5-pBdfdA3KUo-vq72l-umA" },
+  // Cohere — blog mirror + official changelog + status + video
+  { company: "Cohere", source: "Blog", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml" },
+  { company: "Cohere", source: "Changelog", url: "https://docs.cohere.com/changelog.rss" },
+  { company: "Cohere", source: "Status", url: "https://status.cohere.com/history.rss" },
+  { company: "Cohere", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCAKTUy0tz47ZY02DFpxMqoQ" }
 ];
 
 const PER_FEED = 40;       // items per source feed
 const RSS_MAX = 60;        // items in the combined RSS (email)
-const JSON_MAX = 360;      // items in data.json (dashboard)
+const JSON_MAX = 800;      // items in data.json (dashboard) — raised for the larger feed set
 const MAX_FETCH = 170;     // max article pages to fetch per run (rest from cache)
 const CONCURRENCY = 8;
 
@@ -44,12 +85,31 @@ const deEnt = s => s.replace(/&amp;/g, "&").replace(/&#x2F;/gi, "/").replace(/&#
 const norm = s => (s || "").toLowerCase().replace(/\s+/g, " ").trim();
 
 function rssImage(block) {
-  let m = block.match(/<media:(?:content|thumbnail)[^>]*\burl="([^"]+)"/i);
-  if (m) return deEnt(m[1]);
-  m = block.match(/<enclosure[^>]*\burl="([^"]+)"[^>]*type="image/i) || block.match(/<enclosure[^>]*type="image[^>]*\burl="([^"]+)"/i);
+  // media:content / media:thumbnail. Skip non-image media:content (YouTube lists the video
+  // URL as media:content before the thumbnail) and tiny author avatars (GitHub releases.atom).
+  for (const mm of block.matchAll(/<media:(content|thumbnail)\b([^>]*)>/gi)) {
+    const tag = mm[1].toLowerCase(), attrs = mm[2];
+    const u = attrs.match(/\burl="([^"]+)"/i);
+    if (!u) continue;
+    const type = attrs.match(/\btype="([^"]+)"/i);
+    if (tag === "content" && type && !/^image\//i.test(type[1])) continue;
+    const w = attrs.match(/\bwidth="(\d+)"/i);
+    if (w && Number(w[1]) <= 120) continue;
+    if (/avatars\.githubusercontent\.com/i.test(u[1])) continue;
+    return deEnt(u[1]);
+  }
+  let m = block.match(/<enclosure[^>]*\burl="([^"]+)"[^>]*type="image/i) || block.match(/<enclosure[^>]*type="image[^>]*\burl="([^"]+)"/i);
   if (m) return deEnt(m[1]);
   const dec = block.replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"');
   m = dec.match(/<img[^>]*\bsrc="([^"]+)"/i);
+  return m ? deEnt(m[1]) : "";
+}
+
+// Atom <link href="..."> extraction (prefer rel="alternate"; YouTube/GitHub use that).
+function atomLink(block) {
+  let m = block.match(/<link[^>]*\brel=["']alternate["'][^>]*\bhref=["']([^"']+)["']/i)
+       || block.match(/<link[^>]*\bhref=["']([^"']+)["'][^>]*\brel=["']alternate["']/i)
+       || block.match(/<link[^>]*\bhref=["']([^"']+)["']/i);
   return m ? deEnt(m[1]) : "";
 }
 
@@ -85,34 +145,60 @@ async function pool(tasks, size) {
   }));
 }
 
-// ---- fetch source feeds ----
+// ---- fetch source feeds (handles both RSS <item> and Atom <entry>) ----
 const items = [];
 for (const feed of FEEDS) {
   try {
-    const res = await fetch(feed.url, { signal: AbortSignal.timeout(20000) });
+    const res = await fetch(feed.url, {
+      signal: AbortSignal.timeout(20000),
+      headers: { "user-agent": "Mozilla/5.0 (compatible; AIRadarBot/1.0)" }
+    });
     if (!res.ok) { console.error(`${feed.company}/${feed.source || "-"}: HTTP ${res.status}`); continue; }
     const xml = await res.text();
+    // Atom = has <entry> and no <item>. (RSS feeds may carry an <atom:link> self-ref,
+    // so we must NOT detect on the Atom namespace alone.)
+    const isAtom = !/<item[\s>]/i.test(xml) && /<entry[\s>]/i.test(xml);
+    const blockRe = isAtom ? /<entry[\s>][\s\S]*?<\/entry>/gi : /<item[\s>][\s\S]*?<\/item>/gi;
     let count = 0;
-    for (const m of xml.matchAll(/<item[\s>][\s\S]*?<\/item>/gi)) {
+    for (const m of xml.matchAll(blockRe)) {
       const block = m[0];
       const title = strip(unCdata(pick(block, "title")));
-      const link = unCdata(pick(block, "link"));
-      const pubDate = pick(block, "pubDate");
-      const t = Date.parse(pubDate);
+      let link, pubDate, t, desc;
+      if (isAtom) {
+        link = atomLink(block);
+        t = Date.parse(pick(block, "published") || pick(block, "updated"));
+        pubDate = isNaN(t) ? "" : new Date(t).toUTCString();   // RFC822 for the email RSS
+        desc = strip(unCdata(pick(block, "summary") || pick(block, "media:description") || pick(block, "content"))).slice(0, 300);
+      } else {
+        link = unCdata(pick(block, "link"));
+        pubDate = pick(block, "pubDate");
+        t = Date.parse(pubDate);
+        desc = strip(unCdata(pick(block, "description"))).slice(0, 300);
+      }
       if (!title || !link || isNaN(t)) continue;
-      let desc = strip(unCdata(pick(block, "description"))).slice(0, 300);
       if (norm(desc) === norm(title)) desc = "";
       items.push({ company: feed.company, source: feed.source, title, link, pubDate, t, desc, image: rssImage(block) });
       if (++count >= PER_FEED) break;
     }
-    console.log(`${feed.company}/${feed.source || "-"}: ${count} items`);
+    console.log(`${feed.company}/${feed.source || "-"}: ${count} items${isAtom ? " (atom)" : ""}`);
   } catch (e) {
     console.error(`${feed.company}/${feed.source || "-"}: ${e.message}`);
   }
 }
 
 items.sort((a, b) => b.t - a.t);
-const kept = items.slice(0, JSON_MAX);
+// De-duplicate by link: overlapping feeds for one company (e.g. the AI-tag newsroom and the
+// full newsroom) can carry the same article. Keep the first (newest) occurrence. Only the URL
+// fragment + trailing slash are normalized, so distinct ?v= YouTube videos are kept separate.
+const seenLinks = new Set();
+const deduped = [];
+for (const it of items) {
+  const key = (it.link || "").trim().replace(/#.*$/, "").replace(/\/+$/, "").toLowerCase();
+  if (key && seenLinks.has(key)) continue;
+  if (key) seenLinks.add(key);
+  deduped.push(it);
+}
+const kept = deduped.slice(0, JSON_MAX);
 
 // ---- fill in images + summaries ----
 const cache = {};

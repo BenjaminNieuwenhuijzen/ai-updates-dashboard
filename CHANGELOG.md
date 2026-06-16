@@ -9,6 +9,22 @@ can see exactly what changed between any two versions.
 
 ## [Unreleased]
 
+### Added
+- Atom feed support in the build (`<entry>` / `<published>` / `<updated>` /
+  `<link href>`), alongside the existing RSS `<item>` parsing.
+- Many more sources per company — **12 → 40 feeds across the same 11 companies**:
+  developer / research / engineering blogs, official newsrooms, product and
+  release-note changelogs, service-status feeds, and each company's official
+  YouTube channel.
+- Mistral now reads its official native feed instead of the community mirror.
+
+### Changed
+- `rssImage` skips non-image `media:content` (e.g. YouTube's video URL) and tiny
+  author avatars (GitHub release feeds), so the real thumbnail is used.
+- Items are de-duplicated by link, so overlapping feeds for one company (e.g. its
+  AI-tag and full newsroom) no longer produce duplicates.
+- Raised the dashboard item cap (`JSON_MAX`) from 360 to 800 for the larger feed set.
+
 ## [1.0.0] - 2026-06-16
 
 First tagged release. AI Radar (formerly "Model Monitor") aggregates news from 11
