@@ -1,0 +1,25 @@
+# Configures GitHub's automatically generated release notes (used by the Release
+# workflow and the "Generate release notes" button). Routine feed-data commits
+# from the build bot are excluded; categories group merged PRs by label.
+changelog:
+  exclude:
+    authors:
+      - github-actions
+      - github-actions[bot]
+      - dependabot[bot]
+  categories:
+    - title: Features
+      labels:
+        - feature
+        - enhancement
+    - title: Fixes
+      labels:
+        - fix
+        - bug
+    - title: Documentation
+      labels:
+        - docs
+        - documentation
+    - title: Other changes
+      labels:
+        - "*"

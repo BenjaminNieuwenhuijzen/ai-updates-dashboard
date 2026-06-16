@@ -35,6 +35,20 @@ To enable it: add the secret under **Settings → Secrets and variables → Acti
 
 The dashboard is a single self-contained file. Serve the repository folder with any static web server and open `index.html`. The build script needs Node 20+, but it only runs in CI.
 
+## Versioning and releases
+
+The project follows [Semantic Versioning](https://semver.org/), and every notable change is recorded in [CHANGELOG.md](CHANGELOG.md).
+
+Tagged releases (`vX.Y.Z`) automatically create a GitHub Release: pushing a tag runs `.github/workflows/release.yml`, which generates release notes and a "Full Changelog" link comparing the tag to the previous release. So each release shows exactly what changed since the last version and links back through the whole history. Routine feed-data commits made by the build bot are excluded from the notes.
+
+To make per-change history easy to review, prefer pull requests over direct pushes: create a branch, open a PR (a template is provided), review the diff, then merge. Merged PRs are grouped into the next release's notes.
+
+```
+# cut a release once changes are on main
+git tag -a v1.1.0 -m "AI Radar 1.1.0"
+git push origin v1.1.0
+```
+
 ## Sources and disclaimer
 
 AI Radar reads publicly available feeds and displays them unchanged. Some companies are read from an official feed; the others from a community feed that may lag behind. No rights can be derived from the information shown, and no guarantee is made as to its accuracy, completeness or timeliness. All rights to the posts remain with the original sources. Brand names and logos are the property of their respective owners and are used for identification only; this project is not affiliated with or endorsed by any of the companies listed.

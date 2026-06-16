@@ -1,0 +1,24 @@
+name: Release
+
+# Create a GitHub Release whenever a version tag (vX.Y.Z) is pushed. The release
+# notes are generated automatically from the commits/PRs since the previous tag,
+# and include a "Full Changelog" link comparing this version to the last one.
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Create GitHub Release with generated notes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "${GITHUB_REF_NAME}" --title "${GITHUB_REF_NAME}" --generate-notes --verify-tag
