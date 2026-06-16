@@ -453,6 +453,34 @@
     .hero-media img { height: 180px; min-height: 0; }
   }
 
+  /* Hero-layout: leadstory links, een kort rijtje andere topkoppen rechts.
+     Het rijtje toont de nieuwste andere koppen, hoogstens één per bedrijf, dus
+     een cross-bedrijf-selectie die niet de per-bedrijf-rasterweergave eronder
+     herhaalt. */
+  .hero-layout { display: grid; grid-template-columns: minmax(0, 2fr) minmax(220px, 1fr); gap: 16px; align-items: stretch; }
+  .hero-rail {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    box-shadow: var(--shadow);
+    padding: 0 16px 4px;
+    display: flex;
+    flex-direction: column;
+  }
+  .hero-rail h3 {
+    margin: 0; padding: 13px 0 11px;
+    font-size: 12px; font-weight: 650; text-transform: uppercase; letter-spacing: .06em;
+    color: var(--muted); border-bottom: 1px solid var(--border);
+  }
+  .rail-item { display: block; text-decoration: none; color: inherit; padding: 11px 0; border-bottom: 1px solid var(--border); }
+  .rail-item:last-child { border-bottom: 0; }
+  .rail-co { display: flex; align-items: center; gap: 6px; font-size: 11.5px; font-weight: 650; color: var(--accent-co, var(--muted)); margin-bottom: 3px; }
+  .rail-co svg { width: 14px; height: 14px; flex: none; }
+  .rail-title { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; font-size: 13.5px; font-weight: 550; line-height: 1.3; }
+  .rail-item:hover .rail-title { color: var(--link); }
+  .rail-date { display: block; font-size: 11px; color: var(--muted); margin-top: 4px; }
+  @media (max-width: 860px) { .hero-layout { grid-template-columns: 1fr; } }
+
   /* ------------------------------------------------------------------
      Abonneren per mail.
   ------------------------------------------------------------------ */
@@ -1199,8 +1227,7 @@ function renderHero() {
     ? `<div class="hero-media"><img src="${escapeHtml(hero.image)}" alt="" referrerpolicy="no-referrer" onerror="this.closest('.hero-media').remove()"></div>` : "";
   const meta = fmtDate(hero.date) + (hero.source ? " · " + hero.source : "");
   const summary = hero.summary ? `<p class="hero-summary">${escapeHtml(hero.summary)}</p>` : "";
-  wrap.innerHTML = `<p class="hero-eyebrow">Top story</p>
-    <a class="hero-card" style="--accent-co:${hero.accent}" href="${hero.link}" target="_blank" rel="noopener">
+  const heroCard = `<a class="hero-card" style="--accent-co:${hero.accent}" href="${hero.link}" target="_blank" rel="noopener">
       ${media}
       <div class="hero-body">
         <span class="hero-kicker">${logoFor(hero.logo)}${escapeHtml(hero.company)}<span class="hero-tag">${CATS[categorize(hero)]}</span></span>
@@ -1209,6 +1236,35 @@ function renderHero() {
         <div class="hero-date">${meta}</div>
       </div>
     </a>`;
+
+  // Rijtje "more top stories": de nieuwste andere koppen, hoogstens één per
+  // bedrijf voor variatie. Een cross-bedrijf-selectie die de per-bedrijf-
+  // rasterweergave eronder niet dupliceert.
+  const rest = all.filter(it => it.link && it.link !== hero.link);
+  const rail = [];
+  const usedCo = new Set();
+  for (const it of rest) {                       // ander bedrijf dan de lead, één per bedrijf
+    if (rail.length >= 3) break;
+    if (it.company === hero.company || usedCo.has(it.company)) continue;
+    rail.push(it); usedCo.add(it.company);
+  }
+  for (const it of rest) {                       // aanvullen als er te weinig bedrijven zijn
+    if (rail.length >= 3) break;
+    if (!rail.includes(it)) rail.push(it);
+  }
+
+  const railHtml = rail.length ? `<aside class="hero-rail" aria-label="More top stories">
+      <h3>More top stories</h3>
+      ${rail.map(it => `<a class="rail-item" style="--accent-co:${it.accent}" href="${it.link}" target="_blank" rel="noopener">
+          <span class="rail-co">${logoFor(it.logo)}${escapeHtml(it.company)}</span>
+          <span class="rail-title">${escapeHtml(it.title)}</span>
+          <span class="rail-date">${fmtDate(it.date)}</span>
+        </a>`).join("")}
+    </aside>` : "";
+
+  wrap.innerHTML = `<p class="hero-eyebrow">Top story</p>` + (railHtml
+    ? `<div class="hero-layout">${heroCard}${railHtml}</div>`
+    : heroCard);
 }
 
 // Toon/verberg kaarten op basis van de geselecteerde bedrijven.
