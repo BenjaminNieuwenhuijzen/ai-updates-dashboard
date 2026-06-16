@@ -5,20 +5,13 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 16 Jun 2026 11:35:32 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 13:09:56 GMT</lastBuildDate>
 <item>
 <title>[Newsroom] New Features to Celebrate 500 Million Monthly Users on Threads</title>
 <link>https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/</link>
 <guid isPermaLink="false">https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/</guid>
 <pubDate>Tue, 16 Jun 2026 11:00:31 +0000</pubDate>
 <description>We're launching new communities features on Threads to celebrate reaching 500 million monthly active users. The post New Features to Celebrate 500 Million Monthly Users on Threads appeared first on Meta Newsroom .</description>
-</item>
-<item>
-<title>[Status] Codex "Selected Model is at Capacity" Error</title>
-<link>https://status.openai.com//incidents/01KV7ZT644J4V94GSXMFPY2ANR</link>
-<guid isPermaLink="false">https://status.openai.com//incidents/01KV7ZT644J4V94GSXMFPY2ANR</guid>
-<pubDate>Tue, 16 Jun 2026 10:32:11 GMT</pubDate>
-<description>Status: Identified We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation. Affected components Codex Web (Degraded performance) CLI (Degraded performance) App (Degraded performance) VS Code extension (Degraded performance</description>
 </item>
 <item>
 <title>[YouTube] In Conversation with Arun Khurana of Accenture</title>
@@ -28,32 +21,11 @@
 <description>In this interview, Arun Khurana, Senior Managing Partner at Accenture, talks to Savannah Peterson about the evolving landscape of technology, AI at scale, and corporate data strategies. They discuss: * Accenture’s creation of brand-new executive roles designed solely to navigate the exploding AI eco</description>
 </item>
 <item>
-<title>[Status] Users may experience issue with Codex Cloud tasks</title>
-<link>https://status.openai.com//incidents/01KV6W1JX2T4T1455777Q1R2W5</link>
-<guid isPermaLink="false">https://status.openai.com//incidents/01KV6W1JX2T4T1455777Q1R2W5</guid>
-<pubDate>Tue, 16 Jun 2026 00:55:57 GMT</pubDate>
-<description>Status: Resolved All impacted services have now fully recovered. Affected components Codex Web (Operational)</description>
-</item>
-<item>
 <title>[YouTube] Build and test iOS apps without leaving Codex</title>
 <link>https://www.youtube.com/watch?v=u9zLlcsCDiQ</link>
 <guid isPermaLink="false">https://www.youtube.com/watch?v=u9zLlcsCDiQ</guid>
 <pubDate>Mon, 15 Jun 2026 23:20:32 GMT</pubDate>
 <description>More of the iOS app loop, now inside Codex. The Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload edits without leaving Codex. Shoutout to the open source projects behind this: • Serve-sim powers the streaming simulator by @Bacon</description>
-</item>
-<item>
-<title>[Status] FedRAMP workspaces and API orgs have degraded performance</title>
-<link>https://status.openai.com//incidents/01KV6NGBYE50GK3TRXHD2EMTXA</link>
-<guid isPermaLink="false">https://status.openai.com//incidents/01KV6NGBYE50GK3TRXHD2EMTXA</guid>
-<pubDate>Mon, 15 Jun 2026 22:16:11 GMT</pubDate>
-<description>Status: Investigating We are investigating the issue for the listed services. Affected components FedRAMP (Degraded performance)</description>
-</item>
-<item>
-<title>[Status] OAuth Account Creation / Login Error</title>
-<link>https://status.openai.com//incidents/01KV67B3HB2B6JKHAMHCCYS0KZ</link>
-<guid isPermaLink="false">https://status.openai.com//incidents/01KV67B3HB2B6JKHAMHCCYS0KZ</guid>
-<pubDate>Mon, 15 Jun 2026 20:12:26 GMT</pubDate>
-
 </item>
 <item>
 <title>[Developer] Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes</title>
@@ -238,13 +210,6 @@
 <description>As part of the Build Small hackathon we are inviting our partners to share their knowledge on how to get the most out of their platform. Today we are joined by Modal who will walk us through some use-case for Modal's cloud compute as well as taking questions from the community! --- Build Small Hacka</description>
 </item>
 <item>
-<title>[Status] Elevated 431 Errors</title>
-<link>https://status.openai.com//incidents/01KTWCER83NNKE698QXNXJG11M</link>
-<guid isPermaLink="false">https://status.openai.com//incidents/01KTWCER83NNKE698QXNXJG11M</guid>
-<pubDate>Fri, 12 Jun 2026 00:47:57 GMT</pubDate>
-<description>Status: Resolved All impacted services have now fully recovered. Affected components Moderations (Operational) Responses (Operational) Login (Operational) Images (Operational) Chat Completions (Operational) Fine-tuning (Operational) Realtime (Operational) Files (Operational) Sora (Operational) Batch</description>
-</item>
-<item>
 <title>[YouTube] Debug web apps with browser use in Codex</title>
 <link>https://www.youtube.com/watch?v=bhgYFRZLyKI</link>
 <guid isPermaLink="false">https://www.youtube.com/watch?v=bhgYFRZLyKI</guid>
@@ -278,13 +243,6 @@
 <guid isPermaLink="false">https://www.anthropic.com/news/fable-mythos-access</guid>
 <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
 <description>The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.</description>
-</item>
-<item>
-<title>[Status] Elevated error rates for GPT 5.5 in Codex</title>
-<link>https://status.openai.com//incidents/01KTW7QY5W9DDYT0ETXX6MPVSY</link>
-<guid isPermaLink="false">https://status.openai.com//incidents/01KTW7QY5W9DDYT0ETXX6MPVSY</guid>
-<pubDate>Thu, 11 Jun 2026 22:28:09 GMT</pubDate>
-<description>Status: Resolved All impacted services have now fully recovered. Affected components App (Operational) VS Code extension (Operational) Codex API (Operational) Codex Web (Operational) CLI (Operational)</description>
 </item>
 <item>
 <title>[Newsroom] NVIDIA Stockholder Meeting Set for June 24; Individuals Can Participate Online</title>
@@ -378,13 +336,6 @@
 <description>In November, @jamesbensonking will attempt to become the first person to cycle solo and unsupported from the edge of Antarctica to the South Pole, a journey that could take up to 60 days. But for James, the real challenge begins long before he sets foot or wheel on the ice. With no existing blueprin</description>
 </item>
 <item>
-<title>[Status] Disruption in service availabilty for Free and Go users</title>
-<link>https://status.openai.com//incidents/01KTVCFSN91M935M3MD3Z9W7C9</link>
-<guid isPermaLink="false">https://status.openai.com//incidents/01KTVCFSN91M935M3MD3Z9W7C9</guid>
-<pubDate>Thu, 11 Jun 2026 14:04:45 GMT</pubDate>
-
-</item>
-<item>
 <title>[Blog] Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings</title>
 <link>https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/</link>
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/</guid>
@@ -420,11 +371,60 @@
 <description>As part of the Build Small hackathon we are inviting our partners to share their knowledge on how to get the most out of the tiny models available today. Today we are joined by Cohere Labs who will walk us through their Tiny Aya and Transcribe models and answer any questions from the community! --- </description>
 </item>
 <item>
+<title>[News] How an astrophysicist uses Codex to help simulate black holes</title>
+<link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
+<guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</description>
+</item>
+<item>
+<title>[News] BBVA puts AI at the core of banking with OpenAI</title>
+<link>https://openai.com/index/bbva</link>
+<guid isPermaLink="false">https://openai.com/index/bbva</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</description>
+</item>
+<item>
+<title>[News] Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
+<link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
+<guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
+</item>
+<item>
 <title>[News] OpenAI to acquire Ona</title>
 <link>https://openai.com/index/openai-to-acquire-ona</link>
 <guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
 <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
 <description>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</description>
+</item>
+<item>
+<title>[News] DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
+<link>https://www.anthropic.com/news/dxc-anthropic-alliance</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+<description>We’re announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.</description>
+</item>
+<item>
+<title>[News] Introducing Claude Corps</title>
+<link>https://www.anthropic.com/news/claude-corps</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/claude-corps</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+<description>We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.</description>
+</item>
+<item>
+<title>[Blog] Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP</title>
+<link>https://huggingface.co/blog/torch-mlp-fusion</link>
+<guid isPermaLink="false">https://huggingface.co/blog/torch-mlp-fusion</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[YouTube] For Robotaxis, Safety Must Be Built In, Not Bolted On</title>
+<link>https://www.youtube.com/shorts/0B62mzkASs8</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/0B62mzkASs8</guid>
+<pubDate>Wed, 10 Jun 2026 20:54:33 GMT</pubDate>
+<description>We asked people around the NVIDIA office what they really think about robotaxis. The answers: better vibes, safer rides, precise pickups, no parking, and no awkward small talk. Watch the office takes, then learn how NVIDIA Halos OS helps build safety into AI-driven vehicles from the start: https://n</description>
 </item>
 </channel>
 </rss>
