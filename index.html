@@ -7,8 +7,8 @@
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231f56c4'/%3E%3Cpath d='M31 34 L31 17 A17 17 0 0 1 43 22 Z' fill='%23fff' opacity='.18'/%3E%3Ccircle cx='31' cy='34' r='17' fill='none' stroke='%23fff' stroke-width='2.4' opacity='.4'/%3E%3Ccircle cx='31' cy='34' r='11' fill='none' stroke='%23fff' stroke-width='2.4' opacity='.6'/%3E%3Cline x1='31' y1='34' x2='43' y2='22' stroke='%23fff' stroke-width='2.4' stroke-linecap='round' opacity='.9'/%3E%3Ccircle cx='31' cy='34' r='3' fill='%23fff'/%3E%3Ccircle cx='40' cy='25' r='3.6' fill='%237cc4ff' stroke='%231f56c4' stroke-width='2.4'/%3E%3C/svg%3E">
 <style>
   /* ------------------------------------------------------------------
-     Thema. Licht als standaard (conventie voor nieuwsdashboards),
-     automatisch donker wanneer het systeem donker staat.
+     Theme. Light as the default (convention for news dashboards),
+     automatically dark when the system is set to dark.
   ------------------------------------------------------------------ */
   :root {
     --bg: #f5f6f8;
@@ -58,8 +58,8 @@
   }
 
   /* ------------------------------------------------------------------
-     Header: vaste balk met titel, status en bediening. Labels bij de
-     bedieningselementen (herkenning boven herinnering, Nielsen #6).
+     Header: fixed bar with title, status and controls. Labels on the
+     controls (recognition over recall, Nielsen #6).
   ------------------------------------------------------------------ */
   header {
     position: sticky;
@@ -112,7 +112,7 @@
     cursor: pointer;
   }
 
-  /* Bedrijfsselectie: knop + keuzepaneel met vinkjes (multi-select). */
+  /* Company selection: button + choice panel with checkboxes (multi-select). */
   #companyControl { position: relative; }
   #companyBtn {
     background: var(--card); color: var(--text); border: 1px solid var(--border);
@@ -149,13 +149,13 @@
     cursor: pointer;
   }
   button#refresh:hover, button#filtersBtn:hover, button#themeBtn:hover { background: var(--card-hover); }
-  /* Themaschakelaar: compacte icoonknop (Auto / Light / Dark). */
+  /* Theme switcher: compact icon button (Auto / Light / Dark). */
   button#themeBtn { padding: 6px 9px; display: inline-grid; place-items: center; }
   button#themeBtn svg { width: 17px; height: 17px; display: block; }
   button#refresh:disabled { opacity: .55; cursor: default; }
 
-  /* Filters: één knop die de secundaire filters toont/verbergt (progressive
-     disclosure, Sweller). Caret + actief-teller houden de status zichtbaar. */
+  /* Filters: one button that shows/hides the secondary filters (progressive
+     disclosure, Sweller). Caret + active-count keep the status visible. */
   button#filtersBtn::after { content: "▾"; margin-left: 7px; font-size: 11px; color: var(--muted); }
   button#filtersBtn[aria-expanded="true"]::after { content: "▴"; }
   button#filtersBtn.has-active { border-color: var(--link); color: var(--link); font-weight: 600; }
@@ -180,7 +180,7 @@
   input#search::placeholder { color: var(--muted); }
 
   /* ------------------------------------------------------------------
-     Raster van bedrijfskaarten.
+     Grid of company cards.
   ------------------------------------------------------------------ */
   .grid {
     display: grid;
@@ -212,16 +212,16 @@
     border-radius: 8px;
     display: grid; place-items: center;
     background: color-mix(in srgb, var(--card-accent, var(--muted)) 16%, var(--card));
-    color: var(--card-accent, var(--text));   /* monochrome logo's + letters volgen de bedrijfskleur */
+    color: var(--card-accent, var(--text));   /* monochrome logos + letters follow the company color */
     font-weight: 700;
   }
   .avatar svg { width: 20px; height: 20px; display: block; }
   .card-id { min-width: 0; }
   .card-head h2 { margin: 0; font-size: 15px; font-weight: 650; line-height: 1.25; }
-  /* Bron-regel: één regel (nooit afbreken), zodat elke kop even hoog is. */
+  /* Source line: single line (never wrap), so every header is the same height. */
   .srcline { display: flex; align-items: center; gap: 6px; font-size: 11.5px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 2px; }
   .rss-dot { flex: none; width: 7px; height: 7px; border-radius: 2px; background: var(--card-accent, var(--muted)); }
-  /* Bronnen-balk: vaste, uniforme strook met de geraadpleegde bron + links. */
+  /* Sources bar: fixed, uniform strip with the source consulted + links. */
   .card-sources {
     display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
     padding: 9px 16px;
@@ -241,10 +241,10 @@
   .card-sources a:hover { color: var(--card-accent, var(--link)); border-color: var(--card-accent, var(--link)); }
 
   /* ------------------------------------------------------------------
-     Lijst met updates. Hele rij klikbaar naar het bronartikel.
+     List of updates. Entire row links to the source article.
   ------------------------------------------------------------------ */
-  /* Lijst met updates: standaard compact (enkele items) met een "toon meer"
-     in plaats van een scrollbalk binnen de kaart, dus geen geneste scroll. */
+  /* List of updates: compact by default (a few items) with a "show more"
+     instead of a scrollbar inside the card, so no nested scroll. */
   .items { list-style: none; margin: 0; padding: 0; flex: 1; }
   .more-li { border-bottom: none !important; }
   .showmore {
@@ -252,8 +252,8 @@
     border: none; padding: 9px; font-size: 12.5px; font-weight: 600; cursor: pointer;
   }
   .showmore:hover { background: var(--card-hover); }
-  /* "Load more" in de tijdlijn: zicht op hoeveel er nog is (oriëntatie) en
-     houdt de footer bereikbaar (UX-advies tegen eindeloos doorscrollen). */
+  /* "Load more" in the timeline: shows how much is left (orientation) and
+     keeps the footer reachable (UX advice against endless scrolling). */
   .loadmore-wrap { text-align: center; padding: 6px 0 24px; }
   .loadmore {
     background: var(--card); color: var(--text); border: 1px solid var(--border);
@@ -304,8 +304,8 @@
   .row .date { display: block; color: var(--muted); font-size: 11.5px; margin-top: 4px; }
   .row.nolink { cursor: default; }
 
-  /* Status-, fout- en lege toestanden: gewone taal plus een handeling
-     (Nielsen #9: probleem benoemen en een oplossing aanreiken). */
+  /* Status, error and empty states: plain language plus an action
+     (Nielsen #9: name the problem and offer a solution). */
   .status { padding: 16px; color: var(--muted); font-size: 13px; }
   .status.error { color: var(--error); }
   .status .actionbtn {
@@ -322,7 +322,7 @@
   .status .actionbtn:hover { background: var(--card-hover); }
 
   /* ------------------------------------------------------------------
-     Tijdlijn: alle bedrijven in één stroom.
+     Timeline: all companies in one stream.
   ------------------------------------------------------------------ */
   #stream { max-width: 760px; margin: 0 auto; padding: 24px 32px; }
   .stream-row {
@@ -369,7 +369,7 @@
   .stream-row:hover::after { opacity: 1; }
   .stream-row.nolink:hover::after { opacity: 0; }
 
-  /* Bewaren (star): inline rechts in de datumregel, in beide weergaven. */
+  /* Save (star): inline on the right of the date line, in both views. */
   .row .date, .stream-row .date { display: flex; align-items: center; }
   .star {
     margin-left: auto; flex: none; cursor: pointer; color: var(--muted);
@@ -381,8 +381,8 @@
   .saved-toggle input { accent-color: var(--link); width: 15px; height: 15px; }
 
   /* ------------------------------------------------------------------
-     Nieuw binnengekomen items: ongelezen-conventie (stip + korte
-     achtergrondmarkering), geen gloed.
+     Newly arrived items: unread convention (dot + brief
+     background highlight), no glow.
   ------------------------------------------------------------------ */
   @keyframes rowIn { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
   @keyframes unreadFade { from { background-color: var(--unread); } to { background-color: transparent; } }
@@ -397,7 +397,7 @@
   }
 
   /* ------------------------------------------------------------------
-     Categorielabels per bericht (automatische indeling).
+     Category labels per post (automatic classification).
   ------------------------------------------------------------------ */
   .cat {
     display: inline-block;
@@ -421,7 +421,7 @@
   :root[data-theme="dark"] .cat-veiligheid { background: #3a2020; color: #ff9c9c; }
 
   /* ------------------------------------------------------------------
-     Navigatiebalk: filteren op categorie.
+     Navigation bar: filter by category.
   ------------------------------------------------------------------ */
   .catbar { width: 100%; display: flex; flex-wrap: wrap; gap: 6px; }
   .catbar button {
@@ -443,7 +443,7 @@
   :root[data-theme="dark"] .catbar button.active { color: #10131a; }
 
   /* ------------------------------------------------------------------
-     Hero: het grootste recente nieuws bovenaan, als een nieuwssite.
+     Hero: the biggest recent news at the top, like a news site.
   ------------------------------------------------------------------ */
   #hero { padding: 24px 32px 0; }
   .hero-eyebrow { font-size: 12px; font-weight: 650; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0 0 8px; }
@@ -476,10 +476,10 @@
     .hero-media img { height: 180px; min-height: 0; }
   }
 
-  /* Hero-layout: leadstory links, een kort rijtje andere topkoppen rechts.
-     Het rijtje toont de nieuwste andere koppen, hoogstens één per bedrijf, dus
-     een cross-bedrijf-selectie die niet de per-bedrijf-rasterweergave eronder
-     herhaalt. */
+  /* Hero layout: lead story on the left, a short list of other top headlines on
+     the right. The list shows the newest other headlines, at most one per company,
+     so a cross-company selection that doesn't repeat the per-company grid view
+     below. */
   .hero-layout { display: grid; grid-template-columns: minmax(0, 2fr) minmax(220px, 1fr); gap: 16px; align-items: stretch; }
   .hero-rail {
     background: var(--card);
@@ -504,8 +504,8 @@
   .rail-date { display: block; font-size: 11px; color: var(--muted); margin-top: 4px; }
   @media (max-width: 860px) { .hero-layout { grid-template-columns: 1fr; } }
 
-  /* "Today in AI": door een model gegenereerde dagelijkse briefing bovenaan
-     (server-side in de Action), als snel overzicht boven het nieuws zelf. */
+  /* "Today in AI": a model-generated daily briefing at the top
+     (server-side in the Action), as a quick overview above the news itself. */
   #digest {
     margin: 24px 32px 0;
     background: var(--card);
@@ -525,7 +525,7 @@
   @media (max-width: 600px) { #digest { margin: 16px 16px 0; padding: 14px 16px; } }
 
   /* ------------------------------------------------------------------
-     Abonneren per mail.
+     Subscribe by email.
   ------------------------------------------------------------------ */
   #subscribe {
     margin: 0 32px 8px;
@@ -560,7 +560,7 @@
   :root[data-theme="dark"] .sub-btn { color: #10131a; }
 
   /* ------------------------------------------------------------------
-     Footer: uitgelijnd met de paginamarge, twee kolommen plus colofon.
+     Footer: aligned with the page margin, two columns plus colophon.
   ------------------------------------------------------------------ */
   footer {
     margin-top: 8px;
@@ -591,8 +591,8 @@
   .colophon a:hover { text-decoration: underline; }
 
   /* ------------------------------------------------------------------
-     Mobiel: compactere marges en bediening op smalle schermen, zodat de
-     content niet ver onder een lange bedieningsrij verdwijnt.
+     Mobile: more compact margins and controls on narrow screens, so the
+     content doesn't disappear far below a long row of controls.
   ------------------------------------------------------------------ */
   @media (max-width: 600px) {
     header { padding: 12px 16px; }
@@ -608,9 +608,9 @@
   }
 </style>
 <script>
-  /* Thema vóór het renderen zetten zodat er geen lichte flits is bij donker:
-     opgeslagen keuze, anders de systeemvoorkeur. data-theme op <html> bevat
-     altijd het effectieve thema (light of dark). */
+  /* Set the theme before rendering so there's no light flash in dark mode:
+     saved choice, otherwise the system preference. data-theme on <html> always
+     holds the effective theme (light or dark). */
   (function () {
     try {
       var t = localStorage.getItem('mm-theme');
@@ -737,37 +737,37 @@
 
 <script>
 /* ------------------------------------------------------------------
-   Bedrijfslogo's als inline SVG (geen losse bestanden nodig).
-   OpenAI: officieel vectorpad. Monochrome logo's (OpenAI, xAI) volgen
-   via currentColor de themakleur. De overige merken zijn nagebouwd in
-   vorm en kleur; op avatar-formaat gelijk aan het origineel.
+   Company logos as inline SVG (no separate files needed).
+   OpenAI: official vector path. Monochrome logos (OpenAI, xAI) follow
+   the theme color via currentColor. The other brands are reconstructed in
+   shape and color; at avatar size identical to the original.
 ------------------------------------------------------------------ */
 const LOGOS = {
   openai: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.073zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.8956zm16.5963 3.8558L13.1038 8.364 15.1192 7.2a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.407-.667zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.6802 4.66zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.4992 4.4992 0 0 1 7.3757-3.4537l-.142.0805L8.704 5.459a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654l2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997z"/></svg>`,
   anthropic: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" stroke="#d97757" stroke-width="2.2" stroke-linecap="round"><line x1="12" y1="12" x2="21" y2="12"/><line x1="12" y1="12" x2="18.5" y2="15.75"/><line x1="12" y1="12" x2="16.5" y2="19.8"/><line x1="12" y1="12" x2="12" y2="19"/><line x1="12" y1="12" x2="8" y2="19.5"/><line x1="12" y1="12" x2="4.2" y2="16.5"/><line x1="12" y1="12" x2="5" y2="12"/><line x1="12" y1="12" x2="4.6" y2="7.75"/><line x1="12" y1="12" x2="8.5" y2="5.9"/><line x1="12" y1="12" x2="12" y2="3"/><line x1="12" y1="12" x2="15.75" y2="5.5"/><line x1="12" y1="12" x2="19.5" y2="8"/></svg>`,
-  /* Google en Meta gebruiken interne SVG-ids (gradiënten, clip-path). Die moeten
-     per gebruik uniek zijn (placeholder __U__), anders verwijst een logo in de
-     tijdlijn naar definities in de verborgen rasterweergave en rendert het niet. */
+  /* Google and Meta use internal SVG ids (gradients, clip-path). These must
+     be unique per use (placeholder __U__), otherwise a logo in the timeline
+     references definitions in the hidden grid view and doesn't render. */
   google: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><defs><clipPath id="gemclip__U__"><path d="M12 0C12.96 6.5 17.5 11.04 24 12 17.5 12.96 12.96 17.5 12 24 11.04 17.5 6.5 12.96 0 12 6.5 11.04 11.04 6.5 12 0Z"/></clipPath><radialGradient id="gemred__U__" gradientUnits="userSpaceOnUse" cx="12" cy="2" r="11"><stop offset="0%" stop-color="#FF4641"/><stop offset="100%" stop-color="#FF4641" stop-opacity="0"/></radialGradient><radialGradient id="gemyellow__U__" gradientUnits="userSpaceOnUse" cx="2" cy="12" r="11"><stop offset="0%" stop-color="#FFC400"/><stop offset="100%" stop-color="#FFC400" stop-opacity="0"/></radialGradient><radialGradient id="gemgreen__U__" gradientUnits="userSpaceOnUse" cx="12" cy="22" r="11"><stop offset="0%" stop-color="#00A661"/><stop offset="100%" stop-color="#00A661" stop-opacity="0"/></radialGradient></defs><g clip-path="url(#gemclip__U__)"><rect width="24" height="24" fill="#4285F4"/><rect width="24" height="24" fill="url(#gemred__U__)"/><rect width="24" height="24" fill="url(#gemyellow__U__)"/><rect width="24" height="24" fill="url(#gemgreen__U__)"/></g></svg>`,
   meta: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="metag__U__" gradientUnits="userSpaceOnUse" x1="12" y1="0" x2="12" y2="24"><stop offset="0%" stop-color="#E04AFD"/><stop offset="50%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#4845F5"/></linearGradient></defs><g fill="url(#metag__U__)"><ellipse cx="12" cy="5" rx="2.8" ry="4.6"/><ellipse cx="17.47" cy="7.63" rx="2.8" ry="4.6" transform="rotate(51.43 17.47 7.63)"/><ellipse cx="18.83" cy="13.56" rx="2.8" ry="4.6" transform="rotate(102.86 18.83 13.56)"/><ellipse cx="15.04" cy="18.31" rx="2.8" ry="4.6" transform="rotate(154.29 15.04 18.31)"/><ellipse cx="8.96" cy="18.31" rx="2.8" ry="4.6" transform="rotate(205.71 8.96 18.31)"/><ellipse cx="5.17" cy="13.56" rx="2.8" ry="4.6" transform="rotate(257.14 5.17 13.56)"/><ellipse cx="6.53" cy="7.63" rx="2.8" ry="4.6" transform="rotate(308.57 6.53 7.63)"/></g></svg>`,
   xai: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><polygon points="18.6,2.6 21.4,2.6 12.4,21.5 9.6,21.5"/><polygon points="18.8,10.2 21.4,6.6 21.4,21.5 18.8,21.5"/><polygon points="2.6,4.4 5.8,4.4 13.6,15.4 10.4,15.4"/><polygon points="2.6,21.5 5.6,21.5 9.4,16.2 6.4,16.2"/></svg>`,
   perplexity: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.9"><path d="M12 1.5v21"/><path d="M4.5 3l15 18"/><path d="M19.5 3l-15 18"/><rect x="3" y="8" width="18" height="8"/></svg>`,
-  /* Exacte rasterindeling van het aangeleverde Mistral-logo (6 kolommen x 5 rijen). */
+  /* Exact grid layout of the supplied Mistral logo (6 columns x 5 rows). */
   mistral: `<svg viewBox="0 0 24 20" xmlns="http://www.w3.org/2000/svg"><g fill="#FFD800"><rect x="4" y="0" width="4" height="4"/><rect x="16" y="0" width="4" height="4"/></g><g fill="#FFAF00"><rect x="4" y="4" width="8" height="4"/><rect x="14" y="4" width="6" height="4"/></g><g fill="#FF8205"><rect x="4" y="8" width="16" height="4"/></g><g fill="#FA500F"><rect x="4" y="12" width="4" height="4"/><rect x="10" y="12" width="4" height="4"/><rect x="16" y="12" width="4" height="4"/></g><g fill="#E10500"><rect x="0" y="16" width="8" height="4"/><rect x="12" y="16" width="12" height="4"/></g></svg>`,
-  /* Microsoft: het officiële vier-vlakken-logo. */
+  /* Microsoft: the official four-square logo. */
   microsoft: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><rect x="2" y="2" width="9.4" height="9.4" fill="#F25022"/><rect x="12.6" y="2" width="9.4" height="9.4" fill="#7FBA00"/><rect x="2" y="12.6" width="9.4" height="9.4" fill="#00A4EF"/><rect x="12.6" y="12.6" width="9.4" height="9.4" fill="#FFB900"/></svg>`,
-  /* Hugging Face: officieel merk-glyph (de 🤗), in HF-geel. */
+  /* Hugging Face: official brand glyph (the 🤗), in HF yellow. */
   huggingface: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#FFB000"><path d="M12.025 1.13c-5.77 0-10.449 4.647-10.449 10.378 0 1.112.178 2.181.503 3.185.064-.222.203-.444.416-.577a.96.96 0 0 1 .524-.15c.293 0 .584.124.84.284.278.173.48.408.71.694.226.282.458.611.684.951v-.014c.017-.324.106-.622.264-.874s.403-.487.762-.543c.3-.047.596.06.787.203s.31.313.4.467c.15.257.212.468.233.542.01.026.653 1.552 1.657 2.54.616.605 1.01 1.223 1.082 1.912.055.537-.096 1.059-.38 1.572.637.121 1.294.187 1.967.187.657 0 1.298-.063 1.921-.178-.287-.517-.44-1.041-.384-1.581.07-.69.465-1.307 1.081-1.913 1.004-.987 1.647-2.513 1.657-2.539.021-.074.083-.285.233-.542.09-.154.208-.323.4-.467a1.08 1.08 0 0 1 .787-.203c.359.056.604.29.762.543s.247.55.265.874v.015c.225-.34.457-.67.683-.952.23-.286.432-.52.71-.694.257-.16.547-.284.84-.285a.97.97 0 0 1 .524.151c.228.143.373.388.43.625l.006.04a10.3 10.3 0 0 0 .534-3.273c0-5.731-4.678-10.378-10.449-10.378M8.327 6.583a1.5 1.5 0 0 1 .713.174 1.487 1.487 0 0 1 .617 2.013c-.183.343-.762-.214-1.102-.094-.38.134-.532.914-.917.71a1.487 1.487 0 0 1 .69-2.803m7.486 0a1.487 1.487 0 0 1 .689 2.803c-.385.204-.536-.576-.916-.71-.34-.12-.92.437-1.103.094a1.487 1.487 0 0 1 .617-2.013 1.5 1.5 0 0 1 .713-.174m-10.68 1.55a.96.96 0 1 1 0 1.921.96.96 0 0 1 0-1.92m13.838 0a.96.96 0 1 1 0 1.92.96.96 0 0 1 0-1.92M8.489 11.458c.588.01 1.965 1.157 3.572 1.164 1.607-.007 2.984-1.155 3.572-1.164.196-.003.305.12.305.454 0 .886-.424 2.328-1.563 3.202-.22-.756-1.396-1.366-1.63-1.32q-.011.001-.02.006l-.044.026-.01.008-.03.024q-.018.017-.035.036l-.032.04a1 1 0 0 0-.058.09l-.014.025q-.049.088-.11.19a1 1 0 0 1-.083.116 1.2 1.2 0 0 1-.173.18q-.035.029-.075.058a1.3 1.3 0 0 1-.251-.243 1 1 0 0 1-.076-.107c-.124-.193-.177-.363-.337-.444-.034-.016-.104-.008-.2.022q-.094.03-.216.087-.06.028-.125.063l-.13.074q-.067.04-.136.086a3 3 0 0 0-.135.096 3 3 0 0 0-.26.219 2 2 0 0 0-.12.121 2 2 0 0 0-.106.128l-.002.002a2 2 0 0 0-.09.132l-.001.001a1.2 1.2 0 0 0-.105.212q-.013.036-.024.073c-1.139-.875-1.563-2.317-1.563-3.203 0-.334.109-.457.305-.454m.836 10.354c.824-1.19.766-2.082-.365-3.194-1.13-1.112-1.789-2.738-1.789-2.738s-.246-.945-.806-.858-.97 1.499.202 2.362c1.173.864-.233 1.45-.685.64-.45-.812-1.683-2.896-2.322-3.295s-1.089-.175-.938.647 2.822 2.813 2.562 3.244-1.176-.506-1.176-.506-2.866-2.567-3.49-1.898.473 1.23 2.037 2.16c1.564.932 1.686 1.178 1.464 1.53s-3.675-2.511-4-1.297c-.323 1.214 3.524 1.567 3.287 2.405-.238.839-2.71-1.587-3.216-.642-.506.946 3.49 2.056 3.522 2.064 1.29.33 4.568 1.028 5.713-.624m5.349 0c-.824-1.19-.766-2.082.365-3.194 1.13-1.112 1.789-2.738 1.789-2.738s.246-.945.806-.858.97 1.499-.202 2.362c-1.173.864.233 1.45.685.64.451-.812 1.683-2.896 2.322-3.295s1.089-.175.938.647-2.822 2.813-2.562 3.244 1.176-.506 1.176-.506 2.866-2.567 3.49-1.898-.473 1.23-2.037 2.16c-1.564.932-1.686 1.178-1.464 1.53s3.675-2.511 4-1.297c.323 1.214-3.524 1.567-3.287 2.405.238.839 2.71-1.587 3.216-.642.506.946-3.49 2.056-3.522 2.064-1.29.33-4.568 1.028-5.713-.624"/></svg>`,
-  /* NVIDIA: officieel oog-logo, in NVIDIA-groen. */
+  /* NVIDIA: official eye logo, in NVIDIA green. */
   nvidia: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#76b900"><path d="M8.948 8.798v-1.43a6.7 6.7 0 0 1 .424-.018c3.922-.124 6.493 3.374 6.493 3.374s-2.774 3.851-5.75 3.851c-.398 0-.787-.062-1.158-.185v-4.346c1.528.185 1.837.857 2.747 2.385l2.04-1.714s-1.492-1.952-4-1.952a6.016 6.016 0 0 0-.796.035m0-4.735v2.138l.424-.027c5.45-.185 9.01 4.47 9.01 4.47s-4.08 4.964-8.33 4.964c-.37 0-.733-.035-1.095-.097v1.325c.3.035.61.062.91.062 3.957 0 6.82-2.023 9.593-4.408.459.371 2.34 1.263 2.73 1.652-2.633 2.208-8.772 3.984-12.253 3.984-.335 0-.653-.018-.971-.053v1.864H24V4.063zm0 10.326v1.131c-3.657-.654-4.673-4.46-4.673-4.46s1.758-1.944 4.673-2.262v1.237H8.94c-1.528-.186-2.73 1.245-2.73 1.245s.68 2.412 2.739 3.11M2.456 10.9s2.164-3.197 6.5-3.533V6.201C4.153 6.59 0 10.653 0 10.653s2.35 6.802 8.948 7.42v-1.237c-4.84-.6-6.492-5.936-6.492-5.936z"/></svg>`,
-  /* Cohere: officieel merk-icoon (apple-touch-icon van cohere.com). */
+  /* Cohere: official brand icon (apple-touch-icon from cohere.com). */
   cohere: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><image href="https://cohere.com/apple-touch-icon.png" width="24" height="24"/></svg>`
 };
 
 /* ------------------------------------------------------------------
-   Configuratie: per bedrijf de feeds, brontype en directe links.
-   `official` stuurt het betrouwbaarheidslabel in de kaartkop.
-   LinkedIn heeft geen openbare feed (loginmuur); daarom alleen een link.
+   Configuration: per company the feeds, source type and direct links.
+   `official` drives the reliability label in the card header.
+   LinkedIn has no public feed (login wall); hence only a link.
 ------------------------------------------------------------------ */
 const COMPANIES = [
   {
@@ -900,7 +900,7 @@ const COMPANIES = [
   }
 ];
 
-// De bron die per bedrijf daadwerkelijk wordt uitgelezen (getoond in de kaartkop).
+// The source actually read for each company (shown in the card header).
 const FEED_SOURCE = {
   "OpenAI": "openai.com/news",
   "Anthropic": "anthropic.com/news",
@@ -915,20 +915,20 @@ const FEED_SOURCE = {
   "Cohere": "cohere.com/blog"
 };
 
-const REFRESH_MINUTES = 30;    // automatische verversing voor schermgebruik (0 = uit)
-const MAX_ITEMS = 12;           // maximum aantal updates per kaart (na uitklappen)
-const GRID_PAGE = 5;            // updates per kaart vóór "toon meer"
-const STREAM_PAGE = 25;         // tijdlijnitems vóór "load more"
-const CACHE_LIMIT = 40;         // aantal items dat per bedrijf bewaard wordt (voor het filter)
+const REFRESH_MINUTES = 30;    // automatic refresh for screen use (0 = off)
+const MAX_ITEMS = 12;           // maximum number of updates per card (after expanding)
+const GRID_PAGE = 5;            // updates per card before "show more"
+const STREAM_PAGE = 25;         // timeline items before "load more"
+const CACHE_LIMIT = 40;         // number of items kept per company (for the filter)
 const CACHE_KEY = "ai-dashboard-cache-v3";
-const VIEW_KEY = "mm-view";     // laatst gekozen weergave (raster/tijdlijn)
-const STATE = {};               // bedrijf -> volledige, gesorteerde itemlijst
-const expandedCards = new Set();// kaartindexen die volledig uitgeklapt zijn
-let streamShown = STREAM_PAGE;  // hoeveel tijdlijnitems nu getoond worden
+const VIEW_KEY = "mm-view";     // last chosen view (grid/timeline)
+const STATE = {};               // company -> full, sorted item list
+const expandedCards = new Set();// card indexes that are fully expanded
+let streamShown = STREAM_PAGE;  // how many timeline items are shown now
 
-/* "Nieuw sinds je vorige bezoek": geziene links bewaren we in localStorage, zodat
-   een terugkerende bezoeker meteen ziet wat er nieuw is, niet alleen binnen de
-   sessie. Bij het allereerste bezoek (geen opslag) markeren we niets. */
+/* "New since your last visit": we keep seen links in localStorage, so a
+   returning visitor immediately sees what's new, not just within the
+   session. On the very first visit (no storage) we mark nothing. */
 const SEEN_KEY = "mm-seen-v1";
 function loadSeen() {
   try { const a = JSON.parse(localStorage.getItem(SEEN_KEY)); return Array.isArray(a) ? a : null; }
@@ -936,16 +936,16 @@ function loadSeen() {
 }
 const storedSeen = loadSeen();
 const seenLinks = new Set(storedSeen || []);
-let firstLoad = storedSeen === null;   // alleen het allereerste bezoek markeert niets
+let firstLoad = storedSeen === null;   // only the very first visit marks nothing
 function saveSeen() {
   try { localStorage.setItem(SEEN_KEY, JSON.stringify([...seenLinks].slice(-800))); } catch (e) {}
 }
 
-// Item is nieuw als we het nog niet kenden (en het niet het allereerste bezoek is).
+// An item is new if we didn't know it yet (and it's not the very first visit).
 function isNew(link) { return !firstLoad && !!link && !seenLinks.has(link); }
 
-/* Bewaren voor later: bewaarde links in localStorage, plus een "Saved only"-
-   filter. Volledig lokaal, in lijn met de privacybelofte in de disclaimer. */
+/* Save for later: saved links in localStorage, plus a "Saved only"
+   filter. Fully local, in line with the privacy promise in the disclaimer. */
 const SAVED_KEY = "mm-saved-v1";
 function loadSaved() { try { const a = JSON.parse(localStorage.getItem(SAVED_KEY)); return Array.isArray(a) ? a : []; } catch (e) { return []; } }
 const savedLinks = new Set(loadSaved());
@@ -957,9 +957,9 @@ function starHtml(link) {
   return `<span class="star${on ? " saved" : ""}" data-action="toggle-save" data-link="${escapeHtml(link)}" role="button" tabindex="0" aria-pressed="${on}" aria-label="${on ? "Saved" : "Save"}" title="${on ? "Saved — click to remove" : "Save for later"}">${on ? "★" : "☆"}</span>`;
 }
 
-/* Heuristiek: markeer berichten die over een nieuw of bijgewerkt AI-model
-   lijken te gaan. Twee signalen: een modelnaam met versienummer in de tekst,
-   of een release-woord in combinatie met een modelwoord. Niet waterdicht. */
+/* Heuristic: flag posts that seem to be about a new or updated AI model.
+   Two signals: a model name with a version number in the text, or a release
+   word combined with a model word. Not foolproof. */
 const VERSION_PAT = /\b(gpt|claude|gemini|gemma|llama|grok|mistral|codex|sonar|veo|imagen|sora|deepseek|qwen|opus|sonnet|haiku|fable|mythos)[ -]?v?\d+(\.\d+)?\b/i;
 const MODEL_WORDS = /\b(model|gpt|claude|gemini|gemma|llama|grok|codex|sonar|veo|imagen|sora|deepseek|qwen)\b/i;
 const RELEASE_WORDS = /\b(introduc\w+|announc\w+|releas\w+|launch\w*|now available|general availability|preview|upgrade\w*|updated?|nieuw|nieuwe versie)\b/i;
@@ -968,9 +968,9 @@ function isModelUpdate(it) {
   return VERSION_PAT.test(t) || (MODEL_WORDS.test(t) && RELEASE_WORDS.test(t));
 }
 
-/* Categorie-indeling per bericht, op basis van titel en samenvatting.
-   Volgorde bepaalt prioriteit; eerste treffer wint. Automatische
-   inschatting, dus niet waterdicht. */
+/* Category classification per post, based on title and summary.
+   Order determines priority; first match wins. An automated
+   estimate, so not foolproof. */
 const CATS = {
   model: "Model update",
   veiligheid: "Safety",
@@ -993,17 +993,17 @@ function catTag(it) {
   return `<span class="cat cat-${c}" title="Automatically categorized based on title and summary">${CATS[c]}</span>`;
 }
 
-let currentCategory = "all";   // actieve filter uit de navigatiebalk
-let currentQuery = "";         // vrije-tekst zoekterm uit de zoekbalk
+let currentCategory = "all";   // active filter from the navigation bar
+let currentQuery = "";         // free-text search term from the search bar
 
-// Geselecteerde bedrijven (multi-select); standaard alle, bewaard in localStorage.
+// Selected companies (multi-select); all by default, kept in localStorage.
 const COMPANY_KEY = "mm-companies-v1";
 function loadSelectedCompanies() {
   try {
     const saved = JSON.parse(localStorage.getItem(COMPANY_KEY));
     if (Array.isArray(saved)) {
       const valid = saved.filter(n => COMPANIES.some(c => c.name === n));
-      return new Set(valid);   // ook een lege selectie respecteren
+      return new Set(valid);   // respect an empty selection too
     }
   } catch (e) {}
   return new Set(COMPANIES.map(c => c.name));
@@ -1013,24 +1013,24 @@ function saveSelectedCompanies() {
 }
 let selectedCompanies = loadSelectedCompanies();
 
-// Vrije-tekst zoekfilter: zoekt in titel en samenvatting (hoofdletterongevoelig).
+// Free-text search filter: searches title and summary (case-insensitive).
 function matchesQuery(it) {
   if (!currentQuery) return true;
   return ((it.title || "") + " " + (it.summary || "")).toLowerCase().includes(currentQuery);
 }
 
-/* Logo's met interne ids (gradiënten, clip-paths) krijgen per gebruik unieke
-   ids; anders verwijst een logo naar definities in een verborgen weergave en
-   rendert het niet (zoals Google en Meta in de tijdlijn). */
+/* Logos with internal ids (gradients, clip-paths) get unique ids per use;
+   otherwise a logo references definitions in a hidden view and doesn't
+   render (like Google and Meta in the timeline). */
 let logoUid = 0;
 function logoFor(logo) {
   if (!logo) return "";
   return logo.includes("__U__") ? logo.replaceAll("__U__", "u" + (logoUid++)) : logo;
 }
 
-// Thumbnail: de afbeelding als die er is, anders een merkplaceholder (gekleurd
-// tegeltje met het bedrijfslogo of de beginletter). Zo nooit een lege of
-// "geen toegang"-afbeelding.
+// Thumbnail: the image if there is one, otherwise a brand placeholder (colored
+// tile with the company logo or the first letter). This way never an empty or
+// "access denied" image.
 function thumbHtml(it, logo, accent, name) {
   if (it.image) {
     return `<span class="thumb" style="--t-accent:${accent}"><img src="${escapeHtml(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></span>`;
@@ -1042,18 +1042,18 @@ function thumbHtml(it, logo, accent, name) {
 const UNOFFICIAL_HINT = "No official RSS feed available; updates come from a community feed and may lag behind.";
 
 /* ------------------------------------------------------------------
-   Ophalen met proxy-fallback.
-   Sommige feeds (raw.githubusercontent) staan CORS toe en lukken direct;
-   de rest gaat via een van de publieke proxies, in volgorde geprobeerd.
+   Fetching with proxy fallback.
+   Some feeds (raw.githubusercontent) allow CORS and work directly;
+   the rest go through one of the public proxies, tried in order.
 ------------------------------------------------------------------ */
 const PROXIES = [
-  url => url,                                                              // 1: directe poging
+  url => url,                                                              // 1: direct attempt
   url => "https://api.allorigins.win/raw?url=" + encodeURIComponent(url),  // 2
   url => "https://corsproxy.io/?url=" + encodeURIComponent(url),           // 3
   url => "https://api.codetabs.com/v1/proxy/?quest=" + encodeURIComponent(url) // 4
 ];
 
-const FETCH_TIMEOUT = 8000;   // ms per poging; daarna naar de volgende proxy
+const FETCH_TIMEOUT = 8000;   // ms per attempt; then on to the next proxy
 
 async function fetchFeedText(feedUrl) {
   for (const build of PROXIES) {
@@ -1063,18 +1063,18 @@ async function fetchFeedText(feedUrl) {
       const res = await fetch(build(feedUrl), { cache: "no-store", signal: ctrl.signal });
       if (!res.ok) continue;
       const text = await res.text();
-      if (text && text.includes("<")) return text;   // ruwe sanity-check op XML
+      if (text && text.includes("<")) return text;   // rough sanity check for XML
     } catch (e) {
-      /* timeout of fout: volgende proxy proberen */
+      /* timeout or error: try the next proxy */
     } finally {
       clearTimeout(timer);
     }
   }
-  throw new Error("Alle proxies faalden voor " + feedUrl);
+  throw new Error("All proxies failed for " + feedUrl);
 }
 
 /* ------------------------------------------------------------------
-   Parsen: ondersteunt zowel RSS (<item>) als Atom (<entry>).
+   Parsing: supports both RSS (<item>) and Atom (<entry>).
 ------------------------------------------------------------------ */
 function parseFeed(xmlText, sourceName) {
   const doc = new DOMParser().parseFromString(xmlText, "text/xml");
@@ -1105,7 +1105,7 @@ function parseFeed(xmlText, sourceName) {
   return out;
 }
 
-// Afbeelding uit een feed-item: Media RSS, enclosure, of een <img> in de tekst.
+// Image from a feed item: Media RSS, enclosure, or an <img> in the text.
 function feedImage(el) {
   const mc = el.getElementsByTagName("media:content")[0] || el.getElementsByTagName("media:thumbnail")[0];
   if (mc && mc.getAttribute("url")) return mc.getAttribute("url");
@@ -1116,8 +1116,8 @@ function feedImage(el) {
   return m ? m[1] : "";
 }
 
-// Kies de meest informatieve samenvatting uit het item: de langste tekst
-// die echt iets toevoegt boven de titel (sommige feeds herhalen de titel).
+// Pick the most informative summary from the item: the longest text
+// that really adds something beyond the title (some feeds repeat the title).
 function pickSummary(el, title) {
   const candidates = [];
   for (const tag of ["description", "summary"]) {
@@ -1133,8 +1133,8 @@ function pickSummary(el, title) {
     const clean = cleanSummary(c);
     if (!clean) continue;
     const nc = norm(clean);
-    if (nc === nt) continue;            // exacte herhaling van de titel: overslaan
-    if (nt && nc.startsWith(nt) && clean.length - title.length < 25) continue; // titel + ruis
+    if (nc === nt) continue;            // exact repeat of the title: skip
+    if (nt && nc.startsWith(nt) && clean.length - title.length < 25) continue; // title + noise
     if (clean.length > best.length) best = clean;
   }
   return best;
@@ -1142,7 +1142,7 @@ function pickSummary(el, title) {
 
 function norm(s) { return (s || "").toLowerCase().replace(/\s+/g, " ").trim(); }
 
-// Strip HTML (veilig, zonder scripts/afbeeldingen te laden) en kort in.
+// Strip HTML (safely, without loading scripts/images) and truncate.
 function cleanSummary(html) {
   if (!html) return "";
   const doc = new DOMParser().parseFromString(html, "text/html");
@@ -1157,7 +1157,7 @@ function text(parent, tag) {
   return el ? el.textContent.trim() : "";
 }
 
-// Leesbare datum: today/yesterday/x days ago, daarna gewoon de datum.
+// Readable date: today/yesterday/x days ago, then just the date.
 function fmtDate(d) {
   const t = Date.parse(d);
   if (isNaN(t)) return "";
@@ -1218,7 +1218,7 @@ function renderItems(i, items) {
     return;
   }
 
-  // Periode- en categoriefilter toepassen.
+  // Apply period and category filter.
   const days = currentPeriodDays();
   let shown = items;
   if (days > 0) {
@@ -1265,7 +1265,7 @@ function renderItems(i, items) {
   ul.innerHTML = html;
 }
 
-// Gecombineerde tijdlijn: alle bedrijven door elkaar, op datum, met logo en naam.
+// Combined timeline: all companies mixed together, by date, with logo and name.
 function renderStream() {
   const wrap = document.getElementById("stream");
   const days = currentPeriodDays();
@@ -1309,9 +1309,9 @@ function renderStream() {
   wrap.innerHTML = html;
 }
 
-// Hero: het grootste recente nieuws. Voorkeur voor een recente modelupdate met
-// afbeelding, anders het nieuwste item met afbeelding, anders het nieuwste.
-// Respecteert het bedrijfs- en zoekfilter (niet categorie/periode).
+// Hero: the biggest recent news. Prefers a recent model update with an
+// image, otherwise the newest item with an image, otherwise the newest.
+// Respects the company and search filter (not category/period).
 function renderHero() {
   const wrap = document.getElementById("hero");
   let all = [];
@@ -1341,18 +1341,18 @@ function renderHero() {
       </div>
     </a>`;
 
-  // Rijtje "more top stories": de nieuwste andere koppen, hoogstens één per
-  // bedrijf voor variatie. Een cross-bedrijf-selectie die de per-bedrijf-
-  // rasterweergave eronder niet dupliceert.
+  // "More top stories" list: the newest other headlines, at most one per
+  // company for variety. A cross-company selection that doesn't duplicate the
+  // per-company grid view below.
   const rest = all.filter(it => it.link && it.link !== hero.link);
   const rail = [];
   const usedCo = new Set();
-  for (const it of rest) {                       // ander bedrijf dan de lead, één per bedrijf
+  for (const it of rest) {                       // company other than the lead, one per company
     if (rail.length >= 3) break;
     if (it.company === hero.company || usedCo.has(it.company)) continue;
     rail.push(it); usedCo.add(it.company);
   }
-  for (const it of rest) {                       // aanvullen als er te weinig bedrijven zijn
+  for (const it of rest) {                       // top up if there are too few companies
     if (rail.length >= 3) break;
     if (!rail.includes(it)) rail.push(it);
   }
@@ -1371,8 +1371,8 @@ function renderHero() {
     : heroCard);
 }
 
-// "Today in AI": dagelijkse briefing uit digest.json (server-side gegenereerd
-// door de Action). Verbergt zich netjes als het bestand er niet is.
+// "Today in AI": daily briefing from digest.json (generated server-side
+// by the Action). Hides itself gracefully if the file isn't there.
 async function loadDigest() {
   const wrap = document.getElementById("digest");
   if (!wrap) return;
@@ -1390,20 +1390,20 @@ async function loadDigest() {
   } catch (e) { wrap.hidden = true; }
 }
 
-// Toon/verberg kaarten op basis van de geselecteerde bedrijven (op naam, niet op
-// positie, want de kaarten worden geherordend op nieuwsdrukte).
+// Show/hide cards based on the selected companies (by name, not by
+// position, because the cards are reordered by news activity).
 function applyCompanyVisibility() {
   document.querySelectorAll("#grid .card").forEach(card => {
     card.style.display = selectedCompanies.has(card.dataset.company) ? "" : "none";
   });
 }
 
-// Kaarten herordenen op "hoeveel in het nieuws": het aantal updates binnen een
-// nieuwsvenster (de gekozen periode, of de laatste 30 dagen bij "All updates"),
-// rekening houdend met categorie/zoek/bewaard. Meeste eerst, bij gelijkspel het
-// nieuwste item, dan de oorspronkelijke configuratievolgorde. Het venster (i.p.v.
-// alle items) voorkomt dat bijna elk bedrijf op de itemlimiet vastloopt en gelijk
-// scoort; zo telt echte recente activiteit.
+// Reorder cards by "how much in the news": the number of updates within a
+// news window (the chosen period, or the last 30 days for "All updates"),
+// taking category/search/saved into account. Most first, ties broken by the
+// newest item, then the original configuration order. The window (instead of
+// all items) prevents nearly every company from hitting the item limit and
+// scoring equally; this way real recent activity counts.
 const RANK_WINDOW_DAYS = 30;
 function reorderGrid() {
   const grid = document.getElementById("grid");
@@ -1430,7 +1430,7 @@ function escapeHtml(s) {
 }
 
 /* ------------------------------------------------------------------
-   Laad-cyclus: cache tonen, dan live ophalen, dan cache verversen.
+   Load cycle: show cache, then fetch live, then refresh cache.
 ------------------------------------------------------------------ */
 function loadCache() {
   try { return JSON.parse(localStorage.getItem(CACHE_KEY)) || {}; } catch (e) { return {}; }
@@ -1439,10 +1439,10 @@ function saveCache(data) {
   try { localStorage.setItem(CACHE_KEY, JSON.stringify(data)); } catch (e) {}
 }
 
-/* Laag 1 (primair op de live site): de gecombineerde data.json van het eigen
-   domein. Wordt elke paar uur door een GitHub Action server-side gebouwd uit
-   alle bronfeeds, dus geen CORS-proxy nodig: snel en betrouwbaar. Geeft true
-   terug als er items zijn ingeladen. */
+/* Layer 1 (primary on the live site): the combined data.json from our own
+   domain. Built server-side every few hours by a GitHub Action from all
+   source feeds, so no CORS proxy needed: fast and reliable. Returns true
+   if any items were loaded. */
 async function loadFromData(cache) {
   try {
     const res = await fetch("data.json?t=" + Date.now(), { cache: "no-store" });
@@ -1468,7 +1468,7 @@ async function loadFromData(cache) {
         renderItems(i, STATE[c.name]);
         any = true;
       } else if (!cache[c.name] || !cache[c.name].length) {
-        renderItems(i, []);   // bedrijf ontbreekt in data.json en geen cache: foutmelding
+        renderItems(i, []);   // company missing from data.json and no cache: error message
       }
     });
     return any;
@@ -1477,9 +1477,9 @@ async function loadFromData(cache) {
   }
 }
 
-/* Laag 2 (fallback): live per bedrijf ophalen via de publieke proxies. Alleen
-   nodig wanneer data.json onbereikbaar is, bijvoorbeeld bij een lokaal geopend
-   bestand of vlak nadat de repo is opgezet. */
+/* Layer 2 (fallback): fetch live per company via the public proxies. Only
+   needed when data.json is unreachable, for example with a locally opened
+   file or right after the repo is set up. */
 async function loadLive(cache) {
   await Promise.all(COMPANIES.map(async (c, i) => {
     const collected = [];
@@ -1488,7 +1488,7 @@ async function loadLive(cache) {
         const xml = await fetchFeedText(feed);
         const src = c.feeds.length > 1 ? labelFor(feed) : "";
         collected.push(...parseFeed(xml, src));
-      } catch (e) { /* feed overslaan, andere feeds tellen nog */ }
+      } catch (e) { /* skip feed, other feeds still count */ }
     }
     if (collected.length) {
       collected.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
@@ -1496,7 +1496,7 @@ async function loadLive(cache) {
       cache[c.name] = STATE[c.name];
       renderItems(i, STATE[c.name]);
     } else if (!cache[c.name] || !cache[c.name].length) {
-      renderItems(i, []);   // toont de foutmelding met herstelactie
+      renderItems(i, []);   // shows the error message with a recovery action
     }
   }));
 }
@@ -1509,7 +1509,7 @@ async function refreshAll() {
 
   const cache = loadCache();
 
-  // Laag 0: toon meteen de vorige inhoud uit localStorage (instant eerste beeld).
+  // Layer 0: immediately show the previous content from localStorage (instant first view).
   COMPANIES.forEach((c, i) => {
     if (cache[c.name] && cache[c.name].length) {
       STATE[c.name] = cache[c.name];
@@ -1517,8 +1517,8 @@ async function refreshAll() {
     }
   });
 
-  // Laag 1: gecombineerde data.json van de eigen server (primair, proxy-vrij).
-  // Laag 2: alleen als data.json onbereikbaar is, terugvallen op live ophalen.
+  // Layer 1: combined data.json from our own server (primary, proxy-free).
+  // Layer 2: only if data.json is unreachable, fall back to fetching live.
   const usedData = await loadFromData(cache);
   if (!usedData) await loadLive(cache);
 
@@ -1529,14 +1529,14 @@ async function refreshAll() {
   renderHero();
   loadDigest();
 
-  // Tel nieuwe items (nog niet eerder gezien) vóór we ze als gezien markeren,
-  // zodat de statusregel de binnenkomst benoemt. Met aria-live op #updated is
-  // dit ook hoorbaar voor schermlezers (de stip alleen is puur visueel).
+  // Count new items (not seen before) before we mark them as seen, so the
+  // status line names the arrival. With aria-live on #updated this is also
+  // audible to screen readers (the dot alone is purely visual).
   const newCount = firstLoad ? 0 : COMPANIES.reduce((n, c) =>
     n + (STATE[c.name] || []).filter(it => it.link && !seenLinks.has(it.link)).length, 0);
 
-  // Alles wat nu getoond is, geldt voortaan als "gezien". Daarna mag de
-  // volgende verversing weer nieuwe items markeren.
+  // Everything shown now counts as "seen" from here on. After that the
+  // next refresh may mark new items again.
   COMPANIES.forEach(c => (STATE[c.name] || []).forEach(it => { if (it.link) seenLinks.add(it.link); }));
   saveSeen();
   firstLoad = false;
@@ -1548,16 +1548,16 @@ async function refreshAll() {
   btn.textContent = "Refresh";
 }
 
-// Korte bronlabels voor bedrijven met meerdere feeds (Google).
+// Short source labels for companies with multiple feeds (Google).
 function labelFor(feedUrl) {
   if (feedUrl.includes("deepmind")) return "DeepMind";
   if (feedUrl.includes("blog.google")) return "Google AI";
   return "";
 }
 
-// Alle weergaven opnieuw opbouwen uit STATE, zonder feeds opnieuw op te halen.
+// Rebuild all views from STATE, without fetching feeds again.
 function applyFilter() {
-  streamShown = STREAM_PAGE;     // bij een filterwijziging weer vanaf het begin
+  streamShown = STREAM_PAGE;     // on a filter change, start from the beginning again
   expandedCards.clear();
   COMPANIES.forEach((c, i) => renderItems(i, STATE[c.name] || []));
   applyCompanyVisibility();
@@ -1567,7 +1567,7 @@ function applyFilter() {
   updateFiltersBtn();
 }
 
-// Wisselen tussen raster en tijdlijn via de segmented control.
+// Switch between grid and timeline via the segmented control.
 function setView(view) {
   const stream = view === "stream";
   document.getElementById("grid").style.display = stream ? "none" : "";
@@ -1575,7 +1575,7 @@ function setView(view) {
   document.querySelectorAll("#view button").forEach(b => {
     const on = b.dataset.view === view;
     b.classList.toggle("active", on);
-    b.setAttribute("aria-pressed", String(on));   // status hoorbaar voor schermlezers
+    b.setAttribute("aria-pressed", String(on));   // status audible to screen readers
   });
   try { localStorage.setItem(VIEW_KEY, view); } catch (e) {}
 }
@@ -1586,10 +1586,10 @@ document.getElementById("refresh").addEventListener("click", refreshAll);
 document.getElementById("period").addEventListener("change", applyFilter);
 document.querySelectorAll("#view button").forEach(b =>
   b.addEventListener("click", () => setView(b.dataset.view)));
-// Laatst gekozen weergave herstellen (raster blijft de standaard).
+// Restore the last chosen view (grid stays the default).
 try { const sv = localStorage.getItem(VIEW_KEY); if (sv === "stream" || sv === "grid") setView(sv); } catch (e) {}
 
-// Bedrijfsselectie (multi-select) vullen en bedraden.
+// Populate and wire up the company selection (multi-select).
 const companyBtn = document.getElementById("companyBtn");
 const companyPanel = document.getElementById("companyPanel");
 const companyList = document.getElementById("companyList");
@@ -1629,13 +1629,13 @@ document.addEventListener("click", e => {
   }
 });
 
-// Vrije-tekst zoeken: filtert beide weergaven terwijl je typt.
+// Free-text search: filters both views as you type.
 document.getElementById("search").addEventListener("input", e => {
   currentQuery = e.target.value.trim().toLowerCase();
   applyFilter();
 });
 
-// Filteren op categorie via de navigatiebalk.
+// Filter by category via the navigation bar.
 document.querySelectorAll(".catbar button").forEach(b =>
   b.addEventListener("click", () => {
     currentCategory = b.dataset.cat;
@@ -1647,10 +1647,9 @@ document.querySelectorAll(".catbar button").forEach(b =>
     applyFilter();
   }));
 
-// Footer volledig uit de configuratie genereren: aantal bedrijven, de
-// verhouding officiële/community-feeds en de categorielijst. Zo hoeft de
-// footertekst nooit met de hand bijgewerkt te worden als COMPANIES of CATS
-// verandert.
+// Generate the footer entirely from the configuration: number of companies, the
+// ratio of official/community feeds and the category list. This way the footer
+// text never has to be updated by hand when COMPANIES or CATS changes.
 (function fillFooter() {
   const set = (id, val) => { const el = document.getElementById(id); if (el) el.textContent = val; };
   set("companyCount", COMPANIES.length);
@@ -1671,9 +1670,9 @@ document.querySelectorAll(".catbar button").forEach(b =>
 })();
 
 /* ------------------------------------------------------------------
-   Themaschakelaar: systeem (volgt het apparaat), licht of donker. De keuze
-   staat in localStorage; data-theme op <html> bevat altijd het effectieve
-   thema. De knop doorloopt Auto → Light → Dark.
+   Theme switcher: system (follows the device), light or dark. The choice
+   is in localStorage; data-theme on <html> always holds the effective
+   theme. The button cycles Auto → Light → Dark.
 ------------------------------------------------------------------ */
 const THEME_KEY = "mm-theme";
 const THEME_ICONS = {
@@ -1710,16 +1709,16 @@ if (themeBtn) {
     } catch (e) {}
     applyTheme(next);
   });
-  // In systeemmodus meebewegen met een wijziging van de apparaatvoorkeur.
+  // In system mode, follow a change in the device preference.
   matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => {
     if (themeMode() === "system") applyTheme("system");
   });
-  applyTheme(themeMode());   // knop-icoon synchroniseren met de actieve keuze
+  applyTheme(themeMode());   // sync the button icon with the active choice
 }
 
-// Filters-paneel: progressive disclosure van de secundaire filters (periode,
-// bedrijven, categorie). Houdt de header rustig bij de eerste indruk; een
-// teller op de knop laat zien hoeveel filters actief zijn (Nielsen #1).
+// Filters panel: progressive disclosure of the secondary filters (period,
+// companies, category). Keeps the header calm on first impression; a
+// counter on the button shows how many filters are active (Nielsen #1).
 const filtersBtn = document.getElementById("filtersBtn");
 const filtersPanel = document.getElementById("filtersPanel");
 function activeFilterCount() {
@@ -1743,16 +1742,16 @@ filtersBtn.addEventListener("click", () => {
 });
 updateFiltersBtn();
 
-// "Saved only"-filter: toont alleen items die je hebt bewaard.
+// "Saved only" filter: shows only items you have saved.
 const savedOnlyEl = document.getElementById("savedOnly");
 if (savedOnlyEl) savedOnlyEl.addEventListener("change", () => { savedOnly = savedOnlyEl.checked; applyFilter(); });
 
-// Herstelacties in status- en foutmeldingen (Nielsen #9: bied een uitweg).
+// Recovery actions in status and error messages (Nielsen #9: offer a way out).
 document.addEventListener("click", e => {
   const btn = e.target.closest("[data-action]");
   if (!btn) return;
   if (btn.dataset.action === "toggle-save") {
-    e.preventDefault();                       // niet doorklikken naar het artikel
+    e.preventDefault();                       // don't follow through to the article
     const link = btn.dataset.link;
     if (savedLinks.has(link)) savedLinks.delete(link); else savedLinks.add(link);
     saveSaved();
@@ -1762,7 +1761,7 @@ document.addEventListener("click", e => {
     btn.setAttribute("aria-pressed", String(on));
     btn.setAttribute("aria-label", on ? "Saved" : "Save");
     btn.setAttribute("title", on ? "Saved — click to remove" : "Save for later");
-    if (savedOnly) applyFilter();             // verdwijnt uit de lijst als 'Saved only' aanstaat
+    if (savedOnly) applyFilter();             // disappears from the list if 'Saved only' is on
     return;
   }
   if (btn.dataset.action === "retry") refreshAll();
@@ -1799,7 +1798,7 @@ document.addEventListener("click", e => {
   }
 });
 
-// Sneltoets "/" zet de cursor in de zoekbalk (zoals Hacker News en Feedly).
+// Shortcut "/" puts the cursor in the search bar (like Hacker News and Feedly).
 document.addEventListener("keydown", e => {
   if (e.key !== "/" || e.metaKey || e.ctrlKey || e.altKey) return;
   const tag = ((document.activeElement || {}).tagName || "");
@@ -1808,7 +1807,7 @@ document.addEventListener("keydown", e => {
   document.getElementById("search").focus();
 });
 
-// Toetsenbordbediening voor de bewaar-ster (Enter of spatie).
+// Keyboard control for the save star (Enter or space).
 document.addEventListener("keydown", e => {
   const t = e.target;
   if ((e.key === "Enter" || e.key === " ") && t && t.classList && t.classList.contains("star")) {
@@ -1817,7 +1816,7 @@ document.addEventListener("keydown", e => {
   }
 });
 
-// Automatische verversing voor schermgebruik (kiosk/wanddisplay).
+// Automatic refresh for screen use (kiosk/wall display).
 if (REFRESH_MINUTES > 0) {
   setInterval(refreshAll, REFRESH_MINUTES * 60 * 1000);
 }

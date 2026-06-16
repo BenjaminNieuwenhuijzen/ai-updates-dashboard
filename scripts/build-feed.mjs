@@ -1,11 +1,11 @@
-// Bouwt twee bestanden uit de bronfeeds van AI Radar:
-//   feed.xml  - gecombineerde RSS, voor het Blogtrottr-mailabonnement.
-//   data.json - gestructureerd (incl. thumbnail + samenvatting), voor het dashboard.
-// Ontbrekende afbeeldingen/samenvattingen worden via og:-tags van de artikelpagina
-// aangevuld, met een cache over runs heen. Draait in GitHub Actions (Node 20+).
+// Builds two files from AI Radar's source feeds:
+//   feed.xml  - combined RSS, for the Blogtrottr email subscription.
+//   data.json - structured (incl. thumbnail + summary), for the dashboard.
+// Missing images/summaries are filled in from the article page's og: tags,
+// with a cache that persists across runs. Runs in GitHub Actions (Node 20+).
 import { writeFileSync, readFileSync } from "node:fs";
 
-// company = exacte kaartnaam in het dashboard; source = sublabel (bij meerdere feeds).
+// company = exact card name in the dashboard; source = sublabel (when there are multiple feeds).
 const FEEDS = [
   { company: "OpenAI", source: "", url: "https://openai.com/news/rss.xml" },
   { company: "Anthropic", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" },
@@ -21,10 +21,10 @@ const FEEDS = [
   { company: "Cohere", source: "", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml" }
 ];
 
-const PER_FEED = 40;       // items per bronfeed
-const RSS_MAX = 60;        // items in de gecombineerde RSS (e-mail)
+const PER_FEED = 40;       // items per source feed
+const RSS_MAX = 60;        // items in the combined RSS (email)
 const JSON_MAX = 360;      // items in data.json (dashboard)
-const MAX_FETCH = 170;     // max. artikelpagina's ophalen per run (rest uit cache)
+const MAX_FETCH = 170;     // max article pages to fetch per run (rest from cache)
 const CONCURRENCY = 8;
 
 const pick = (xml, tag) => {
@@ -32,7 +32,7 @@ const pick = (xml, tag) => {
   return m ? m[1].trim() : "";
 };
 const unCdata = s => s.replace(/^<!\[CDATA\[([\s\S]*?)\]\]>$/, "$1").trim();
-// Decodeer ge-encode HTML-entiteiten, verwijder dan tags, normaliseer witruimte.
+// Decode encoded HTML entities, then strip tags, then normalize whitespace.
 const strip = s => (s || "")
   .replace(/&lt;/gi, "<").replace(/&gt;/gi, ">")
   .replace(/&quot;/gi, '"').replace(/&#0?39;/g, "'").replace(/&apos;/gi, "'").replace(/&nbsp;/gi, " ")
@@ -53,7 +53,7 @@ function rssImage(block) {
   return m ? deEnt(m[1]) : "";
 }
 
-// Afbeelding + samenvatting van de artikelpagina (één request).
+// Image + summary from the article page (one request).
 async function fetchMeta(url) {
   const out = { image: "", description: "" };
   try {
@@ -85,7 +85,7 @@ async function pool(tasks, size) {
   }));
 }
 
-// ---- bronfeeds ophalen ----
+// ---- fetch source feeds ----
 const items = [];
 for (const feed of FEEDS) {
   try {
@@ -114,12 +114,12 @@ for (const feed of FEEDS) {
 items.sort((a, b) => b.t - a.t);
 const kept = items.slice(0, JSON_MAX);
 
-// ---- afbeeldingen + samenvattingen aanvullen ----
+// ---- fill in images + summaries ----
 const cache = {};
 try {
   const prev = JSON.parse(readFileSync("data.json", "utf8"));
   for (const it of prev.items || []) if (it.link) cache[it.link] = { image: it.image || "", summary: it.summary || "" };
-} catch { /* eerste run */ }
+} catch { /* first run */ }
 
 let fetched = 0;
 const tasks = [];
@@ -138,8 +138,8 @@ for (const it of kept) {
 }
 await pool(tasks, CONCURRENCY);
 
-// Blank boilerplate-samenvattingen: een tekst die binnen één bedrijf >1x voorkomt
-// is vrijwel zeker de generieke sitebeschrijving, geen artikelsamenvatting.
+// Blank out boilerplate summaries: text that appears >1x within a single company
+// is almost certainly the generic site description, not an article summary.
 const byCo = {};
 for (const it of kept) (byCo[it.company] = byCo[it.company] || []).push(it);
 for (const list of Object.values(byCo)) {
@@ -150,10 +150,10 @@ for (const list of Object.values(byCo)) {
     if (norm(it.desc) === norm(it.title)) it.desc = "";
   }
 }
-// Fallback-thumbnail: screenshot van de artikelpagina via thum.io. NIET voor domeinen
-// die ook thum.io's crawler met Cloudflare blokkeren (dan zou de screenshot een
-// "geen toegang"-pagina tonen) — die items blijven beeldloos en krijgen in het
-// dashboard een nette merkplaceholder.
+// Fallback thumbnail: screenshot of the article page via thum.io. NOT for domains
+// that also block thum.io's crawler with Cloudflare (the screenshot would then show
+// an "access denied" page) — those items stay imageless and get a clean brand
+// placeholder in the dashboard.
 const SCREENSHOT_BLOCK = ["openai.com", "x.ai"];
 const ogImages = kept.filter(i => i.image).length;
 for (const it of kept) {
@@ -163,8 +163,8 @@ for (const it of kept) {
   if (SCREENSHOT_BLOCK.some(d => host === d || host.endsWith("." + d))) continue;
   it.image = "https://image.thum.io/get/width/1200/crop/700/" + it.link;
 }
-// Veiligheidsnet: geblokkeerde domeinen mogen nooit een screenshot houden, ook
-// niet eentje die nog uit de cache van een vorige run komt.
+// Safety net: blocked domains must never keep a screenshot, not even one that
+// still comes from a previous run's cache.
 for (const it of kept) {
   if (!it.image.includes("image.thum.io")) continue;
   let host = "";
@@ -173,14 +173,14 @@ for (const it of kept) {
 }
 console.log(`images: ${kept.filter(i => i.image).length}/${kept.length} (og:${ogImages}, screenshot:${kept.length - ogImages}) | summaries: ${kept.filter(i => i.desc).length}/${kept.length} | fetched: ${fetched}`);
 
-// ---- dagelijkse briefing (Claude Haiku, server-side) ----
-// Genereert "Today in AI": 5 korte items uit de nieuwste koppen. Draait hoogstens
-// één keer per UTC-dag en alleen als ANTHROPIC_API_KEY is gezet; zonder sleutel of
-// bij een fout blijft de bestaande digest.json staan, zodat de feedbouw nooit breekt.
+// ---- daily briefing (Claude Haiku, server-side) ----
+// Generates "Today in AI": 5 short items from the latest headlines. Runs at most
+// once per UTC day and only if ANTHROPIC_API_KEY is set; without a key or on an
+// error the existing digest.json is kept, so the feed build never breaks.
 async function generateDigest(allItems) {
   const apiKey = process.env.ANTHROPIC_API_KEY;
   let prev = null;
-  try { prev = JSON.parse(readFileSync("digest.json", "utf8")); } catch { /* nog geen digest */ }
+  try { prev = JSON.parse(readFileSync("digest.json", "utf8")); } catch { /* no digest yet */ }
   if (!apiKey) { console.log("digest: no ANTHROPIC_API_KEY — skipping"); return prev; }
 
   const today = new Date().toISOString().slice(0, 10);
@@ -244,7 +244,7 @@ async function generateDigest(allItems) {
     return { date: today, generated: new Date().toISOString(), items };
   } catch (e) {
     console.error("digest error: " + e.message);
-    return prev;   // bij een fout de vorige digest behouden
+    return prev;   // on an error, keep the previous digest
   }
 }
 const digest = await generateDigest(kept);
@@ -264,9 +264,9 @@ const json = {
 writeFileSync("data.json", JSON.stringify(json));
 console.log(`data.json: ${json.items.length} items`);
 
-// ---- feed.xml (Blogtrottr e-mail) ----
+// ---- feed.xml (Blogtrottr email) ----
 const top = kept.slice(0, RSS_MAX);
-// Dagelijkse briefing als bovenste mailitem (guid per dag, dus eens per dag verzonden).
+// Daily briefing as the top email item (guid per day, so sent once per day).
 const digestItem = digest && digest.items && digest.items.length ? `<item>
 <title>${escXml("AI Radar — Today in AI (" + digest.date + ")")}</title>
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>

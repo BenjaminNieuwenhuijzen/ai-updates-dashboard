@@ -1,0 +1,14 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Node (only used by the build script in CI)
+node_modules/
+npm-debug.log*
+
+# Local env / secrets
+.env
+.env.*
