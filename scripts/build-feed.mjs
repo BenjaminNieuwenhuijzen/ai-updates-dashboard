@@ -173,6 +173,86 @@ for (const it of kept) {
 }
 console.log(`images: ${kept.filter(i => i.image).length}/${kept.length} (og:${ogImages}, screenshot:${kept.length - ogImages}) | summaries: ${kept.filter(i => i.desc).length}/${kept.length} | fetched: ${fetched}`);
 
+// ---- dagelijkse briefing (Claude Haiku, server-side) ----
+// Genereert "Today in AI": 5 korte items uit de nieuwste koppen. Draait hoogstens
+// één keer per UTC-dag en alleen als ANTHROPIC_API_KEY is gezet; zonder sleutel of
+// bij een fout blijft de bestaande digest.json staan, zodat de feedbouw nooit breekt.
+async function generateDigest(allItems) {
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  let prev = null;
+  try { prev = JSON.parse(readFileSync("digest.json", "utf8")); } catch { /* nog geen digest */ }
+  if (!apiKey) { console.log("digest: no ANTHROPIC_API_KEY — skipping"); return prev; }
+
+  const today = new Date().toISOString().slice(0, 10);
+  if (prev && prev.date === today && Array.isArray(prev.items) && prev.items.length) {
+    console.log("digest: already generated for " + today + " — keeping");
+    return prev;
+  }
+
+  const recent = allItems.slice(0, 30)
+    .map(i => `- [${i.company}] ${i.title}${i.desc ? " — " + i.desc : ""}`)
+    .join("\n");
+  const schema = {
+    type: "object",
+    properties: {
+      items: {
+        type: "array",
+        items: {
+          type: "object",
+          properties: {
+            headline: { type: "string" },
+            summary: { type: "string" },
+            company: { type: "string" }
+          },
+          required: ["headline", "summary", "company"],
+          additionalProperties: false
+        }
+      }
+    },
+    required: ["items"],
+    additionalProperties: false
+  };
+  const body = {
+    model: "claude-haiku-4-5",
+    max_tokens: 1024,
+    system: "You are the editor of an AI-industry news dashboard. From the supplied recent headlines across multiple AI companies, pick the five most significant and write a tight daily briefing. Be factual and concise, no hype, no marketing language. Each item: a short headline (max ~8 words), a one-sentence summary, and the company name exactly as given.",
+    messages: [{ role: "user", content: `Recent AI updates:\n\n${recent}\n\nReturn the five most significant as JSON.` }],
+    output_config: { format: { type: "json_schema", schema } }
+  };
+
+  try {
+    const res = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: {
+        "content-type": "application/json",
+        "x-api-key": apiKey,
+        "anthropic-version": "2023-06-01"
+      },
+      body: JSON.stringify(body),
+      signal: AbortSignal.timeout(60000)
+    });
+    if (!res.ok) {
+      console.error("digest: HTTP " + res.status + " " + (await res.text()).slice(0, 200));
+      return prev;
+    }
+    const data = await res.json();
+    const text = (data.content || []).filter(b => b.type === "text").map(b => b.text).join("");
+    const parsed = JSON.parse(text);
+    const items = (parsed.items || []).slice(0, 6);
+    if (!items.length) { console.error("digest: empty result"); return prev; }
+    console.log("digest: generated " + items.length + " items for " + today);
+    return { date: today, generated: new Date().toISOString(), items };
+  } catch (e) {
+    console.error("digest error: " + e.message);
+    return prev;   // bij een fout de vorige digest behouden
+  }
+}
+const digest = await generateDigest(kept);
+if (digest) {
+  writeFileSync("digest.json", JSON.stringify(digest));
+  console.log(`digest.json: ${digest.items.length} items (${digest.date})`);
+}
+
 // ---- data.json (dashboard) ----
 const json = {
   generated: new Date().toISOString(),
@@ -186,6 +266,15 @@ console.log(`data.json: ${json.items.length} items`);
 
 // ---- feed.xml (Blogtrottr e-mail) ----
 const top = kept.slice(0, RSS_MAX);
+// Dagelijkse briefing als bovenste mailitem (guid per dag, dus eens per dag verzonden).
+const digestItem = digest && digest.items && digest.items.length ? `<item>
+<title>${escXml("Model Monitor — Today in AI (" + digest.date + ")")}</title>
+<link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
+<guid isPermaLink="false">mm-digest-${digest.date}</guid>
+<pubDate>${new Date().toUTCString()}</pubDate>
+<description>${escXml(digest.items.map(d => "• " + d.headline + " (" + d.company + "): " + d.summary).join("\n"))}</description>
+</item>
+` : "";
 const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
@@ -194,7 +283,7 @@ const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
 <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
-${top.map(i => `<item>
+${digestItem}${top.map(i => `<item>
 <title>${escXml("[" + (i.source || i.company) + "] " + i.title)}</title>
 <link>${escXml(i.link)}</link>
 <guid isPermaLink="false">${escXml(i.link)}</guid>

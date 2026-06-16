@@ -504,6 +504,26 @@
   .rail-date { display: block; font-size: 11px; color: var(--muted); margin-top: 4px; }
   @media (max-width: 860px) { .hero-layout { grid-template-columns: 1fr; } }
 
+  /* "Today in AI": door een model gegenereerde dagelijkse briefing bovenaan
+     (server-side in de Action), als snel overzicht boven het nieuws zelf. */
+  #digest {
+    margin: 24px 32px 0;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--link);
+    border-radius: 14px;
+    box-shadow: var(--shadow);
+    padding: 15px 20px;
+  }
+  #digest[hidden] { display: none; }
+  .digest-head { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-bottom: 11px; }
+  .digest-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 9px; }
+  .digest-list li { font-size: 13.5px; line-height: 1.45; }
+  .digest-list .dh { font-weight: 650; }
+  .digest-list .dco { color: var(--muted); font-size: 12px; }
+  @media (min-width: 760px) { .digest-list { grid-template-columns: 1fr 1fr; gap: 9px 30px; } }
+  @media (max-width: 600px) { #digest { margin: 16px 16px 0; padding: 14px 16px; } }
+
   /* ------------------------------------------------------------------
      Abonneren per mail.
   ------------------------------------------------------------------ */
@@ -663,6 +683,7 @@
   </div>
 </header>
 
+<section id="digest" hidden></section>
 <div id="hero"></div>
 <div class="grid" id="grid"></div>
 <div id="stream" style="display:none"></div>
@@ -1348,6 +1369,25 @@ function renderHero() {
     : heroCard);
 }
 
+// "Today in AI": dagelijkse briefing uit digest.json (server-side gegenereerd
+// door de Action). Verbergt zich netjes als het bestand er niet is.
+async function loadDigest() {
+  const wrap = document.getElementById("digest");
+  if (!wrap) return;
+  try {
+    const res = await fetch("digest.json?t=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) { wrap.hidden = true; return; }
+    const d = await res.json();
+    if (!d || !Array.isArray(d.items) || !d.items.length) { wrap.hidden = true; return; }
+    const date = d.date ? fmtDate(d.date) : "";
+    wrap.innerHTML = `<div class="digest-head">Today in AI${date ? " · " + escapeHtml(date) : ""}</div>
+      <ul class="digest-list">${d.items.map(it =>
+        `<li><span class="dh">${escapeHtml(it.headline || "")}</span> ${escapeHtml(it.summary || "")} <span class="dco">${escapeHtml(it.company || "")}</span></li>`
+      ).join("")}</ul>`;
+    wrap.hidden = false;
+  } catch (e) { wrap.hidden = true; }
+}
+
 // Toon/verberg kaarten op basis van de geselecteerde bedrijven.
 function applyCompanyVisibility() {
   const cards = document.querySelectorAll("#grid .card");
@@ -1457,6 +1497,7 @@ async function refreshAll() {
   applyCompanyVisibility();
   renderStream();
   renderHero();
+  loadDigest();
 
   // Tel nieuwe items (nog niet eerder gezien) vóór we ze als gezien markeren,
   // zodat de statusregel de binnenkomst benoemt. Met aria-live op #updated is
