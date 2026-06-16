@@ -1259,6 +1259,8 @@ function renderItems(i, items) {
   const hidden = Math.min(shown.length, MAX_ITEMS) - visible.length;
   if (!expanded && hidden > 0) {
     html += `<li class="more-li"><button class="showmore" data-action="expand-card" data-i="${i}">Show ${hidden} more</button></li>`;
+  } else if (expanded && shown.length > GRID_PAGE) {
+    html += `<li class="more-li"><button class="showmore" data-action="collapse-card" data-i="${i}">Show less</button></li>`;
   }
   ul.innerHTML = html;
 }
@@ -1738,6 +1740,11 @@ document.addEventListener("click", e => {
   if (btn.dataset.action === "expand-card") {
     const i = parseInt(btn.dataset.i, 10);
     expandedCards.add(i);
+    renderItems(i, STATE[COMPANIES[i].name] || []);
+  }
+  if (btn.dataset.action === "collapse-card") {
+    const i = parseInt(btn.dataset.i, 10);
+    expandedCards.delete(i);
     renderItems(i, STATE[COMPANIES[i].name] || []);
   }
   if (btn.dataset.action === "load-more-stream") {
