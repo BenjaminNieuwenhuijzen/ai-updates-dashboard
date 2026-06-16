@@ -78,9 +78,7 @@
   .brand svg { width: 30px; height: 30px; display: block; flex: none; }
   header h1 { margin: 0; font-size: 18px; font-weight: 650; }
   .meta { color: var(--muted); font-size: 12.5px; margin-top: 1px; }
-  .controls { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 16px; }
-  .control { display: flex; flex-direction: column; gap: 3px; }
-  .control-label { font-size: 11px; color: var(--muted); }
+  .controls { display: flex; flex-wrap: wrap; align-items: center; gap: 16px; }
 
   .seg {
     display: inline-flex;
@@ -139,7 +137,7 @@
   }
   .company-panel-list label:hover { background: var(--card-hover); }
   .company-panel-list input { accent-color: var(--link); width: 15px; height: 15px; flex: none; }
-  button#refresh, button#filtersBtn, button#themeBtn {
+  button#filtersBtn, button#themeBtn {
     background: var(--card);
     color: var(--text);
     border: 1px solid var(--border);
@@ -148,11 +146,10 @@
     font-size: 13px;
     cursor: pointer;
   }
-  button#refresh:hover, button#filtersBtn:hover, button#themeBtn:hover { background: var(--card-hover); }
+  button#filtersBtn:hover, button#themeBtn:hover { background: var(--card-hover); }
   /* Theme switcher: compact icon button (Auto / Light / Dark). */
   button#themeBtn { padding: 6px 9px; display: inline-grid; place-items: center; }
   button#themeBtn svg { width: 17px; height: 17px; display: block; }
-  button#refresh:disabled { opacity: .55; cursor: default; }
 
   /* Filters: one button that shows/hides the secondary filters (progressive
      disclosure, Sweller). Caret + active-count keep the status visible. */
@@ -597,7 +594,6 @@
   @media (max-width: 600px) {
     header { padding: 12px 16px; }
     .controls { gap: 10px 12px; }
-    .control { flex: 1 1 auto; }
     input#search { width: 100%; }
     #hero { padding: 16px 16px 0; }
     .hero-title { font-size: 20px; }
@@ -634,19 +630,12 @@
     </div>
   </div>
   <div class="controls">
-    <div class="control">
-      <span class="control-label" id="viewlabel">View</span>
-      <div class="seg" id="view" role="group" aria-labelledby="viewlabel">
-        <button type="button" data-view="grid" class="active" aria-pressed="true">By company</button>
-        <button type="button" data-view="stream" aria-pressed="false">Timeline</button>
-      </div>
+    <div class="seg" id="view" role="group" aria-label="View">
+      <button type="button" data-view="grid" class="active" aria-pressed="true">By company</button>
+      <button type="button" data-view="stream" aria-pressed="false">Timeline</button>
     </div>
-    <div class="control">
-      <label class="control-label" for="search">Search</label>
-      <input id="search" type="search" placeholder="Filter by keyword…" autocomplete="off" title="Press / to jump here">
-    </div>
+    <input id="search" type="search" aria-label="Search" placeholder="Filter by keyword…" autocomplete="off" title="Press / to jump here">
     <button id="filtersBtn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="filtersPanel">Filters</button>
-    <button id="refresh">Refresh</button>
     <button id="themeBtn" type="button" aria-label="Theme"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 0 1 0 18z" fill="currentColor"/></svg></button>
   </div>
   <div class="filters-panel" id="filtersPanel" hidden>
@@ -1507,9 +1496,6 @@ async function loadLive(cache) {
 }
 
 async function refreshAll() {
-  const btn = document.getElementById("refresh");
-  btn.disabled = true;
-  btn.textContent = "Refreshing…";
   document.getElementById("updated").textContent = "Refreshing…";
 
   const cache = loadCache();
@@ -1549,8 +1535,6 @@ async function refreshAll() {
   const now = new Date().toLocaleString("en-GB", { dateStyle: "long", timeStyle: "short" });
   document.getElementById("updated").textContent =
     "Updated: " + now + (newCount ? " · " + newCount + " new" : "");
-  btn.disabled = false;
-  btn.textContent = "Refresh";
 }
 
 // Short source labels for companies with multiple feeds (Google).
@@ -1587,7 +1571,6 @@ function setView(view) {
 
 buildCards();
 refreshAll();
-document.getElementById("refresh").addEventListener("click", refreshAll);
 document.getElementById("period").addEventListener("change", applyFilter);
 document.querySelectorAll("#view button").forEach(b =>
   b.addEventListener("click", () => setView(b.dataset.view)));
