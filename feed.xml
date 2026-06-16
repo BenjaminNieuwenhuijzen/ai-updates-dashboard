@@ -5,7 +5,7 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 16 Jun 2026 11:07:58 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 11:18:18 GMT</lastBuildDate>
 <item>
 <title>[Newsroom] New Features to Celebrate 500 Million Monthly Users on Threads</title>
 <link>https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/</link>
@@ -47,13 +47,6 @@
 <guid isPermaLink="false">https://status.openai.com//incidents/01KV6NGBYE50GK3TRXHD2EMTXA</guid>
 <pubDate>Mon, 15 Jun 2026 22:16:11 GMT</pubDate>
 <description>Status: Investigating We are investigating the issue for the listed services. Affected components FedRAMP (Degraded performance)</description>
-</item>
-<item>
-<title>[Claude Code] v2.1.178</title>
-<link>https://github.com/anthropics/claude-code/releases/tag/v2.1.178</link>
-<guid isPermaLink="false">https://github.com/anthropics/claude-code/releases/tag/v2.1.178</guid>
-<pubDate>Mon, 15 Jun 2026 21:35:55 GMT</pubDate>
-<description>What's changed Added Tool(param:value) syntax for permission rules to match a tool's input parameters (with * wildcard), e.g. Agent(model:opus) to block Opus subagents Skills in nested .claude/skills directories now load when working on files there; on a name clash, the nested skill appears as &amp;lt;d</description>
 </item>
 <item>
 <title>[Status] OAuth Account Creation / Login Error</title>
@@ -145,20 +138,6 @@
 <guid isPermaLink="false">https://openai.com/index/introducing-openai-partner-network</guid>
 <pubDate>Sun, 14 Jun 2026 17:00:00 GMT</pubDate>
 <description>OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.</description>
-</item>
-<item>
-<title>[Claude Code] v2.1.177</title>
-<link>https://github.com/anthropics/claude-code/releases/tag/v2.1.177</link>
-<guid isPermaLink="false">https://github.com/anthropics/claude-code/releases/tag/v2.1.177</guid>
-<pubDate>Sat, 13 Jun 2026 01:25:15 GMT</pubDate>
-<description>No content.</description>
-</item>
-<item>
-<title>[Claude Code] v2.1.176</title>
-<link>https://github.com/anthropics/claude-code/releases/tag/v2.1.176</link>
-<guid isPermaLink="false">https://github.com/anthropics/claude-code/releases/tag/v2.1.176</guid>
-<pubDate>Fri, 12 Jun 2026 21:53:27 GMT</pubDate>
-<description>What's changed Session titles are now generated in the language of your conversation (set the language setting to pin a specific language) Added footerLinksRegexes setting for regex-matched link badges in the footer row, configurable via user or managed settings Improved Bedrock credential caching: </description>
 </item>
 <item>
 <title>[Developer] NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark</title>
@@ -259,25 +238,11 @@
 <description>As part of the Build Small hackathon we are inviting our partners to share their knowledge on how to get the most out of their platform. Today we are joined by Modal who will walk us through some use-case for Modal's cloud compute as well as taking questions from the community! --- Build Small Hacka</description>
 </item>
 <item>
-<title>[Claude Code] v2.1.175</title>
-<link>https://github.com/anthropics/claude-code/releases/tag/v2.1.175</link>
-<guid isPermaLink="false">https://github.com/anthropics/claude-code/releases/tag/v2.1.175</guid>
-<pubDate>Fri, 12 Jun 2026 04:23:51 GMT</pubDate>
-<description>What's changed Added enforceAvailableModels managed setting — when enabled, the availableModels allowlist also constrains the Default model (a Default that would resolve to a disallowed model now falls back to the first allowed model), and user or project settings can no longer widen a managed avail</description>
-</item>
-<item>
-<title>[Claude Code] v2.1.174</title>
-<link>https://github.com/anthropics/claude-code/releases/tag/v2.1.174</link>
-<guid isPermaLink="false">https://github.com/anthropics/claude-code/releases/tag/v2.1.174</guid>
-<pubDate>Fri, 12 Jun 2026 01:16:36 GMT</pubDate>
-<description>What's changed Added wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll acceleration in fullscreen mode Fixed the /model picker hiding the model family that Default resolves to — Opus now appears as its own row on Max/Team Premium/Enterprise plans, Sonnet on Pro/Team plans, and Opu</description>
-</item>
-<item>
 <title>[Status] Elevated 431 Errors</title>
 <link>https://status.openai.com//incidents/01KTWCER83NNKE698QXNXJG11M</link>
 <guid isPermaLink="false">https://status.openai.com//incidents/01KTWCER83NNKE698QXNXJG11M</guid>
 <pubDate>Fri, 12 Jun 2026 00:47:57 GMT</pubDate>
-<description>Status: Resolved All impacted services have now fully recovered. Affected components Sora (Operational) Batch (Operational) Audio (Operational) Fine-tuning (Operational) Realtime (Operational) Files (Operational) Embeddings (Operational) Moderations (Operational) Login (Operational) Images (Operatio</description>
+<description>Status: Resolved All impacted services have now fully recovered. Affected components Audio (Operational) Fine-tuning (Operational) Realtime (Operational) Embeddings (Operational) Moderations (Operational) Files (Operational) Responses (Operational) Login (Operational) Sora (Operational) Images (Oper</description>
 </item>
 <item>
 <title>[YouTube] Debug web apps with browser use in Codex</title>
@@ -425,6 +390,41 @@
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/</guid>
 <pubDate>Thu, 11 Jun 2026 13:00:17 +0000</pubDate>
 <description>The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But [&amp;#8230;]</description>
+</item>
+<item>
+<title>[Newsroom] Going All in for Global Football Fans Across Meta Apps</title>
+<link>https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps/</link>
+<guid isPermaLink="false">https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps/</guid>
+<pubDate>Thu, 11 Jun 2026 12:00:40 +0000</pubDate>
+<description>We’re bringing new football features to Threads, Instagram, Facebook, and WhatsApp, including athlete content, match content, and in-product activations. The post Going All in for Global Football Fans Across Meta Apps appeared first on Meta Newsroom .</description>
+</item>
+<item>
+<title>[YouTube] Build Small with OpenBMB</title>
+<link>https://www.youtube.com/watch?v=B7XvicdImIE</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=B7XvicdImIE</guid>
+<pubDate>Thu, 11 Jun 2026 04:35:56 GMT</pubDate>
+<description>As part of the Build Small hackathon we are inviting our partners to share their knowledge on how to get the most out of the tiny models available today. Today we are joined by OpenBMB who will walk us through some of the best real-world uses cases for their family of tiny models and answer any ques</description>
+</item>
+<item>
+<title>[Newsroom] Why Social Media Bans Alone Can’t Solve the Age Verification Dilemma</title>
+<link>https://about.fb.com/news/2026/06/how-to-verify-age-online/</link>
+<guid isPermaLink="false">https://about.fb.com/news/2026/06/how-to-verify-age-online/</guid>
+<pubDate>Thu, 11 Jun 2026 04:10:35 +0000</pubDate>
+<description>To help ensure young people stay safe online, we need a practical, centralized framework that verifies the ages of people using our apps. The post Why Social Media Bans Alone Can’t Solve the Age Verification Dilemma appeared first on Meta Newsroom .</description>
+</item>
+<item>
+<title>[YouTube] Build Small with Cohere Labs</title>
+<link>https://www.youtube.com/watch?v=TYIT3nRMXak</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=TYIT3nRMXak</guid>
+<pubDate>Thu, 11 Jun 2026 03:07:26 GMT</pubDate>
+<description>As part of the Build Small hackathon we are inviting our partners to share their knowledge on how to get the most out of the tiny models available today. Today we are joined by Cohere Labs who will walk us through their Tiny Aya and Transcribe models and answer any questions from the community! --- </description>
+</item>
+<item>
+<title>[News] OpenAI to acquire Ona</title>
+<link>https://openai.com/index/openai-to-acquire-ona</link>
+<guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+<description>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</description>
 </item>
 </channel>
 </rss>
