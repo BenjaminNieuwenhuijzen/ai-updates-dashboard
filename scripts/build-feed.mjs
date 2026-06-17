@@ -358,7 +358,7 @@ const top = kept.slice(0, RSS_MAX);
 // Daily briefing as the top email item (guid per day, so sent once per day).
 const digestItem = digest && digest.items && digest.items.length ? `<item>
 <title>${escXml("AI Radar — Today in AI (" + digest.date + ")")}</title>
-<link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
+<link>https://ai-radar.eu/</link>
 <guid isPermaLink="false">mm-digest-${digest.date}</guid>
 <pubDate>${new Date().toUTCString()}</pubDate>
 <description>${escXml(digest.items.map(d => "• " + d.headline + " (" + d.company + "): " + d.summary).join("\n"))}</description>
@@ -368,7 +368,7 @@ const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
 <title>AI Radar</title>
-<link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
+<link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
 <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>

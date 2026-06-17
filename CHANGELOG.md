@@ -10,6 +10,12 @@ can see exactly what changed between any two versions.
 ## [Unreleased]
 
 ### Added
+- Custom domain **ai-radar.eu**: added a `CNAME` and pointed all site URLs (README,
+  `feed.xml`, build script, Blogtrottr link) at it, plus branding/SEO meta tags
+  (description, canonical, Open Graph, Twitter card) in `index.html`.
+- Drag-to-reorder the company cards. Drag a card by its grip handle to set your own
+  order; it is remembered locally per browser and overrides the automatic activity
+  ranking until you press **"Auto order"**. Works with mouse and touch.
 - DeepSeek added as the 12th tracked company. It publishes no native or community RSS
   feed, so its card is fed by the official `deepseek-ai` GitHub release feeds plus a
   Google News query for current coverage, and is labelled a community source. Google

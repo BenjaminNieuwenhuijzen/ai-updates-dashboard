@@ -3,7 +3,19 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AI Radar</title>
+<title>AI Radar — Latest news from the leading AI companies</title>
+<meta name="description" content="AI Radar is a live dashboard that aggregates the latest news and updates from the leading AI companies into one page.">
+<link rel="canonical" href="https://ai-radar.eu/">
+<meta name="theme-color" content="#1f56c4">
+<!-- Open Graph / social sharing -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI Radar">
+<meta property="og:title" content="AI Radar — Latest news from the leading AI companies">
+<meta property="og:description" content="A live dashboard that aggregates the latest news and updates from the leading AI companies into one page.">
+<meta property="og:url" content="https://ai-radar.eu/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="AI Radar — Latest news from the leading AI companies">
+<meta name="twitter:description" content="A live dashboard that aggregates the latest news and updates from the leading AI companies into one page.">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231f56c4'/%3E%3Cpath d='M31 34 L31 17 A17 17 0 0 1 43 22 Z' fill='%23fff' opacity='.18'/%3E%3Ccircle cx='31' cy='34' r='17' fill='none' stroke='%23fff' stroke-width='2.4' opacity='.4'/%3E%3Ccircle cx='31' cy='34' r='11' fill='none' stroke='%23fff' stroke-width='2.4' opacity='.6'/%3E%3Cline x1='31' y1='34' x2='43' y2='22' stroke='%23fff' stroke-width='2.4' stroke-linecap='round' opacity='.9'/%3E%3Ccircle cx='31' cy='34' r='3' fill='%23fff'/%3E%3Ccircle cx='40' cy='25' r='3.6' fill='%237cc4ff' stroke='%231f56c4' stroke-width='2.4'/%3E%3C/svg%3E">
 <style>
   /* ------------------------------------------------------------------
@@ -137,7 +149,7 @@
   }
   .company-panel-list label:hover { background: var(--card-hover); }
   .company-panel-list input { accent-color: var(--link); width: 15px; height: 15px; flex: none; }
-  button#filtersBtn, button#themeBtn {
+  button#filtersBtn, button#themeBtn, button#orderReset {
     background: var(--card);
     color: var(--text);
     border: 1px solid var(--border);
@@ -146,7 +158,10 @@
     font-size: 13px;
     cursor: pointer;
   }
-  button#filtersBtn:hover, button#themeBtn:hover { background: var(--card-hover); }
+  button#filtersBtn:hover, button#themeBtn:hover, button#orderReset:hover { background: var(--card-hover); }
+  /* Reset-to-automatic-order button: only shown once a manual order is set. */
+  button#orderReset[hidden] { display: none; }
+  button#orderReset::before { content: "↕"; margin-right: 6px; color: var(--muted); }
   /* Theme switcher: compact icon button (Auto / Light / Dark). */
   button#themeBtn { padding: 6px 9px; display: inline-grid; place-items: center; }
   button#themeBtn svg { width: 17px; height: 17px; display: block; }
@@ -202,6 +217,20 @@
     display: flex;
     align-items: center;
     gap: 12px;
+  }
+  /* Drag handle: grip in the card head. A dedicated handle keeps links and
+     scrolling untouched; touch-action:none lets a finger drag without
+     scrolling the page. */
+  .drag-handle {
+    flex: none; margin-left: auto; align-self: flex-start;
+    background: none; border: 0; padding: 2px 2px;
+    color: var(--muted); font-size: 16px; line-height: 1;
+    cursor: grab; touch-action: none; user-select: none;
+  }
+  .drag-handle:hover { color: var(--text); }
+  .card.dragging {
+    opacity: .55; cursor: grabbing;
+    outline: 2px dashed var(--card-accent, var(--link)); outline-offset: -2px;
   }
   .avatar {
     flex: none;
@@ -634,6 +663,7 @@
       <button type="button" data-view="grid" class="active" aria-pressed="true">By company</button>
       <button type="button" data-view="stream" aria-pressed="false">Timeline</button>
     </div>
+    <button id="orderReset" type="button" hidden title="Reset to automatic order (most active first)">Auto order</button>
     <input id="search" type="search" aria-label="Search" placeholder="Filter by keyword…" autocomplete="off" title="Press / to jump here">
     <button id="filtersBtn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="filtersPanel">Filters</button>
     <button id="themeBtn" type="button" aria-label="Theme"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 0 1 0 18z" fill="currentColor"/></svg></button>
@@ -685,7 +715,7 @@
     address never reaches AI Radar. You can unsubscribe from any email.</p>
     <p class="sub-alt">Prefer your own reader? <a href="feed.xml" target="_blank" rel="noopener">Use the RSS feed</a> directly.</p>
   </div>
-  <a class="sub-btn" href="https://blogtrottr.com/?subscribe=https%3A%2F%2Fbenjaminnieuwenhuijzen.github.io%2Fai-updates-dashboard%2Ffeed.xml" target="_blank" rel="noopener">Subscribe via Blogtrottr</a>
+  <a class="sub-btn" href="https://blogtrottr.com/?subscribe=https%3A%2F%2Fai-radar.eu%2Ffeed.xml" target="_blank" rel="noopener">Subscribe via Blogtrottr</a>
 </section>
 
 <footer>
@@ -708,7 +738,7 @@
       respective owners and are used here for identification purposes only; this page is not affiliated
       with or endorsed by any of the companies listed. AI Radar itself collects and processes no
       personal data: it runs entirely in your browser, has no analytics or tracking, and stores only your
-      own preferences (such as theme and company selection) locally on your device. Email subscription runs
+      own preferences (such as theme, company selection and your custom card order) locally on your device. Email subscription runs
       via Blogtrottr, so your address never reaches AI Radar; links to external websites and that email
       delivery fall outside the creator&#8217;s responsibility.</p>
     </div>
@@ -1021,6 +1051,26 @@ function saveSelectedCompanies() {
 }
 let selectedCompanies = loadSelectedCompanies();
 
+/* Manual card order: drag a card by its grip to reorder. Once set, the order
+   is saved per browser and overrides the automatic activity ranking until the
+   visitor presses "Auto order". Fully local, like the other preferences. */
+const ORDER_KEY = "mm-order-v1";
+function loadCustomOrder() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(ORDER_KEY));
+    if (Array.isArray(saved) && saved.some(n => COMPANIES.some(c => c.name === n))) return saved;
+  } catch (e) {}
+  return null;
+}
+let customOrder = loadCustomOrder();
+function saveCustomOrder() {
+  try { localStorage.setItem(ORDER_KEY, JSON.stringify(customOrder)); } catch (e) {}
+}
+function clearCustomOrder() {
+  customOrder = null;
+  try { localStorage.removeItem(ORDER_KEY); } catch (e) {}
+}
+
 // Free-text search filter: searches title and summary (case-insensitive).
 function matchesQuery(it) {
   if (!currentQuery) return true;
@@ -1205,6 +1255,7 @@ function buildCards() {
           <h2>${c.name}</h2>
           ${src}
         </div>
+        <button type="button" class="drag-handle" aria-label="Drag to reorder ${c.name}" title="Drag to reorder">⠿</button>
       </div>
       <div class="card-sources"><span class="src-prefix">Links</span><div class="card-links">${links}</div></div>
       <div class="status" id="status-${i}">Loading…</div>
@@ -1421,6 +1472,19 @@ const RANK_WINDOW_DAYS = 30;
 function reorderGrid() {
   const grid = document.getElementById("grid");
   if (!grid) return;
+  // A manual order, when set, takes precedence over the activity ranking.
+  // Companies not in the saved order (e.g. a newly added one) keep their
+  // configuration order and follow at the end.
+  if (customOrder) {
+    const rank = name => {
+      const i = customOrder.indexOf(name);
+      return i === -1 ? COMPANIES.length + COMPANIES.findIndex(c => c.name === name) : i;
+    };
+    [...grid.querySelectorAll(".card")]
+      .sort((a, b) => rank(a.dataset.company) - rank(b.dataset.company))
+      .forEach(card => grid.appendChild(card));
+    return;
+  }
   const days = currentPeriodDays() || RANK_WINDOW_DAYS;
   const cutoff = Date.now() - days * 86400000;
   const ranked = [...grid.querySelectorAll(".card")].map(card => {
@@ -1436,6 +1500,70 @@ function reorderGrid() {
   });
   ranked.sort((a, b) => b.count - a.count || b.newest - a.newest || a.origIdx - b.origIdx);
   ranked.forEach(r => grid.appendChild(r.card));
+}
+
+/* Drag-to-reorder the company cards. Dragging starts from the grip handle, so
+   links and page scrolling stay untouched; pointer events cover mouse and
+   touch alike. While dragging, the card reflows live into its new spot; on
+   release the new order is saved and the "Auto order" button appears. */
+function placeDragged(grid, dragCard, x, y) {
+  const others = [...grid.querySelectorAll(".card:not(.dragging)")];
+  if (!others.length) return;
+  let nearest = null, best = Infinity;
+  for (const c of others) {
+    const b = c.getBoundingClientRect();
+    const d = Math.hypot(x - (b.left + b.width / 2), y - (b.top + b.height / 2));
+    if (d < best) { best = d; nearest = c; }
+  }
+  const b = nearest.getBoundingClientRect();
+  const midY = b.top + b.height / 2, midX = b.left + b.width / 2;
+  // Within the nearest card's row, decide by horizontal side; otherwise by
+  // whether the pointer sits above or below it.
+  const after = Math.abs(y - midY) <= b.height / 2 ? x > midX : y > midY;
+  grid.insertBefore(dragCard, after ? nearest.nextSibling : nearest);
+}
+
+function initCardDragging() {
+  const grid = document.getElementById("grid");
+  if (!grid) return;
+  grid.addEventListener("pointerdown", e => {
+    const handle = e.target.closest(".drag-handle");
+    if (!handle || e.button !== 0 && e.pointerType === "mouse") return;
+    const dragCard = handle.closest(".card");
+    if (!dragCard) return;
+    e.preventDefault();
+    const orderOf = () => [...grid.querySelectorAll(".card")].map(c => c.dataset.company);
+    const before = orderOf().join(" ");
+    dragCard.classList.add("dragging");
+    handle.setPointerCapture(e.pointerId);
+    const onMove = ev => placeDragged(grid, dragCard, ev.clientX, ev.clientY);
+    const onUp = () => {
+      handle.removeEventListener("pointermove", onMove);
+      handle.removeEventListener("pointerup", onUp);
+      handle.removeEventListener("pointercancel", onUp);
+      dragCard.classList.remove("dragging");
+      // Only commit when the order actually changed: a stray click on the grip
+      // should not silently switch to manual ordering.
+      const now = orderOf();
+      if (now.join(" ") !== before) {
+        customOrder = now;
+        saveCustomOrder();
+        updateOrderControls();
+      }
+    };
+    handle.addEventListener("pointermove", onMove);
+    handle.addEventListener("pointerup", onUp);
+    handle.addEventListener("pointercancel", onUp);
+  });
+}
+
+// Show the "Auto order" reset only when a manual order is active and the grid
+// (not the timeline) is on screen.
+function updateOrderControls() {
+  const btn = document.getElementById("orderReset");
+  if (!btn) return;
+  const gridVisible = document.getElementById("grid").style.display !== "none";
+  btn.hidden = !(customOrder && gridVisible);
 }
 
 function escapeHtml(s) {
@@ -1586,15 +1714,26 @@ function setView(view) {
     b.setAttribute("aria-pressed", String(on));   // status audible to screen readers
   });
   try { localStorage.setItem(VIEW_KEY, view); } catch (e) {}
+  updateOrderControls();
 }
 
 buildCards();
+initCardDragging();
 refreshAll();
 document.getElementById("period").addEventListener("change", applyFilter);
 document.querySelectorAll("#view button").forEach(b =>
   b.addEventListener("click", () => setView(b.dataset.view)));
 // Restore the last chosen view (grid stays the default).
 try { const sv = localStorage.getItem(VIEW_KEY); if (sv === "stream" || sv === "grid") setView(sv); } catch (e) {}
+
+// "Auto order": discard the manual order and return to the activity ranking.
+const orderResetBtn = document.getElementById("orderReset");
+if (orderResetBtn) orderResetBtn.addEventListener("click", () => {
+  clearCustomOrder();
+  reorderGrid();
+  updateOrderControls();
+});
+updateOrderControls();
 
 // Populate and wire up the company selection (multi-select).
 const companyBtn = document.getElementById("companyBtn");
