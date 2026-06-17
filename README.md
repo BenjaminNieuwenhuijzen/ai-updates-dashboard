@@ -8,12 +8,12 @@ A live dashboard of the latest news from the leading AI companies, aggregated fr
 
 AI Radar follows 12 companies (OpenAI, Anthropic, Google AI & DeepMind, Meta AI, Microsoft AI, NVIDIA, Hugging Face, xAI, Perplexity, Mistral, Cohere, DeepSeek) and brings their updates together:
 
-- **By company** grid, ordered by how active each company has recently been in the news.
+- **By company** grid, ordered by how active each company has recently been in the news. Drag a card by its grip handle to set your own order; it is remembered in your browser, and an **"Auto order"** button returns to the activity ranking.
 - **Timeline** view of every update in chronological order, with a "Load more" control.
 - A **top story** hero with a "more top stories" rail of other recent headlines.
 - An optional daily **"Today in AI"** briefing generated during the build (see below).
 - Filters by category, company and period, plus free-text search and a per-article **save** list.
-- Light / dark / auto theme. No analytics, no tracking, no cookies; preferences are stored only locally in the browser.
+- Light / dark / auto theme. No analytics, no tracking, no cookies; preferences (theme, company selection, card order, saved articles) are stored only locally in the browser.
 
 ## How it works
 
