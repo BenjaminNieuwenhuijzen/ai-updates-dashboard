@@ -6,7 +6,7 @@ A live dashboard of the latest news from the leading AI companies, aggregated fr
 
 ## What it does
 
-AI Radar follows 11 companies (OpenAI, Anthropic, Google AI & DeepMind, Meta AI, Microsoft AI, NVIDIA, Hugging Face, xAI, Perplexity, Mistral, Cohere) and brings their updates together:
+AI Radar follows 12 companies (OpenAI, Anthropic, Google AI & DeepMind, Meta AI, Microsoft AI, NVIDIA, Hugging Face, xAI, Perplexity, Mistral, Cohere, DeepSeek) and brings their updates together:
 
 - **By company** grid, ordered by how active each company has recently been in the news.
 - **Timeline** view of every update in chronological order, with a "Load more" control.

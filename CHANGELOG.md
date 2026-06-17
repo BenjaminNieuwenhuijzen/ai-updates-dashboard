@@ -10,6 +10,11 @@ can see exactly what changed between any two versions.
 ## [Unreleased]
 
 ### Added
+- DeepSeek added as the 12th tracked company. It publishes no native or community RSS
+  feed, so its card is fed by the official `deepseek-ai` GitHub release feeds plus a
+  Google News query for current coverage, and is labelled a community source. Google
+  News article links are excluded from screenshot thumbnails, so they fall back to the
+  brand placeholder instead of a redirect page.
 - Atom feed support in the build (`<entry>` / `<published>` / `<updated>` /
   `<link href>`), alongside the existing RSS `<item>` parsing.
 - Many more sources per company — **12 → 36 feeds across the same 11 companies**:

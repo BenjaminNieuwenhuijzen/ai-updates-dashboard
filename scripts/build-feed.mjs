@@ -55,7 +55,13 @@ const FEEDS = [
   // Cohere — blog mirror + official changelog + video
   { company: "Cohere", source: "Blog", url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml" },
   { company: "Cohere", source: "Changelog", url: "https://docs.cohere.com/changelog.rss" },
-  { company: "Cohere", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCAKTUy0tz47ZY02DFpxMqoQ" }
+  { company: "Cohere", source: "YouTube", url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCAKTUy0tz47ZY02DFpxMqoQ" },
+  // DeepSeek — no native or community RSS exists. Official model drops come via the
+  // deepseek-ai GitHub release feeds (Atom, currently sparse); a Google News query keeps
+  // the card current between drops. Verified live 2026-06-17.
+  { company: "DeepSeek", source: "Releases", url: "https://github.com/deepseek-ai/DeepSeek-V3/releases.atom" },
+  { company: "DeepSeek", source: "Releases", url: "https://github.com/deepseek-ai/DeepSeek-R1/releases.atom" },
+  { company: "DeepSeek", source: "Google News", url: "https://news.google.com/rss/search?q=%22DeepSeek%22&hl=en-US&gl=US&ceid=US:en" }
 ];
 
 const PER_FEED = 40;       // items per source feed
@@ -235,8 +241,9 @@ for (const list of Object.values(byCo)) {
 // Fallback thumbnail: screenshot of the article page via thum.io. NOT for domains
 // that also block thum.io's crawler with Cloudflare (the screenshot would then show
 // an "access denied" page) — those items stay imageless and get a clean brand
-// placeholder in the dashboard.
-const SCREENSHOT_BLOCK = ["openai.com", "x.ai"];
+// placeholder in the dashboard. news.google.com is blocked too: its article links are
+// redirect interstitials, so a screenshot would capture the redirect page, not the story.
+const SCREENSHOT_BLOCK = ["openai.com", "x.ai", "news.google.com"];
 const ogImages = kept.filter(i => i.image).length;
 for (const it of kept) {
   if (it.image || !it.link) continue;
