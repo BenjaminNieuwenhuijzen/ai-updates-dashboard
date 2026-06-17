@@ -2,7 +2,7 @@
 
 A live dashboard of the latest news from the leading AI companies, aggregated from their official and community feeds into one page. AI Radar is a single static page published with GitHub Pages and refreshed by a scheduled GitHub Action.
 
-**Live:** https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/
+**Live:** https://ai-radar.eu/
 
 ## What it does
 
