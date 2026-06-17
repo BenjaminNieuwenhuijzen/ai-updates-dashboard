@@ -209,6 +209,8 @@
     overflow: hidden;
     display: flex;
     flex-direction: column;
+    position: relative;
+    transition: transform .16s ease, box-shadow .16s ease;
   }
   .card-head {
     padding: 14px 16px 12px;
@@ -228,12 +230,17 @@
     cursor: grab; touch-action: none; user-select: none;
   }
   .drag-handle:hover { color: var(--text); }
+  /* The grabbed card lifts: scale up, stronger shadow, on top of the rest. */
   .card.dragging {
-    opacity: .55; cursor: grabbing;
-    outline: 2px dashed var(--card-accent, var(--link)); outline-offset: -2px;
+    cursor: grabbing;
+    transform: scale(1.03);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, .22);
+    z-index: 5;
+    opacity: .97;
   }
   /* No text selection while reordering. */
   .grid.reordering { user-select: none; }
+  .grid.reordering .drag-handle { cursor: grabbing; }
   .avatar {
     flex: none;
     width: 36px; height: 36px;
@@ -1509,7 +1516,8 @@ function reorderGrid() {
    touch alike. While dragging, the card reflows live into its new spot; on
    release the new order is saved and the "Auto order" button appears. */
 function placeDragged(grid, dragCard, x, y) {
-  const others = [...grid.querySelectorAll(".card:not(.dragging)")];
+  const others = [...grid.querySelectorAll(".card:not(.dragging)")]
+    .filter(c => c.style.display !== "none");
   if (!others.length) return;
   let nearest = null, best = Infinity;
   for (const c of others) {
@@ -1522,49 +1530,76 @@ function placeDragged(grid, dragCard, x, y) {
   // Within the nearest card's row, decide by horizontal side; otherwise by
   // whether the pointer sits above or below it.
   const after = Math.abs(y - midY) <= b.height / 2 ? x > midX : y > midY;
-  grid.insertBefore(dragCard, after ? nearest.nextSibling : nearest);
+  const ref = after ? nearest.nextSibling : nearest;
+  if (ref === dragCard || dragCard.nextSibling === ref) return;   // already in place
+
+  // FLIP: note where the other cards are, move the dragged card, then play each
+  // one from its old spot to the new one so they glide instead of jumping.
+  const first = others.map(c => c.getBoundingClientRect());
+  grid.insertBefore(dragCard, ref);
+  others.forEach((c, i) => {
+    const last = c.getBoundingClientRect();
+    const dx = first[i].left - last.left, dy = first[i].top - last.top;
+    if (!dx && !dy) return;
+    c.style.transition = "none";
+    c.style.transform = `translate(${dx}px, ${dy}px)`;
+  });
+  grid.getBoundingClientRect();   // force the inverted positions to apply
+  others.forEach(c => {
+    if (!c.style.transform) return;
+    c.style.transition = "transform 160ms ease";
+    c.style.transform = "";
+  });
 }
 
 function initCardDragging() {
   const grid = document.getElementById("grid");
   if (!grid) return;
+  const orderOf = () => [...grid.querySelectorAll(".card")].map(c => c.dataset.company);
+  let dragCard = null, beforeOrder = "";
+
+  const onMove = ev => {
+    if (!dragCard) return;
+    ev.preventDefault();
+    placeDragged(grid, dragCard, ev.clientX, ev.clientY);
+  };
+  const finish = () => {
+    document.removeEventListener("pointermove", onMove);
+    document.removeEventListener("pointerup", finish);
+    document.removeEventListener("pointercancel", finish);
+    if (!dragCard) return;
+    dragCard.classList.remove("dragging");
+    grid.classList.remove("reordering");
+    // Drop any leftover FLIP transforms so cards sit in their final spots.
+    grid.querySelectorAll(".card").forEach(c => { c.style.transition = ""; c.style.transform = ""; });
+    // Only commit when the order actually changed: a stray click on the grip
+    // should not silently switch to manual ordering.
+    const now = orderOf();
+    if (now.join(" ") !== beforeOrder) {
+      customOrder = now;
+      saveCustomOrder();
+      updateOrderControls();
+    }
+    dragCard = null;
+  };
+
   grid.addEventListener("pointerdown", e => {
     const handle = e.target.closest(".drag-handle");
     if (!handle) return;
     if (e.pointerType === "mouse" && e.button !== 0) return;
-    const dragCard = handle.closest(".card");
-    if (!dragCard) return;
+    const card = handle.closest(".card");
+    if (!card) return;
     e.preventDefault();
-    const orderOf = () => [...grid.querySelectorAll(".card")].map(c => c.dataset.company);
-    const before = orderOf().join(" ");
-    dragCard.classList.add("dragging");
+    dragCard = card;
+    beforeOrder = orderOf().join(" ");
+    card.classList.add("dragging");
     grid.classList.add("reordering");
-    // Capture on the grid (a stable element), not the card: the dragged card is
-    // reparented on every move, and capturing on a node that gets moved drops the
-    // capture in Chromium (lostpointercapture), which would freeze the drag after
-    // the first step.
-    try { grid.setPointerCapture(e.pointerId); } catch (_) {}
-    const onMove = ev => placeDragged(grid, dragCard, ev.clientX, ev.clientY);
-    const finish = () => {
-      grid.removeEventListener("pointermove", onMove);
-      grid.removeEventListener("pointerup", finish);
-      grid.removeEventListener("pointercancel", finish);
-      grid.removeEventListener("lostpointercapture", finish);
-      dragCard.classList.remove("dragging");
-      grid.classList.remove("reordering");
-      // Only commit when the order actually changed: a stray click on the grip
-      // should not silently switch to manual ordering.
-      const now = orderOf();
-      if (now.join(" ") !== before) {
-        customOrder = now;
-        saveCustomOrder();
-        updateOrderControls();
-      }
-    };
-    grid.addEventListener("pointermove", onMove);
-    grid.addEventListener("pointerup", finish);
-    grid.addEventListener("pointercancel", finish);
-    grid.addEventListener("lostpointercapture", finish);
+    // Listen on document so every move and the release are caught reliably,
+    // even when the pointer leaves the grid. (Capturing on the card itself
+    // fails because the card is reparented mid-drag.)
+    document.addEventListener("pointermove", onMove, { passive: false });
+    document.addEventListener("pointerup", finish);
+    document.addEventListener("pointercancel", finish);
   });
 }
 
