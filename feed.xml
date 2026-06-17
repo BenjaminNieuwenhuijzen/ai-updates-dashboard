@@ -5,7 +5,42 @@
 <link>https://benjaminnieuwenhuijzen.github.io/ai-updates-dashboard/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Wed, 17 Jun 2026 05:17:24 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 11:18:19 GMT</lastBuildDate>
+<item>
+<title>[Blog] From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot</title>
+<link>https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</link>
+<guid isPermaLink="false">https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</guid>
+<pubDate>Wed, 17 Jun 2026 10:18:05 GMT</pubDate>
+
+</item>
+<item>
+<title>[Blog] GLM-5.2: Built for Long-Horizon Tasks</title>
+<link>https://huggingface.co/blog/zai-org/glm-52-blog</link>
+<guid isPermaLink="false">https://huggingface.co/blog/zai-org/glm-52-blog</guid>
+<pubDate>Wed, 17 Jun 2026 09:01:25 GMT</pubDate>
+<description>A Blog post by Z.ai on Hugging Face</description>
+</item>
+<item>
+<title>[Cloud AI] How growing UK midsize businesses are building in the AI era</title>
+<link>https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/</guid>
+<pubDate>Wed, 17 Jun 2026 08:00:00 +0000</pubDate>
+<description>The UK’s 5-million-plus small and midsize businesses and enterprises (SMBs) are the backbone of our economy. Today, we’re seeing these critical businesses begin to put AI to work, to operate more efficiently, move faster, and ultimately deliver better outcomes for their customers. This shift is driv</description>
+</item>
+<item>
+<title>[Cloud AI] From AI potential to agentic reality: Driving the UK’s next chapter</title>
+<link>https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/</guid>
+<pubDate>Wed, 17 Jun 2026 08:00:00 +0000</pubDate>
+<description>The United Kingdom, and London in particular, continues to be one of the great hubs for AI development in Europe and the world. We’re home to Google DeepMind, of course, as well as significant AI unicorns — and Google Cloud customers — like Ineffable Intelligence , which is today announcing an impor</description>
+</item>
+<item>
+<title>[YouTube] Hermes Architecture EXPLAINED: Memory, Context &amp; Gateways</title>
+<link>https://www.youtube.com/watch?v=n32qq7Kwzh0</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=n32qq7Kwzh0</guid>
+<pubDate>Wed, 17 Jun 2026 06:05:39 GMT</pubDate>
+<description>Hermes is an always-on AI agent with a simple but useful architecture: an agent loop, memory, context construction, gateway integrations, and scheduled cron jobs. In this video, I walk through how Hermes builds context, talks to external services like Telegram and Slack, compresses long conversation</description>
+</item>
 <item>
 <title>[Blog] Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses</title>
 <link>https://blogs.nvidia.com/blog/nvidia-xr-ai/</link>
@@ -35,6 +70,13 @@
 <description>UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.</description>
 </item>
 <item>
+<title>[YouTube] O-Ring Automation &amp; the Economics of Bicycles for the Mind with Avi Goldfarb</title>
+<link>https://www.youtube.com/watch?v=uUUBApVevNI</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=uUUBApVevNI</guid>
+<pubDate>Tue, 16 Jun 2026 20:58:08 GMT</pubDate>
+<description>​O-Ring Automation and the Economics of Bicycles for the Mind Talk by Avi Goldfarb, Rotman Chair in Artificial Intelligence and Healthcare Hosted by Zanele Munyikwa, Research Fellow, Cohere Labs 00:00 Welcome and Introduction 01:07 Talk Setup and Agenda 02:14 Bicycle for the Mind 03:26 Seven Facts O</description>
+</item>
+<item>
 <title>[Developer] Build Your Own Transaction Foundation Model for Financial Intelligence</title>
 <link>https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/</link>
 <guid isPermaLink="false">https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/</guid>
@@ -54,6 +96,13 @@
 <guid isPermaLink="false">https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/</guid>
 <pubDate>Tue, 16 Jun 2026 17:30:00 +0000</pubDate>
 
+</item>
+<item>
+<title>[YouTube] Why Tejal Patwardhan stopped underestimating the models - Episode 21</title>
+<link>https://www.youtube.com/watch?v=CFqjjKp9Y-Q</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=CFqjjKp9Y-Q</guid>
+<pubDate>Tue, 16 Jun 2026 17:00:02 GMT</pubDate>
+<description>The old tests are getting too easy. Tejal Patwardhan leads OpenAI’s frontier evals team, which is finding new ways to measure and forecast progress as models become more capable. She and host Andrew Mayne discuss why evals matter for research, how benchmarks can break or get gamed, and what models n</description>
 </item>
 <item>
 <title>[Developer] Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins</title>
@@ -112,11 +161,25 @@
 <description>The post Farming is risky business. This app helps Turkish growers succeed appeared first on Source .</description>
 </item>
 <item>
+<title>[YouTube] Quantization: The Size vs Quality Trade-Off</title>
+<link>https://www.youtube.com/shorts/-s4KGeAE6iQ</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/-s4KGeAE6iQ</guid>
+<pubDate>Tue, 16 Jun 2026 13:23:14 GMT</pubDate>
+<description>Models can shrink down to a fraction of their size and still be useful. That's the power of quantization: Trading a bit of precision for massive gains in speed and size. In Transformers.js, you control that trade-off with a single parameter: dtype. Watch to see how far it can go. #TransformersJS #Ja</description>
+</item>
+<item>
 <title>[Newsroom] New Features to Celebrate 500 Million Monthly Users on Threads</title>
 <link>https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/</link>
 <guid isPermaLink="false">https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/</guid>
 <pubDate>Tue, 16 Jun 2026 11:00:31 +0000</pubDate>
 <description>We're launching new communities features on Threads to celebrate reaching 500 million monthly active users. The post New Features to Celebrate 500 Million Monthly Users on Threads appeared first on Meta Newsroom .</description>
+</item>
+<item>
+<title>[YouTube] In Conversation with Arun Khurana of Accenture</title>
+<link>https://www.youtube.com/watch?v=pphFTF8q_RQ</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=pphFTF8q_RQ</guid>
+<pubDate>Tue, 16 Jun 2026 02:44:14 GMT</pubDate>
+<description>In this interview, Arun Khurana, Senior Managing Partner at Accenture, talks to Savannah Peterson about the evolving landscape of technology, AI at scale, and corporate data strategies. They discuss: * Accenture’s creation of brand-new executive roles designed solely to navigate the exploding AI eco</description>
 </item>
 <item>
 <title>[News] Predicting model behavior before release by simulating deployment</title>
@@ -133,11 +196,25 @@
 
 </item>
 <item>
+<title>[YouTube] Build and test iOS apps without leaving Codex</title>
+<link>https://www.youtube.com/watch?v=u9zLlcsCDiQ</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=u9zLlcsCDiQ</guid>
+<pubDate>Mon, 15 Jun 2026 23:20:32 GMT</pubDate>
+<description>More of the iOS app loop, now inside Codex. The Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload edits without leaving Codex. Shoutout to the open source projects behind this: • Serve-sim powers the streaming simulator by @Bacon</description>
+</item>
+<item>
 <title>[Developer] Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes</title>
 <link>https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/</link>
 <guid isPermaLink="false">https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/</guid>
 <pubDate>Mon, 15 Jun 2026 18:07:31 GMT</pubDate>
 <description>Foundation models are reshaping computational biology. Pretrained on massive corpora of protein or genomic sequences, models such as ESM2 (a protein language...</description>
+</item>
+<item>
+<title>[YouTube] How Wayfair Uses GPT-5.5 to Power Catalog Enrichment Across 40M Products</title>
+<link>https://www.youtube.com/watch?v=TDM2Dz_MuPk</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=TDM2Dz_MuPk</guid>
+<pubDate>Mon, 15 Jun 2026 18:02:23 GMT</pubDate>
+<description>Fiona Tan and her @wayfair team are leveraging GPT-5.5 and our API to power their catalog enrichment program across 40M products — helping improve how product information is organized, differentiated, and understood. Next up? Pointing Codex at their gnarliest problems. https://openai.com/index/wayfa</description>
 </item>
 <item>
 <title>[Developer] Boosting MoE Training Throughput with Advanced Fusion Kernels</title>
@@ -168,11 +245,39 @@
 <description>Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…</description>
 </item>
 <item>
+<title>[YouTube] Training Agents: Live tutorial on how to fine-tune a coding agent for continual learning</title>
+<link>https://www.youtube.com/watch?v=rNgUoH7Wbv8</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=rNgUoH7Wbv8</guid>
+<pubDate>Mon, 15 Jun 2026 13:23:22 GMT</pubDate>
+<description>Training Agents, Session 1: from raw agent traces to a supervised fine-tuning baseline. In this live session, I’ll set up the first rung of an agentic post-training workflow: SFT. We’ll take public coding-agent traces, turn them into prompt/completion training data, run a small TRL + LoRA fine-tune,</description>
+</item>
+<item>
+<title>[YouTube] Automate GitHub issue management with Vibe</title>
+<link>https://www.youtube.com/watch?v=8MHd_arELJo</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=8MHd_arELJo</guid>
+<pubDate>Mon, 15 Jun 2026 13:15:35 GMT</pubDate>
+<description>In this step by step walkthrough, you will: - Create a new Skill for how to manage GitHub issues and add it to Vibe - Connect GitHub and optionally connect Linear in Studio - Use Vibe Work to manage open issues per the Skill’s instructions Build with Vibe today! → https://mistr.al/3PZjkkc View all a</description>
+</item>
+<item>
+<title>[YouTube] Codex as a Solutions Engineering Partner</title>
+<link>https://www.youtube.com/watch?v=_jNbM8pV9oI</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=_jNbM8pV9oI</guid>
+<pubDate>Mon, 15 Jun 2026 13:03:41 GMT</pubDate>
+<description>“A big part of my role as a solutions engineer is not only to build but to understand,” Stephanie Anani, Solutions Engineer, OpenAI. Stephanie points Codex to Trustpilot reviews and will mock up a customer website based on the feedback to show them how easy it is to make changes. Codex can be a part</description>
+</item>
+<item>
 <title>[Developer] Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models</title>
 <link>https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/</link>
 <guid isPermaLink="false">https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/</guid>
 <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
 <description>Quick glossary for readers new to VLA/WAM terminology VLA Vision-Language-Action model: a robot policy that starts from a pretrained VLM backbone and adapts it...</description>
+</item>
+<item>
+<title>[YouTube] How Payward Ships Faster with Codex</title>
+<link>https://www.youtube.com/watch?v=NxAxwsu6_Zs</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=NxAxwsu6_Zs</guid>
+<pubDate>Sun, 14 Jun 2026 22:44:45 GMT</pubDate>
+<description>"Without Codex, we probably would be six months behind where we are today." Kamo Asatryan and his team are building the core infrastructure to power inference across all products at Payward. Speed is the #1 value for his team and Codex has unlocked the ability to ship faster. 🚀 If you like to move </description>
 </item>
 <item>
 <title>[News] Introducing the OpenAI Partner Network</title>
@@ -196,6 +301,13 @@
 <description>AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance acr</description>
 </item>
 <item>
+<title>[YouTube] Analyze earnings and update your investment thesis with Codex</title>
+<link>https://www.youtube.com/watch?v=Rlju1Z9e110</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=Rlju1Z9e110</guid>
+<pubDate>Fri, 12 Jun 2026 20:36:47 GMT</pubDate>
+<description>See how the public equity investing plugin for Codex turns a company’s latest quarter into a post-earnings analysis. Using connected data from sources like Quartr, Daloopa, and S&amp;P Global, Codex evaluates a company’s growth drivers, guidance, margin trends, and quality of print. It then packages the</description>
+</item>
+<item>
 <title>[Research] Ire identifies another LOTUSLITE specimen</title>
 <link>https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/</link>
 <guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/</guid>
@@ -215,6 +327,13 @@
 <guid isPermaLink="false">https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/</guid>
 <pubDate>Fri, 12 Jun 2026 17:37:00 +0000</pubDate>
 
+</item>
+<item>
+<title>[YouTube] From data to decisions: how LSEG is scaling trusted AI</title>
+<link>https://www.youtube.com/watch?v=sU9-u5p-jA0</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=sU9-u5p-jA0</guid>
+<pubDate>Fri, 12 Jun 2026 16:24:47 GMT</pubDate>
+<description>What happens when one of the world's leading financial markets infrastructure and data providers combines trusted market intelligence with AI? In this customer story, LSEG shares how it's using ChatGPT Enterprise and OpenAI APIs to accelerate insight generation, speed up product innovation, and help</description>
 </item>
 <item>
 <title>[Blog] olmo-eval: An evaluation workbench for the model development loop</title>
@@ -252,6 +371,27 @@
 <description>OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.</description>
 </item>
 <item>
+<title>[YouTube] How Preply combines AI and human tutors to personalize learning</title>
+<link>https://www.youtube.com/watch?v=-Jm-Bf3g9r8</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=-Jm-Bf3g9r8</guid>
+<pubDate>Fri, 12 Jun 2026 09:53:26 GMT</pubDate>
+<description>What happens when one of the world's largest language-learning platforms combines human expertise with AI? In this customer story, Preply shares how it's using OpenAI to create more personalized learning experiences for learners around the world—while giving tutors more time to focus on teaching, mo</description>
+</item>
+<item>
+<title>[YouTube] Build Small with Modal</title>
+<link>https://www.youtube.com/watch?v=8Oz64pGwRk4</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=8Oz64pGwRk4</guid>
+<pubDate>Fri, 12 Jun 2026 06:09:06 GMT</pubDate>
+<description>As part of the Build Small hackathon we are inviting our partners to share their knowledge on how to get the most out of their platform. Today we are joined by Modal who will walk us through some use-case for Modal's cloud compute as well as taking questions from the community! --- Build Small Hacka</description>
+</item>
+<item>
+<title>[YouTube] Debug web apps with browser use in Codex</title>
+<link>https://www.youtube.com/watch?v=bhgYFRZLyKI</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=bhgYFRZLyKI</guid>
+<pubDate>Fri, 12 Jun 2026 00:15:38 GMT</pubDate>
+<description>Codex can now use the Chrome DevTools Protocol (CDP) in Browser Use to inspect console logs, runtime errors, local storage, applied styling, network traffic, and performance profiles while working on web applications. In this demo, Codex investigates a slow chat app by profiling interactions and ins</description>
+</item>
+<item>
 <title>[News] How Preply combines AI and human tutors to personalize learning</title>
 <link>https://openai.com/index/preply</link>
 <guid isPermaLink="false">https://openai.com/index/preply</guid>
@@ -285,146 +425,6 @@
 <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-stockholder-meeting-set-for-june-24-individuals-can-participate-online</guid>
 <pubDate>Thu, 11 Jun 2026 21:32:00 GMT</pubDate>
 <description>NVIDIA today announced it will hold its 2026 Annual Meeting of Stockholders online on Wednesday, June 24, at 9 a.m. PT. The meeting will take place virtually at https://www.virtualshareholdermeeting.com/NVDA2026.</description>
-</item>
-<item>
-<title>[Google AI] Our new community investments in Virginia support local jobs and expand energy affordability.</title>
-<link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/</guid>
-<pubDate>Thu, 11 Jun 2026 20:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[Developer] One-Click Multi-Tenant Security with NVIDIA Quantum InfiniBand</title>
-<link>https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/</guid>
-<pubDate>Thu, 11 Jun 2026 19:52:37 GMT</pubDate>
-<description>NVIDIA Quantum InfiniBand now offers intent-based security profiles in Unified Fabric Manager (UFM) that enable multi-tenant fabric security in a single...</description>
-</item>
-<item>
-<title>[Cloud AI] Powering the next era of Confidential AI</title>
-<link>https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai/</guid>
-<pubDate>Thu, 11 Jun 2026 19:30:00 +0000</pubDate>
-<description>At Google Cloud, we’re committed to providing the most advanced, secure, and private infrastructure for the most demanding AI workloads, and partnering with a broad and diverse range of organizations to help them meet their AI workload needs. We are thrilled to collaborate with Apple on its expanded</description>
-</item>
-<item>
-<title>[Azure] 3 things leaders need to know from Microsoft Build 2026</title>
-<link>https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/</link>
-<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/</guid>
-<pubDate>Thu, 11 Jun 2026 19:00:00 +0000</pubDate>
-<description>At Microsoft Build 2026, AI moved from experimentation to execution—shifting from isolated tools to connected systems grounded in business data. Organizations that win will embed AI across workflows, scale it effectively, and translate it into measurable outcomes like faster growth, lower costs, and</description>
-</item>
-<item>
-<title>[Blog] Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings</title>
-<link>https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/</guid>
-<pubDate>Thu, 11 Jun 2026 13:00:17 +0000</pubDate>
-<description>The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But [&amp;#8230;]</description>
-</item>
-<item>
-<title>[Newsroom] Going All in for Global Football Fans Across Meta Apps</title>
-<link>https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps/</link>
-<guid isPermaLink="false">https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps/</guid>
-<pubDate>Thu, 11 Jun 2026 12:00:40 +0000</pubDate>
-<description>We’re bringing new football features to Threads, Instagram, Facebook, and WhatsApp, including athlete content, match content, and in-product activations. The post Going All in for Global Football Fans Across Meta Apps appeared first on Meta Newsroom .</description>
-</item>
-<item>
-<title>[Newsroom] Why Social Media Bans Alone Can’t Solve the Age Verification Dilemma</title>
-<link>https://about.fb.com/news/2026/06/how-to-verify-age-online/</link>
-<guid isPermaLink="false">https://about.fb.com/news/2026/06/how-to-verify-age-online/</guid>
-<pubDate>Thu, 11 Jun 2026 04:10:35 +0000</pubDate>
-<description>To help ensure young people stay safe online, we need a practical, centralized framework that verifies the ages of people using our apps. The post Why Social Media Bans Alone Can’t Solve the Age Verification Dilemma appeared first on Meta Newsroom .</description>
-</item>
-<item>
-<title>[News] How an astrophysicist uses Codex to help simulate black holes</title>
-<link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
-<guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</description>
-</item>
-<item>
-<title>[News] OpenAI to acquire Ona</title>
-<link>https://openai.com/index/openai-to-acquire-ona</link>
-<guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</description>
-</item>
-<item>
-<title>[News] BBVA puts AI at the core of banking with OpenAI</title>
-<link>https://openai.com/index/bbva</link>
-<guid isPermaLink="false">https://openai.com/index/bbva</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</description>
-</item>
-<item>
-<title>[News] Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
-<link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
-<guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-<description>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</description>
-</item>
-<item>
-<title>[News] DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
-<link>https://www.anthropic.com/news/dxc-anthropic-alliance</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-<description>We’re announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.</description>
-</item>
-<item>
-<title>[News] Introducing Claude Corps</title>
-<link>https://www.anthropic.com/news/claude-corps</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/claude-corps</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-<description>We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.</description>
-</item>
-<item>
-<title>[Blog] Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP</title>
-<link>https://huggingface.co/blog/torch-mlp-fusion</link>
-<guid isPermaLink="false">https://huggingface.co/blog/torch-mlp-fusion</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[News] Access OpenAI models and Codex through your Oracle cloud commitment</title>
-<link>https://openai.com/index/openai-on-oracle-cloud</link>
-<guid isPermaLink="false">https://openai.com/index/openai-on-oracle-cloud</guid>
-<pubDate>Wed, 10 Jun 2026 20:00:00 GMT</pubDate>
-<description>Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.</description>
-</item>
-<item>
-<title>[Blog] For Robotaxis, Safety Must Be Built In, Not Bolted On</title>
-<link>https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/</guid>
-<pubDate>Wed, 10 Jun 2026 19:00:12 +0000</pubDate>
-<description>A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expan</description>
-</item>
-<item>
-<title>[Research] New framework for auditing machine unlearning</title>
-<link>https://research.google/blog/new-framework-for-auditing-machine-unlearning/</link>
-<guid isPermaLink="false">https://research.google/blog/new-framework-for-auditing-machine-unlearning/</guid>
-<pubDate>Wed, 10 Jun 2026 17:34:55 +0000</pubDate>
-
-</item>
-<item>
-<title>[DeepMind] DiffusionGemma: 4x faster text generation</title>
-<link>https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</guid>
-<pubDate>Wed, 10 Jun 2026 16:24:11 +0000</pubDate>
-<description>An overview of DiffusionGemma, an exceptionally fast text generation model with up to 4x faster speeds.</description>
-</item>
-<item>
-<title>[Developer] Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation</title>
-<link>https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/</guid>
-<pubDate>Wed, 10 Jun 2026 16:16:30 GMT</pubDate>
-<description>Developers building real-time AI—such as chat assistants, copilots, and agentic workflows—are often constrained by token-by-token generation speed. This...</description>
-</item>
-<item>
-<title>[Blog] NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI</title>
-<link>https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/</guid>
-<pubDate>Wed, 10 Jun 2026 16:15:20 +0000</pubDate>
-<description>Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud. Rath</description>
 </item>
 </channel>
 </rss>
