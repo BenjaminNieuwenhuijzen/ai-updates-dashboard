@@ -232,6 +232,8 @@
     opacity: .55; cursor: grabbing;
     outline: 2px dashed var(--card-accent, var(--link)); outline-offset: -2px;
   }
+  /* No text selection while reordering. */
+  .grid.reordering { user-select: none; }
   .avatar {
     flex: none;
     width: 36px; height: 36px;
@@ -1528,32 +1530,41 @@ function initCardDragging() {
   if (!grid) return;
   grid.addEventListener("pointerdown", e => {
     const handle = e.target.closest(".drag-handle");
-    if (!handle || e.button !== 0 && e.pointerType === "mouse") return;
+    if (!handle) return;
+    if (e.pointerType === "mouse" && e.button !== 0) return;
     const dragCard = handle.closest(".card");
     if (!dragCard) return;
     e.preventDefault();
     const orderOf = () => [...grid.querySelectorAll(".card")].map(c => c.dataset.company);
-    const before = orderOf().join(" ");
+    const before = orderOf().join(" ");
     dragCard.classList.add("dragging");
-    handle.setPointerCapture(e.pointerId);
+    grid.classList.add("reordering");
+    // Capture on the grid (a stable element), not the card: the dragged card is
+    // reparented on every move, and capturing on a node that gets moved drops the
+    // capture in Chromium (lostpointercapture), which would freeze the drag after
+    // the first step.
+    try { grid.setPointerCapture(e.pointerId); } catch (_) {}
     const onMove = ev => placeDragged(grid, dragCard, ev.clientX, ev.clientY);
-    const onUp = () => {
-      handle.removeEventListener("pointermove", onMove);
-      handle.removeEventListener("pointerup", onUp);
-      handle.removeEventListener("pointercancel", onUp);
+    const finish = () => {
+      grid.removeEventListener("pointermove", onMove);
+      grid.removeEventListener("pointerup", finish);
+      grid.removeEventListener("pointercancel", finish);
+      grid.removeEventListener("lostpointercapture", finish);
       dragCard.classList.remove("dragging");
+      grid.classList.remove("reordering");
       // Only commit when the order actually changed: a stray click on the grip
       // should not silently switch to manual ordering.
       const now = orderOf();
-      if (now.join(" ") !== before) {
+      if (now.join(" ") !== before) {
         customOrder = now;
         saveCustomOrder();
         updateOrderControls();
       }
     };
-    handle.addEventListener("pointermove", onMove);
-    handle.addEventListener("pointerup", onUp);
-    handle.addEventListener("pointercancel", onUp);
+    grid.addEventListener("pointermove", onMove);
+    grid.addEventListener("pointerup", finish);
+    grid.addEventListener("pointercancel", finish);
+    grid.addEventListener("lostpointercapture", finish);
   });
 }
 
