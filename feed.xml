@@ -5,13 +5,69 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 18 Jun 2026 18:36:35 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 22:25:43 GMT</lastBuildDate>
+<item>
+<title>[YouTube] Debjyoti Paul - Softmax, Backprop, and the Autograd The Hidden Machinery Behind Deep Learning</title>
+<link>https://www.youtube.com/watch?v=7VJ_qTdhBes</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=7VJ_qTdhBes</guid>
+<pubDate>Thu, 18 Jun 2026 21:20:34 GMT</pubDate>
+<description>​00:00 Welcome and Agenda 01:48 Loss Functions and MLE 03:15 Sigmoid from Bernoulli 10:57 Softmax for Multiclass 15:24 Numerical Stability Tricks 20:10 Deep Nets Need Backprop 26:53 Backprop Recursion Derivation 35:57 Why Autograd Matters 37:23 Autodiff Methods Compared 41:48 Jacobian and Modes 46:4</description>
+</item>
+<item>
+<title>[Google News] A Week of AI Milestones, &amp; 'The Blip 2.0' Continues. ARD #100 - AI: Reset to Zero</title>
+<link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1LRmtqQ0RDQ0s2c3hoaDhVaUJ5bmJMT1doajlvX19mNGZyUWVBa1lJTmJUd1NxR19PQXNtS0dJalEtdGlUcDQtYzFqdGt4S0ZkNTN1b0tMemlNOThmWldJMTFxWnFjd19RUThJNkhVcUt3SmVWMnl6R2prUzU5dw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE1LRmtqQ0RDQ0s2c3hoaDhVaUJ5bmJMT1doajlvX19mNGZyUWVBa1lJTmJUd1NxR19PQXNtS0dJalEtdGlUcDQtYzFqdGt4S0ZkNTN1b0tMemlNOThmWldJMTFxWnFjd19RUThJNkhVcUt3SmVWMnl6R2prUzU5dw?oc=5</guid>
+<pubDate>Thu, 18 Jun 2026 20:02:50 GMT</pubDate>
+<description>A Week of AI Milestones, &amp; 'The Blip 2.0' Continues. ARD #100 &amp;nbsp;&amp;nbsp; AI: Reset to Zero</description>
+</item>
+<item>
+<title>[Blog] How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability</title>
+<link>https://blogs.nvidia.com/blog/ferc-large-load-interconnection/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/ferc-large-load-interconnection/</guid>
+<pubDate>Thu, 18 Jun 2026 20:00:27 +0000</pubDate>
+<description>In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the </description>
+</item>
+<item>
+<title>[Google News] DeepSeek's Valuation Soars To $50B, Plus More Rumors - Law360</title>
+<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGRYemxVVnR5dVJSNDE4TzhLZG55c3A4a2s4bUZibVFQcE0yUFdmajNMMG9JVlNoTzBQTHlTSDFZeFB3c0JMS3F4b2Y1b1ByUHpNMjd5UEdRcW9nT1NhN1RFbGhyRFl0ZWZGck10aVNjeGRraDNtbWRsbXhTNUcwczBmMUlpVWJ1RXZJQXhrbmpjRWIx0gFWQVVfeXFMUHdkSjNmQmhMRjFoWEVLZVVXRElfWXVqbGlOczZ2UVJiUk9oUHRKRG1ZcFZxOUZlRTNQVFFVVV9ORHV5OGQwXzhpS05vUEJxSExHTF9FZ3c?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGRYemxVVnR5dVJSNDE4TzhLZG55c3A4a2s4bUZibVFQcE0yUFdmajNMMG9JVlNoTzBQTHlTSDFZeFB3c0JMS3F4b2Y1b1ByUHpNMjd5UEdRcW9nT1NhN1RFbGhyRFl0ZWZGck10aVNjeGRraDNtbWRsbXhTNUcwczBmMUlpVWJ1RXZJQXhrbmpjRWIx0gFWQVVfeXFMUHdkSjNmQmhMRjFoWEVLZVVXRElfWXVqbGlOczZ2UVJiUk9oUHRKRG1ZcFZxOUZlRTNQVFFVVV9ORHV5OGQwXzhpS05vUEJxSExHTF9FZ3c?oc=5</guid>
+<pubDate>Thu, 18 Jun 2026 19:38:00 GMT</pubDate>
+<description>DeepSeek's Valuation Soars To $50B, Plus More Rumors &amp;nbsp;&amp;nbsp; Law360</description>
+</item>
+<item>
+<title>[YouTube] Improving health intelligence in ChatGPT</title>
+<link>https://www.youtube.com/watch?v=UxY8zJKRrHU</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=UxY8zJKRrHU</guid>
+<pubDate>Thu, 18 Jun 2026 19:10:18 GMT</pubDate>
+<description>Health is one of the most meaningful ways people use ChatGPT. Every week, more than 230 million people turn to ChatGPT for help with health and wellness questions: making sense of health information, understanding lab results, preparing for appointments, navigating insurance, building healthier habi</description>
+</item>
+<item>
+<title>[YouTube] Record &amp; Replay in Codex</title>
+<link>https://www.youtube.com/watch?v=ZK3JhU73W18</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=ZK3JhU73W18</guid>
+<pubDate>Thu, 18 Jun 2026 18:57:34 GMT</pubDate>
+<description>Show Codex a workflow once. Reuse it as a skill. Record &amp; Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request. Codex turns that demo into an inspectable, editable skill. You control when recording starts and stops.</description>
+</item>
+<item>
+<title>[Google News] Microsoft Eyes DeepSeek V4 for Copilot Cowork: What Azure Hosting Cannot Fix - Tech Times</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPclZRWWMybE9sSVFCcjhIVmtWc2VZOUd3bTJrdmhxSk9vMjkyY2pURWk3cUpMZ2xQX29YS1QybFB0cE9qb09vNjIxbnBSMkJHd01WdGdUQ28tM1Z1SWpmS3RpYWFCS1JJTlhiZ08wZ3V4dER4RWpuRWo0UmJTQmIxTEd6ZE1XUlFBTFdFMGlvWTBfUVY3X3p0bHM1Z0VkdVZiMXI0VGJGZk9HQ2tlcTRZN0F0bWk3VFA2YmJxNFA2WnprdUpu?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxPclZRWWMybE9sSVFCcjhIVmtWc2VZOUd3bTJrdmhxSk9vMjkyY2pURWk3cUpMZ2xQX29YS1QybFB0cE9qb09vNjIxbnBSMkJHd01WdGdUQ28tM1Z1SWpmS3RpYWFCS1JJTlhiZ08wZ3V4dER4RWpuRWo0UmJTQmIxTEd6ZE1XUlFBTFdFMGlvWTBfUVY3X3p0bHM1Z0VkdVZiMXI0VGJGZk9HQ2tlcTRZN0F0bWk3VFA2YmJxNFA2WnprdUpu?oc=5</guid>
+<pubDate>Thu, 18 Jun 2026 18:55:25 GMT</pubDate>
+<description>Microsoft Eyes DeepSeek V4 for Copilot Cowork: What Azure Hosting Cannot Fix &amp;nbsp;&amp;nbsp; Tech Times</description>
+</item>
 <item>
 <title>[Blog] MosaicLeaks: Can your research agent keep a secret?</title>
 <link>https://huggingface.co/blog/ServiceNow/mosaicleaks</link>
 <guid isPermaLink="false">https://huggingface.co/blog/ServiceNow/mosaicleaks</guid>
 <pubDate>Thu, 18 Jun 2026 18:13:13 GMT</pubDate>
 <description>A Blog post by ServiceNow on Hugging Face</description>
+</item>
+<item>
+<title>[News] New usage analytics and updated spend controls for enterprises</title>
+<link>https://openai.com/index/chatgpt-enterprise-spend-controls</link>
+<guid isPermaLink="false">https://openai.com/index/chatgpt-enterprise-spend-controls</guid>
+<pubDate>Thu, 18 Jun 2026 17:00:00 GMT</pubDate>
+<description>OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.</description>
 </item>
 <item>
 <title>[Gemini] Powering the world’s first AI arts museum</title>
@@ -98,13 +154,6 @@
 <description>Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.</description>
 </item>
 <item>
-<title>[Google News] How DeepSeek’s landmark funding cements founder’s grip amid heated AI rivalry - South China Morning Post</title>
-<link>https://news.google.com/rss/articles/CBMizgFBVV95cUxNY0lWU3lJZHhlWFpVNEFUVkZTR3lXX3Jpc0N6NlZxTWgzbzUwalFQZnQ0Rk9Nb1gwM1pqM3JwaGktV2tDS0VZTVBQWnVoVGJFNGJlc1QxNF8xLTdNREVMUFFJWWJZTkFQZGhub3lORlJ5Vmd6T3VzZVBjeV9tTExydzRmaXdUNm9Nbkl6VVBEdnpjeThGYkszUlhWelRDbllCNDBtLWdpMkxyUENDQlgyLVF6MmRkRmZlc2hxUEpHSE9zNkZOZVpuQUZCcUJKd9IBzgFBVV95cUxPRWhHaHVQYzBudVpaTGM5ODVGWUJsZlg1alppYlUwLU1maXJiMGN0dmFWR29LOGdqRFZ2LUEyaHUyXzBTQTlmVDBaMnB3dy0tUVp0ZC1pMHdQSl9UdWZjQUNXTFhlR3hkeVZFenRFR2d0UXhzTzZYUDBBeDNtZFRDdTVwSHBkREpoX0dHbVgzZlhkLXBzQTR3b29UXzU1QVhCX0lUX2pLUWdrQXd6ZEY1ZV9ncHNFRGpBVHZDTnJoQkItcE95Qm5Od19hTy12dw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxNY0lWU3lJZHhlWFpVNEFUVkZTR3lXX3Jpc0N6NlZxTWgzbzUwalFQZnQ0Rk9Nb1gwM1pqM3JwaGktV2tDS0VZTVBQWnVoVGJFNGJlc1QxNF8xLTdNREVMUFFJWWJZTkFQZGhub3lORlJ5Vmd6T3VzZVBjeV9tTExydzRmaXdUNm9Nbkl6VVBEdnpjeThGYkszUlhWelRDbllCNDBtLWdpMkxyUENDQlgyLVF6MmRkRmZlc2hxUEpHSE9zNkZOZVpuQUZCcUJKd9IBzgFBVV95cUxPRWhHaHVQYzBudVpaTGM5ODVGWUJsZlg1alppYlUwLU1maXJiMGN0dmFWR29LOGdqRFZ2LUEyaHUyXzBTQTlmVDBaMnB3dy0tUVp0ZC1pMHdQSl9UdWZjQUNXTFhlR3hkeVZFenRFR2d0UXhzTzZYUDBBeDNtZFRDdTVwSHBkREpoX0dHbVgzZlhkLXBzQTR3b29UXzU1QVhCX0lUX2pLUWdrQXd6ZEY1ZV9ncHNFRGpBVHZDTnJoQkItcE95Qm5Od19hTy12dw?oc=5</guid>
-<pubDate>Thu, 18 Jun 2026 07:01:09 GMT</pubDate>
-<description>How DeepSeek’s landmark funding cements founder’s grip amid heated AI rivalry &amp;nbsp;&amp;nbsp; South China Morning Post</description>
-</item>
-<item>
 <title>[Blog] France Advances Europe’s AI Future With NVIDIA Technologies</title>
 <link>https://blogs.nvidia.com/blog/france-advances-europes-ai-future/</link>
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/france-advances-europes-ai-future/</guid>
@@ -119,25 +168,11 @@
 <description>Meta has announced a series of updates designed to strengthen protections for teens across Instagram, Facebook and Messenger. The post Strengthening Teen Accounts with New Safety Updates on Instagram and Facebook appeared first on Meta Newsroom .</description>
 </item>
 <item>
-<title>[Google News] U.S. spares DeepSeek from Commerce Department blacklist - thebambooworks.com</title>
-<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPcEs5WTFJTmtqVGhpRWlETzE3X1k5cV9pTmNxVmxydUxwVlJ2bmVTdGFFck9Sd09DcHp0TjZPR0lFd0dXT3JwQzRTMlc4QnVLSFFGLTB2bjdvem05VUhnSm1LcGhLajFvMDRtdjRianRfSHA4bWJfdm4xbkh3cG9XMkVscXdUanRheVE?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxPcEs5WTFJTmtqVGhpRWlETzE3X1k5cV9pTmNxVmxydUxwVlJ2bmVTdGFFck9Sd09DcHp0TjZPR0lFd0dXT3JwQzRTMlc4QnVLSFFGLTB2bjdvem05VUhnSm1LcGhLajFvMDRtdjRianRfSHA4bWJfdm4xbkh3cG9XMkVscXdUanRheVE?oc=5</guid>
-<pubDate>Thu, 18 Jun 2026 05:46:55 GMT</pubDate>
-<description>U.S. spares DeepSeek from Commerce Department blacklist &amp;nbsp;&amp;nbsp; thebambooworks.com</description>
-</item>
-<item>
 <title>[Google News] AI: China's DeepSeek raises $7.4 Billion at $50 Billion. AI-RTZ #1121 - AI: Reset to Zero</title>
 <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFAzVVBhQnJ0RW5QNTRSYkhjR0NWODEwdnhEcHNOOFl3bHBrQUFWU1Y0LW5TYU9lWUhBeDhjUjhhOTRZNzlrS2JfTDFaMVBIb3pFcFI0c0pwZmtDUE5wVUhBV2piN21XV2NSeDJyOFB2emNqTG1nNWllbFhXS0k5QQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFAzVVBhQnJ0RW5QNTRSYkhjR0NWODEwdnhEcHNOOFl3bHBrQUFWU1Y0LW5TYU9lWUhBeDhjUjhhOTRZNzlrS2JfTDFaMVBIb3pFcFI0c0pwZmtDUE5wVUhBV2piN21XV2NSeDJyOFB2emNqTG1nNWllbFhXS0k5QQ?oc=5</guid>
 <pubDate>Thu, 18 Jun 2026 05:02:54 GMT</pubDate>
 <description>AI: China's DeepSeek raises $7.4 Billion at $50 Billion. AI-RTZ #1121 &amp;nbsp;&amp;nbsp; AI: Reset to Zero</description>
-</item>
-<item>
-<title>[Google News] Microsoft, considering integrating DeepSeek - 36 Kr</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jOFN6WFQ5VWpJd0NxcWYtSnF5eGtuREpyeTJ0MjE4VW9MUEIwSG5uc2tUeWFRci00Y3djVGpIUy1tYjZVQWVPSEttQ1lHVTlHMjJv?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jOFN6WFQ5VWpJd0NxcWYtSnF5eGtuREpyeTJ0MjE4VW9MUEIwSG5uc2tUeWFRci00Y3djVGpIUy1tYjZVQWVPSEttQ1lHVTlHMjJv?oc=5</guid>
-<pubDate>Thu, 18 Jun 2026 04:41:50 GMT</pubDate>
-<description>Microsoft, considering integrating DeepSeek &amp;nbsp;&amp;nbsp; 36 Kr</description>
 </item>
 <item>
 <title>[Research] Jun 18, 2026Frontier Red TeamProject Fetch: Phase two</title>
@@ -182,11 +217,11 @@
 <description>This is because of a recent decision taken by the Turkish Competition Authority The post Threads Returns to Türkiye With New Features appeared first on Meta Newsroom .</description>
 </item>
 <item>
-<title>[Google News] China’s DeepSeek ‘Valued at Over $50 Billion’ After Funding Round - Asia Financial</title>
-<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVlkYVhMRHppczlRUHMyMF91WmptaUVVQkxoeWtfQmE5WDNUeXlYaTNOTVRWWVBPMEh2UDBrMW96azlTTHI0V3Z6aTdMOEVMclhqcG1pMjl6ZW5aTnR1eWpFU1hrRFlLOFROcm50WHBoc0czQ0hWdU9IOGducnBXa0w1NWhEM1A1Zi0zNWI0TkZtTno2MlE?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVlkYVhMRHppczlRUHMyMF91WmptaUVVQkxoeWtfQmE5WDNUeXlYaTNOTVRWWVBPMEh2UDBrMW96azlTTHI0V3Z6aTdMOEVMclhqcG1pMjl6ZW5aTnR1eWpFU1hrRFlLOFROcm50WHBoc0czQ0hWdU9IOGducnBXa0w1NWhEM1A1Zi0zNWI0TkZtTno2MlE?oc=5</guid>
-<pubDate>Wed, 17 Jun 2026 16:44:29 GMT</pubDate>
-<description>China’s DeepSeek ‘Valued at Over $50 Billion’ After Funding Round &amp;nbsp;&amp;nbsp; Asia Financial</description>
+<title>[Google News] Microsoft CoPilot Flirts with DeepSeek Squeezing Out Frontier Labs - Yahoo Finance</title>
+<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkQ3a2NXNU5TOHNVUzRTWlZ2NlVNLTA4dmZYXzFyaGl4Y1BhcFBpUGRBdzJlNmpwSGNaaXdWX0hILWgxdllWMmFNWEtUdEdBLXFOWWxhYzRLY0lXMVBJVkFoNl9UVi1qMHltLVhZNU1JeTFXMWhYRmdXdWNLUXk1UDRmTVl2Tk1rM0N0U0pDSXJLb25uaDJwaGtIV05fTVdiSklNRGx3NHBOMDQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkQ3a2NXNU5TOHNVUzRTWlZ2NlVNLTA4dmZYXzFyaGl4Y1BhcFBpUGRBdzJlNmpwSGNaaXdWX0hILWgxdllWMmFNWEtUdEdBLXFOWWxhYzRLY0lXMVBJVkFoNl9UVi1qMHltLVhZNU1JeTFXMWhYRmdXdWNLUXk1UDRmTVl2Tk1rM0N0U0pDSXJLb25uaDJwaGtIV05fTVdiSklNRGx3NHBOMDQ?oc=5</guid>
+<pubDate>Wed, 17 Jun 2026 17:16:26 GMT</pubDate>
+<description>Microsoft CoPilot Flirts with DeepSeek Squeezing Out Frontier Labs &amp;nbsp;&amp;nbsp; Yahoo Finance</description>
 </item>
 <item>
 <title>[Google News] DeepSeek was set to be added to US Entity List for supporting China’s military and intelligence operations, report claims — White House holds off to avoid escalating tensions with China - Tom's Hardware</title>
@@ -280,18 +315,18 @@
 <description>DeepSeek valued at more than $50 bn after funding round: reports &amp;nbsp;&amp;nbsp; Tech Xplore</description>
 </item>
 <item>
-<title>[Cloud AI] From AI potential to agentic reality: Driving the UK’s next chapter</title>
-<link>https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/</guid>
-<pubDate>Wed, 17 Jun 2026 08:00:00 +0000</pubDate>
-<description>The United Kingdom, and London in particular, continues to be one of the great hubs for AI development in Europe and the world. We’re home to Google DeepMind, of course, as well as significant AI unicorns — and Google Cloud customers — like Ineffable Intelligence , which is today announcing an impor</description>
-</item>
-<item>
 <title>[Cloud AI] How growing UK midsize businesses are building in the AI era</title>
 <link>https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/</guid>
 <pubDate>Wed, 17 Jun 2026 08:00:00 +0000</pubDate>
 <description>The UK’s 5-million-plus small and midsize businesses and enterprises (SMBs) are the backbone of our economy. Today, we’re seeing these critical businesses begin to put AI to work, to operate more efficiently, move faster, and ultimately deliver better outcomes for their customers. This shift is driv</description>
+</item>
+<item>
+<title>[Cloud AI] From AI potential to agentic reality: Driving the UK’s next chapter</title>
+<link>https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/</guid>
+<pubDate>Wed, 17 Jun 2026 08:00:00 +0000</pubDate>
+<description>The United Kingdom, and London in particular, continues to be one of the great hubs for AI development in Europe and the world. We’re home to Google DeepMind, of course, as well as significant AI unicorns — and Google Cloud customers — like Ineffable Intelligence , which is today announcing an impor</description>
 </item>
 <item>
 <title>[YouTube] Hermes Architecture EXPLAINED: Memory, Context &amp; Gateways</title>
@@ -390,41 +425,6 @@
 <guid isPermaLink="false">https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</guid>
 <pubDate>Tue, 16 Jun 2026 21:29:50 +0000</pubDate>
 <description>UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.</description>
-</item>
-<item>
-<title>[YouTube] O-Ring Automation &amp; the Economics of Bicycles for the Mind with Avi Goldfarb</title>
-<link>https://www.youtube.com/watch?v=uUUBApVevNI</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=uUUBApVevNI</guid>
-<pubDate>Tue, 16 Jun 2026 20:58:08 GMT</pubDate>
-<description>​O-Ring Automation and the Economics of Bicycles for the Mind Talk by Avi Goldfarb, Rotman Chair in Artificial Intelligence and Healthcare Hosted by Zanele Munyikwa, Research Fellow, Cohere Labs 00:00 Welcome and Introduction 01:07 Talk Setup and Agenda 02:14 Bicycle for the Mind 03:26 Seven Facts O</description>
-</item>
-<item>
-<title>[Developer] Build Your Own Transaction Foundation Model for Financial Intelligence</title>
-<link>https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/</guid>
-<pubDate>Tue, 16 Jun 2026 20:30:08 GMT</pubDate>
-<description>Every swipe, transfer, and payment on a modern financial network encodes a pattern of human behavior. Transaction data is one of the richest signals an...</description>
-</item>
-<item>
-<title>[Google News] Microsoft is considering using DeepSeek models for low-cost Copilot: report (MSFT:NASDAQ) - Seeking Alpha</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOZHBxZWMyNGpqQ0RwTmExeVlqYnJMWkVyeVA0OGhzRU1kb00xRUx6U1B6ZHhaVHRVby0yekU0RG9UT3RSRm9laVV4Rm5vRHVVRUJLNFRjTjZ3U0UxdWZaWjhIZ1J3UWZJVVhiamprVjY0anhQRFU2dm5WMjR4cnhrUWV0amh0Q2c5aWR3cmhiT0pVaDJrU3A0WUU4ejJDUzNucGVFV1RfV2pmVjgtNmc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxOZHBxZWMyNGpqQ0RwTmExeVlqYnJMWkVyeVA0OGhzRU1kb00xRUx6U1B6ZHhaVHRVby0yekU0RG9UT3RSRm9laVV4Rm5vRHVVRUJLNFRjTjZ3U0UxdWZaWjhIZ1J3UWZJVVhiamprVjY0anhQRFU2dm5WMjR4cnhrUWV0amh0Q2c5aWR3cmhiT0pVaDJrU3A0WUU4ejJDUzNucGVFV1RfV2pmVjgtNmc?oc=5</guid>
-<pubDate>Tue, 16 Jun 2026 18:34:20 GMT</pubDate>
-<description>Microsoft is considering using DeepSeek models for low-cost Copilot: report (MSFT:NASDAQ) &amp;nbsp;&amp;nbsp; Seeking Alpha</description>
-</item>
-<item>
-<title>[Gemini] June Pixel Drop: New features for creators, Gemini upgrades and more</title>
-<link>https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/</link>
-<guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/</guid>
-<pubDate>Tue, 16 Jun 2026 18:00:00 +0000</pubDate>
-<description>Get new screen recording feature, text-to-video tools with Gemini Omni, and better multitasking on your Pixel devices.</description>
-</item>
-<item>
-<title>[Research] From pixels to planning: Earth AI for nature restoration</title>
-<link>https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/</link>
-<guid isPermaLink="false">https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/</guid>
-<pubDate>Tue, 16 Jun 2026 17:30:00 +0000</pubDate>
-
 </item>
 </channel>
 </rss>
