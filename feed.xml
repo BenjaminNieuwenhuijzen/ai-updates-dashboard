@@ -5,7 +5,14 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 18 Jun 2026 15:53:34 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 18:36:35 GMT</lastBuildDate>
+<item>
+<title>[Blog] MosaicLeaks: Can your research agent keep a secret?</title>
+<link>https://huggingface.co/blog/ServiceNow/mosaicleaks</link>
+<guid isPermaLink="false">https://huggingface.co/blog/ServiceNow/mosaicleaks</guid>
+<pubDate>Thu, 18 Jun 2026 18:13:13 GMT</pubDate>
+<description>A Blog post by ServiceNow on Hugging Face</description>
+</item>
 <item>
 <title>[Gemini] Powering the world’s first AI arts museum</title>
 <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/</link>
@@ -70,11 +77,11 @@
 <description>DeepSeek raises $7.4 billion in funding round, surpasses $50 billion valuation &amp;nbsp;&amp;nbsp; Harici</description>
 </item>
 <item>
-<title>[Google News] ‘No poaching’ our people, China's AI behemoth DeepSeek reportedly tells investors - CNBC</title>
-<link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXFfSENraV9teFdyNnJEUXlmc2VXcVM0a3d2cGNEWU1Hd3c5MWktazlqTjZqblFmYUd0NlVXQXN1N3JVMFlqQXhvdExDclZaRC1iU0RDMlRxQ0RlVnM0MVVXb1ZCUXIwRUhLY0hiSWoyTEE5UWEwUnhJdVJlOGcwU3NBTmhrRVJ3Q1cxYmI0SDVpV3hib0F4VmNvRjA0LTg3TFNLM9IBqgFBVV95cUxObXhBcUZvLU03S0hhV3pUZTlWNlNkbGdpMnhFenl5WGc3elg4UHp0aFZ0cFZFMGJCcC1jMEdLM3k1QWFrOVQ0dHdORjB0MGowckZmazUwSUQ0V182eGdfaV8yX0lScmkza3B5UkRSaTlNR3pmaWJnZ3FmalcwdmlFM2VLOFVzcGtCSlJvbDE5TU1FLTF1dXFrcXJRdko1VkFCdHFrNE5SZU1hdw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXFfSENraV9teFdyNnJEUXlmc2VXcVM0a3d2cGNEWU1Hd3c5MWktazlqTjZqblFmYUd0NlVXQXN1N3JVMFlqQXhvdExDclZaRC1iU0RDMlRxQ0RlVnM0MVVXb1ZCUXIwRUhLY0hiSWoyTEE5UWEwUnhJdVJlOGcwU3NBTmhrRVJ3Q1cxYmI0SDVpV3hib0F4VmNvRjA0LTg3TFNLM9IBqgFBVV95cUxObXhBcUZvLU03S0hhV3pUZTlWNlNkbGdpMnhFenl5WGc3elg4UHp0aFZ0cFZFMGJCcC1jMEdLM3k1QWFrOVQ0dHdORjB0MGowckZmazUwSUQ0V182eGdfaV8yX0lScmkza3B5UkRSaTlNR3pmaWJnZ3FmalcwdmlFM2VLOFVzcGtCSlJvbDE5TU1FLTF1dXFrcXJRdko1VkFCdHFrNE5SZU1hdw?oc=5</guid>
-<pubDate>Thu, 18 Jun 2026 09:24:48 GMT</pubDate>
-<description>‘No poaching’ our people, China's AI behemoth DeepSeek reportedly tells investors &amp;nbsp;&amp;nbsp; CNBC</description>
+<title>[News] Improving health intelligence in ChatGPT</title>
+<link>https://openai.com/index/improving-health-intelligence-in-chatgpt</link>
+<guid isPermaLink="false">https://openai.com/index/improving-health-intelligence-in-chatgpt</guid>
+<pubDate>Thu, 18 Jun 2026 11:00:00 GMT</pubDate>
+<description>Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.</description>
 </item>
 <item>
 <title>[Google News] DeepSeek requires investors to agree no-poaching clause - Let's Data Science</title>
@@ -133,6 +140,13 @@
 <description>Microsoft, considering integrating DeepSeek &amp;nbsp;&amp;nbsp; 36 Kr</description>
 </item>
 <item>
+<title>[Research] Jun 18, 2026Frontier Red TeamProject Fetch: Phase two</title>
+<link>https://www.anthropic.com/research/project-fetch-phase-two</link>
+<guid isPermaLink="false">https://www.anthropic.com/research/project-fetch-phase-two</guid>
+<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+<description>We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year</description>
+</item>
+<item>
 <title>[Blog] Beyond LoRA: Can you beat the most popular fine-tuning technique?</title>
 <link>https://huggingface.co/blog/peft-beyond-lora</link>
 <guid isPermaLink="false">https://huggingface.co/blog/peft-beyond-lora</guid>
@@ -168,13 +182,6 @@
 <description>This is because of a recent decision taken by the Turkish Competition Authority The post Threads Returns to Türkiye With New Features appeared first on Meta Newsroom .</description>
 </item>
 <item>
-<title>[Google News] Microsoft CoPilot Flirts with DeepSeek Squeezing Out Frontier Labs - Yahoo Finance</title>
-<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkQ3a2NXNU5TOHNVUzRTWlZ2NlVNLTA4dmZYXzFyaGl4Y1BhcFBpUGRBdzJlNmpwSGNaaXdWX0hILWgxdllWMmFNWEtUdEdBLXFOWWxhYzRLY0lXMVBJVkFoNl9UVi1qMHltLVhZNU1JeTFXMWhYRmdXdWNLUXk1UDRmTVl2Tk1rM0N0U0pDSXJLb25uaDJwaGtIV05fTVdiSklNRGx3NHBOMDQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkQ3a2NXNU5TOHNVUzRTWlZ2NlVNLTA4dmZYXzFyaGl4Y1BhcFBpUGRBdzJlNmpwSGNaaXdWX0hILWgxdllWMmFNWEtUdEdBLXFOWWxhYzRLY0lXMVBJVkFoNl9UVi1qMHltLVhZNU1JeTFXMWhYRmdXdWNLUXk1UDRmTVl2Tk1rM0N0U0pDSXJLb25uaDJwaGtIV05fTVdiSklNRGx3NHBOMDQ?oc=5</guid>
-<pubDate>Wed, 17 Jun 2026 17:16:26 GMT</pubDate>
-<description>Microsoft CoPilot Flirts with DeepSeek Squeezing Out Frontier Labs &amp;nbsp;&amp;nbsp; Yahoo Finance</description>
-</item>
-<item>
 <title>[Google News] China’s DeepSeek ‘Valued at Over $50 Billion’ After Funding Round - Asia Financial</title>
 <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVlkYVhMRHppczlRUHMyMF91WmptaUVVQkxoeWtfQmE5WDNUeXlYaTNOTVRWWVBPMEh2UDBrMW96azlTTHI0V3Z6aTdMOEVMclhqcG1pMjl6ZW5aTnR1eWpFU1hrRFlLOFROcm50WHBoc0czQ0hWdU9IOGducnBXa0w1NWhEM1A1Zi0zNWI0TkZtTno2MlE?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVlkYVhMRHppczlRUHMyMF91WmptaUVVQkxoeWtfQmE5WDNUeXlYaTNOTVRWWVBPMEh2UDBrMW96azlTTHI0V3Z6aTdMOEVMclhqcG1pMjl6ZW5aTnR1eWpFU1hrRFlLOFROcm50WHBoc0czQ0hWdU9IOGducnBXa0w1NWhEM1A1Zi0zNWI0TkZtTno2MlE?oc=5</guid>
@@ -182,11 +189,11 @@
 <description>China’s DeepSeek ‘Valued at Over $50 Billion’ After Funding Round &amp;nbsp;&amp;nbsp; Asia Financial</description>
 </item>
 <item>
-<title>[Google News] DeepSeek was set to be added to US Entity List for supporting China’s military and intelligence operations,... - Yahoo</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQb3hER3BkWGh5b0xQenEzMzNWWnA1d3p6bXc1T0xtWTlkOGRlRlk1XzJkVWFCa21pUnJfRl9MbFEtamNna1llWGVVS04tdHMzUEdTY3FPbVFMQW9IUk8yRm5wUUJvMkxWbnh1X29hWkFGVVdzQWE2LXJMandLdVgyektMS251c18wTk9ROURGampTZw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikgFBVV95cUxQb3hER3BkWGh5b0xQenEzMzNWWnA1d3p6bXc1T0xtWTlkOGRlRlk1XzJkVWFCa21pUnJfRl9MbFEtamNna1llWGVVS04tdHMzUEdTY3FPbVFMQW9IUk8yRm5wUUJvMkxWbnh1X29hWkFGVVdzQWE2LXJMandLdVgyektMS251c18wTk9ROURGampTZw?oc=5</guid>
+<title>[Google News] DeepSeek was set to be added to US Entity List for supporting China’s military and intelligence operations, report claims — White House holds off to avoid escalating tensions with China - Tom's Hardware</title>
+<link>https://news.google.com/rss/articles/CBMixwJBVV95cUxOaS1mTWx1NFhNby0wcFE3V2E4T0dtbE9BRm9jcWZaekQ4bEZ3NHZlVUpxMnhYSGg2WXgxMExUcWh2WDY1OEdHZWxEVEFIczNsWkZacF94SDJncmhGNHFOdTBUeS1yRk0yeHlZaUxia0p4c3R2SUVlNjRDREVVLTcwcGJZQWJad2M4a3ZtSThGNk4xRmdGbk03SE9xbnV1VGFFWU9XXzE4ejZqSTZLckwzYzUtWElJaVZXY1hEWGNJc1RsTVNhNFAzTnBtYUJhMUg5N1dKN2tDNXU5cE5TQm54QzJZb0p3R1VJWDF5X0Q3ank0SXRDYTBnSjdFejVGTHpyV0NRVW9MeE9nM0hVT1oyanZEZDVlTGY1bElnczE4RG1Wb0hPTUlnZU42RE1JWmZ5UGlFQVgtTHBBUkxINFFIbkl3UGZGZG8?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwJBVV95cUxOaS1mTWx1NFhNby0wcFE3V2E4T0dtbE9BRm9jcWZaekQ4bEZ3NHZlVUpxMnhYSGg2WXgxMExUcWh2WDY1OEdHZWxEVEFIczNsWkZacF94SDJncmhGNHFOdTBUeS1yRk0yeHlZaUxia0p4c3R2SUVlNjRDREVVLTcwcGJZQWJad2M4a3ZtSThGNk4xRmdGbk03SE9xbnV1VGFFWU9XXzE4ejZqSTZLckwzYzUtWElJaVZXY1hEWGNJc1RsTVNhNFAzTnBtYUJhMUg5N1dKN2tDNXU5cE5TQm54QzJZb0p3R1VJWDF5X0Q3ank0SXRDYTBnSjdFejVGTHpyV0NRVW9MeE9nM0hVT1oyanZEZDVlTGY1bElnczE4RG1Wb0hPTUlnZU42RE1JWmZ5UGlFQVgtTHBBUkxINFFIbkl3UGZGZG8?oc=5</guid>
 <pubDate>Wed, 17 Jun 2026 16:00:45 GMT</pubDate>
-<description>DeepSeek was set to be added to US Entity List for supporting China’s military and intelligence operations,... &amp;nbsp;&amp;nbsp; Yahoo</description>
+<description>DeepSeek was set to be added to US Entity List for supporting China’s military and intelligence operations, report claims — White House holds off to avoid escalating tensions with China &amp;nbsp;&amp;nbsp; Tom's Hardware</description>
 </item>
 <item>
 <title>[Google News] US holds off on adding DeepSeek to blacklist - Taipei Times</title>
@@ -245,13 +252,6 @@
 <description>OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.</description>
 </item>
 <item>
-<title>[Google News] Exclusive: US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1ZFS3dvdUZNbkFCNUxiU1dWc0RxNzk5bWlqVl8xQTlDTFh0c2llcU1CZHRvRHRhZllDbDhhT3Y4T21DdjNjUkFydHE5X2FwcFB1ZkQ0QjdHTWRscHM2MWNITUJsS2NiVms0RmdWbHA5SHpucXAxejJOWFd0UjNuMVhKa0Rqc290QnhZWEhEYzBJeUpERWdhVmFPQ196cjQtel83cTdFVlRhd1V6TXc4X1pkUS1KbWhJeGNhcWY3emkzMTQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1ZFS3dvdUZNbkFCNUxiU1dWc0RxNzk5bWlqVl8xQTlDTFh0c2llcU1CZHRvRHRhZllDbDhhT3Y4T21DdjNjUkFydHE5X2FwcFB1ZkQ0QjdHTWRscHM2MWNITUJsS2NiVms0RmdWbHA5SHpucXAxejJOWFd0UjNuMVhKa0Rqc290QnhZWEhEYzBJeUpERWdhVmFPQ196cjQtel83cTdFVlRhd1V6TXc4X1pkUS1KbWhJeGNhcWY3emkzMTQ?oc=5</guid>
-<pubDate>Wed, 17 Jun 2026 09:05:18 GMT</pubDate>
-<description>Exclusive: US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say &amp;nbsp;&amp;nbsp; Reuters</description>
-</item>
-<item>
 <title>[Blog] GLM-5.2: Built for Long-Horizon Tasks</title>
 <link>https://huggingface.co/blog/zai-org/glm-52-blog</link>
 <guid isPermaLink="false">https://huggingface.co/blog/zai-org/glm-52-blog</guid>
@@ -280,13 +280,6 @@
 <description>DeepSeek valued at more than $50 bn after funding round: reports &amp;nbsp;&amp;nbsp; Tech Xplore</description>
 </item>
 <item>
-<title>[Cloud AI] How growing UK midsize businesses are building in the AI era</title>
-<link>https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/</guid>
-<pubDate>Wed, 17 Jun 2026 08:00:00 +0000</pubDate>
-<description>The UK’s 5-million-plus small and midsize businesses and enterprises (SMBs) are the backbone of our economy. Today, we’re seeing these critical businesses begin to put AI to work, to operate more efficiently, move faster, and ultimately deliver better outcomes for their customers. This shift is driv</description>
-</item>
-<item>
 <title>[Cloud AI] From AI potential to agentic reality: Driving the UK’s next chapter</title>
 <link>https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/</guid>
@@ -294,11 +287,11 @@
 <description>The United Kingdom, and London in particular, continues to be one of the great hubs for AI development in Europe and the world. We’re home to Google DeepMind, of course, as well as significant AI unicorns — and Google Cloud customers — like Ineffable Intelligence , which is today announcing an impor</description>
 </item>
 <item>
-<title>[Google News] US reportedly pauses plan to blacklist DeepSeek, CXMT and more than 100 other firms, ‘a positive signal to help further stabilize ties’: expert - Global Times</title>
-<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OMmNyTkxmMDZfU0E2eHRKYUQzekIyYXYtb29OSXlsNU11YWhOWjZLOXdzb09zLXlaV3YyY2VhNHZreXVlNVRCNW1MMkZTLUZndFkxM1I2bHZELWJ0Z1V4UXd3?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OMmNyTkxmMDZfU0E2eHRKYUQzekIyYXYtb29OSXlsNU11YWhOWjZLOXdzb09zLXlaV3YyY2VhNHZreXVlNVRCNW1MMkZTLUZndFkxM1I2bHZELWJ0Z1V4UXd3?oc=5</guid>
-<pubDate>Wed, 17 Jun 2026 07:45:00 GMT</pubDate>
-<description>US reportedly pauses plan to blacklist DeepSeek, CXMT and more than 100 other firms, ‘a positive signal to help further stabilize ties’: expert &amp;nbsp;&amp;nbsp; Global Times</description>
+<title>[Cloud AI] How growing UK midsize businesses are building in the AI era</title>
+<link>https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/</guid>
+<pubDate>Wed, 17 Jun 2026 08:00:00 +0000</pubDate>
+<description>The UK’s 5-million-plus small and midsize businesses and enterprises (SMBs) are the backbone of our economy. Today, we’re seeing these critical businesses begin to put AI to work, to operate more efficiently, move faster, and ultimately deliver better outcomes for their customers. This shift is driv</description>
 </item>
 <item>
 <title>[YouTube] Hermes Architecture EXPLAINED: Memory, Context &amp; Gateways</title>
@@ -315,11 +308,25 @@
 <description>Update: DeepSeek AI and the Great Talent Competition &amp;nbsp;&amp;nbsp; Hoover Institution</description>
 </item>
 <item>
+<title>[Google News] DeepSeek dodges addition to US trade blacklist - Yahoo Finance</title>
+<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPSVVGTHR0ZmFwYjJnS0VFRXZKNl9TY2tnNU50NWlwZno0ckhKMVE2WkIyeUUweW5MWU53dk41N3dUVFdFSVVjOFg3UXhfUVNYOTNwN2tRQ1NtUEVvWll4TGtCaWRYdVN0a2s5dDV4MllBcDhYVEt5ZUFmOVF4YUxnUENfdHowNkE?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPSVVGTHR0ZmFwYjJnS0VFRXZKNl9TY2tnNU50NWlwZno0ckhKMVE2WkIyeUUweW5MWU53dk41N3dUVFdFSVVjOFg3UXhfUVNYOTNwN2tRQ1NtUEVvWll4TGtCaWRYdVN0a2s5dDV4MllBcDhYVEt5ZUFmOVF4YUxnUENfdHowNkE?oc=5</guid>
+<pubDate>Wed, 17 Jun 2026 04:18:00 GMT</pubDate>
+<description>DeepSeek dodges addition to US trade blacklist &amp;nbsp;&amp;nbsp; Yahoo Finance</description>
+</item>
+<item>
 <title>[Google News] China’s DeepSeek reportedly raises $7.4B in funding at $50B+ valuation - SiliconANGLE</title>
 <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPYnZTWGFYUFpGQ2ZCbkRwbDVqdjY2b3BYNjBFMnZZdEVwV0tmeDBtRkVMZlBHTVZwSHlTeEI3RFZILVY5WERiQU90ZEItMmRuXzgyc1JybkNHTG9xOFNNRkdjSHJaS1V1ZUN1NjZKLWo1VHdEQ1BDNXhPcjhQaFFuWVNOZXJ1YXloOHprS1JTQWwwRW5fWkd5NFpjbjdRUQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxPYnZTWGFYUFpGQ2ZCbkRwbDVqdjY2b3BYNjBFMnZZdEVwV0tmeDBtRkVMZlBHTVZwSHlTeEI3RFZILVY5WERiQU90ZEItMmRuXzgyc1JybkNHTG9xOFNNRkdjSHJaS1V1ZUN1NjZKLWo1VHdEQ1BDNXhPcjhQaFFuWVNOZXJ1YXloOHprS1JTQWwwRW5fWkd5NFpjbjdRUQ?oc=5</guid>
 <pubDate>Wed, 17 Jun 2026 01:11:50 GMT</pubDate>
 <description>China’s DeepSeek reportedly raises $7.4B in funding at $50B+ valuation &amp;nbsp;&amp;nbsp; SiliconANGLE</description>
+</item>
+<item>
+<title>[Google News] US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1ZFS3dvdUZNbkFCNUxiU1dWc0RxNzk5bWlqVl8xQTlDTFh0c2llcU1CZHRvRHRhZllDbDhhT3Y4T21DdjNjUkFydHE5X2FwcFB1ZkQ0QjdHTWRscHM2MWNITUJsS2NiVms0RmdWbHA5SHpucXAxejJOWFd0UjNuMVhKa0Rqc290QnhZWEhEYzBJeUpERWdhVmFPQ196cjQtel83cTdFVlRhd1V6TXc4X1pkUS1KbWhJeGNhcWY3emkzMTQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1ZFS3dvdUZNbkFCNUxiU1dWc0RxNzk5bWlqVl8xQTlDTFh0c2llcU1CZHRvRHRhZllDbDhhT3Y4T21DdjNjUkFydHE5X2FwcFB1ZkQ0QjdHTWRscHM2MWNITUJsS2NiVms0RmdWbHA5SHpucXAxejJOWFd0UjNuMVhKa0Rqc290QnhZWEhEYzBJeUpERWdhVmFPQ196cjQtel83cTdFVlRhd1V6TXc4X1pkUS1KbWhJeGNhcWY3emkzMTQ?oc=5</guid>
+<pubDate>Wed, 17 Jun 2026 00:02:00 GMT</pubDate>
+<description>US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say &amp;nbsp;&amp;nbsp; Reuters</description>
 </item>
 <item>
 <title>[News] Introducing LifeSciBench</title>
@@ -397,13 +404,6 @@
 <guid isPermaLink="false">https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/</guid>
 <pubDate>Tue, 16 Jun 2026 20:30:08 GMT</pubDate>
 <description>Every swipe, transfer, and payment on a modern financial network encodes a pattern of human behavior. Transaction data is one of the richest signals an...</description>
-</item>
-<item>
-<title>[Google News] Microsoft (MSFT) May Use DeepSeek to Cut Copilot Cowork AI Costs - TipRanks</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1pzYnVtZkd0UFpyMDZhbHpZTmNmc2JMTEx2REdrSDJHdXNzNkFiSW9OU05PdGxhaFUxeXd6MV9QSG5TTjc4ZTJfR1ZxWHhDeV9ZUGFRTFlFYjRlUzl6WEhkb3RRUXVHODVBRWRXWDdsem9NcHIxTV8zWnFqVGNHUktUMHhhaTBMRDRJSmkwYVNlZjdabHVv?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1pzYnVtZkd0UFpyMDZhbHpZTmNmc2JMTEx2REdrSDJHdXNzNkFiSW9OU05PdGxhaFUxeXd6MV9QSG5TTjc4ZTJfR1ZxWHhDeV9ZUGFRTFlFYjRlUzl6WEhkb3RRUXVHODVBRWRXWDdsem9NcHIxTV8zWnFqVGNHUktUMHhhaTBMRDRJSmkwYVNlZjdabHVv?oc=5</guid>
-<pubDate>Tue, 16 Jun 2026 20:13:30 GMT</pubDate>
-<description>Microsoft (MSFT) May Use DeepSeek to Cut Copilot Cowork AI Costs &amp;nbsp;&amp;nbsp; TipRanks</description>
 </item>
 <item>
 <title>[Google News] Microsoft is considering using DeepSeek models for low-cost Copilot: report (MSFT:NASDAQ) - Seeking Alpha</title>
