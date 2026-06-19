@@ -498,13 +498,19 @@
   .cat-model { background: var(--badge-bg); color: var(--badge-text); }
   .cat-product { background: #e6f1fb; color: #185fa5; }
   .cat-onderzoek { background: #e1f5ee; color: #0f6e56; }
-  .cat-bedrijf { background: #faeeda; color: #854f0b; }
-  .cat-veiligheid { background: #fbe9e9; color: #a32d2d; }
+  .cat-funding { background: #faeeda; color: #854f0b; }
+  .cat-safety_policy { background: #fbe9e9; color: #a32d2d; }
+  .cat-hardware { background: #e9edf2; color: #44546a; }
+  .cat-developer { background: #fce9f1; color: #9b2c6b; }
+  .cat-applied { background: #def4f4; color: #0b6b6b; }
   .cat-overig { background: var(--chip); color: var(--muted); }
   :root[data-theme="dark"] .cat-product { background: #16283c; color: #8ab8ef; }
   :root[data-theme="dark"] .cat-onderzoek { background: #11332b; color: #7fd6b8; }
-  :root[data-theme="dark"] .cat-bedrijf { background: #3a2d12; color: #f0c674; }
-  :root[data-theme="dark"] .cat-veiligheid { background: #3a2020; color: #ff9c9c; }
+  :root[data-theme="dark"] .cat-funding { background: #3a2d12; color: #f0c674; }
+  :root[data-theme="dark"] .cat-safety_policy { background: #3a2020; color: #ff9c9c; }
+  :root[data-theme="dark"] .cat-hardware { background: #232b35; color: #aab7c7; }
+  :root[data-theme="dark"] .cat-developer { background: #3a1f2c; color: #f3a8cf; }
+  :root[data-theme="dark"] .cat-applied { background: #14302f; color: #79d6d0; }
 
   /* ------------------------------------------------------------------
      Navigation bar: filter by category.
@@ -756,11 +762,14 @@
       <span class="control-label">Category</span>
       <div class="catbar" role="group" aria-label="Filter posts">
         <button type="button" data-cat="all" class="active" aria-pressed="true">All</button>
-        <button type="button" data-cat="model" aria-pressed="false">Model updates</button>
+        <button type="button" data-cat="model" aria-pressed="false">Model releases</button>
         <button type="button" data-cat="product" aria-pressed="false">Products</button>
         <button type="button" data-cat="onderzoek" aria-pressed="false">Research</button>
-        <button type="button" data-cat="bedrijf" aria-pressed="false">Company news</button>
-        <button type="button" data-cat="veiligheid" aria-pressed="false">Safety &amp; policy</button>
+        <button type="button" data-cat="developer" aria-pressed="false">Developer</button>
+        <button type="button" data-cat="hardware" aria-pressed="false">Hardware</button>
+        <button type="button" data-cat="applied" aria-pressed="false">Applied AI</button>
+        <button type="button" data-cat="funding" aria-pressed="false">Business</button>
+        <button type="button" data-cat="safety_policy" aria-pressed="false">Safety &amp; policy</button>
         <button type="button" data-cat="overig" aria-pressed="false">Other</button>
         <label class="saved-toggle"><input type="checkbox" id="savedOnly"> Saved only</label>
       </div>
@@ -1066,34 +1075,41 @@ function starHtml(link) {
 }
 
 /* Heuristic: flag posts that seem to be about a new or updated AI model.
-   Two signals: a model name with a version number in the text, or a release
-   word combined with a model word. Not foolproof. */
+   Signals: a model name with a version number, a known model name, or a
+   model word combined with a release word. Not foolproof. */
 const VERSION_PAT = /\b(gpt|claude|gemini|gemma|llama|grok|mistral|codex|sonar|veo|imagen|sora|deepseek|qwen|opus|sonnet|haiku|fable|mythos)[ -]?v?\d+(\.\d+)?\b/i;
-const MODEL_WORDS = /\b(model|gpt|claude|gemini|gemma|llama|grok|codex|sonar|veo|imagen|sora|deepseek|qwen)\b/i;
-const RELEASE_WORDS = /\b(introduc\w+|announc\w+|releas\w+|launch\w*|now available|general availability|preview|upgrade\w*|updated?|nieuw|nieuwe versie)\b/i;
+const NAMED_MODEL = /\b(voxtral|magistral|sam[ -]?\d|glm-?\d|olmo\w*|diffusiongemma|gpt-image|seamless interaction|dinov?\d|granite[ -]?\d|molmo\w*|phi-?\d|qwen|paddleocr|speciesnet|weathernext|alphafold|alphago)\b/i;
+const MODEL_WORDS = /\b(model|llm|foundation model|frontier model|reasoning model|multimodal|vision model|weights|checkpoint)\b/i;
+const RELEASE_WORDS = /\b(introduc\w+|announc\w+|releas\w+|launch\w*|unveil\w*|now available|general availability|preview|upgrade\w*|updated?|new (model|family|version))\b/i;
 function isModelUpdate(it) {
   const t = (it.title || "") + " " + (it.summary || "");
-  return VERSION_PAT.test(t) || (MODEL_WORDS.test(t) && RELEASE_WORDS.test(t));
+  return VERSION_PAT.test(t) || NAMED_MODEL.test(t) || (MODEL_WORDS.test(t) && RELEASE_WORDS.test(t));
 }
 
 /* Category classification per post, based on title and summary.
-   Order determines priority; first match wins. An automated
-   estimate, so not foolproof. */
+   Order determines priority; first match wins (so the order below IS the
+   design). An automated estimate, so not foolproof. */
 const CATS = {
-  model: "Model update",
-  veiligheid: "Safety",
+  funding: "Business",
+  safety_policy: "Safety & policy",
+  hardware: "Hardware",
+  model: "Model release",
   onderzoek: "Research",
-  bedrijf: "Company",
+  developer: "Developer",
+  applied: "Applied AI",
   product: "Product",
   overig: "Other"
 };
 function categorize(it) {
   const t = ((it.title || "") + " " + (it.summary || "")).toLowerCase();
+  if (/(fundrais|\bfunding\b|\braise[sd]?\b|valuation|valued at|\bseries [abc]\b|\bipo\b|\bs-1\b|\bm&a\b|acquisition|acquir\w+|\bmerger\b|backed by|\binvest(ment|or|ed|ing)?\b|\bstake\b|\$\s?\d+(\.\d+)?\s?(b|bn|billion|m|mn|million)|\d+\s?gigawatt|partner(ship|s|ing|ed)?\b|collaborat\w+|\bdeal\b|in talks|\bmulls\b|\beyes\b|\bweighs\b|revenue|earnings|\bprofit|appoint\w*|board of directors|representative director|general manager|\bceo\b|\bcfo\b)/.test(t)) return "funding";
+  if (/(safety|\bsecur|cyber|threat|\bpolic(y|ies)|regulat|governance|privacy|misuse|jailbreak|red.?team|alignment|biodefense|guardrail|responsible ai|content moderation|\bteens?\b|child safety|\bminors?\b|age verif|watermark|confidential comput|blacklist|\bban(s|ned)?\b|sanction|export control|national security|security risk|antitrust|lawsuit|\bchina\b|chinese|beijing|\bmilitary\b|espionage)/.test(t)) return "safety_policy";
+  if (/(\bgpus?\b|\bchips?\b|\bhardware\b|blackwell|\bcuda\b|\bkernels?\b|instinct|\bmi3\d\d|\bmtia\b|\btpu\b|data cent|datacenter|data center|\bgigawatt|\bcompute\b|infrastructure|ai factor|infiniband|optical backbone|silicon|\bwafer|\bfab\b|semiconductor|accelerat\w*|private cloud compute|\brtx\b|interconnect|fusion kernel|robot\w*|sovereign|supercomput\w*|\bgrid\b|on-device)/.test(t)) return "hardware";
   if (isModelUpdate(it)) return "model";
-  if (/\b(safety|secur\w+|cyber\w*|threat\w*|policy|policies|regulat\w+|governance|privacy|misuse|jailbreak|red.team|alignment|biodefense|veiligheid|beleid)\b/.test(t)) return "veiligheid";
-  if (/\b(research|paper|study|benchmark\w*|science|scientific|breakthrough|discover\w+|genome|biolog\w+|physics|mathemat\w+|robotics|onderzoek)\b/.test(t)) return "onderzoek";
-  if (/\b(funding|raise[sd]?|valuation|partner\w*|acquisition|acquir\w+|merger|ipo|s-1|revenue|appoint\w*|ceo|invest\w*|hiring|joins?|economic|samenwerking|overname)\b/.test(t)) return "bedrijf";
-  if (/\b(app|apps|feature\w*|integrat\w+|api|platform|tool\w*|product\w*|enterprise|subscription|pricing|workflow\w*|agent\w*|assistant|available|launch\w*|introduc\w+|update[sd]?)\b/.test(t)) return "product";
+  if (/(benchmark\w*|mlperf|leaderboard|state.of.the.art|\bsota\b|\beval(uation|s)?\b|\bpaper\b|arxiv|\bresearch\b|scaling law|ablation|\bstudy\b|novel method|theorem|hypothesis|we trained|reasoning|self-supervised|interpretability|\bscience\b|scientific|biolog\w*|genom\w*|chemist\w*|chemistry|physics|mathemat\w*|protein|molecul\w*|neuron\w*|\bbrain\b|quantum|forecasting|simulat\w*)/.test(t)) return "onderzoek";
+  if (/(how to|how-to|tutorial|\bguide\b|developer.s guide|walkthrough|deep dive|explained|recipe|cookbook|getting started|step.by.step|fine-tun\w*|\blora\b|quantiz\w*|profiling|pytorch|transformers\.js|\btensors?\b|softmax|low-precision|\bsdk\b|\bapis?\b|integrat\w+|connector|\bextensions?\b|\bmigrat\w+|\bmcp\b|build(ing)? (a|your)|code review|\bdebug|agent framework|agent platform|orchestrat\w*|\ba2a\b|agent skills|scaffold|\bharness\b|multi-agent|\binference\b|continuous batching|distributed (ai )?training|\bembeddings?\b)/.test(t)) return "developer";
+  if (/(uses ai|using ai|ai-powered|powered by ai|\bhelps?\b|how .* uses|diagnos\w*|\bpatient|clinic\w*|hospital|\bdiseases?\b|genetic|\bdrugs?\b|medicine|cancer|\bhealth\b|conservation|wildlife|species|\bclimate|weather|\bstorms?\b|\bflood|restoration|case study|customer|deploy\w*|real-world|freelanc|aged care|\bfans\b|race operations|\beducation\b|farming|agricultur\w*|insurance|\bretail\b|\bfinance\b|\blegal\b|government|public sector|workforce|\bjobs\b)/.test(t)) return "applied";
+  if (/(new feature|\bfeatures?\b|now available|available now|rolling out|\brollout|general availability|\bbeta\b|\bpreview\b|redesign|custom voice|custom skills|\bmemories\b|record & replay|spend controls|usage analytics|scheduling|subscription|pricing|open.sourc\w*|\bapps?\b|desktop|\bupdates?\b|\blaunch\w*|introduc\w+|\bagents?\b|agentic|generally available|\bis here\b|available to)/.test(t)) return "product";
   return "overig";
 }
 function catTag(it) {

@@ -88,6 +88,20 @@ const escXml = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g,
 const deEnt = s => s.replace(/&amp;/g, "&").replace(/&#x2F;/gi, "/").replace(/&#38;/g, "&");
 const norm = s => (s || "").toLowerCase().replace(/\s+/g, " ").trim();
 
+// Some community mirrors concatenate the page's date, section label and headline
+// into one string with no separators. The Anthropic /research mirror is the worst:
+//   "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two"   (date, label, title)
+//   "PolicyDec 18, 2025Project Vend: Phase two"               (label, date, title)
+// Strip the leading run of date + known Anthropic section labels. Gated on a glued
+// year ("2026F") and scoped to Anthropic, so normal titles are never touched.
+const ANTH_DATE = "[A-Z][a-z]{2,8} \\d{1,2}, \\d{4}";
+const ANTH_LABELS = "Frontier Red Team|Societal Impacts|Economic Research|Interpretability|Announcements|Engineering|Alignment|Education|Research|Science|Policy|Product|Company";
+const ANTH_MANGLE = new RegExp("^(?:(?:" + ANTH_DATE + ")|(?:" + ANTH_LABELS + "))+");
+function cleanMirrorTitle(s, company) {
+  if (company !== "Anthropic" || !s || !/\d{4}[A-Za-z]/.test(s)) return s;
+  return s.replace(ANTH_MANGLE, "").trim() || s;
+}
+
 function rssImage(block) {
   // media:content / media:thumbnail. Skip non-image media:content (YouTube lists the video
   // URL as media:content before the thumbnail) and tiny author avatars (GitHub releases.atom).
@@ -166,7 +180,7 @@ for (const feed of FEEDS) {
     let count = 0;
     for (const m of xml.matchAll(blockRe)) {
       const block = m[0];
-      const title = strip(unCdata(pick(block, "title")));
+      const title = cleanMirrorTitle(strip(unCdata(pick(block, "title"))), feed.company);
       let link, pubDate, t, desc;
       if (isAtom) {
         link = atomLink(block);
@@ -177,7 +191,7 @@ for (const feed of FEEDS) {
         link = unCdata(pick(block, "link"));
         pubDate = pick(block, "pubDate");
         t = Date.parse(pubDate);
-        desc = strip(unCdata(pick(block, "description"))).slice(0, 300);
+        desc = cleanMirrorTitle(strip(unCdata(pick(block, "description"))), feed.company).slice(0, 300);
       }
       if (!title || !link || isNaN(t)) continue;
       if (norm(desc) === norm(title)) desc = "";

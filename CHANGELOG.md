@@ -27,6 +27,9 @@ can see exactly what changed between any two versions.
   developer / research / engineering blogs, official newsrooms, product and
   release-note changelogs, and each company's official YouTube channel.
 - Mistral now reads its official native feed instead of the community mirror.
+- Three new per-post categories — **Hardware & Infrastructure**, **Developer & How-to**
+  and **Applied AI** — while the old **Company** and **Safety** tags were broadened into
+  **Business & Funding** and **Safety & Policy**, taking the taxonomy from 6 to 9.
 
 ### Changed
 - `rssImage` skips non-image `media:content` (e.g. YouTube's video URL) and tiny
@@ -39,6 +42,15 @@ can see exactly what changed between any two versions.
 - Tidied the header: dropped the "View"/"Search" caption labels (kept as `aria-label`)
   and removed the Refresh button, so the controls align on one centered row and the
   bar is shorter.
+- Rewrote the automatic category classifier as a priority-ordered keyword chain (first
+  match wins). Cut the uncategorised **Other** bucket from ~29% to ~12% of items and
+  broke up the over-stuffed **Product** bucket, fixing rule gaps along the way (e.g.
+  "fundraising" and the plural "APIs" were previously missed).
+
+### Fixed
+- Anthropic research-mirror titles that glued the date, section label and headline into
+  one string (e.g. "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two") are now
+  cleaned at build time down to just the headline.
 
 ## [1.0.0] - 2026-06-16
 
