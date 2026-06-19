@@ -1,0 +1,7 @@
+# robots.txt for https://ai-radar.eu/
+# Allow all well-behaved crawlers full access.
+User-agent: *
+Allow: /
+
+# Sitemap location (helps search engines discover all pages).
+Sitemap: https://ai-radar.eu/sitemap.xml
