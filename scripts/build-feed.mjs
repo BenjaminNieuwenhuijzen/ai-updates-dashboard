@@ -3,7 +3,7 @@
 //   data.json - structured (incl. thumbnail + summary), for the dashboard.
 // Missing images/summaries are filled in from the article page's og: tags,
 // with a cache that persists across runs. Runs in GitHub Actions (Node 20+).
-import { writeFileSync, readFileSync, mkdirSync, existsSync, readdirSync, unlinkSync } from "node:fs";
+import { writeFileSync, readFileSync, mkdirSync, existsSync, readdirSync, unlinkSync, statSync } from "node:fs";
 import { createHash } from "node:crypto";
 import { execFileSync } from "node:child_process";
 
@@ -299,12 +299,21 @@ function localImageName(url) {
   return `${IMG_DIR}/${hash}${shot}.${ext}`;
 }
 
-function resizeInPlace(file) {
-  if (!MAGICK) return;
+const IDENTIFY = MAGICK === "magick" ? ["magick", "identify"] : ["identify"];
+// Resize a cached image only if it is actually larger than IMG_MAX_DIM, so the
+// step is idempotent: already-small files are not re-encoded, so they don't churn
+// git history on every run. Returns true if the file was resized.
+function resizeOversized(file) {
+  if (!MAGICK) return false;
   try {
+    if (statSync(file).size < 200 * 1024) return false;            // already small enough
+    const out = execFileSync(IDENTIFY[0], [...IDENTIFY.slice(1), "-format", "%w %h ", file], { timeout: 10000 }).toString().trim();
+    const [w, h] = out.split(/\s+/).map(Number);
+    if (!(w > IMG_MAX_DIM || h > IMG_MAX_DIM)) return false;        // not oversized -> leave as-is
     execFileSync(MAGICK, [file, "-resize", `${IMG_MAX_DIM}x${IMG_MAX_DIM}>`, "-strip", "-quality", "82", file],
       { stdio: "ignore", timeout: 25000 });
-  } catch { /* keep the original on any resize error */ }
+    return true;
+  } catch { return false; }
 }
 
 async function downloadImage(url) {
@@ -320,7 +329,6 @@ async function downloadImage(url) {
     if (!buf.length || buf.length > IMG_MAX_BYTES) return "";
     const name = localImageName(url);
     writeFileSync(name, buf);
-    resizeInPlace(name);
     return name;
   } catch {
     return "";
@@ -351,6 +359,13 @@ async function cacheImages(list) {
     const src = it.image || "";
     if (/^https?:\/\//i.test(src)) it.image = byUrl.get(src) || "";
   }
+  // 3b. Resize any referenced image still larger than the target — covers both
+  //     fresh downloads and full-size files cached before ImageMagick existed.
+  let resizedCount = 0;
+  for (const f of new Set(list.map(it => it.image).filter(p => p && p.startsWith(IMG_DIR + "/")))) {
+    if (resizeOversized(f)) resizedCount++;
+  }
+  if (MAGICK) console.log(`images resized: ${resizedCount}`);
   // 4. Prune cached files no longer referenced by any item.
   const referenced = new Set(list.map(it => it.image).filter(p => p && p.startsWith(IMG_DIR + "/")));
   let pruned = 0;
