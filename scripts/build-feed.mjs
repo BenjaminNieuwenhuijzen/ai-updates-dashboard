@@ -3,7 +3,9 @@
 //   data.json - structured (incl. thumbnail + summary), for the dashboard.
 // Missing images/summaries are filled in from the article page's og: tags,
 // with a cache that persists across runs. Runs in GitHub Actions (Node 20+).
-import { writeFileSync, readFileSync } from "node:fs";
+import { writeFileSync, readFileSync, mkdirSync, existsSync, readdirSync, unlinkSync } from "node:fs";
+import { createHash } from "node:crypto";
+import { execFileSync } from "node:child_process";
 
 // company = exact card name in the dashboard; source = sublabel (when there are multiple feeds).
 // All URLs verified live (2026-06-16). format=Atom feeds (<entry>) need the Atom branch
@@ -252,15 +254,113 @@ for (const it of kept) {
   if (SCREENSHOT_BLOCK.some(d => host === d || host.endsWith("." + d))) continue;
   it.image = "https://image.thum.io/get/width/1200/crop/700/" + it.link;
 }
-// Safety net: blocked domains must never keep a screenshot, not even one that
-// still comes from a previous run's cache.
+// Safety net: blocked domains must never keep a screenshot — neither a fresh
+// thum.io URL nor one already cached locally (marked .shot by localImageName).
 for (const it of kept) {
-  if (!it.image.includes("image.thum.io")) continue;
+  if (!it.image.includes("image.thum.io") && !it.image.includes(".shot.")) continue;
   let host = "";
   try { host = new URL(it.link).hostname.replace(/^www\./, ""); } catch {}
   if (SCREENSHOT_BLOCK.some(d => host === d || host.endsWith("." + d))) it.image = "";
 }
 console.log(`images: ${kept.filter(i => i.image).length}/${kept.length} (og:${ogImages}, screenshot:${kept.length - ogImages}) | summaries: ${kept.filter(i => i.desc).length}/${kept.length} | fetched: ${fetched}`);
+
+// ---- cache images first-party (privacy / GDPR) ----
+// Download every external thumbnail here on the runner and rewrite it.image to a
+// same-origin path under img/, so a visitor's browser never contacts a third-party
+// image host (publisher CDNs, image.thum.io, YouTube, etc.). Content-addressed by
+// URL hash, so unchanged items neither re-download nor churn git history; files no
+// longer referenced by any item are pruned to keep the working set bounded.
+const IMG_DIR = "img";
+const IMG_MAX_BYTES = 8 * 1024 * 1024;   // reject absurd downloads before buffering
+const IMG_MAX_DIM = 800;                 // cap the longest side; thumbnails never need more
+
+// ImageMagick keeps the cached images small without bloating the repo. Detected
+// once; if it is absent the build still works, the images are just larger.
+const MAGICK = (() => {
+  for (const cmd of ["magick", "convert"]) {
+    try { execFileSync(cmd, ["-version"], { stdio: "ignore" }); return cmd; } catch {}
+  }
+  return null;
+})();
+console.log(MAGICK ? `image resize: using ${MAGICK}` : "image resize: ImageMagick not found — keeping originals");
+
+// Filename is a pure function of the URL, so an unchanged item keeps the same
+// path across runs (no re-download, no git churn). thum.io screenshots get a
+// .shot marker so the SCREENSHOT_BLOCK safety net still recognises them once
+// they are cached as a local path.
+function localImageName(url) {
+  const hash = createHash("sha1").update(url).digest("hex").slice(0, 16);
+  let ext = "jpg";
+  try {
+    const m = new URL(url).pathname.match(/\.(jpe?g|png|gif|webp|avif|svg)$/i);
+    if (m) ext = m[1].toLowerCase() === "jpeg" ? "jpg" : m[1].toLowerCase();
+  } catch {}
+  const shot = url.includes("image.thum.io") ? ".shot" : "";
+  return `${IMG_DIR}/${hash}${shot}.${ext}`;
+}
+
+function resizeInPlace(file) {
+  if (!MAGICK) return;
+  try {
+    execFileSync(MAGICK, [file, "-resize", `${IMG_MAX_DIM}x${IMG_MAX_DIM}>`, "-strip", "-quality", "82", file],
+      { stdio: "ignore", timeout: 25000 });
+  } catch { /* keep the original on any resize error */ }
+}
+
+async function downloadImage(url) {
+  try {
+    const res = await fetch(url, {
+      signal: AbortSignal.timeout(15000),
+      headers: { "user-agent": "Mozilla/5.0 (compatible; AIRadarBot/1.0)" }
+    });
+    if (!res.ok) return "";
+    const ct = (res.headers.get("content-type") || "").split(";")[0].trim().toLowerCase();
+    if (ct && !ct.startsWith("image/")) return "";   // HTML error page etc., not an image
+    const buf = Buffer.from(await res.arrayBuffer());
+    if (!buf.length || buf.length > IMG_MAX_BYTES) return "";
+    const name = localImageName(url);
+    writeFileSync(name, buf);
+    resizeInPlace(name);
+    return name;
+  } catch {
+    return "";
+  }
+}
+
+async function cacheImages(list) {
+  mkdirSync(IMG_DIR, { recursive: true });
+  // 0. Normalise protocol-relative URLs (//host/x.jpg) so they get cached, not blanked.
+  for (const it of list) {
+    if (it.image && it.image.startsWith("//")) it.image = "https:" + it.image;
+  }
+  // 1. Keep already-local images from a previous run if the file still exists.
+  for (const it of list) {
+    const src = it.image || "";
+    if (src && !/^https?:\/\//i.test(src) && !existsSync(src)) it.image = "";
+  }
+  // 2. Download each unique remote image once.
+  const byUrl = new Map();
+  for (const it of list) {
+    const src = it.image || "";
+    if (/^https?:\/\//i.test(src) && !byUrl.has(src)) byUrl.set(src, "");
+  }
+  const urls = [...byUrl.keys()];
+  await pool(urls.map(u => async () => { byUrl.set(u, await downloadImage(u)); }), CONCURRENCY);
+  // 3. Rewrite remote URLs to their local path ("" on failure -> brand placeholder).
+  for (const it of list) {
+    const src = it.image || "";
+    if (/^https?:\/\//i.test(src)) it.image = byUrl.get(src) || "";
+  }
+  // 4. Prune cached files no longer referenced by any item.
+  const referenced = new Set(list.map(it => it.image).filter(p => p && p.startsWith(IMG_DIR + "/")));
+  let pruned = 0;
+  for (const f of readdirSync(IMG_DIR)) {
+    const p = IMG_DIR + "/" + f;
+    if (!referenced.has(p)) { try { unlinkSync(p); pruned++; } catch {} }
+  }
+  console.log(`images cached: ${referenced.size} local, ${urls.length} remote fetched, ${pruned} pruned`);
+}
+await cacheImages(kept);
 
 // ---- daily briefing (Claude Haiku, server-side) ----
 // Generates "Today in AI": 5 short items from the latest headlines. Runs at most
