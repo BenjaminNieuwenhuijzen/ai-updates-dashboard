@@ -193,7 +193,6 @@
   .control { display: flex; flex-direction: column; gap: 6px; }
   .control-wide { flex: 1 1 100%; }
   .control-label { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
-  .control-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .filters-panel[hidden] { display: none; }
   input#search {
     background: var(--card);
@@ -428,8 +427,29 @@
   }
   .star:hover { color: var(--card-accent, var(--link)); background: var(--card-hover); }
   .star.saved { color: #e0a800; }
-  .saved-toggle { display: flex; align-items: center; gap: 7px; font-size: 13px; color: var(--muted); cursor: pointer; }
-  .saved-toggle input { accent-color: var(--link); width: 15px; height: 15px; }
+  /* 'Saved only' as a pill toggle that matches the category chips (one consistent
+     visual language, Nielsen #4): outlined star by default, link-coloured filled
+     star when on. Sits in the same row as the chips, not floating at the side. */
+  .saved-toggle {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    height: 32px;
+    padding: 0 14px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    font-size: 12.5px;
+    color: var(--muted);
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .saved-toggle:hover { color: var(--text); border-color: var(--muted); }
+  .saved-toggle::before { content: "\2606"; font-size: 15px; line-height: 1; }
+  .saved-toggle input { position: absolute; width: 1px; height: 1px; opacity: 0; margin: 0; }
+  .saved-toggle:has(input:checked) { border-color: var(--link); color: var(--link); font-weight: 600; }
+  .saved-toggle:has(input:checked)::before { content: "\2605"; }
+  .saved-toggle:has(input:focus-visible) { outline: 2px solid var(--link); outline-offset: 2px; }
 
   /* ------------------------------------------------------------------
      Newly arrived items: unread convention (dot + brief
@@ -474,7 +494,7 @@
   /* ------------------------------------------------------------------
      Navigation bar: filter by category.
   ------------------------------------------------------------------ */
-  .catbar { display: flex; flex-wrap: wrap; gap: 8px; }
+  .catbar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
   .catbar button {
     display: inline-flex;
     align-items: center;
@@ -718,11 +738,8 @@
       </div>
     </div>
     <div class="control control-wide">
-      <div class="control-head">
-        <span class="control-label">Category</span>
-        <label class="saved-toggle"><input type="checkbox" id="savedOnly"> Saved only</label>
-      </div>
-      <nav class="catbar" aria-label="Filter by category">
+      <span class="control-label">Category</span>
+      <div class="catbar" role="group" aria-label="Filter posts">
         <button type="button" data-cat="all" class="active" aria-pressed="true">All</button>
         <button type="button" data-cat="model" aria-pressed="false">Model updates</button>
         <button type="button" data-cat="product" aria-pressed="false">Products</button>
@@ -730,7 +747,8 @@
         <button type="button" data-cat="bedrijf" aria-pressed="false">Company news</button>
         <button type="button" data-cat="veiligheid" aria-pressed="false">Safety &amp; policy</button>
         <button type="button" data-cat="overig" aria-pressed="false">Other</button>
-      </nav>
+        <label class="saved-toggle"><input type="checkbox" id="savedOnly"> Saved only</label>
+      </div>
     </div>
   </div>
 </header>
