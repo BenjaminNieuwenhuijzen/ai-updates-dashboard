@@ -5,13 +5,20 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Fri, 19 Jun 2026 18:07:41 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 20:04:34 GMT</lastBuildDate>
 <item>
 <title>[YouTube] MolmoAct2 - Building Open Science Robotics Foundation Models for Real world Deployment</title>
 <link>https://www.youtube.com/watch?v=y7lQLnQKey0</link>
 <guid isPermaLink="false">https://www.youtube.com/watch?v=y7lQLnQKey0</guid>
 <pubDate>Fri, 19 Jun 2026 14:58:01 GMT</pubDate>
 <description>00:00 Welcome and Introductions 01:00 Why Robotics Needs AI 02:44 Limits of Today’s VLA Models 03:37 Openness Zero Shot Reasoning 06:24 MoMoAct2 Overview and Embodiments 08:07 Open Datasets and Reannotation 10:51 Three Stage Training Pipeline 12:16 VLM Initiation with ER Data 15:04 VLA Pretraining a</description>
+</item>
+<item>
+<title>[Google News] Microsoft eyes DeepSeek to lower AI costs while US restricts Mythos and Fable 5 over China fears - The Indian Panorama</title>
+<link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPQnBCWWZHMFQwUmNXS2xFeEdiMzhwSTZuTEFRVTgtVnN6cXdMdzcyeHRZQlNidTNEMHo1c3Nhem1mLW9KMkFmNFRxaTBVaHpaa1p0U0pSX2MtdjlnZnlkcWJaNFVsM1J4Q2xVRzNYTEFOM1pMaU9SR29pQjM2S3lhLUM0eVRyN3dnU1JFWlQ2dF9HTGJiUDZ5TmlKakswWWtLWkYtVVdudkpoVnVZN2NGakpQcGFETlZFU1FkVUg5Umw1TFVvM2RUSW1NbHU?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxPQnBCWWZHMFQwUmNXS2xFeEdiMzhwSTZuTEFRVTgtVnN6cXdMdzcyeHRZQlNidTNEMHo1c3Nhem1mLW9KMkFmNFRxaTBVaHpaa1p0U0pSX2MtdjlnZnlkcWJaNFVsM1J4Q2xVRzNYTEFOM1pMaU9SR29pQjM2S3lhLUM0eVRyN3dnU1JFWlQ2dF9HTGJiUDZ5TmlKakswWWtLWkYtVVdudkpoVnVZN2NGakpQcGFETlZFU1FkVUg5Umw1TFVvM2RUSW1NbHU?oc=5</guid>
+<pubDate>Fri, 19 Jun 2026 13:00:00 GMT</pubDate>
+<description>Microsoft eyes DeepSeek to lower AI costs while US restricts Mythos and Fable 5 over China fears &amp;nbsp;&amp;nbsp; The Indian Panorama</description>
 </item>
 <item>
 <title>[Google News] Microsoft explores DeepSeek V4 for Copilot Cowork costs - Let's Data Science</title>
@@ -61,13 +68,6 @@
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/ferc-large-load-interconnection/</guid>
 <pubDate>Thu, 18 Jun 2026 20:00:27 +0000</pubDate>
 <description>In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the </description>
-</item>
-<item>
-<title>[Google News] DeepSeek's Valuation Soars To $50B, Plus More Rumors - Law360</title>
-<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGRYemxVVnR5dVJSNDE4TzhLZG55c3A4a2s4bUZibVFQcE0yUFdmajNMMG9JVlNoTzBQTHlTSDFZeFB3c0JMS3F4b2Y1b1ByUHpNMjd5UEdRcW9nT1NhN1RFbGhyRFl0ZWZGck10aVNjeGRraDNtbWRsbXhTNUcwczBmMUlpVWJ1RXZJQXhrbmpjRWIx0gFWQVVfeXFMUHdkSjNmQmhMRjFoWEVLZVVXRElfWXVqbGlOczZ2UVJiUk9oUHRKRG1ZcFZxOUZlRTNQVFFVVV9ORHV5OGQwXzhpS05vUEJxSExHTF9FZ3c?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGRYemxVVnR5dVJSNDE4TzhLZG55c3A4a2s4bUZibVFQcE0yUFdmajNMMG9JVlNoTzBQTHlTSDFZeFB3c0JMS3F4b2Y1b1ByUHpNMjd5UEdRcW9nT1NhN1RFbGhyRFl0ZWZGck10aVNjeGRraDNtbWRsbXhTNUcwczBmMUlpVWJ1RXZJQXhrbmpjRWIx0gFWQVVfeXFMUHdkSjNmQmhMRjFoWEVLZVVXRElfWXVqbGlOczZ2UVJiUk9oUHRKRG1ZcFZxOUZlRTNQVFFVVV9ORHV5OGQwXzhpS05vUEJxSExHTF9FZ3c?oc=5</guid>
-<pubDate>Thu, 18 Jun 2026 19:38:00 GMT</pubDate>
-<description>DeepSeek's Valuation Soars To $50B, Plus More Rumors &amp;nbsp;&amp;nbsp; Law360</description>
 </item>
 <item>
 <title>[YouTube] Improving health intelligence in ChatGPT</title>
@@ -259,6 +259,13 @@
 <description>Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.</description>
 </item>
 <item>
+<title>[Google News] The biggest winners and losers from US restrictions on Anthropic's AI - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemRsN3dwMnBkYzFrWGduQUNQRWRjTTNDaEN4VHRCeExrWW9ZY1RJYnpBZmVpMkRRV1BCb0RLNmgtYllpbVlXWGk1RVVEU0E5OHI0QXR3WHIxWFJEcGhrUkJ1cHhSLVF4Tm41VWZuei13ZXoyeVAwY09yZ0VrakFWOGNTR05iWFJSY0pTVWpNaXlhOVl0Y05EaVNIOE1adnRtZnVTMDBrczFjaGlzU2lXUy0wYWxIZXpWOVRJ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemRsN3dwMnBkYzFrWGduQUNQRWRjTTNDaEN4VHRCeExrWW9ZY1RJYnpBZmVpMkRRV1BCb0RLNmgtYllpbVlXWGk1RVVEU0E5OHI0QXR3WHIxWFJEcGhrUkJ1cHhSLVF4Tm41VWZuei13ZXoyeVAwY09yZ0VrakFWOGNTR05iWFJSY0pTVWpNaXlhOVl0Y05EaVNIOE1adnRtZnVTMDBrczFjaGlzU2lXUy0wYWxIZXpWOVRJ?oc=5</guid>
+<pubDate>Wed, 17 Jun 2026 12:39:00 GMT</pubDate>
+<description>The biggest winners and losers from US restrictions on Anthropic's AI &amp;nbsp;&amp;nbsp; Business Insider</description>
+</item>
+<item>
 <title>[Google News] DeepSeek Just Raised $7.4 Billion. Here’s The Catch. - Forbes</title>
 <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWszMzBpakQ5X2prb3dhSjhId0N1M0xqUmhPVVpuMUFBOEZFT3A2MU1McTJqMkVSOVRpYW82dkd2QmpzQi1ZTlA0ZmVjUjd5U1FUTzFPbGxPd3AwQ1JTOTJGY2oxa3JJck5CVk01S2hDeDRTQlQxSU02ZmxGV1RDWWdJMlA0ZHNfVnNEaDFJMlJoZ0NvSDVfMEE3cFBJNjdubWc0?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWszMzBpakQ5X2prb3dhSjhId0N1M0xqUmhPVVpuMUFBOEZFT3A2MU1McTJqMkVSOVRpYW82dkd2QmpzQi1ZTlA0ZmVjUjd5U1FUTzFPbGxPd3AwQ1JTOTJGY2oxa3JJck5CVk01S2hDeDRTQlQxSU02ZmxGV1RDWWdJMlA0ZHNfVnNEaDFJMlJoZ0NvSDVfMEE3cFBJNjdubWc0?oc=5</guid>
@@ -320,6 +327,13 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxONTc2WlJZZ29HMmdoZDU0Q19GU3pjSEhheld0SmhOa2xleXFrUGkxcVlQTkI3NzRZNHBPek1Xc2l6ak5VOVcybVF2bG04R01Bc25CQ2MzT1kzT0dNcGwtbDhxa2N0Zm4wUTAtdTRYNXRTMHNhcGJVdnY4Q0RNNDRWMGRER1pfWEtVbEVxcWNlQQ?oc=5</guid>
 <pubDate>Wed, 17 Jun 2026 08:49:00 GMT</pubDate>
 <description>Microsoft Mulls Using DeepSeek for Copilot Cowork &amp;nbsp;&amp;nbsp; The Information</description>
+</item>
+<item>
+<title>[Google News] DeepSeek valued at more than $50 bn after funding round: reports - Tech Xplore</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5ldW9JZW43OGV4RzIzd1Z5R2lDd0ttLXk0MC1aTVFBbTgxa09Pa0UwNmFPaHVhTTdkRmo2bGt6U0x2SDA0alkyUVZJcWNKUWJRa19hVXZzNnZ2UkFyeTdUSHhHRGc1WTRndEJsV0lQa1JDdEowd0E?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE5ldW9JZW43OGV4RzIzd1Z5R2lDd0ttLXk0MC1aTVFBbTgxa09Pa0UwNmFPaHVhTTdkRmo2bGt6U0x2SDA0alkyUVZJcWNKUWJRa19hVXZzNnZ2UkFyeTdUSHhHRGc1WTRndEJsV0lQa1JDdEowd0E?oc=5</guid>
+<pubDate>Wed, 17 Jun 2026 08:06:57 GMT</pubDate>
+<description>DeepSeek valued at more than $50 bn after funding round: reports &amp;nbsp;&amp;nbsp; Tech Xplore</description>
 </item>
 <item>
 <title>[Cloud AI] From AI potential to agentic reality: Driving the UK’s next chapter</title>
@@ -411,20 +425,6 @@
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/coherent-texas-ai-optical/</guid>
 <pubDate>Tue, 16 Jun 2026 22:10:56 +0000</pubDate>
 <description>AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the worl</description>
-</item>
-<item>
-<title>[Google News] Microsoft Mulls China’s DeepSeek for Copilot, Probably to Trump’s Chagrin - Gizmodo</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQQW1zY0RxN1RIRzdaNndXUEV3XzFBa2Q2WTlycWdmei1aNE9jMWlIWkNrRmNIRjdJcEJpLVUtTlpjMXl4Z3F1R1pubmFnWF9YTTB4NDgteWVvT3BUaDVMb3VaYVpFRV9rUVd4a0JXQXJXc2xTTTQ3ZXlKbEVtR1ZuckJCUlZXT0haMzBDbHk3Y3BvUzdmMnNQLXpWWW83S2pkbFJr?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQQW1zY0RxN1RIRzdaNndXUEV3XzFBa2Q2WTlycWdmei1aNE9jMWlIWkNrRmNIRjdJcEJpLVUtTlpjMXl4Z3F1R1pubmFnWF9YTTB4NDgteWVvT3BUaDVMb3VaYVpFRV9rUVd4a0JXQXJXc2xTTTQ3ZXlKbEVtR1ZuckJCUlZXT0haMzBDbHk3Y3BvUzdmMnNQLXpWWW83S2pkbFJr?oc=5</guid>
-<pubDate>Tue, 16 Jun 2026 21:33:52 GMT</pubDate>
-<description>Microsoft Mulls China’s DeepSeek for Copilot, Probably to Trump’s Chagrin &amp;nbsp;&amp;nbsp; Gizmodo</description>
-</item>
-<item>
-<title>[DeepMind] Unlocking UK house-building with AI-accelerated planning</title>
-<link>https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</guid>
-<pubDate>Tue, 16 Jun 2026 21:29:50 +0000</pubDate>
-<description>UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.</description>
 </item>
 </channel>
 </rss>
