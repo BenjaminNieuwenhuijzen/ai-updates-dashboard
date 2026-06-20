@@ -5,7 +5,7 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Sat, 20 Jun 2026 21:41:24 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 23:37:49 GMT</lastBuildDate>
 <item>
 <title>[Google News] Auntie Goose Legs, China’s Shrinking Condom Market, and DeepSeek’s AI Blind Spot - Eye on Digital China</title>
 <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnpzaUxZTzlLU1pYaEJzUExrdHVOTFZRTnE5Z2ozOEEzTEJFMmVtNTBDdWlaQ050WWJVX2w1cnl0MlB1ZXdJdkRmZTBJdHlza2dhSGMtcThiN3NiQUN2T19VUFctLUdzUVpHV0FhWEZvNHV2NVNlMmZheG1OOWpoVUY5THVZbG9PbnQxNExkVWt1NEVlaVZqR2wxZ2l3NjkzQ1pZdVRPR083QQ?oc=5</link>
@@ -287,6 +287,13 @@
 <description>Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.</description>
 </item>
 <item>
+<title>[Google News] The biggest winners and losers from US restrictions on Anthropic's AI - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemRsN3dwMnBkYzFrWGduQUNQRWRjTTNDaEN4VHRCeExrWW9ZY1RJYnpBZmVpMkRRV1BCb0RLNmgtYllpbVlXWGk1RVVEU0E5OHI0QXR3WHIxWFJEcGhrUkJ1cHhSLVF4Tm41VWZuei13ZXoyeVAwY09yZ0VrakFWOGNTR05iWFJSY0pTVWpNaXlhOVl0Y05EaVNIOE1adnRtZnVTMDBrczFjaGlzU2lXUy0wYWxIZXpWOVRJ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemRsN3dwMnBkYzFrWGduQUNQRWRjTTNDaEN4VHRCeExrWW9ZY1RJYnpBZmVpMkRRV1BCb0RLNmgtYllpbVlXWGk1RVVEU0E5OHI0QXR3WHIxWFJEcGhrUkJ1cHhSLVF4Tm41VWZuei13ZXoyeVAwY09yZ0VrakFWOGNTR05iWFJSY0pTVWpNaXlhOVl0Y05EaVNIOE1adnRtZnVTMDBrczFjaGlzU2lXUy0wYWxIZXpWOVRJ?oc=5</guid>
+<pubDate>Wed, 17 Jun 2026 12:39:00 GMT</pubDate>
+<description>The biggest winners and losers from US restrictions on Anthropic's AI &amp;nbsp;&amp;nbsp; Business Insider</description>
+</item>
+<item>
 <title>[Google News] DeepSeek Just Raised $7.4 Billion. Here’s The Catch. - Forbes</title>
 <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWszMzBpakQ5X2prb3dhSjhId0N1M0xqUmhPVVpuMUFBOEZFT3A2MU1McTJqMkVSOVRpYW82dkd2QmpzQi1ZTlA0ZmVjUjd5U1FUTzFPbGxPd3AwQ1JTOTJGY2oxa3JJck5CVk01S2hDeDRTQlQxSU02ZmxGV1RDWWdJMlA0ZHNfVnNEaDFJMlJoZ0NvSDVfMEE3cFBJNjdubWc0?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWszMzBpakQ5X2prb3dhSjhId0N1M0xqUmhPVVpuMUFBOEZFT3A2MU1McTJqMkVSOVRpYW82dkd2QmpzQi1ZTlA0ZmVjUjd5U1FUTzFPbGxPd3AwQ1JTOTJGY2oxa3JJck5CVk01S2hDeDRTQlQxSU02ZmxGV1RDWWdJMlA0ZHNfVnNEaDFJMlJoZ0NvSDVfMEE3cFBJNjdubWc0?oc=5</guid>
@@ -418,13 +425,6 @@
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-xr-ai/</guid>
 <pubDate>Tue, 16 Jun 2026 22:30:41 +0000</pubDate>
 <description>NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &amp;#160;</description>
-</item>
-<item>
-<title>[Developer] Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI</title>
-<link>https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/</guid>
-<pubDate>Tue, 16 Jun 2026 22:30:00 GMT</pubDate>
-<description>Developers building for AR glasses and wearable devices face an infrastructure gap. The hardware is ready, but creating AI experiences requires integrating live...</description>
 </item>
 </channel>
 </rss>
