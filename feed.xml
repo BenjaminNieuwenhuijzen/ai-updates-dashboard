@@ -5,7 +5,21 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Sun, 21 Jun 2026 16:13:03 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 17:53:41 GMT</lastBuildDate>
+<item>
+<title>[YouTube] Brain for Perplexity Computer</title>
+<link>https://www.youtube.com/watch?v=K3NfZvqJod4</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=K3NfZvqJod4</guid>
+<pubDate>Sun, 21 Jun 2026 16:47:57 GMT</pubDate>
+<description>Brain is a continuously learning memory system. Every task on Computer plugs into a context graph built by Brain. It makes Computer more stateful with every run. Available as a research preview for all Perplexity Max subscribers. Learn more about Brain for Perplexity Computer: https://www.perplexity</description>
+</item>
+<item>
+<title>[YouTube] Deep Research in Perplexity Computer</title>
+<link>https://www.youtube.com/watch?v=2qRSDUuZ2xY</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=2qRSDUuZ2xY</guid>
+<pubDate>Sun, 21 Jun 2026 16:43:39 GMT</pubDate>
+<description>Deep Research is now a native skill inside Perplexity Computer. It connects to the agent harness that powers Computer, with access to search as code generation, long running sandboxes, connectors, tools, and licensed data. Available now to Pro and Max subscribers. Learn more about Deep Research in C</description>
+</item>
 <item>
 <title>[Google News] US Holds Off DeepSeek Blacklist As China AI Tensions Rise In 2026 - Memeburn</title>
 <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGNvaVlkQ0ZkdExzcHJIWU5VcHlNckxpVEZCNHMxWFVBTV80ZUtkSnp5V1hJa3VjT1ZqUXJPX2J1cmVfcUNrU19TbmVUSVEtcVIwWm5zdlBjXy13RU9lNE94QUVmU0xQT0dmVDY4cDhSbGpZc2hXTHk2N0RZaHRVb1YtU1lmZjhIcjlYSTROSG0?oc=5</link>
@@ -411,20 +425,6 @@
 <guid isPermaLink="false">https://huggingface.co/blog/agentic-resource-discovery-launch</guid>
 <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
 
-</item>
-<item>
-<title>[Google News] DeepSeek fundraises $7.4 billion - Semafor</title>
-<link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1VSm9ta2l6QXNTV1Z0OE5leEJWVk9BeTNpRUx2eElZLWlKTEh4aFZXU1BhZjhVZ3FudWJ4UG5qU0NHUXVxMjdBX0RVWXlqajlNUWsxMEJ0YVNoUlFCV3MxZHFnaGRPMWxYcU5laVZTbE1PZGFNdnVhenRfd05Udw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE1VSm9ta2l6QXNTV1Z0OE5leEJWVk9BeTNpRUx2eElZLWlKTEh4aFZXU1BhZjhVZ3FudWJ4UG5qU0NHUXVxMjdBX0RVWXlqajlNUWsxMEJ0YVNoUlFCV3MxZHFnaGRPMWxYcU5laVZTbE1PZGFNdnVhenRfd05Udw?oc=5</guid>
-<pubDate>Tue, 16 Jun 2026 22:52:00 GMT</pubDate>
-<description>DeepSeek fundraises $7.4 billion &amp;nbsp;&amp;nbsp; Semafor</description>
-</item>
-<item>
-<title>[Blog] Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses</title>
-<link>https://blogs.nvidia.com/blog/nvidia-xr-ai/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-xr-ai/</guid>
-<pubDate>Tue, 16 Jun 2026 22:30:41 +0000</pubDate>
-<description>NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &amp;#160;</description>
 </item>
 </channel>
 </rss>
