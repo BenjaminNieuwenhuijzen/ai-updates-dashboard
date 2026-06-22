@@ -5,13 +5,174 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Mon, 22 Jun 2026 12:27:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 18:19:45 GMT</lastBuildDate>
+<item>
+<title>[Google News] DeepSeek 2.0? New Chinese AI model GLM-5.2 generates buzz in Silicon Valley - The American Bazaar</title>
+<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3ZmcXVnTkVuZTAyVy1MQklDVGxiN1VBbFh2Q3RYNXJfSnZPVVY1bHRQZG1NYkhWXzVDZDBKVWFTSXlYNWVPX19NdWhWUG9EZzRWMXdTcW9YZHhGZC1RVFlnUzlWdE1lY2dEaXA3T2pRdTB0Ty0yTVNnUmJRY1pQVGE2ZldncWg3aHU1Nmh6WlpvbFBlMzdZVmJDMGEzb0tYWlJMOUEyNVBaSEM1?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3ZmcXVnTkVuZTAyVy1MQklDVGxiN1VBbFh2Q3RYNXJfSnZPVVY1bHRQZG1NYkhWXzVDZDBKVWFTSXlYNWVPX19NdWhWUG9EZzRWMXdTcW9YZHhGZC1RVFlnUzlWdE1lY2dEaXA3T2pRdTB0Ty0yTVNnUmJRY1pQVGE2ZldncWg3aHU1Nmh6WlpvbFBlMzdZVmJDMGEzb0tYWlJMOUEyNVBaSEM1?oc=5</guid>
+<pubDate>Mon, 22 Jun 2026 17:51:30 GMT</pubDate>
+<description>DeepSeek 2.0? New Chinese AI model GLM-5.2 generates buzz in Silicon Valley &amp;nbsp;&amp;nbsp; The American Bazaar</description>
+</item>
+<item>
+<title>[YouTube] How Zendesk CEO Tom Eggemeier goes from Idea to Action</title>
+<link>https://www.youtube.com/watch?v=27-GjDIWGo0</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=27-GjDIWGo0</guid>
+<pubDate>Mon, 22 Jun 2026 17:45:36 GMT</pubDate>
+<description>We’re excited to launch our new Monday Morning series, a leadership first take on going from idea to action in the AI era. First up is Tom Eggemeier, CEO at Zendesk who shares the one question that every CEO should ask of their board, and the Monday morning routine that sets him up for success. Grab</description>
+</item>
+<item>
+<title>[Agent Framework] Meet your agent harness and claw</title>
+<link>https://devblogs.microsoft.com/agent-framework/meet-your-agent-harness-and-claw/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/agent-framework/meet-your-agent-harness-and-claw/</guid>
+<pubDate>Mon, 22 Jun 2026 17:35:24 +0000</pubDate>
+<description>Part 1 of Build your own claw and agent harness with Microsoft Agent Framework. In the overview we said a &amp;#8220;claw&amp;#8221; is really just an agent harness: a loop around a model, wired up with tools, planning, memory, and more. In this first post we stand up that loop and give our personal finance</description>
+</item>
+<item>
+<title>[Agent Framework] Build your own claw and agent harness with Microsoft Agent Framework</title>
+<link>https://devblogs.microsoft.com/agent-framework/build-your-own-claw-and-agent-harness-with-microsoft-agent-framework/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/agent-framework/build-your-own-claw-and-agent-harness-with-microsoft-agent-framework/</guid>
+<pubDate>Mon, 22 Jun 2026 17:33:56 +0000</pubDate>
+<description>What does it take to build your own &amp;#8220;claw&amp;#8221; &amp;#8211; a capable, CLI-style agent that can plan, use tools, remember things, and safely act on your behalf? Coding agents and assistants like these can feel like magic, but underneath they are an agent harness: a loop around a language model wi</description>
+</item>
+<item>
+<title>[Developer] CCCL Runtime: A Modern C++ Runtime for CUDA</title>
+<link>https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/</guid>
+<pubDate>Mon, 22 Jun 2026 16:00:00 GMT</pubDate>
+<description>The NVIDIA CUDA Core Compute Libraries (CCCL) provides delightful and efficient abstractions for CUDA developers in C++ and Python. It features: Parallel...</description>
+</item>
+<item>
+<title>[Google News] Everything Beyond the Model Is Harness: DeepSeek Enters the Fray, Why Has the Main Battlefield of Domestic AI Competition Shifted? - PANews</title>
+<link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBYYmI2UXU1Znd4UW9WUXpCV004Y01Mc3RBelFFU0phYndjMU1xM2xlaUhBRnd3RXVJLWNYQnJVb3MyNm0tMGRvcmNCWjZ6WFZVaDhwZWZoSERUTWxqZEthNnlPd2NfOUEzU0w4YTZKelJXcnJMUV8tbkJvZ3ZkLWM?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBYYmI2UXU1Znd4UW9WUXpCV004Y01Mc3RBelFFU0phYndjMU1xM2xlaUhBRnd3RXVJLWNYQnJVb3MyNm0tMGRvcmNCWjZ6WFZVaDhwZWZoSERUTWxqZEthNnlPd2NfOUEzU0w4YTZKelJXcnJMUV8tbkJvZ3ZkLWM?oc=5</guid>
+<pubDate>Mon, 22 Jun 2026 15:43:00 GMT</pubDate>
+<description>Everything Beyond the Model Is Harness: DeepSeek Enters the Fray, Why Has the Main Battlefield of Domestic AI Competition Shifted? &amp;nbsp;&amp;nbsp; PANews</description>
+</item>
+<item>
+<title>[Developer] Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI</title>
+<link>https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/</guid>
+<pubDate>Mon, 22 Jun 2026 15:00:00 GMT</pubDate>
+<description>When AlphaFold2 revolutionized drug discovery in 2020, its success relied entirely on the roughly 170,000 protein structures collected by scientists since 1971...</description>
+</item>
+<item>
+<title>[Newsroom] Instagram for TV Gets Bigger, With New Ways to Watch Together</title>
+<link>https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together/</link>
+<guid isPermaLink="false">https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together/</guid>
+<pubDate>Mon, 22 Jun 2026 14:00:34 +0000</pubDate>
+<description>Instagram for TV will not be available on Samsung TV, plus we're testing new to make sharing and discovering even more fun. The post Instagram for TV Gets Bigger, With New Ways to Watch Together appeared first on Meta Newsroom .</description>
+</item>
+<item>
+<title>[Blog] PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters</title>
+<link>https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</link>
+<guid isPermaLink="false">https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</guid>
+<pubDate>Mon, 22 Jun 2026 13:18:56 GMT</pubDate>
+
+</item>
+<item>
+<title>[Blog] At ISC, JUPITER Shows What Exascale Science Looks Like</title>
+<link>https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/</guid>
+<pubDate>Mon, 22 Jun 2026 13:00:48 +0000</pubDate>
+<description>JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects runn</description>
+</item>
+<item>
+<title>[Blog] NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure</title>
+<link>https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/</guid>
+<pubDate>Mon, 22 Jun 2026 13:00:38 +0000</pubDate>
+<description>For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to</description>
+</item>
+<item>
+<title>[YouTube] Can Robotics Hackathon Change Your Life?</title>
+<link>https://www.youtube.com/watch?v=FLxFBU-Kodk</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=FLxFBU-Kodk</guid>
+<pubDate>Mon, 22 Jun 2026 13:00:28 GMT</pubDate>
+<description>One year ago thousands of people worked for 48h to build something cool with LeRobot library: https://huggingface.co/lerobot LeRobot Worldwide Hackathon was a global AI robotics challenge that took place June 14-15, 2025. Discover how one weekend of open-source building launched careers, inspired ne</description>
+</item>
+<item>
+<title>[Blog] From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries</title>
+<link>https://blogs.nvidia.com/blog/ai-for-science-software-cuda/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-for-science-software-cuda/</guid>
+<pubDate>Mon, 22 Jun 2026 13:00:20 +0000</pubDate>
+<description>At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,</description>
+</item>
+<item>
+<title>[Blog] NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory</title>
+<link>https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</guid>
+<pubDate>Mon, 22 Jun 2026 13:00:20 +0000</pubDate>
+<description>Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with</description>
+</item>
+<item>
+<title>[Blog] Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins</title>
+<link>https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/</guid>
+<pubDate>Mon, 22 Jun 2026 13:00:13 +0000</pubDate>
+<description>The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprec</description>
+</item>
+<item>
+<title>[Newsroom] NVIDIA Vera Rubin Delivers World-Class Supercomputers for Science</title>
+<link>https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science</link>
+<guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science</guid>
+<pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
+<description>ISC High Performance 2026 -- NVIDIA today announced the NVIDIA Vera Rubin platform delivers world-class supercomputers for science, combining native double-precision (FP64) performance, NVIDIA CUDA-X™ libraries and the full-stack capabilities of the NVIDIA AI platform.</description>
+</item>
+<item>
+<title>[Newsroom] Europe Unveils a Record 35 New NVIDIA AI Supercomputers</title>
+<link>https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers</link>
+<guid isPermaLink="false">https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers</guid>
+<pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
+<description>ISC High Performance 2026 -- NVIDIA today announced that a record 35 NVIDIA AI HPC supercomputers are in development across Europe — equipping more than 3 million researchers with next-generation infrastructure for continental AI, accelerated science and industrial innovation.</description>
+</item>
+<item>
+<title>[Newsroom] NVIDIA Announces Halos for Robotics, the Industry’s First Full-Stack Safety System for Physical AI</title>
+<link>https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</link>
+<guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</guid>
+<pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
+<description>NVIDIA today announced NVIDIA Halos for Robotics, the industry’s first full-stack, comprehensive safety system for robotics and physical AI that unifies AI compute and safety.</description>
+</item>
+<item>
+<title>[Developer] Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI</title>
+<link>https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/</guid>
+<pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
+<description>Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...</description>
+</item>
+<item>
+<title>[Google News] Nadella scoffs at AI giants as Microsoft may host China’s DeepSeek - Cybernews</title>
+<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNOFJOMUgtX2NRdjZ0U1RCZThaOTVhRXZ4WGlGU090UFBjd0pxb3AxTWxBa1prMll4cTA4NEFxdzU1bk9CcmVqSXJYbmJONS1YM2ZoZjZzR2V5SGVmTGR5MEpOVXdTRno2WGZFM0VnclpmTDlXcDA5dVMwSGk0WERPbWViZw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxNOFJOMUgtX2NRdjZ0U1RCZThaOTVhRXZ4WGlGU090UFBjd0pxb3AxTWxBa1prMll4cTA4NEFxdzU1bk9CcmVqSXJYbmJONS1YM2ZoZjZzR2V5SGVmTGR5MEpOVXdTRno2WGZFM0VnclpmTDlXcDA5dVMwSGk0WERPbWViZw?oc=5</guid>
+<pubDate>Mon, 22 Jun 2026 12:53:08 GMT</pubDate>
+<description>Nadella scoffs at AI giants as Microsoft may host China’s DeepSeek &amp;nbsp;&amp;nbsp; Cybernews</description>
+</item>
 <item>
 <title>[Google News] India must build its own DeepSeek or risk AI dependence on US, warns Bernstein - Storyboard18</title>
 <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQZW1SSEk1QWdyQXpSbWVfYmExX1VTcktjcnh5TlI1WlJoWXhjRGpxSjBfc1dhQ0lNaU1IaGtoUC1neEdXME4wTmsyZ0NwV2hTaDg4Q3pNMjJHNmEwcmRpU2F4WUlNUEVfQUllbVNfdVVUUGgzOUFoWVNLbFNTRUlEdWxLLUlkdUprUGFleW1QUXd6a08yMUVsY0RxMG9hc1dZOTlSWnhsNkp6WmM4MllXLVBXUXBCTjB2cDY5Qk1Sc3hnVjdraXpoR3Vn0gHPAUFVX3lxTFBORVY3dmk3aUVCWERvSGRlRUpHVVM3WEgyNTNfY1RET0xRZWRDVkk2cFRWT1Zwc3R4WFdDNFVBRUl4T0FiSk9jMFJRVW9vY1VVRE83ODNiOFFtYV9rRDA4cHBldTBmcUY0dlJoLWRFc2VJOUJXN2s2UUdoSy1GOVRNdHV5ckRJSEtWWVV1cWhrOUNxOGdKQWNreG9jMUFoaGEyRy1vYWhjVFF6ZVVMdmJtdVgwb2NrRGhvZW05WU9rN2dMY1RvamZjV0NFY3FVSQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxQZW1SSEk1QWdyQXpSbWVfYmExX1VTcktjcnh5TlI1WlJoWXhjRGpxSjBfc1dhQ0lNaU1IaGtoUC1neEdXME4wTmsyZ0NwV2hTaDg4Q3pNMjJHNmEwcmRpU2F4WUlNUEVfQUllbVNfdVVUUGgzOUFoWVNLbFNTRUlEdWxLLUlkdUprUGFleW1QUXd6a08yMUVsY0RxMG9hc1dZOTlSWnhsNkp6WmM4MllXLVBXUXBCTjB2cDY5Qk1Sc3hnVjdraXpoR3Vn0gHPAUFVX3lxTFBORVY3dmk3aUVCWERvSGRlRUpHVVM3WEgyNTNfY1RET0xRZWRDVkk2cFRWT1Zwc3R4WFdDNFVBRUl4T0FiSk9jMFJRVW9vY1VVRE83ODNiOFFtYV9rRDA4cHBldTBmcUY0dlJoLWRFc2VJOUJXN2s2UUdoSy1GOVRNdHV5ckRJSEtWWVV1cWhrOUNxOGdKQWNreG9jMUFoaGEyRy1vYWhjVFF6ZVVMdmJtdVgwb2NrRGhvZW05WU9rN2dMY1RvamZjV0NFY3FVSQ?oc=5</guid>
 <pubDate>Mon, 22 Jun 2026 10:55:58 GMT</pubDate>
 <description>India must build its own DeepSeek or risk AI dependence on US, warns Bernstein &amp;nbsp;&amp;nbsp; Storyboard18</description>
+</item>
+<item>
+<title>[Google News] Axios C-Suite: Open-source AI pits cost against security - Axios</title>
+<link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2daQzVXNzVPRVpDRnM1dWl6b05Qb1p2UndsRzU3a2Rvc21KQXdFaFpIc3NsTmxFdUpCUk5iaGNOM2lSXzgwMEhDZmtNWF8wY0dscWVRcm1tWVJnc2N4YmloYnQzdXkzWkQ1bGIzQlMyQ19vWG4xUFl1NGxiRk1vWjFB?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2daQzVXNzVPRVpDRnM1dWl6b05Qb1p2UndsRzU3a2Rvc21KQXdFaFpIc3NsTmxFdUpCUk5iaGNOM2lSXzgwMEhDZmtNWF8wY0dscWVRcm1tWVJnc2N4YmloYnQzdXkzWkQ1bGIzQlMyQ19vWG4xUFl1NGxiRk1vWjFB?oc=5</guid>
+<pubDate>Mon, 22 Jun 2026 10:02:06 GMT</pubDate>
+<description>Axios C-Suite: Open-source AI pits cost against security &amp;nbsp;&amp;nbsp; Axios</description>
+</item>
+<item>
+<title>[News] Patch the Planet: a Daybreak initiative to support open source maintainers</title>
+<link>https://openai.com/index/patch-the-planet</link>
+<guid isPermaLink="false">https://openai.com/index/patch-the-planet</guid>
+<pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+<description>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.</description>
+</item>
+<item>
+<title>[News] Daybreak: Tools for securing every organization in the world</title>
+<link>https://openai.com/index/daybreak-securing-the-world</link>
+<guid isPermaLink="false">https://openai.com/index/daybreak-securing-the-world</guid>
+<pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+<description>OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.</description>
 </item>
 <item>
 <title>[Google News] After DeepSeek, now new GLM 5.2 AI from China shocks Silicon Valley - India Today</title>
@@ -35,18 +196,18 @@
 <description>India needs its own DeepSeek or risk becoming dependent on US AI models: Bernstein &amp;nbsp;&amp;nbsp; Moneycontrol.com</description>
 </item>
 <item>
-<title>[Google News] Malicious JetBrains and VS Code Extensions Steal OpenAI, Anthropic, and DeepSeek API Keys - CyberSecurityNews</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1ZOLXV2U3FZNU1raTBuVTBCN1lZb3liUEpLUkoya2lGRWtzSFQ3ZUFYUHVBaFRnZ1pyMGtfLXZBaXFwMkZtWXdWZjgtMXp6RkxNZmljbEJwSG1hZXFlWEhVb0lJdEphZ09EbDU2RFdVSkdxM3VQZE5LWVg1Sll3M1B1ZWpFWjZ1QS1XY0RDLXktUQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1ZOLXV2U3FZNU1raTBuVTBCN1lZb3liUEpLUkoya2lGRWtzSFQ3ZUFYUHVBaFRnZ1pyMGtfLXZBaXFwMkZtWXdWZjgtMXp6RkxNZmljbEJwSG1hZXFlWEhVb0lJdEphZ09EbDU2RFdVSkdxM3VQZE5LWVg1Sll3M1B1ZWpFWjZ1QS1XY0RDLXktUQ?oc=5</guid>
-<pubDate>Mon, 22 Jun 2026 06:56:45 GMT</pubDate>
-<description>Malicious JetBrains and VS Code Extensions Steal OpenAI, Anthropic, and DeepSeek API Keys &amp;nbsp;&amp;nbsp; CyberSecurityNews</description>
-</item>
-<item>
 <title>[Google News] DeepSeek 2.0 moment? Zhipu AI’s market capitalization surpasses HK$1 trillion, and GLM-5.2 dominates Wall Street headlines - 富途牛牛</title>
 <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxONGM1SXlXWDN3UWpzbFF5R05YeUJWZ1M1ZE5FTGlYWkhmdm5YZHFHM3ZwdmhZVVlBcW1zLWMta1B4NzBhcktIR1ZVT1hSVE9BZi1Hem4yRzhnOG41TTZ0RDM2MDI3WmNpRFBzREJvbGtxUGNLTUlsZ05UbU5iSDIwZEMtbTNRMWxoZkxtWEQ0MFJNdFcxekMyems3OXJpbGt5RTFCaHN3?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxONGM1SXlXWDN3UWpzbFF5R05YeUJWZ1M1ZE5FTGlYWkhmdm5YZHFHM3ZwdmhZVVlBcW1zLWMta1B4NzBhcktIR1ZVT1hSVE9BZi1Hem4yRzhnOG41TTZ0RDM2MDI3WmNpRFBzREJvbGtxUGNLTUlsZ05UbU5iSDIwZEMtbTNRMWxoZkxtWEQ0MFJNdFcxekMyems3OXJpbGt5RTFCaHN3?oc=5</guid>
 <pubDate>Mon, 22 Jun 2026 06:26:00 GMT</pubDate>
 <description>DeepSeek 2.0 moment? Zhipu AI’s market capitalization surpasses HK$1 trillion, and GLM-5.2 dominates Wall Street headlines &amp;nbsp;&amp;nbsp; 富途牛牛</description>
+</item>
+<item>
+<title>[Google News] Codex Compatibility with Domestic Open - source Models: Actual Test of DeepSeek Integration Reveals High Threshold - 36 Kr</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTN002RmpadzdqSkJ2X21COWM5dEhDOURjVDE4aDFaNjRnQ2I2UnFwbjdqT0xEcVB3eWdUcU83TjkwM0pzeXhlUnBTaFp0OE94Uk5V?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTN002RmpadzdqSkJ2X21COWM5dEhDOURjVDE4aDFaNjRnQ2I2UnFwbjdqT0xEcVB3eWdUcU83TjkwM0pzeXhlUnBTaFp0OE94Uk5V?oc=5</guid>
+<pubDate>Mon, 22 Jun 2026 05:30:41 GMT</pubDate>
+<description>Codex Compatibility with Domestic Open - source Models: Actual Test of DeepSeek Integration Reveals High Threshold &amp;nbsp;&amp;nbsp; 36 Kr</description>
 </item>
 <item>
 <title>[Blog] Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines</title>
@@ -70,11 +231,11 @@
 <description>Microsoft considers DeepSeek as OpenAI costs mount &amp;nbsp;&amp;nbsp; digitimes</description>
 </item>
 <item>
-<title>[Google News] Stanford Report: Surge in China's Independently Trained Top AI Talents - 36 Kr</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oQWNCdVpsVzRxMmNwUXhFZHA2ZUFaTFhlMlJKaDYySTJJSXRMZkQ5azF5NWFBWE5FZEpmMlJKT1V2SzdTT2EzdWkxSVIwMWFKS2Z3?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oQWNCdVpsVzRxMmNwUXhFZHA2ZUFaTFhlMlJKaDYySTJJSXRMZkQ5azF5NWFBWE5FZEpmMlJKT1V2SzdTT2EzdWkxSVIwMWFKS2Z3?oc=5</guid>
-<pubDate>Mon, 22 Jun 2026 02:20:22 GMT</pubDate>
-<description>Stanford Report: Surge in China's Independently Trained Top AI Talents &amp;nbsp;&amp;nbsp; 36 Kr</description>
+<title>[News] Codex-maxxing for long-running work</title>
+<link>https://openai.com/index/codex-maxxing-long-running-work</link>
+<guid isPermaLink="false">https://openai.com/index/codex-maxxing-long-running-work</guid>
+<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+<description>Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.</description>
 </item>
 <item>
 <title>[News] Samsung Electronics brings ChatGPT and Codex to employees</title>
@@ -103,13 +264,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=2qRSDUuZ2xY</guid>
 <pubDate>Sun, 21 Jun 2026 16:43:39 GMT</pubDate>
 <description>Deep Research is now a native skill inside Perplexity Computer. It connects to the agent harness that powers Computer, with access to search as code generation, long running sandboxes, connectors, tools, and licensed data. Available now to Pro and Max subscribers. Learn more about Deep Research in C</description>
-</item>
-<item>
-<title>[Google News] US Holds Off DeepSeek Blacklist As China AI Tensions Rise In 2026 - Memeburn</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGNvaVlkQ0ZkdExzcHJIWU5VcHlNckxpVEZCNHMxWFVBTV80ZUtkSnp5V1hJa3VjT1ZqUXJPX2J1cmVfcUNrU19TbmVUSVEtcVIwWm5zdlBjXy13RU9lNE94QUVmU0xQT0dmVDY4cDhSbGpZc2hXTHk2N0RZaHRVb1YtU1lmZjhIcjlYSTROSG0?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGNvaVlkQ0ZkdExzcHJIWU5VcHlNckxpVEZCNHMxWFVBTV80ZUtkSnp5V1hJa3VjT1ZqUXJPX2J1cmVfcUNrU19TbmVUSVEtcVIwWm5zdlBjXy13RU9lNE94QUVmU0xQT0dmVDY4cDhSbGpZc2hXTHk2N0RZaHRVb1YtU1lmZjhIcjlYSTROSG0?oc=5</guid>
-<pubDate>Sun, 21 Jun 2026 05:41:57 GMT</pubDate>
-<description>US Holds Off DeepSeek Blacklist As China AI Tensions Rise In 2026 &amp;nbsp;&amp;nbsp; Memeburn</description>
 </item>
 <item>
 <title>[YouTube] What Codex Unlocks for NTT Data</title>
@@ -147,13 +301,6 @@
 <description>00:00 Welcome and Introductions 01:00 Why Robotics Needs AI 02:44 Limits of Today’s VLA Models 03:37 Openness Zero Shot Reasoning 06:24 MoMoAct2 Overview and Embodiments 08:07 Open Datasets and Reannotation 10:51 Three Stage Training Pipeline 12:16 VLM Initiation with ER Data 15:04 VLA Pretraining a</description>
 </item>
 <item>
-<title>[Google News] DeepSeek reportedly won't be banned in U.S. (for now) - Mashable</title>
-<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XcG8xdWpzNkVnNGNHbzcwdTFRZTU3Z2U5X1VUanlNUDRnM1libkx6Mk9TVlFkSXlWTlR6RnUxdm9KdVJvQ0Jwb0NIOWpkeTE5U2VwOXNacktCZTZ6MmpjNlpSelV3Q0U?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XcG8xdWpzNkVnNGNHbzcwdTFRZTU3Z2U5X1VUanlNUDRnM1libkx6Mk9TVlFkSXlWTlR6RnUxdm9KdVJvQ0Jwb0NIOWpkeTE5U2VwOXNacktCZTZ6MmpjNlpSelV3Q0U?oc=5</guid>
-<pubDate>Fri, 19 Jun 2026 02:26:15 GMT</pubDate>
-<description>DeepSeek reportedly won't be banned in U.S. (for now) &amp;nbsp;&amp;nbsp; Mashable</description>
-</item>
-<item>
 <title>[YouTube] Debjyoti Paul - Softmax, Backprop, and the Autograd The Hidden Machinery Behind Deep Learning</title>
 <link>https://www.youtube.com/watch?v=7VJ_qTdhBes</link>
 <guid isPermaLink="false">https://www.youtube.com/watch?v=7VJ_qTdhBes</guid>
@@ -180,6 +327,13 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=ZK3JhU73W18</guid>
 <pubDate>Thu, 18 Jun 2026 18:57:34 GMT</pubDate>
 <description>Show Codex a workflow once. Reuse it as a skill. Record &amp; Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request. Codex turns that demo into an inspectable, editable skill. You control when recording starts and stops.</description>
+</item>
+<item>
+<title>[Google News] Microsoft Eyes DeepSeek V4 for Copilot Cowork: What Azure Hosting Cannot Fix - Tech Times</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPclZRWWMybE9sSVFCcjhIVmtWc2VZOUd3bTJrdmhxSk9vMjkyY2pURWk3cUpMZ2xQX29YS1QybFB0cE9qb09vNjIxbnBSMkJHd01WdGdUQ28tM1Z1SWpmS3RpYWFCS1JJTlhiZ08wZ3V4dER4RWpuRWo0UmJTQmIxTEd6ZE1XUlFBTFdFMGlvWTBfUVY3X3p0bHM1Z0VkdVZiMXI0VGJGZk9HQ2tlcTRZN0F0bWk3VFA2YmJxNFA2WnprdUpu?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxPclZRWWMybE9sSVFCcjhIVmtWc2VZOUd3bTJrdmhxSk9vMjkyY2pURWk3cUpMZ2xQX29YS1QybFB0cE9qb09vNjIxbnBSMkJHd01WdGdUQ28tM1Z1SWpmS3RpYWFCS1JJTlhiZ08wZ3V4dER4RWpuRWo0UmJTQmIxTEd6ZE1XUlFBTFdFMGlvWTBfUVY3X3p0bHM1Z0VkdVZiMXI0VGJGZk9HQ2tlcTRZN0F0bWk3VFA2YmJxNFA2WnprdUpu?oc=5</guid>
+<pubDate>Thu, 18 Jun 2026 18:55:25 GMT</pubDate>
+<description>Microsoft Eyes DeepSeek V4 for Copilot Cowork: What Azure Hosting Cannot Fix &amp;nbsp;&amp;nbsp; Tech Times</description>
 </item>
 <item>
 <title>[Blog] MosaicLeaks: Can your research agent keep a secret?</title>
@@ -271,160 +425,6 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFAzVVBhQnJ0RW5QNTRSYkhjR0NWODEwdnhEcHNOOFl3bHBrQUFWU1Y0LW5TYU9lWUhBeDhjUjhhOTRZNzlrS2JfTDFaMVBIb3pFcFI0c0pwZmtDUE5wVUhBV2piN21XV2NSeDJyOFB2emNqTG1nNWllbFhXS0k5QQ?oc=5</guid>
 <pubDate>Thu, 18 Jun 2026 05:02:54 GMT</pubDate>
 <description>AI: China's DeepSeek raises $7.4 Billion at $50 Billion. AI-RTZ #1121 &amp;nbsp;&amp;nbsp; AI: Reset to Zero</description>
-</item>
-<item>
-<title>[Research] Project Fetch: Phase two</title>
-<link>https://www.anthropic.com/research/project-fetch-phase-two</link>
-<guid isPermaLink="false">https://www.anthropic.com/research/project-fetch-phase-two</guid>
-<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-<description>We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year</description>
-</item>
-<item>
-<title>[Blog] Beyond LoRA: Can you beat the most popular fine-tuning technique?</title>
-<link>https://huggingface.co/blog/peft-beyond-lora</link>
-<guid isPermaLink="false">https://huggingface.co/blog/peft-beyond-lora</guid>
-<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Blog] Is it agentic enough? Benchmarking open models on your own tooling</title>
-<link>https://huggingface.co/blog/is-it-agentic-enough</link>
-<guid isPermaLink="false">https://huggingface.co/blog/is-it-agentic-enough</guid>
-<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] Build and test iOS apps without leaving Codex!</title>
-<link>https://www.youtube.com/shorts/rOLKQJMLBHI</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/rOLKQJMLBHI</guid>
-<pubDate>Wed, 17 Jun 2026 18:01:46 GMT</pubDate>
-<description>The Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload edits without leaving Codex.</description>
-</item>
-<item>
-<title>[Newsroom] Threads Returns to Türkiye With New Features</title>
-<link>https://about.fb.com/news/2026/06/threads-returns-to-turkiye-with-new-features/</link>
-<guid isPermaLink="false">https://about.fb.com/news/2026/06/threads-returns-to-turkiye-with-new-features/</guid>
-<pubDate>Wed, 17 Jun 2026 17:40:55 +0000</pubDate>
-<description>This is because of a recent decision taken by the Turkish Competition Authority The post Threads Returns to Türkiye With New Features appeared first on Meta Newsroom .</description>
-</item>
-<item>
-<title>[Google News] US holds off on adding DeepSeek to blacklist - Taipei Times</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9ucVVPbWd5SnNaX1VacTlSanpxM2xrMjdzcFp5SkJEc0hIYWJZQ2lGMnd3cmRhQnBqMW1kWXRLcEE1UC03dk1VZGdtUlJ5eS11VVpEYmdKZXBYYklyRnQ1R0pGYUpqNzE2R0JBMmU1ZG56MlJiNWc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE9ucVVPbWd5SnNaX1VacTlSanpxM2xrMjdzcFp5SkJEc0hIYWJZQ2lGMnd3cmRhQnBqMW1kWXRLcEE1UC03dk1VZGdtUlJ5eS11VVpEYmdKZXBYYklyRnQ1R0pGYUpqNzE2R0JBMmU1ZG56MlJiNWc?oc=5</guid>
-<pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
-<description>US holds off on adding DeepSeek to blacklist &amp;nbsp;&amp;nbsp; Taipei Times</description>
-</item>
-<item>
-<title>[Blog] MolmoMotion: Language-guided 3D motion forecasting</title>
-<link>https://huggingface.co/blog/allenai/molmomotion</link>
-<guid isPermaLink="false">https://huggingface.co/blog/allenai/molmomotion</guid>
-<pubDate>Wed, 17 Jun 2026 15:26:44 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google AI] New research shows how AMIE, our medical AI, could help manage health conditions.</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/</guid>
-<pubDate>Wed, 17 Jun 2026 15:00:00 +0000</pubDate>
-<description>Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.</description>
-</item>
-<item>
-<title>[Google News] DeepSeek Just Raised $7.4 Billion. Here’s The Catch. - Forbes</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWszMzBpakQ5X2prb3dhSjhId0N1M0xqUmhPVVpuMUFBOEZFT3A2MU1McTJqMkVSOVRpYW82dkd2QmpzQi1ZTlA0ZmVjUjd5U1FUTzFPbGxPd3AwQ1JTOTJGY2oxa3JJck5CVk01S2hDeDRTQlQxSU02ZmxGV1RDWWdJMlA0ZHNfVnNEaDFJMlJoZ0NvSDVfMEE3cFBJNjdubWc0?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWszMzBpakQ5X2prb3dhSjhId0N1M0xqUmhPVVpuMUFBOEZFT3A2MU1McTJqMkVSOVRpYW82dkd2QmpzQi1ZTlA0ZmVjUjd5U1FUTzFPbGxPd3AwQ1JTOTJGY2oxa3JJck5CVk01S2hDeDRTQlQxSU02ZmxGV1RDWWdJMlA0ZHNfVnNEaDFJMlJoZ0NvSDVfMEE3cFBJNjdubWc0?oc=5</guid>
-<pubDate>Wed, 17 Jun 2026 11:55:13 GMT</pubDate>
-<description>DeepSeek Just Raised $7.4 Billion. Here’s The Catch. &amp;nbsp;&amp;nbsp; Forbes</description>
-</item>
-<item>
-<title>[Google News] When Americans choose Chinese AI - Rest of World</title>
-<link>https://news.google.com/rss/articles/CBMib0FVX3lxTE84ek1BLUVCaTRER2RES0h4dzhDbEg5QW5ScWp5Qkt1bmlySE1zQTF4YXdQaWRGRGo3MXozMm1RU0RPZHktWHlxSzk2SEZyTmZYaF9HRU8xcWhHcXZ2anNDcFUwYmFPNXFXYWVwVGpXbw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMib0FVX3lxTE84ek1BLUVCaTRER2RES0h4dzhDbEg5QW5ScWp5Qkt1bmlySE1zQTF4YXdQaWRGRGo3MXozMm1RU0RPZHktWHlxSzk2SEZyTmZYaF9HRU8xcWhHcXZ2anNDcFUwYmFPNXFXYWVwVGpXbw?oc=5</guid>
-<pubDate>Wed, 17 Jun 2026 10:51:22 GMT</pubDate>
-<description>When Americans choose Chinese AI &amp;nbsp;&amp;nbsp; Rest of World</description>
-</item>
-<item>
-<title>[Blog] From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot</title>
-<link>https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</link>
-<guid isPermaLink="false">https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</guid>
-<pubDate>Wed, 17 Jun 2026 10:18:05 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek reaches a valuation of over 50 billion dollars - Techzine Global</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUkyTWxTZzhlWWtyejRPWEozVGoyTW4yaFR1ekhHbGJST2FIcTdyT2V1eEY4dzlRRmtnOVdGeFZua0J1M19wRXhWWXpNdkRkZTBCRFVPbk1lY1NadnYxRE02b2FZSmRLc2F5Z1AybnpaekV4WktQM3NXTlFjN2Jldl9ybExadTZWeUtyNW8wa01jcElxa3hsMFVTOHJtaWsyOXdoMzgyY1M?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUkyTWxTZzhlWWtyejRPWEozVGoyTW4yaFR1ekhHbGJST2FIcTdyT2V1eEY4dzlRRmtnOVdGeFZua0J1M19wRXhWWXpNdkRkZTBCRFVPbk1lY1NadnYxRE02b2FZSmRLc2F5Z1AybnpaekV4WktQM3NXTlFjN2Jldl9ybExadTZWeUtyNW8wa01jcElxa3hsMFVTOHJtaWsyOXdoMzgyY1M?oc=5</guid>
-<pubDate>Wed, 17 Jun 2026 10:08:26 GMT</pubDate>
-<description>DeepSeek reaches a valuation of over 50 billion dollars &amp;nbsp;&amp;nbsp; Techzine Global</description>
-</item>
-<item>
-<title>[News] A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry</title>
-<link>https://openai.com/index/ai-chemist-improves-reaction</link>
-<guid isPermaLink="false">https://openai.com/index/ai-chemist-improves-reaction</guid>
-<pubDate>Wed, 17 Jun 2026 10:00:00 GMT</pubDate>
-<description>OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.</description>
-</item>
-<item>
-<title>[Google News] US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1ZFS3dvdUZNbkFCNUxiU1dWc0RxNzk5bWlqVl8xQTlDTFh0c2llcU1CZHRvRHRhZllDbDhhT3Y4T21DdjNjUkFydHE5X2FwcFB1ZkQ0QjdHTWRscHM2MWNITUJsS2NiVms0RmdWbHA5SHpucXAxejJOWFd0UjNuMVhKa0Rqc290QnhZWEhEYzBJeUpERWdhVmFPQ196cjQtel83cTdFVlRhd1V6TXc4X1pkUS1KbWhJeGNhcWY3emkzMTQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1ZFS3dvdUZNbkFCNUxiU1dWc0RxNzk5bWlqVl8xQTlDTFh0c2llcU1CZHRvRHRhZllDbDhhT3Y4T21DdjNjUkFydHE5X2FwcFB1ZkQ0QjdHTWRscHM2MWNITUJsS2NiVms0RmdWbHA5SHpucXAxejJOWFd0UjNuMVhKa0Rqc290QnhZWEhEYzBJeUpERWdhVmFPQ196cjQtel83cTdFVlRhd1V6TXc4X1pkUS1KbWhJeGNhcWY3emkzMTQ?oc=5</guid>
-<pubDate>Wed, 17 Jun 2026 09:05:18 GMT</pubDate>
-<description>US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say &amp;nbsp;&amp;nbsp; Reuters</description>
-</item>
-<item>
-<title>[Blog] GLM-5.2: Built for Long-Horizon Tasks</title>
-<link>https://huggingface.co/blog/zai-org/glm-52-blog</link>
-<guid isPermaLink="false">https://huggingface.co/blog/zai-org/glm-52-blog</guid>
-<pubDate>Wed, 17 Jun 2026 09:01:25 GMT</pubDate>
-<description>A Blog post by Z.ai on Hugging Face</description>
-</item>
-<item>
-<title>[Google News] Microsoft Mulls Using DeepSeek for Copilot Cowork - The Information</title>
-<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxONTc2WlJZZ29HMmdoZDU0Q19GU3pjSEhheld0SmhOa2xleXFrUGkxcVlQTkI3NzRZNHBPek1Xc2l6ak5VOVcybVF2bG04R01Bc25CQ2MzT1kzT0dNcGwtbDhxa2N0Zm4wUTAtdTRYNXRTMHNhcGJVdnY4Q0RNNDRWMGRER1pfWEtVbEVxcWNlQQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxONTc2WlJZZ29HMmdoZDU0Q19GU3pjSEhheld0SmhOa2xleXFrUGkxcVlQTkI3NzRZNHBPek1Xc2l6ak5VOVcybVF2bG04R01Bc25CQ2MzT1kzT0dNcGwtbDhxa2N0Zm4wUTAtdTRYNXRTMHNhcGJVdnY4Q0RNNDRWMGRER1pfWEtVbEVxcWNlQQ?oc=5</guid>
-<pubDate>Wed, 17 Jun 2026 08:49:00 GMT</pubDate>
-<description>Microsoft Mulls Using DeepSeek for Copilot Cowork &amp;nbsp;&amp;nbsp; The Information</description>
-</item>
-<item>
-<title>[Google News] DeepSeek valued at more than $50 bn after funding round: reports - Tech Xplore</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5ldW9JZW43OGV4RzIzd1Z5R2lDd0ttLXk0MC1aTVFBbTgxa09Pa0UwNmFPaHVhTTdkRmo2bGt6U0x2SDA0alkyUVZJcWNKUWJRa19hVXZzNnZ2UkFyeTdUSHhHRGc1WTRndEJsV0lQa1JDdEowd0E?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE5ldW9JZW43OGV4RzIzd1Z5R2lDd0ttLXk0MC1aTVFBbTgxa09Pa0UwNmFPaHVhTTdkRmo2bGt6U0x2SDA0alkyUVZJcWNKUWJRa19hVXZzNnZ2UkFyeTdUSHhHRGc1WTRndEJsV0lQa1JDdEowd0E?oc=5</guid>
-<pubDate>Wed, 17 Jun 2026 08:06:57 GMT</pubDate>
-<description>DeepSeek valued at more than $50 bn after funding round: reports &amp;nbsp;&amp;nbsp; Tech Xplore</description>
-</item>
-<item>
-<title>[Cloud AI] How growing UK midsize businesses are building in the AI era</title>
-<link>https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/</guid>
-<pubDate>Wed, 17 Jun 2026 08:00:00 +0000</pubDate>
-<description>The UK’s 5-million-plus small and midsize businesses and enterprises (SMBs) are the backbone of our economy. Today, we’re seeing these critical businesses begin to put AI to work, to operate more efficiently, move faster, and ultimately deliver better outcomes for their customers. This shift is driv</description>
-</item>
-<item>
-<title>[Cloud AI] From AI potential to agentic reality: Driving the UK’s next chapter</title>
-<link>https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/</guid>
-<pubDate>Wed, 17 Jun 2026 08:00:00 +0000</pubDate>
-<description>The United Kingdom, and London in particular, continues to be one of the great hubs for AI development in Europe and the world. We’re home to Google DeepMind, of course, as well as significant AI unicorns — and Google Cloud customers — like Ineffable Intelligence , which is today announcing an impor</description>
-</item>
-<item>
-<title>[YouTube] Hermes Architecture EXPLAINED: Memory, Context &amp; Gateways</title>
-<link>https://www.youtube.com/watch?v=n32qq7Kwzh0</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=n32qq7Kwzh0</guid>
-<pubDate>Wed, 17 Jun 2026 06:05:39 GMT</pubDate>
-<description>Hermes is an always-on AI agent with a simple but useful architecture: an agent loop, memory, context construction, gateway integrations, and scheduled cron jobs. In this video, I walk through how Hermes builds context, talks to external services like Telegram and Slack, compresses long conversation</description>
-</item>
-<item>
-<title>[Google News] Update: DeepSeek AI and the Great Talent Competition - Hoover Institution</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQmZ1SFhrclk4WG9SWGNkZzlCQmsyd3ZHb2o1b2ZjbkRiYXhleUNQM2NqSTFlUDI1dzF4QkdBZWlVTlAyU0VYUFFLQXpXNVQzVVhBM09reWxwXzRKNFI4RHdkR2hZenh0SlNBWWhCS2lzT3hKdFFkYWY4cVlkcjIycVozWW5EdlhWd2Uw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQmZ1SFhrclk4WG9SWGNkZzlCQmsyd3ZHb2o1b2ZjbkRiYXhleUNQM2NqSTFlUDI1dzF4QkdBZWlVTlAyU0VYUFFLQXpXNVQzVVhBM09reWxwXzRKNFI4RHdkR2hZenh0SlNBWWhCS2lzT3hKdFFkYWY4cVlkcjIycVozWW5EdlhWd2Uw?oc=5</guid>
-<pubDate>Wed, 17 Jun 2026 04:36:46 GMT</pubDate>
-<description>Update: DeepSeek AI and the Great Talent Competition &amp;nbsp;&amp;nbsp; Hoover Institution</description>
-</item>
-<item>
-<title>[Google News] China’s DeepSeek reportedly raises $7.4B in funding at $50B+ valuation - SiliconANGLE</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxPYnZTWGFYUFpGQ2ZCbkRwbDVqdjY2b3BYNjBFMnZZdEVwV0tmeDBtRkVMZlBHTVZwSHlTeEI3RFZILVY5WERiQU90ZEItMmRuXzgyc1JybkNHTG9xOFNNRkdjSHJaS1V1ZUN1NjZKLWo1VHdEQ1BDNXhPcjhQaFFuWVNOZXJ1YXloOHprS1JTQWwwRW5fWkd5NFpjbjdRUQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxPYnZTWGFYUFpGQ2ZCbkRwbDVqdjY2b3BYNjBFMnZZdEVwV0tmeDBtRkVMZlBHTVZwSHlTeEI3RFZILVY5WERiQU90ZEItMmRuXzgyc1JybkNHTG9xOFNNRkdjSHJaS1V1ZUN1NjZKLWo1VHdEQ1BDNXhPcjhQaFFuWVNOZXJ1YXloOHprS1JTQWwwRW5fWkd5NFpjbjdRUQ?oc=5</guid>
-<pubDate>Wed, 17 Jun 2026 01:11:50 GMT</pubDate>
-<description>China’s DeepSeek reportedly raises $7.4B in funding at $50B+ valuation &amp;nbsp;&amp;nbsp; SiliconANGLE</description>
 </item>
 </channel>
 </rss>
