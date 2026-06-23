@@ -5,7 +5,91 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 23 Jun 2026 12:48:37 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 16:42:55 GMT</lastBuildDate>
+<item>
+<title>[Developer] Maximize AI Factory Energy Efficiency Through Full-Stack Inference and Training Optimizations</title>
+<link>https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations/</guid>
+<pubDate>Tue, 23 Jun 2026 16:30:00 GMT</pubDate>
+<description>Power can account for 40% of the operating expenses (OpEx) to run an AI factory. Each watt can be spent on overhead, data ingestion, training, or generating...</description>
+</item>
+<item>
+<title>[Cloud AI] Verifiable, private AI: Google Cloud expands Confidential Computing frontiers</title>
+<link>https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing/</guid>
+<pubDate>Tue, 23 Jun 2026 16:00:00 +0000</pubDate>
+<description>Protecting sensitive data used with AI is a critical part of our commitment to providing advanced and secure cloud infrastructure. Confidential Computing cryptographically protects data in use in hardware-based Trusted Execution Environments (TEEs) with verifiable data integrity. We are thrilled to </description>
+</item>
+<item>
+<title>[DeepMind video] When millions of AI agents meet</title>
+<link>https://www.youtube.com/watch?v=V04bm-3d6EQ</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=V04bm-3d6EQ</guid>
+<pubDate>Tue, 23 Jun 2026 15:48:06 GMT</pubDate>
+<description>The conversation of the moment is focused on one topic: AI agents. Unlike traditional language models that simply respond to a prompt, autonomous agents can execute multi-step plans and perform complex tasks on your behalf. But what happens when millions of these agents are not just working for us, </description>
+</item>
+<item>
+<title>[Google News] Chinese Open-Source AI Gains Traction as Microsoft Considers DeepSeek Adoption - 조선일보</title>
+<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMl9GTG44WUM4SVRoQjRqQVo3X3hLQ05TLVhFWmN1RllsS2xVLXlyN3ZXdU9pQ1pvUl95eDB2UkdyZWZobk5pQUV4bTFtbXJrTjZwWG0tZzJEM2g0Y2tkWmRtbWNCNFRpYVY0eWs1akp3X2VBRHNuNVJVdlFlLUJkb1VoWTJkc3Ez?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMl9GTG44WUM4SVRoQjRqQVo3X3hLQ05TLVhFWmN1RllsS2xVLXlyN3ZXdU9pQ1pvUl95eDB2UkdyZWZobk5pQUV4bTFtbXJrTjZwWG0tZzJEM2g0Y2tkWmRtbWNCNFRpYVY0eWs1akp3X2VBRHNuNVJVdlFlLUJkb1VoWTJkc3Ez?oc=5</guid>
+<pubDate>Tue, 23 Jun 2026 15:34:24 GMT</pubDate>
+<description>Chinese Open-Source AI Gains Traction as Microsoft Considers DeepSeek Adoption &amp;nbsp;&amp;nbsp; 조선일보</description>
+</item>
+<item>
+<title>[Developer] Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding</title>
+<link>https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/</guid>
+<pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
+<description>As AI systems move from single-turn interactions to coordinated multiagent workflows, low-latency inference becomes increasingly important. Autoregressive LLMs...</description>
+</item>
+<item>
+<title>[YouTube] Introducing Mistral OCR 4</title>
+<link>https://www.youtube.com/watch?v=bEt4wczgGR8</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=bEt4wczgGR8</guid>
+<pubDate>Tue, 23 Jun 2026 13:59:37 GMT</pubDate>
+<description>Description: Mistral OCR 4 is a small, focused model built to extract text from documents with precision, adding bounding boxes, block classification, and inline confidence scores to every output. It supports 170 languages across 10 language groups and runs in a single container for organizations th</description>
+</item>
+<item>
+<title>[Developer] Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit</title>
+<link>https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/</guid>
+<pubDate>Tue, 23 Jun 2026 13:30:00 GMT</pubDate>
+<description>AI scientists are emerging as a new interface for scientific computing. These agents can read papers, write code, generate hypotheses, call APIs, inspect files,...</description>
+</item>
+<item>
+<title>[Newsroom (AI)] We’re Partnering With EssilorLuxottica to Launch Meta Glasses</title>
+<link>https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/</link>
+<guid isPermaLink="false">https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/</guid>
+<pubDate>Tue, 23 Jun 2026 13:00:32 +0000</pubDate>
+<description>We're launching Meta Glasses with 26 styles across a range of colors, lenses, and frames, so there's a pair for just about any style. The post We’re Partnering With EssilorLuxottica to Launch Meta Glasses appeared first on Meta Newsroom .</description>
+</item>
+<item>
+<title>[Blog] How Businesses Are Building Specialized AI They Can Trust</title>
+<link>https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/</guid>
+<pubDate>Tue, 23 Jun 2026 13:00:07 +0000</pubDate>
+<description>Companies are asking how to build specialized AI that fits with the way their workflows actually run. The first wave of enterprise AI was about access. Companies experimented with new frontier and open models, ran pilots and explored how AI can help. Now, specialized agents — systems of models that </description>
+</item>
+<item>
+<title>[Newsroom] NVIDIA Announces BioNeMo Agent Toolkit — Tools for Agents to Accelerate Scientific Discovery</title>
+<link>https://nvidianews.nvidia.com/news/nvidia-launches-bionemo-agent-toolkit-giving-ai-agents-the-tools-to-accelerate-scientific-discovery</link>
+<guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-launches-bionemo-agent-toolkit-giving-ai-agents-the-tools-to-accelerate-scientific-discovery</guid>
+<pubDate>Tue, 23 Jun 2026 13:00:00 GMT</pubDate>
+<description>NVIDIA today announced NVIDIA BioNeMo Agent Toolkit, which provides domain-specific tools and skills for the agentic life sciences era.</description>
+</item>
+<item>
+<title>[Blog] Build real agentic apps using CUGA: two dozen working examples on a lightweight harness</title>
+<link>https://huggingface.co/blog/ibm-research/cuga-apps</link>
+<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/cuga-apps</guid>
+<pubDate>Tue, 23 Jun 2026 12:51:55 GMT</pubDate>
+
+</item>
+<item>
+<title>[News] Introducing Mistral OCR 4</title>
+<link>https://mistral.ai/news/ocr-4/</link>
+<guid isPermaLink="false">https://mistral.ai/news/ocr-4/</guid>
+<pubDate>Tue, 23 Jun 2026 12:00:48 GMT</pubDate>
+<description>Mistral OCR 4 delivers enterprise document AI with 170-language support, bounding boxes, and self-hosted deployment.</description>
+</item>
 <item>
 <title>[Google News] DeepSeek’s Harness team races to join the global AI agent race - South China Morning Post</title>
 <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWGJyVXhJWlIxQUkyc2FuVXhrSkN3eDRadzdXT0Zra2ZmRllvUGtmeDhxS2VrWUtqT3duZnRQU05ZTmpMc2V2emgwQnFVZjU3QWtVUGtUUzBPRUJFeVExQ1c2Ni1JTjVRaWFwVnFBTFIzX0ZUcWVGZ0ZHeGZmcVhoU0lwTGpKUWRuYkx6ZzJPSTV3cnc5eHJKV0tRUU9EaGVXd3NaUzZkU3dKMGRVYm1CMXBKbTg5VUQ5T0FIeXVVeGhiRmpkVzNSbzdBVW11QWdxY0pPVtIBugFBVV95cUxPdkVhTHlPWU5UVjlEUEw4OFV2aFJmeDU5NmV5Y2dCRU9OVHVKSENaRnFaZ1ZXeU5WQW9lTE0xbGx5TmVTMkxfX0dvY2R4LTRva1pOTDNleTREempYZDdCRlN5dmhZeC0tdWlRM1M4WmxEMWVGakJFWlhEMXpGYWZoNGxtQWo0MXFlWmxkNlJYdF9TU3NTdENJdGI0b2dVcFJGVG1VZEY5ekpMT0tYLUZhLWxpdE1ZalI5UWc?oc=5</link>
@@ -70,11 +154,11 @@
 <description>Microsoft Considers DeepSeek AI for Copilot Workspace &amp;nbsp;&amp;nbsp; 조선일보</description>
 </item>
 <item>
-<title>[Google News] Microsoft, the "Scalper" of Large Models: Introducing GPT to the East and Marketing DeepSeek to the West - 36 Kr</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE82SmIyd041YzNRTHVqMzdTb204MDJaV1gxaHpGYzZyVXBJNlRqZ3Nkc2tXMU5wYzRxSmthSUZrUG8zTVBrTGl1S1VoclVBZmhUc3pJ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE82SmIyd041YzNRTHVqMzdTb204MDJaV1gxaHpGYzZyVXBJNlRqZ3Nkc2tXMU5wYzRxSmthSUZrUG8zTVBrTGl1S1VoclVBZmhUc3pJ?oc=5</guid>
-<pubDate>Tue, 23 Jun 2026 02:02:05 GMT</pubDate>
-<description>Microsoft, the "Scalper" of Large Models: Introducing GPT to the East and Marketing DeepSeek to the West &amp;nbsp;&amp;nbsp; 36 Kr</description>
+<title>[Google News] Axios C-Suite: Open-source AI pits cost against security - Axios</title>
+<link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2daQzVXNzVPRVpDRnM1dWl6b05Qb1p2UndsRzU3a2Rvc21KQXdFaFpIc3NsTmxFdUpCUk5iaGNOM2lSXzgwMEhDZmtNWF8wY0dscWVRcm1tWVJnc2N4YmloYnQzdXkzWkQ1bGIzQlMyQ19vWG4xUFl1NGxiRk1vWjFB?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2daQzVXNzVPRVpDRnM1dWl6b05Qb1p2UndsRzU3a2Rvc21KQXdFaFpIc3NsTmxFdUpCUk5iaGNOM2lSXzgwMEhDZmtNWF8wY0dscWVRcm1tWVJnc2N4YmloYnQzdXkzWkQ1bGIzQlMyQ19vWG4xUFl1NGxiRk1vWjFB?oc=5</guid>
+<pubDate>Tue, 23 Jun 2026 01:35:47 GMT</pubDate>
+<description>Axios C-Suite: Open-source AI pits cost against security &amp;nbsp;&amp;nbsp; Axios</description>
 </item>
 <item>
 <title>[News] How Omio is building the future of conversational travel</title>
@@ -91,11 +175,11 @@
 
 </item>
 <item>
-<title>[Google News] With Zhipu Reaching a Trillion - Yuan Valuation, Is DeepSeek Far Behind? - 36 Kr</title>
+<title>[Google News] With Zhipu Reaching a Trillion - Yuan Valuation, Is DeepSeek Far Behind? - 36Kr</title>
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GQlV6QzNhSnI1bFVuX2pxWFZJRjVpZWE4OFAwUEZzY2ZGWnV4Rno5a25rQkNXbmFPejBncEkydnJtbkhKWDg0RXRVRTN6aDhfQ1dv?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GQlV6QzNhSnI1bFVuX2pxWFZJRjVpZWE4OFAwUEZzY2ZGWnV4Rno5a25rQkNXbmFPejBncEkydnJtbkhKWDg0RXRVRTN6aDhfQ1dv?oc=5</guid>
 <pubDate>Mon, 22 Jun 2026 23:22:36 GMT</pubDate>
-<description>With Zhipu Reaching a Trillion - Yuan Valuation, Is DeepSeek Far Behind? &amp;nbsp;&amp;nbsp; 36 Kr</description>
+<description>With Zhipu Reaching a Trillion - Yuan Valuation, Is DeepSeek Far Behind? &amp;nbsp;&amp;nbsp; 36Kr</description>
 </item>
 <item>
 <title>[YouTube] Meet the ChatGPT Futures, Class of 2026</title>
@@ -117,6 +201,13 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=rNgUoH7Wbv8</guid>
 <pubDate>Mon, 22 Jun 2026 19:13:46 GMT</pubDate>
 <description>Training Agents, Session 1: from raw agent traces to a supervised fine-tuning baseline. In this live session, I’ll set up the first rung of an agentic post-training workflow: SFT. We’ll take public coding-agent traces, turn them into prompt/completion training data, run a small TRL + LoRA fine-tune,</description>
+</item>
+<item>
+<title>[Google News] Cheap Chinese AI models are quickly gaining customers across the US market: ‘This changes things’ - New York Post</title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFVuN2xOSkpPb0x1c1FKNWZDNWdYNUkyZEdoMEFON3czVzVaRFU5NmlhX3BLSm5EVC13RGlGQ2hscDVNUUtKX0FVejZBUEE4bS16ZHN5Si1MbGE2LXR3eGthTVdUYUJTVVBFb1FHUTBTazl0OThNUk50NGVrQnFTYkw1S01jYW1fSDF3bDZYblgxTTQzYWdXSlRMTzA1bmxJNDlRd2phRDhlOENsclVBc3ZxeC0?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFVuN2xOSkpPb0x1c1FKNWZDNWdYNUkyZEdoMEFON3czVzVaRFU5NmlhX3BLSm5EVC13RGlGQ2hscDVNUUtKX0FVejZBUEE4bS16ZHN5Si1MbGE2LXR3eGthTVdUYUJTVVBFb1FHUTBTazl0OThNUk50NGVrQnFTYkw1S01jYW1fSDF3bDZYblgxTTQzYWdXSlRMTzA1bmxJNDlRd2phRDhlOENsclVBc3ZxeC0?oc=5</guid>
+<pubDate>Mon, 22 Jun 2026 19:01:00 GMT</pubDate>
+<description>Cheap Chinese AI models are quickly gaining customers across the US market: ‘This changes things’ &amp;nbsp;&amp;nbsp; New York Post</description>
 </item>
 <item>
 <title>[Google News] DeepSeek 2.0? New Chinese AI model GLM-5.2 generates buzz in Silicon Valley - The American Bazaar</title>
@@ -203,18 +294,18 @@
 <description>One year ago thousands of people worked for 48h to build something cool with LeRobot library: https://huggingface.co/lerobot LeRobot Worldwide Hackathon was a global AI robotics challenge that took place June 14-15, 2025. Discover how one weekend of open-source building launched careers, inspired ne</description>
 </item>
 <item>
-<title>[Blog] NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory</title>
-<link>https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</guid>
-<pubDate>Mon, 22 Jun 2026 13:00:20 +0000</pubDate>
-<description>Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with</description>
-</item>
-<item>
 <title>[Blog] From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries</title>
 <link>https://blogs.nvidia.com/blog/ai-for-science-software-cuda/</link>
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-for-science-software-cuda/</guid>
 <pubDate>Mon, 22 Jun 2026 13:00:20 +0000</pubDate>
 <description>At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,</description>
+</item>
+<item>
+<title>[Blog] NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory</title>
+<link>https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</guid>
+<pubDate>Mon, 22 Jun 2026 13:00:20 +0000</pubDate>
+<description>Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with</description>
 </item>
 <item>
 <title>[Blog] Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins</title>
@@ -334,97 +425,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=2qRSDUuZ2xY</guid>
 <pubDate>Sun, 21 Jun 2026 16:43:39 GMT</pubDate>
 <description>Deep Research is now a native skill inside Perplexity Computer. It connects to the agent harness that powers Computer, with access to search as code generation, long running sandboxes, connectors, tools, and licensed data. Available now to Pro and Max subscribers. Learn more about Deep Research in C</description>
-</item>
-<item>
-<title>[Google News] US Holds Off DeepSeek Blacklist As China AI Tensions Rise In 2026 - Memeburn</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGNvaVlkQ0ZkdExzcHJIWU5VcHlNckxpVEZCNHMxWFVBTV80ZUtkSnp5V1hJa3VjT1ZqUXJPX2J1cmVfcUNrU19TbmVUSVEtcVIwWm5zdlBjXy13RU9lNE94QUVmU0xQT0dmVDY4cDhSbGpZc2hXTHk2N0RZaHRVb1YtU1lmZjhIcjlYSTROSG0?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGNvaVlkQ0ZkdExzcHJIWU5VcHlNckxpVEZCNHMxWFVBTV80ZUtkSnp5V1hJa3VjT1ZqUXJPX2J1cmVfcUNrU19TbmVUSVEtcVIwWm5zdlBjXy13RU9lNE94QUVmU0xQT0dmVDY4cDhSbGpZc2hXTHk2N0RZaHRVb1YtU1lmZjhIcjlYSTROSG0?oc=5</guid>
-<pubDate>Sun, 21 Jun 2026 05:41:57 GMT</pubDate>
-<description>US Holds Off DeepSeek Blacklist As China AI Tensions Rise In 2026 &amp;nbsp;&amp;nbsp; Memeburn</description>
-</item>
-<item>
-<title>[YouTube] What Codex Unlocks for NTT Data</title>
-<link>https://www.youtube.com/watch?v=0JIbgZ544wU</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=0JIbgZ544wU</guid>
-<pubDate>Fri, 19 Jun 2026 22:57:58 GMT</pubDate>
-<description>After introducing Codex, it grew to more than 10,000 active users and became one of the largest internal community in just a few months." We chatted with Hiroaki Sato, Head of the AI CoE at NTT DATA who gave us insight into all of the new ways his technical and non-tech teams are leveraging Codex. H</description>
-</item>
-<item>
-<title>[YouTube] Plan with ChatGPT</title>
-<link>https://www.youtube.com/watch?v=YPNOjXTDP9c</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=YPNOjXTDP9c</guid>
-<pubDate>Fri, 19 Jun 2026 21:22:26 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] Score with ChatGPT</title>
-<link>https://www.youtube.com/watch?v=5sDfhQq_g8A</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=5sDfhQq_g8A</guid>
-<pubDate>Fri, 19 Jun 2026 21:20:04 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek V4 Architecture: How Sparse Attention Cuts Inference Costs, What NIST Found - Tech Times</title>
-<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc082ZGN2RkNGNzZYYXJiRUFUbWtXMUVfY2RkVjY3N1J6elN2dE1NNWFxZzY5ajFhT1BNYVBzNTczdTcza2NUYXpNUk90WUF4bHZYYnowM2dyOEt5TjdYNi1LX09RSm1iOEhiVDQzRzFQcVVWcVJrMjRkeTNMZTNrSXZLZ2FIcVY0b05vN0cxRGR3ZnZfbkhMSHk4MU9BakZTbzV3U3NuSmYzTWcyZnBGVHlvNTlYc25lak5iNzQtUHk0M2NTMmgxX0ZzLW1NZzVEU2dF?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc082ZGN2RkNGNzZYYXJiRUFUbWtXMUVfY2RkVjY3N1J6elN2dE1NNWFxZzY5ajFhT1BNYVBzNTczdTcza2NUYXpNUk90WUF4bHZYYnowM2dyOEt5TjdYNi1LX09RSm1iOEhiVDQzRzFQcVVWcVJrMjRkeTNMZTNrSXZLZ2FIcVY0b05vN0cxRGR3ZnZfbkhMSHk4MU9BakZTbzV3U3NuSmYzTWcyZnBGVHlvNTlYc25lak5iNzQtUHk0M2NTMmgxX0ZzLW1NZzVEU2dF?oc=5</guid>
-<pubDate>Fri, 19 Jun 2026 20:38:16 GMT</pubDate>
-<description>DeepSeek V4 Architecture: How Sparse Attention Cuts Inference Costs, What NIST Found &amp;nbsp;&amp;nbsp; Tech Times</description>
-</item>
-<item>
-<title>[YouTube] MolmoAct2 - Building Open Science Robotics Foundation Models for Real world Deployment</title>
-<link>https://www.youtube.com/watch?v=y7lQLnQKey0</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=y7lQLnQKey0</guid>
-<pubDate>Fri, 19 Jun 2026 14:58:01 GMT</pubDate>
-<description>00:00 Welcome and Introductions 01:00 Why Robotics Needs AI 02:44 Limits of Today’s VLA Models 03:37 Openness Zero Shot Reasoning 06:24 MoMoAct2 Overview and Embodiments 08:07 Open Datasets and Reannotation 10:51 Three Stage Training Pipeline 12:16 VLM Initiation with ER Data 15:04 VLA Pretraining a</description>
-</item>
-<item>
-<title>[Google News] DeepSeek reportedly won't be banned in U.S. (for now) - Mashable</title>
-<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XcG8xdWpzNkVnNGNHbzcwdTFRZTU3Z2U5X1VUanlNUDRnM1libkx6Mk9TVlFkSXlWTlR6RnUxdm9KdVJvQ0Jwb0NIOWpkeTE5U2VwOXNacktCZTZ6MmpjNlpSelV3Q0U?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XcG8xdWpzNkVnNGNHbzcwdTFRZTU3Z2U5X1VUanlNUDRnM1libkx6Mk9TVlFkSXlWTlR6RnUxdm9KdVJvQ0Jwb0NIOWpkeTE5U2VwOXNacktCZTZ6MmpjNlpSelV3Q0U?oc=5</guid>
-<pubDate>Fri, 19 Jun 2026 02:26:15 GMT</pubDate>
-<description>DeepSeek reportedly won't be banned in U.S. (for now) &amp;nbsp;&amp;nbsp; Mashable</description>
-</item>
-<item>
-<title>[Google News] The US almost blacklisted DeepSeek for contributing to China’s military and intelligence, but the White House held back to avoid escalating tensions - TechRadar</title>
-<link>https://news.google.com/rss/articles/CBMikwJBVV95cUxPTmdsMVpOLWRkYUtXcDZRX2xEOXBINjRyZV9id0RIc25mMDNsbGxUM3BHRGNRbkpuZFpna294dDFKOUpQZ1dDZHdDbGt4YldxSXBkWGZWeVJ1NzNjNzdLOXhUd1VTMGRtTDJrcDhQT0p5N0xJcHZSOFZfelR5VTNHLVk4UmNXQ3VZQ216NmJBVU41czdoV1JhRXVGTWcta05LRGt4UC14alJGSXZtSUwydXRzTGZOalYwaHhzTEt1THJsTzJmcWNPWjdNdGJmUXRUbDdmeWlWY2tTc1VmcWlSZGFmTV9SR0NCVmw1WHBVTHFlVjRFQzJnaEpFS1BkMjMtRGRtSHdhQXhVUzJiQ0dPZGFzOA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikwJBVV95cUxPTmdsMVpOLWRkYUtXcDZRX2xEOXBINjRyZV9id0RIc25mMDNsbGxUM3BHRGNRbkpuZFpna294dDFKOUpQZ1dDZHdDbGt4YldxSXBkWGZWeVJ1NzNjNzdLOXhUd1VTMGRtTDJrcDhQT0p5N0xJcHZSOFZfelR5VTNHLVk4UmNXQ3VZQ216NmJBVU41czdoV1JhRXVGTWcta05LRGt4UC14alJGSXZtSUwydXRzTGZOalYwaHhzTEt1THJsTzJmcWNPWjdNdGJmUXRUbDdmeWlWY2tTc1VmcWlSZGFmTV9SR0NCVmw1WHBVTHFlVjRFQzJnaEpFS1BkMjMtRGRtSHdhQXhVUzJiQ0dPZGFzOA?oc=5</guid>
-<pubDate>Thu, 18 Jun 2026 23:20:00 GMT</pubDate>
-<description>The US almost blacklisted DeepSeek for contributing to China’s military and intelligence, but the White House held back to avoid escalating tensions &amp;nbsp;&amp;nbsp; TechRadar</description>
-</item>
-<item>
-<title>[YouTube] Debjyoti Paul - Softmax, Backprop, and the Autograd The Hidden Machinery Behind Deep Learning</title>
-<link>https://www.youtube.com/watch?v=7VJ_qTdhBes</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=7VJ_qTdhBes</guid>
-<pubDate>Thu, 18 Jun 2026 21:20:34 GMT</pubDate>
-<description>​00:00 Welcome and Agenda 01:48 Loss Functions and MLE 03:15 Sigmoid from Bernoulli 10:57 Softmax for Multiclass 15:24 Numerical Stability Tricks 20:10 Deep Nets Need Backprop 26:53 Backprop Recursion Derivation 35:57 Why Autograd Matters 37:23 Autodiff Methods Compared 41:48 Jacobian and Modes 46:4</description>
-</item>
-<item>
-<title>[Blog] How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability</title>
-<link>https://blogs.nvidia.com/blog/ferc-large-load-interconnection/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/ferc-large-load-interconnection/</guid>
-<pubDate>Thu, 18 Jun 2026 20:00:27 +0000</pubDate>
-<description>In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the </description>
-</item>
-<item>
-<title>[YouTube] Improving health intelligence in ChatGPT</title>
-<link>https://www.youtube.com/watch?v=UxY8zJKRrHU</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=UxY8zJKRrHU</guid>
-<pubDate>Thu, 18 Jun 2026 19:10:18 GMT</pubDate>
-<description>Health is one of the most meaningful ways people use ChatGPT. Every week, more than 230 million people turn to ChatGPT for help with health and wellness questions: making sense of health information, understanding lab results, preparing for appointments, navigating insurance, building healthier habi</description>
-</item>
-<item>
-<title>[YouTube] Record &amp; Replay in Codex</title>
-<link>https://www.youtube.com/watch?v=ZK3JhU73W18</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=ZK3JhU73W18</guid>
-<pubDate>Thu, 18 Jun 2026 18:57:34 GMT</pubDate>
-<description>Show Codex a workflow once. Reuse it as a skill. Record &amp; Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request. Codex turns that demo into an inspectable, editable skill. You control when recording starts and stops.</description>
-</item>
-<item>
-<title>[Google News] Microsoft Eyes DeepSeek V4 for Copilot Cowork: What Azure Hosting Cannot Fix - Tech Times</title>
-<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPclZRWWMybE9sSVFCcjhIVmtWc2VZOUd3bTJrdmhxSk9vMjkyY2pURWk3cUpMZ2xQX29YS1QybFB0cE9qb09vNjIxbnBSMkJHd01WdGdUQ28tM1Z1SWpmS3RpYWFCS1JJTlhiZ08wZ3V4dER4RWpuRWo0UmJTQmIxTEd6ZE1XUlFBTFdFMGlvWTBfUVY3X3p0bHM1Z0VkdVZiMXI0VGJGZk9HQ2tlcTRZN0F0bWk3VFA2YmJxNFA2WnprdUpu?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxPclZRWWMybE9sSVFCcjhIVmtWc2VZOUd3bTJrdmhxSk9vMjkyY2pURWk3cUpMZ2xQX29YS1QybFB0cE9qb09vNjIxbnBSMkJHd01WdGdUQ28tM1Z1SWpmS3RpYWFCS1JJTlhiZ08wZ3V4dER4RWpuRWo0UmJTQmIxTEd6ZE1XUlFBTFdFMGlvWTBfUVY3X3p0bHM1Z0VkdVZiMXI0VGJGZk9HQ2tlcTRZN0F0bWk3VFA2YmJxNFA2WnprdUpu?oc=5</guid>
-<pubDate>Thu, 18 Jun 2026 18:55:25 GMT</pubDate>
-<description>Microsoft Eyes DeepSeek V4 for Copilot Cowork: What Azure Hosting Cannot Fix &amp;nbsp;&amp;nbsp; Tech Times</description>
 </item>
 </channel>
 </rss>
