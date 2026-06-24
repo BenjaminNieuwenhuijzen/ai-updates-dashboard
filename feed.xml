@@ -5,7 +5,56 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Wed, 24 Jun 2026 12:31:03 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 16:34:21 GMT</lastBuildDate>
+<item>
+<title>[Developer] Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications</title>
+<link>https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/</guid>
+<pubDate>Wed, 24 Jun 2026 16:30:00 GMT</pubDate>
+<description>An increasingly common design pattern for autonomous vehicles (AVs), robotics, and spatial AI systems is bird's-eye-view (BEV) perception. BEV models project...</description>
+</item>
+<item>
+<title>[YouTube] Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302</title>
+<link>https://www.youtube.com/watch?v=Alz-bhXqyXM</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=Alz-bhXqyXM</guid>
+<pubDate>Wed, 24 Jun 2026 16:05:22 GMT</pubDate>
+<description>Instacart has 1.6 billion lifetime grocery orders—and is now using that data flywheel to digitize the physical store itself. In this episode, David McIntosh, Chief Connected Stores Officer at Instacart, explains how the Caper Cart—powered by an NVIDIA Jetson™ board and a sensor fusion system combini</description>
+</item>
+<item>
+<title>[Blog] Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel</title>
+<link>https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel</link>
+<guid isPermaLink="false">https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel</guid>
+<pubDate>Wed, 24 Jun 2026 16:00:13 GMT</pubDate>
+
+</item>
+<item>
+<title>[Gemini] Introducing computer use in Gemini 3.5 Flash</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</guid>
+<pubDate>Wed, 24 Jun 2026 16:00:00 +0000</pubDate>
+<description>A look at the built-in computer use tool in Gemini 3.5 Flash.</description>
+</item>
+<item>
+<title>[Research] Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis</title>
+<link>https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/</link>
+<guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/</guid>
+<pubDate>Wed, 24 Jun 2026 14:00:14 +0000</pubDate>
+<description>Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review. The post Talos: Scaling rare disease diagnosis with automated, iterative ge</description>
+</item>
+<item>
+<title>[Google News] Tencent Shares Jump 6% as WeCom Rolls Out DeepSeek-Powered AI Agent - TradingView</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHhRSHdodFdrZHB1RUlJNW0xeTNfSHdVX19aTzFUaGJpVTF3OFJSSHQyYnZuVTRhSWZCOTN5MWxFam9MdTl4dzJHZF9YRGNzd1YwanJST1ZBSGlDUldiWDNoa2ZJa1BHNkxBd2hpY0NUMDY1RmdtTUNLQlFOenpnVjdkeklOMmFYTEdvc0U2TUZ0OTBNbVdvdjJHTmkxSm1MRVdZYUlzZm16Mm9pMzUxUFFCZlZXWXY1X2VFOVRQMVRlcllF?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHhRSHdodFdrZHB1RUlJNW0xeTNfSHdVX19aTzFUaGJpVTF3OFJSSHQyYnZuVTRhSWZCOTN5MWxFam9MdTl4dzJHZF9YRGNzd1YwanJST1ZBSGlDUldiWDNoa2ZJa1BHNkxBd2hpY0NUMDY1RmdtTUNLQlFOenpnVjdkeklOMmFYTEdvc0U2TUZ0OTBNbVdvdjJHTmkxSm1MRVdZYUlzZm16Mm9pMzUxUFFCZlZXWXY1X2VFOVRQMVRlcllF?oc=5</guid>
+<pubDate>Wed, 24 Jun 2026 13:36:42 GMT</pubDate>
+<description>Tencent Shares Jump 6% as WeCom Rolls Out DeepSeek-Powered AI Agent &amp;nbsp;&amp;nbsp; TradingView</description>
+</item>
+<item>
+<title>[News] Bringing more control over your connectors</title>
+<link>https://mistral.ai/news/more-control-over-connectors/</link>
+<guid isPermaLink="false">https://mistral.ai/news/more-control-over-connectors/</guid>
+<pubDate>Wed, 24 Jun 2026 12:00:30 GMT</pubDate>
+
+</item>
 <item>
 <title>[Google News] Behind the Curtain: America's AI lead, security in peril - Axios</title>
 <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE44al9mZUdrVFRicHkyUy1yMi1FRWNxRmpuSnFMOWJJY1BNQndPQ0NxWXpCODh2anNtRktPZTRyN1pHMmNrUWFnTTEzSU9GQW1zMWFwakpOZ1BvVFlOUU5JbDhzeDhTT3FaRmRLRl9kT3kzOWh6YTVyTFFlRVpUYXc?oc=5</link>
@@ -35,6 +84,13 @@
 <description>The Connectors Debugger in Studio runs through every step of MCP OAuth authentication and shows you exactly where a connection breaks — and what the server actually said. In this video, we'll use it to diagnose two real authentication failures on a live server and fix both of them. Connectors Debugg</description>
 </item>
 <item>
+<title>[News] OpenAI and Broadcom unveil LLM-optimized inference chip</title>
+<link>https://openai.com/index/openai-broadcom-jalapeno-inference-chip</link>
+<guid isPermaLink="false">https://openai.com/index/openai-broadcom-jalapeno-inference-chip</guid>
+<pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
+<description>OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.</description>
+</item>
+<item>
 <title>[Google News] AI Market Experiences Violent Pullback, Is It Deepseek's Moment? - Moomoo</title>
 <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnc3NS1zcHpBdGFTRkUtZ19HRl9qRDBoOFFoSnhjeS03ZjNhWWJfSTFwaEppVUxlS3lpUXg1UGpTNXE1eGdMS2M3ZWV4Tm95VnBVa0xrMUgtRFB5cWhLTHFELWFKX0VwRWd6Zy11TE8xNmZoWWpSN2Q4TmJCMDNabEhzQjVaTDJCR1gzZlBTOEoyaDVFWi1VT3QzZ0IzT2d1Z003Rzh1TQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnc3NS1zcHpBdGFTRkUtZ19HRl9qRDBoOFFoSnhjeS03ZjNhWWJfSTFwaEppVUxlS3lpUXg1UGpTNXE1eGdMS2M3ZWV4Tm95VnBVa0xrMUgtRFB5cWhLTHFELWFKX0VwRWd6Zy11TE8xNmZoWWpSN2Q4TmJCMDNabEhzQjVaTDJCR1gzZlBTOEoyaDVFWi1VT3QzZ0IzT2d1Z003Rzh1TQ?oc=5</guid>
@@ -47,6 +103,13 @@
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/</guid>
 <pubDate>Wed, 24 Jun 2026 00:05:37 +0000</pubDate>
 <description>Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Am</description>
+</item>
+<item>
+<title>[Blog] Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World</title>
+<link>https://huggingface.co/blog/ffasr-leaderboard</link>
+<guid isPermaLink="false">https://huggingface.co/blog/ffasr-leaderboard</guid>
+<pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+
 </item>
 <item>
 <title>[Google News] Microsoft Weighs DeepSeek for Copilot Amid Security Debate - BankInfoSecurity</title>
@@ -362,69 +425,6 @@
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/</guid>
 <pubDate>Mon, 22 Jun 2026 13:00:38 +0000</pubDate>
 <description>For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to</description>
-</item>
-<item>
-<title>[YouTube] Can Robotics Hackathon Change Your Life?</title>
-<link>https://www.youtube.com/watch?v=FLxFBU-Kodk</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=FLxFBU-Kodk</guid>
-<pubDate>Mon, 22 Jun 2026 13:00:28 GMT</pubDate>
-<description>One year ago thousands of people worked for 48h to build something cool with LeRobot library: https://huggingface.co/lerobot LeRobot Worldwide Hackathon was a global AI robotics challenge that took place June 14-15, 2025. Discover how one weekend of open-source building launched careers, inspired ne</description>
-</item>
-<item>
-<title>[Blog] From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries</title>
-<link>https://blogs.nvidia.com/blog/ai-for-science-software-cuda/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-for-science-software-cuda/</guid>
-<pubDate>Mon, 22 Jun 2026 13:00:20 +0000</pubDate>
-<description>At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,</description>
-</item>
-<item>
-<title>[Blog] NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory</title>
-<link>https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</guid>
-<pubDate>Mon, 22 Jun 2026 13:00:20 +0000</pubDate>
-<description>Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with</description>
-</item>
-<item>
-<title>[Blog] Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins</title>
-<link>https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/</guid>
-<pubDate>Mon, 22 Jun 2026 13:00:13 +0000</pubDate>
-<description>The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprec</description>
-</item>
-<item>
-<title>[Newsroom] NVIDIA Vera Rubin Delivers World-Class Supercomputers for Science</title>
-<link>https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science</link>
-<guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science</guid>
-<pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-<description>ISC High Performance 2026 -- NVIDIA today announced the NVIDIA Vera Rubin platform delivers world-class supercomputers for science, combining native double-precision (FP64) performance, NVIDIA CUDA-X™ libraries and the full-stack capabilities of the NVIDIA AI platform.</description>
-</item>
-<item>
-<title>[Newsroom] Europe Unveils a Record 35 New NVIDIA AI Supercomputers</title>
-<link>https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers</link>
-<guid isPermaLink="false">https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers</guid>
-<pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-<description>ISC High Performance 2026 -- NVIDIA today announced that a record 35 NVIDIA AI HPC supercomputers are in development across Europe — equipping more than 3 million researchers with next-generation infrastructure for continental AI, accelerated science and industrial innovation.</description>
-</item>
-<item>
-<title>[Newsroom] NVIDIA Announces Halos for Robotics, the Industry’s First Full-Stack Safety System for Physical AI</title>
-<link>https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</link>
-<guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</guid>
-<pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-<description>NVIDIA today announced NVIDIA Halos for Robotics, the industry’s first full-stack, comprehensive safety system for robotics and physical AI that unifies AI compute and safety.</description>
-</item>
-<item>
-<title>[Developer] Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI</title>
-<link>https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/</guid>
-<pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-<description>Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...</description>
-</item>
-<item>
-<title>[Google News] Nadella scoffs at AI giants as Microsoft may host China’s DeepSeek - Cybernews</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNOFJOMUgtX2NRdjZ0U1RCZThaOTVhRXZ4WGlGU090UFBjd0pxb3AxTWxBa1prMll4cTA4NEFxdzU1bk9CcmVqSXJYbmJONS1YM2ZoZjZzR2V5SGVmTGR5MEpOVXdTRno2WGZFM0VnclpmTDlXcDA5dVMwSGk0WERPbWViZw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxNOFJOMUgtX2NRdjZ0U1RCZThaOTVhRXZ4WGlGU090UFBjd0pxb3AxTWxBa1prMll4cTA4NEFxdzU1bk9CcmVqSXJYbmJONS1YM2ZoZjZzR2V5SGVmTGR5MEpOVXdTRno2WGZFM0VnclpmTDlXcDA5dVMwSGk0WERPbWViZw?oc=5</guid>
-<pubDate>Mon, 22 Jun 2026 12:53:08 GMT</pubDate>
-<description>Nadella scoffs at AI giants as Microsoft may host China’s DeepSeek &amp;nbsp;&amp;nbsp; Cybernews</description>
 </item>
 </channel>
 </rss>
