@@ -5,7 +5,35 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Wed, 24 Jun 2026 16:34:21 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 20:10:16 GMT</lastBuildDate>
+<item>
+<title>[YouTube] Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302</title>
+<link>https://www.youtube.com/shorts/4mrfqPuXYA4</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/4mrfqPuXYA4</guid>
+<pubDate>Wed, 24 Jun 2026 18:48:39 GMT</pubDate>
+<description>Real grocery stores are hard on AI: changing shelves, spotty Wi-Fi and shoppers on the move. On the NVIDIA AI Podcast, Instacart's David McIntosh shares how Caper Carts use NVIDIA Jetson and edge AI to recognize items in store.</description>
+</item>
+<item>
+<title>[YouTube] An Early Preview of Creator Workflows on NVIDIA RTX Spark Laptops</title>
+<link>https://www.youtube.com/shorts/TjOeI2dFz5o</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/TjOeI2dFz5o</guid>
+<pubDate>Wed, 24 Jun 2026 17:00:10 GMT</pubDate>
+<description>See how the new NVIDIA RTX Spark laptops accelerate heavy creative workflows. Featuring 128GB of unified memory, these systems enable creators to edit up to 12K video and render massive 3D scenes locally. Watch as DLSS Ray Reconstruction delivers real-time, final-quality viewport previews directly w</description>
+</item>
+<item>
+<title>[Research] Thinking to recall: How reasoning unlocks parametric knowledge in LLMs</title>
+<link>https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/</link>
+<guid isPermaLink="false">https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/</guid>
+<pubDate>Wed, 24 Jun 2026 16:51:52 +0000</pubDate>
+
+</item>
+<item>
+<title>[DeepMind] Introducing computer use in Gemini 3.5 Flash</title>
+<link>https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/</guid>
+<pubDate>Wed, 24 Jun 2026 16:30:01 +0000</pubDate>
+
+</item>
 <item>
 <title>[Developer] Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications</title>
 <link>https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/</link>
@@ -32,7 +60,14 @@
 <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</link>
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</guid>
 <pubDate>Wed, 24 Jun 2026 16:00:00 +0000</pubDate>
-<description>A look at the built-in computer use tool in Gemini 3.5 Flash.</description>
+
+</item>
+<item>
+<title>[Google News] Are ChatGPT and other AI chatbots politically biased? We tested them. - The Washington Post</title>
+<link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjNMZk5ZYVBRRHlTbDJrZl85THhCTHJvczVHMzlPcnpUdndRdkV1NGZoNFdvMzNBLVdZaHZpS0tEY1dfWFBYTWtKUXpnQzhFa09vMXBHYmNuOEV3TmJuRWVXeTFvQW1adlNBRDg2R0NBUEhQLXlwdWZHVHNLRUVXYjdRUk9FTjFXSDRGenUyZkZxMkdZelk4OWF5VGI4S2Q4U3lyQUpEWEROTFJLUlM3alNwaEQtV1FveVU4bjV1dW1SM3ZvenFZ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjNMZk5ZYVBRRHlTbDJrZl85THhCTHJvczVHMzlPcnpUdndRdkV1NGZoNFdvMzNBLVdZaHZpS0tEY1dfWFBYTWtKUXpnQzhFa09vMXBHYmNuOEV3TmJuRWVXeTFvQW1adlNBRDg2R0NBUEhQLXlwdWZHVHNLRUVXYjdRUk9FTjFXSDRGenUyZkZxMkdZelk4OWF5VGI4S2Q4U3lyQUpEWEROTFJLUlM3alNwaEQtV1FveVU4bjV1dW1SM3ZvenFZ?oc=5</guid>
+<pubDate>Wed, 24 Jun 2026 16:00:00 GMT</pubDate>
+<description>Are ChatGPT and other AI chatbots politically biased? We tested them. &amp;nbsp;&amp;nbsp; The Washington Post</description>
 </item>
 <item>
 <title>[Research] Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis</title>
@@ -56,6 +91,13 @@
 
 </item>
 <item>
+<title>[Google News] Karpathy's Investment in AI Memory Company with Same Name as DeepSeek Engram Memory Architecture - 36Kr</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UaThaUDhhUmtTRUdKRlF6OElpdy04MDBDdEI0VEdEeC1CajE5SC1wOWtFRlVSa0hTNkRzd2tuTEt4THBRSElNOGNIR1FIcGs3V2NN?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UaThaUDhhUmtTRUdKRlF6OElpdy04MDBDdEI0VEdEeC1CajE5SC1wOWtFRlVSa0hTNkRzd2tuTEt4THBRSElNOGNIR1FIcGs3V2NN?oc=5</guid>
+<pubDate>Wed, 24 Jun 2026 10:43:55 GMT</pubDate>
+<description>Karpathy's Investment in AI Memory Company with Same Name as DeepSeek Engram Memory Architecture &amp;nbsp;&amp;nbsp; 36Kr</description>
+</item>
+<item>
 <title>[Google News] Behind the Curtain: America's AI lead, security in peril - Axios</title>
 <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE44al9mZUdrVFRicHkyUy1yMi1FRWNxRmpuSnFMOWJJY1BNQndPQ0NxWXpCODh2anNtRktPZTRyN1pHMmNrUWFnTTEzSU9GQW1zMWFwakpOZ1BvVFlOUU5JbDhzeDhTT3FaRmRLRl9kT3kzOWh6YTVyTFFlRVpUYXc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE44al9mZUdrVFRicHkyUy1yMi1FRWNxRmpuSnFMOWJJY1BNQndPQ0NxWXpCODh2anNtRktPZTRyN1pHMmNrUWFnTTEzSU9GQW1zMWFwakpOZ1BvVFlOUU5JbDhzeDhTT3FaRmRLRl9kT3kzOWh6YTVyTFFlRVpUYXc?oc=5</guid>
@@ -70,11 +112,11 @@
 <description>Microsoft Eyes Open Source DeepSeek V4 For Copilot Cowork &amp;nbsp;&amp;nbsp; Open Source For You</description>
 </item>
 <item>
-<title>[Google News] Tencent Testing New AI Agent for WeChat Workplace App - Bloomberg.com</title>
+<title>[Google News] Tencent Tests DeepSeek-Powered AI Agent for WeChat Corporate App - Bloomberg</title>
 <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQVXN0dl9tOHp0dEFBRFJ1ckV5RVVveWdvaGd1MHNZM0djQnBfTkpxSVNOOS1JNUloS3Y0WXNhaXpSenBNZmdFbFRpdm9KeG1MalQ0bnN5eTlxQ0E3VWJnSFNFY09RMDE0bFE0UXVEeGl1b0EwMnAzOWhiWjJySHFyZWtqTnhpMS1EQXdYU01UTl9QVmpGTm9ncGg4emNrN2pleFR3OUdwMy0zWmtCQU41bUJGNHdWZw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxQVXN0dl9tOHp0dEFBRFJ1ckV5RVVveWdvaGd1MHNZM0djQnBfTkpxSVNOOS1JNUloS3Y0WXNhaXpSenBNZmdFbFRpdm9KeG1MalQ0bnN5eTlxQ0E3VWJnSFNFY09RMDE0bFE0UXVEeGl1b0EwMnAzOWhiWjJySHFyZWtqTnhpMS1EQXdYU01UTl9QVmpGTm9ncGg4emNrN2pleFR3OUdwMy0zWmtCQU41bUJGNHdWZw?oc=5</guid>
 <pubDate>Wed, 24 Jun 2026 06:30:00 GMT</pubDate>
-<description>Tencent Testing New AI Agent for WeChat Workplace App &amp;nbsp;&amp;nbsp; Bloomberg.com</description>
+<description>Tencent Tests DeepSeek-Powered AI Agent for WeChat Corporate App &amp;nbsp;&amp;nbsp; Bloomberg</description>
 </item>
 <item>
 <title>[YouTube] Debug MCP Connector Auth with the Connectors Debugger</title>
@@ -383,48 +425,6 @@
 <guid isPermaLink="false">https://devblogs.microsoft.com/agent-framework/build-your-own-claw-and-agent-harness-with-microsoft-agent-framework/</guid>
 <pubDate>Mon, 22 Jun 2026 17:33:56 +0000</pubDate>
 <description>What does it take to build your own &amp;#8220;claw&amp;#8221; &amp;#8211; a capable, CLI-style agent that can plan, use tools, remember things, and safely act on your behalf? Coding agents and assistants like these can feel like magic, but underneath they are an agent harness: a loop around a language model wi</description>
-</item>
-<item>
-<title>[Developer] CCCL Runtime: A Modern C++ Runtime for CUDA</title>
-<link>https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/</guid>
-<pubDate>Mon, 22 Jun 2026 16:00:00 GMT</pubDate>
-<description>The NVIDIA CUDA Core Compute Libraries (CCCL) provides delightful and efficient abstractions for CUDA developers in C++ and Python. It features: Parallel...</description>
-</item>
-<item>
-<title>[Developer] Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI</title>
-<link>https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/</guid>
-<pubDate>Mon, 22 Jun 2026 15:00:00 GMT</pubDate>
-<description>When AlphaFold2 revolutionized drug discovery in 2020, its success relied entirely on the roughly 170,000 protein structures collected by scientists since 1971...</description>
-</item>
-<item>
-<title>[Newsroom] Instagram for TV Gets Bigger, With New Ways to Watch Together</title>
-<link>https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together/</link>
-<guid isPermaLink="false">https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together/</guid>
-<pubDate>Mon, 22 Jun 2026 14:00:34 +0000</pubDate>
-<description>Instagram for TV will not be available on Samsung TV, plus we're testing new to make sharing and discovering even more fun. The post Instagram for TV Gets Bigger, With New Ways to Watch Together appeared first on Meta Newsroom .</description>
-</item>
-<item>
-<title>[Blog] PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters</title>
-<link>https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</link>
-<guid isPermaLink="false">https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</guid>
-<pubDate>Mon, 22 Jun 2026 13:18:56 GMT</pubDate>
-
-</item>
-<item>
-<title>[Blog] At ISC, JUPITER Shows What Exascale Science Looks Like</title>
-<link>https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/</guid>
-<pubDate>Mon, 22 Jun 2026 13:00:48 +0000</pubDate>
-<description>JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects runn</description>
-</item>
-<item>
-<title>[Blog] NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure</title>
-<link>https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/</guid>
-<pubDate>Mon, 22 Jun 2026 13:00:38 +0000</pubDate>
-<description>For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to</description>
 </item>
 </channel>
 </rss>
