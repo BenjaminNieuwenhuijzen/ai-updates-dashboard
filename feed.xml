@@ -5,7 +5,35 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 25 Jun 2026 20:23:48 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 23:46:56 GMT</lastBuildDate>
+<item>
+<title>[Blog] Run a vLLM Server on HF Jobs in One Command</title>
+<link>https://huggingface.co/blog/vllm-jobs</link>
+<guid isPermaLink="false">https://huggingface.co/blog/vllm-jobs</guid>
+<pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Chinese AI firms scale aggressively to compete with US - Semafor</title>
+<link>https://news.google.com/rss/articles/CBMingFBVV95cUxPdlpvODNDVVNVY19pRVZoZXRwSl9UdlJubDlCLVdjVDVqb3pBX3B6WG1XWEtkMHZYSjNHWnNidnFvRTNITXVCT21PTktCNWs4VWJGNDg5aUpBUkNQUW9RaXVXN2VJZmlkeElRSXkzelp1QU5mVkZCamVuRjRpNE8xbFhTU1o2Zk9LVGZhZm43c0RWVnVmbnBjWHc4UFhKUQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxPdlpvODNDVVNVY19pRVZoZXRwSl9UdlJubDlCLVdjVDVqb3pBX3B6WG1XWEtkMHZYSjNHWnNidnFvRTNITXVCT21PTktCNWs4VWJGNDg5aUpBUkNQUW9RaXVXN2VJZmlkeElRSXkzelp1QU5mVkZCamVuRjRpNE8xbFhTU1o2Zk9LVGZhZm43c0RWVnVmbnBjWHc4UFhKUQ?oc=5</guid>
+<pubDate>Thu, 25 Jun 2026 22:26:00 GMT</pubDate>
+<description>Chinese AI firms scale aggressively to compete with US &amp;nbsp;&amp;nbsp; Semafor</description>
+</item>
+<item>
+<title>[Developer] Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps</title>
+<link>https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps/</guid>
+<pubDate>Thu, 25 Jun 2026 22:25:51 GMT</pubDate>
+<description>Shaders are GPU programs that process visual data—such as rays, pixels, geometry, and textures—to produce specific rendering effects. Shaders find necessary...</description>
+</item>
+<item>
+<title>[YouTube] Doğaç Eldenk - Attention Drift – What speculative decoding models learn</title>
+<link>https://www.youtube.com/watch?v=sbCSYEaMEmg</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=sbCSYEaMEmg</guid>
+<pubDate>Thu, 25 Jun 2026 22:03:18 GMT</pubDate>
+<description>00:00 Seminar Welcome 00:53 Talk Overview 01:22 Why Inference Is Hard 02:55 Speculative Decoding Basics 06:58 EAGLETree and MTP 08:59 Attention Sinks Primer 10:08 Attention Drift Discovery 15:14 Magnitude Mismatch Clues 17:51 Post Norm Fix 20:48 Training Time Tests 24:02 Gated Attention Experiments </description>
+</item>
 <item>
 <title>[Google News] DeepSeek Launches 'Doubling-Down' Hiring Drive: Targeting AI Search and Data Moats, the Battle for Commercialization of Large Models Heats Up - Moomoo</title>
 <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOcF9YN290UEJjc2g2RXFzaVIzOHVFT0NCaGlkNHJjc0Rrcm5GaGVsNy1Ua29MV0pCc0k5YWgyOFdpMGFZZjhvOUZkVkloYVUyeG1QbW8tVmZMeVc1VEloeUtOMmRvZ2k0MUhnQnk4bTFjN1prWkNkNW9nX3JvSEhfbkZkM1dldE9MbE1scjE3eWJJaWU4QjA4dDBPNF9URFlMdjllMWF3Z0toNVl4cnpV?oc=5</link>
@@ -19,20 +47,6 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE9waVRZTjR0Ym01bFVFRFp5UmFyQmQ5R3phOENQLUwwemR0RmVOOHJZM092X2d5WUFhTUs2NDlOdU05Tm1XNW4yTDdIRl9xQmNRdldrR1V4U2ZzeGhaRnBoU1BWZDdKNTNkay15NXlpdTVSVExMZWJYcUE2TXRhQQ?oc=5</guid>
 <pubDate>Thu, 25 Jun 2026 19:49:20 GMT</pubDate>
 <description>Chinese open source AI models are closing the gap with US rivals, and the market implications are significant &amp;nbsp;&amp;nbsp; Crypto Briefing</description>
-</item>
-<item>
-<title>[Developer] Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation</title>
-<link>https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/</guid>
-<pubDate>Thu, 25 Jun 2026 18:56:34 GMT</pubDate>
-<description>Developers building real-time AI—such as chat assistants, copilots, and agentic workflows—are often constrained by token-by-token generation speed. This...</description>
-</item>
-<item>
-<title>[Developer] NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance</title>
-<link>https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/</guid>
-<pubDate>Thu, 25 Jun 2026 18:11:00 GMT</pubDate>
-<description>NVIDIA delivered a clean sweep in MLPerf Training v6.0, the latest edition of industry-standard AI training benchmarks developed by the MLCommons consortium....</description>
 </item>
 <item>
 <title>[YouTube] What if plants could talk?</title>
@@ -54,6 +68,13 @@
 <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/</guid>
 <pubDate>Thu, 25 Jun 2026 17:00:00 +0000</pubDate>
 <description>Job hunting can be a slog. But with a few Google AI tools, you can simplify the process from start to finish.Career Dreamer: The first step in landing a job is finding o…</description>
+</item>
+<item>
+<title>[Gemini] 5 ways Google parents are using Gemini</title>
+<link>https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/</link>
+<guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/</guid>
+<pubDate>Thu, 25 Jun 2026 17:00:00 +0000</pubDate>
+<description>How Gemini helps with homework, meal planning and more, so parents have time to focus on the good stuff.</description>
 </item>
 <item>
 <title>[YouTube] Welcome to Open Source AI: Run Your Own Models Locally</title>
@@ -133,11 +154,11 @@
 <description>DeepSeek plans to double staff after raising $7.4 billion in first external funding round &amp;nbsp;&amp;nbsp; Crypto Briefing</description>
 </item>
 <item>
-<title>[Google News] DeepSeek plans to double workforce amid $7.4 billion raise By Investing.com - Investing.com Nigeria</title>
-<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkEyWURITTdEUkxwcmJCTkcyOVVuSGk4Z1o4cU1EcUdHenFSTzRQQ1JUaXplUmNEamxfVlh2bXZrdFAtVnVOZUhMZUJQRTRGQUtGX3YtRExYam1pdDR2TzhlWmtLbjU4UU12RmdLWEozamFWQTVIR20yX0pFQmk0ZFJHZjJsZXpIQjUwUV9sVFZqYlFhTDlMZ0d2eGdXS21MSmdCNTNtd1N0WFF0X1lYbi03aTJsQlgw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkEyWURITTdEUkxwcmJCTkcyOVVuSGk4Z1o4cU1EcUdHenFSTzRQQ1JUaXplUmNEamxfVlh2bXZrdFAtVnVOZUhMZUJQRTRGQUtGX3YtRExYam1pdDR2TzhlWmtLbjU4UU12RmdLWEozamFWQTVIR20yX0pFQmk0ZFJHZjJsZXpIQjUwUV9sVFZqYlFhTDlMZ0d2eGdXS21MSmdCNTNtd1N0WFF0X1lYbi03aTJsQlgw?oc=5</guid>
-<pubDate>Thu, 25 Jun 2026 14:50:30 GMT</pubDate>
-<description>DeepSeek plans to double workforce amid $7.4 billion raise By Investing.com &amp;nbsp;&amp;nbsp; Investing.com Nigeria</description>
+<title>[Google News] DeepSeek plans to double workforce amid $7.4 billion raise By Investing.com - Investing.com Canada</title>
+<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWEgzck8tQlVRRmpuS0lNeW02UUxqakx4S0RPVDRBREl1eVBmdXRxellqMnZYUVlaZWQtUnFCMlhzNXVDOTR6clBhSlVLd2prSHRUVlRpbHV6enI2azJ6bDJfdTc5eW5fT3N3WTVOUnkwR1BGVTA1dGRtUFppcVJKV1haUEp5eFhJOEpEQ3Z0dmlITFRBX0tZUUYwS2lPcXhtMlVDZHZ5YXBvNVE0Zk5PNlRtVFVrUzZW?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWEgzck8tQlVRRmpuS0lNeW02UUxqakx4S0RPVDRBREl1eVBmdXRxellqMnZYUVlaZWQtUnFCMlhzNXVDOTR6clBhSlVLd2prSHRUVlRpbHV6enI2azJ6bDJfdTc5eW5fT3N3WTVOUnkwR1BGVTA1dGRtUFppcVJKV1haUEp5eFhJOEpEQ3Z0dmlITFRBX0tZUUYwS2lPcXhtMlVDZHZ5YXBvNVE0Zk5PNlRtVFVrUzZW?oc=5</guid>
+<pubDate>Thu, 25 Jun 2026 14:51:47 GMT</pubDate>
+<description>DeepSeek plans to double workforce amid $7.4 billion raise By Investing.com &amp;nbsp;&amp;nbsp; Investing.com Canada</description>
 </item>
 <item>
 <title>[Google News] DeepSeek is doubling its headcount and the real question is whether its famous efficiency survives the growth - Startup Fortune</title>
@@ -154,11 +175,11 @@
 <description>Baidu OCR Breaks Long-Document Memory Wall: New Architecture Beats DeepSeek &amp;nbsp;&amp;nbsp; Tech Times</description>
 </item>
 <item>
-<title>[Google News] DeepSeek Plans to Double Staff Across All Departments - Bloomberg</title>
+<title>[Google News] DeepSeek Plans to Double Staff Across All Departments - Bloomberg.com</title>
 <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlV1QmN3NHNuUG9OeTF4dllnNE1kcVNFRnVadWtYdTJtYUVTYkJDUE54S3BCRnZ3NFVVNGs0T0VPTTNaYVp4dVdocWg2Mko3MF9UN2dJbVFzQkM4Y1BwaEpxeE9iSS1IZzhTbzVuLXZhaVhmWkpJRTlNMXpNUnd0VnJDQURZUzY3aXZTcFJYaWkwdUd4R1d0OXZHaFlfWkpVam9ZWTkweVNGSVo2SHVIUThlbw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlV1QmN3NHNuUG9OeTF4dllnNE1kcVNFRnVadWtYdTJtYUVTYkJDUE54S3BCRnZ3NFVVNGs0T0VPTTNaYVp4dVdocWg2Mko3MF9UN2dJbVFzQkM4Y1BwaEpxeE9iSS1IZzhTbzVuLXZhaVhmWkpJRTlNMXpNUnd0VnJDQURZUzY3aXZTcFJYaWkwdUd4R1d0OXZHaFlfWkpVam9ZWTkweVNGSVo2SHVIUThlbw?oc=5</guid>
 <pubDate>Thu, 25 Jun 2026 14:32:32 GMT</pubDate>
-<description>DeepSeek Plans to Double Staff Across All Departments &amp;nbsp;&amp;nbsp; Bloomberg</description>
+<description>DeepSeek Plans to Double Staff Across All Departments &amp;nbsp;&amp;nbsp; Bloomberg.com</description>
 </item>
 <item>
 <title>[Blog] The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts</title>
@@ -208,6 +229,13 @@
 <guid isPermaLink="false">https://openai.com/index/how-agents-are-transforming-work</guid>
 <pubDate>Thu, 25 Jun 2026 02:00:00 GMT</pubDate>
 <description>A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.</description>
+</item>
+<item>
+<title>[Google News] DeepSeek V4 API: The Complete Developer Guide - SitePoint</title>
+<link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE54NEo1NzlWbkpuaUVocWVDTjNIR1dMWnR4WWlzX0JNUDJSZlV2b2t2cWV2U0Z0NnU5ZlNyTm1WQU9kVzlBTGdUbGxVamh3ZW5rdEQ0ZQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiVEFVX3lxTE54NEo1NzlWbkpuaUVocWVDTjNIR1dMWnR4WWlzX0JNUDJSZlV2b2t2cWV2U0Z0NnU5ZlNyTm1WQU9kVzlBTGdUbGxVamh3ZW5rdEQ0ZQ?oc=5</guid>
+<pubDate>Wed, 24 Jun 2026 20:37:34 GMT</pubDate>
+<description>DeepSeek V4 API: The Complete Developer Guide &amp;nbsp;&amp;nbsp; SitePoint</description>
 </item>
 <item>
 <title>[YouTube] Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302</title>
@@ -336,13 +364,6 @@
 <description>Microsoft Considers DeepSeek Integration for Cost-Efficient Copilot Cowork &amp;nbsp;&amp;nbsp; 조선일보</description>
 </item>
 <item>
-<title>[Google News] Microsoft Considers Adopting DeepSeek's V4 for Low-Cost AI Option - 조선일보</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMl9GTG44WUM4SVRoQjRqQVo3X3hLQ05TLVhFWmN1RllsS2xVLXlyN3ZXdU9pQ1pvUl95eDB2UkdyZWZobk5pQUV4bTFtbXJrTjZwWG0tZzJEM2g0Y2tkWmRtbWNCNFRpYVY0eWs1akp3X2VBRHNuNVJVdlFlLUJkb1VoWTJkc3Ez?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMl9GTG44WUM4SVRoQjRqQVo3X3hLQ05TLVhFWmN1RllsS2xVLXlyN3ZXdU9pQ1pvUl95eDB2UkdyZWZobk5pQUV4bTFtbXJrTjZwWG0tZzJEM2g0Y2tkWmRtbWNCNFRpYVY0eWs1akp3X2VBRHNuNVJVdlFlLUJkb1VoWTJkc3Ez?oc=5</guid>
-<pubDate>Tue, 23 Jun 2026 20:28:06 GMT</pubDate>
-<description>Microsoft Considers Adopting DeepSeek's V4 for Low-Cost AI Option &amp;nbsp;&amp;nbsp; 조선일보</description>
-</item>
-<item>
 <title>[YouTube] ChatGPT Futures, Class of 2026: The Next Generation of AI Leaders</title>
 <link>https://www.youtube.com/shorts/mVpCDzoNtxA</link>
 <guid isPermaLink="false">https://www.youtube.com/shorts/mVpCDzoNtxA</guid>
@@ -404,27 +425,6 @@
 <guid isPermaLink="false">https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/</guid>
 <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
 <description>As AI systems move from single-turn interactions to coordinated multiagent workflows, low-latency inference becomes increasingly important. Autoregressive LLMs...</description>
-</item>
-<item>
-<title>[YouTube] Introducing Mistral OCR 4</title>
-<link>https://www.youtube.com/watch?v=bEt4wczgGR8</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=bEt4wczgGR8</guid>
-<pubDate>Tue, 23 Jun 2026 13:59:37 GMT</pubDate>
-<description>Description: Mistral OCR 4 is a small, focused model built to extract text from documents with precision, adding bounding boxes, block classification, and inline confidence scores to every output. It supports 170 languages across 10 language groups and runs in a single container for organizations th</description>
-</item>
-<item>
-<title>[Developer] Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit</title>
-<link>https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/</guid>
-<pubDate>Tue, 23 Jun 2026 13:30:00 GMT</pubDate>
-<description>AI scientists are emerging as a new interface for scientific computing. These agents can read papers, write code, generate hypotheses, call APIs, inspect files,...</description>
-</item>
-<item>
-<title>[Newsroom (AI)] We’re Partnering With EssilorLuxottica to Launch Meta Glasses</title>
-<link>https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/</link>
-<guid isPermaLink="false">https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/</guid>
-<pubDate>Tue, 23 Jun 2026 13:00:32 +0000</pubDate>
-<description>We're launching Meta Glasses with 26 styles across a range of colors, lenses, and frames, so there's a pair for just about any style. The post We’re Partnering With EssilorLuxottica to Launch Meta Glasses appeared first on Meta Newsroom .</description>
 </item>
 </channel>
 </rss>
