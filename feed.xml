@@ -5,13 +5,97 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 25 Jun 2026 12:34:20 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 16:37:43 GMT</lastBuildDate>
 <item>
-<title>[Google News] AI Chatbots Test Reveals Divergent Political Slants - Let's Data Science</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHZPX0xFMXR0YlVINFN3RklMNTFpcUdnZjdkODVYUDdZd1BnQ2J0TURCQWdybmZaMnNxUEF4X2VRVk9pNExZeUR6VTNpMjFQN05MemxzVlFzYk1xUmtxcVJhTUw2TWgxeU02Y0V1b1RMa18zbHlGVF90dHZiZGpWZmpNTVlkb0pFclkxajZvc2o2aVM3RmxFNg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHZPX0xFMXR0YlVINFN3RklMNTFpcUdnZjdkODVYUDdZd1BnQ2J0TURCQWdybmZaMnNxUEF4X2VRVk9pNExZeUR6VTNpMjFQN05MemxzVlFzYk1xUmtxcVJhTUw2TWgxeU02Y0V1b1RMa18zbHlGVF90dHZiZGpWZmpNTVlkb0pFclkxajZvc2o2aVM3RmxFNg?oc=5</guid>
-<pubDate>Thu, 25 Jun 2026 08:13:57 GMT</pubDate>
-<description>AI Chatbots Test Reveals Divergent Political Slants &amp;nbsp;&amp;nbsp; Let's Data Science</description>
+<title>[Blog] Which tokens does a hybrid model predict better?</title>
+<link>https://huggingface.co/blog/allenai/hybrid-token-prediction</link>
+<guid isPermaLink="false">https://huggingface.co/blog/allenai/hybrid-token-prediction</guid>
+<pubDate>Thu, 25 Jun 2026 16:11:42 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google AI] Our latest Google Finance upgrades, including a new app</title>
+<link>https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/</link>
+<guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/</guid>
+<pubDate>Thu, 25 Jun 2026 16:00:00 +0000</pubDate>
+<description>The new Google Finance is coming out of beta and launching a new Android app.</description>
+</item>
+<item>
+<title>[Gemini] 5 ways to learn with study notebooks in the Gemini app</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</guid>
+<pubDate>Thu, 25 Jun 2026 16:00:00 +0000</pubDate>
+<description>Study notebooks is a new space in the Gemini app that serves as an interactive learning tool tailored to any student's goals.</description>
+</item>
+<item>
+<title>[Research] Understanding the brain with AI-driven explanations and experiments</title>
+<link>https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/</link>
+<guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/</guid>
+<pubDate>Thu, 25 Jun 2026 16:00:00 +0000</pubDate>
+<description>Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language. The post Understanding the brain with AI-driven explanations and experiments appeared first on Micr</description>
+</item>
+<item>
+<title>[Google News] China's DeepSeek plans to at least double staff in all departments - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVB4ZXNNQUlBbXh2N1FQb2VGdTFvYzdUMzhQZ0xxd0thUy1BRnZhTnI0Mi05MjRKeUU1V2MyM3ZhUW52ZWpwd2ZqNVRJUkw0akZDTm03bDJjcjRfNU1SdG9udXBENkUxS3QzWlBpVjdfSlpUME1pVjUyMVAydUJKSDRaaVpKTkk5YUtTVENOaWx5RUdQaTRGQ0NCRTVPZmNsaVNPSlo2RTFFNzhFSWRDUg?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVB4ZXNNQUlBbXh2N1FQb2VGdTFvYzdUMzhQZ0xxd0thUy1BRnZhTnI0Mi05MjRKeUU1V2MyM3ZhUW52ZWpwd2ZqNVRJUkw0akZDTm03bDJjcjRfNU1SdG9udXBENkUxS3QzWlBpVjdfSlpUME1pVjUyMVAydUJKSDRaaVpKTkk5YUtTVENOaWx5RUdQaTRGQ0NCRTVPZmNsaVNPSlo2RTFFNzhFSWRDUg?oc=5</guid>
+<pubDate>Thu, 25 Jun 2026 15:13:44 GMT</pubDate>
+<description>China's DeepSeek plans to at least double staff in all departments &amp;nbsp;&amp;nbsp; Reuters</description>
+</item>
+<item>
+<title>[Google News] DeepSeek plans to double staff across all departments - The Edge Malaysia</title>
+<link>https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xa1VFNURVZnV6cVQtM2N6b0JLNG5CWVFtdEVYNnI4LWxPbVVxTmtGN0htSmdRQkphclAxcDFXVzVpX0h2UWE5RFVBeHMzcXc0?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xa1VFNURVZnV6cVQtM2N6b0JLNG5CWVFtdEVYNnI4LWxPbVVxTmtGN0htSmdRQkphclAxcDFXVzVpX0h2UWE5RFVBeHMzcXc0?oc=5</guid>
+<pubDate>Thu, 25 Jun 2026 15:07:30 GMT</pubDate>
+<description>DeepSeek plans to double staff across all departments &amp;nbsp;&amp;nbsp; The Edge Malaysia</description>
+</item>
+<item>
+<title>[Google News] DeepSeek plans to double staff after raising $7.4 billion in first external funding round - Crypto Briefing</title>
+<link>https://news.google.com/rss/articles/CBMicEFVX3lxTE9LQ2h1WTA3dXJFeFd2WGZQU1FpOFQtUGRRdHh6QkF6MjZpT0hlV0dsT2RMVk5kWnI5YThKdGk1c002RnJKTlIzYnpxZTRWRkhuaVluTUpIMWpfQ1hNdXNUdURlcnJfbzA5LTlZX2xYQXg?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMicEFVX3lxTE9LQ2h1WTA3dXJFeFd2WGZQU1FpOFQtUGRRdHh6QkF6MjZpT0hlV0dsT2RMVk5kWnI5YThKdGk1c002RnJKTlIzYnpxZTRWRkhuaVluTUpIMWpfQ1hNdXNUdURlcnJfbzA5LTlZX2xYQXg?oc=5</guid>
+<pubDate>Thu, 25 Jun 2026 14:51:57 GMT</pubDate>
+<description>DeepSeek plans to double staff after raising $7.4 billion in first external funding round &amp;nbsp;&amp;nbsp; Crypto Briefing</description>
+</item>
+<item>
+<title>[Google News] DeepSeek plans to double workforce amid $7.4 billion raise By Investing.com - Investing.com Nigeria</title>
+<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkEyWURITTdEUkxwcmJCTkcyOVVuSGk4Z1o4cU1EcUdHenFSTzRQQ1JUaXplUmNEamxfVlh2bXZrdFAtVnVOZUhMZUJQRTRGQUtGX3YtRExYam1pdDR2TzhlWmtLbjU4UU12RmdLWEozamFWQTVIR20yX0pFQmk0ZFJHZjJsZXpIQjUwUV9sVFZqYlFhTDlMZ0d2eGdXS21MSmdCNTNtd1N0WFF0X1lYbi03aTJsQlgw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkEyWURITTdEUkxwcmJCTkcyOVVuSGk4Z1o4cU1EcUdHenFSTzRQQ1JUaXplUmNEamxfVlh2bXZrdFAtVnVOZUhMZUJQRTRGQUtGX3YtRExYam1pdDR2TzhlWmtLbjU4UU12RmdLWEozamFWQTVIR20yX0pFQmk0ZFJHZjJsZXpIQjUwUV9sVFZqYlFhTDlMZ0d2eGdXS21MSmdCNTNtd1N0WFF0X1lYbi03aTJsQlgw?oc=5</guid>
+<pubDate>Thu, 25 Jun 2026 14:50:30 GMT</pubDate>
+<description>DeepSeek plans to double workforce amid $7.4 billion raise By Investing.com &amp;nbsp;&amp;nbsp; Investing.com Nigeria</description>
+</item>
+<item>
+<title>[Google News] DeepSeek is doubling its headcount and the real question is whether its famous efficiency survives the growth - Startup Fortune</title>
+<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTGhpOEVvQldlV0RKYnRPQmR0MnhBMmJWUGdMempMZ1ZTcE1sTU4wZFhKLXZLUWNFdnRCc001ZW5nLUJkS0NzZ21pY095bC1kWGxVSlVDb0FPWGR3VW50UTlXVGpOWmpSZTVjcGVMR3M5UzlNX1FXTDYxTXBfN1FXYlR0WXdJSXhiRU9VWl9YVi1mWjU4S29KUE9rM1BQaXFYbXFpRTFoYzhJMndoZ25jSDYwem1RLTlrRmpJOEdEd1BlYkE5ZkNsdjVReEtEcS05SnFZ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTGhpOEVvQldlV0RKYnRPQmR0MnhBMmJWUGdMempMZ1ZTcE1sTU4wZFhKLXZLUWNFdnRCc001ZW5nLUJkS0NzZ21pY095bC1kWGxVSlVDb0FPWGR3VW50UTlXVGpOWmpSZTVjcGVMR3M5UzlNX1FXTDYxTXBfN1FXYlR0WXdJSXhiRU9VWl9YVi1mWjU4S29KUE9rM1BQaXFYbXFpRTFoYzhJMndoZ25jSDYwem1RLTlrRmpJOEdEd1BlYkE5ZkNsdjVReEtEcS05SnFZ?oc=5</guid>
+<pubDate>Thu, 25 Jun 2026 14:46:27 GMT</pubDate>
+<description>DeepSeek is doubling its headcount and the real question is whether its famous efficiency survives the growth &amp;nbsp;&amp;nbsp; Startup Fortune</description>
+</item>
+<item>
+<title>[Google News] Baidu OCR Breaks Long-Document Memory Wall: New Architecture Beats DeepSeek - Tech Times</title>
+<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXNNd1k3MF8xb29odkxmZldIbFlFSVdHbU1hQmJNWGFZMHVBRVVSaWlIbWdCWTNGaFNvcDNzMlUzMFNTOUE0ZXA3cURXVG5tSkpENnNMeEJFeEVySEMtTnVlS0dyMWF1aFVYN212eTJOcUVWNHFJU3B5WExTYVJHT21JdVUxTXIzUHB1SUZqZGdSazhXQlhXV1FIenJqLTZFSlhWcmEyZjBGNVctZ2pIdDAyZkpLT3dWOHdQenQwbkpiM05yaFFVdQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXNNd1k3MF8xb29odkxmZldIbFlFSVdHbU1hQmJNWGFZMHVBRVVSaWlIbWdCWTNGaFNvcDNzMlUzMFNTOUE0ZXA3cURXVG5tSkpENnNMeEJFeEVySEMtTnVlS0dyMWF1aFVYN212eTJOcUVWNHFJU3B5WExTYVJHT21JdVUxTXIzUHB1SUZqZGdSazhXQlhXV1FIenJqLTZFSlhWcmEyZjBGNVctZ2pIdDAyZkpLT3dWOHdQenQwbkpiM05yaFFVdQ?oc=5</guid>
+<pubDate>Thu, 25 Jun 2026 14:42:54 GMT</pubDate>
+<description>Baidu OCR Breaks Long-Document Memory Wall: New Architecture Beats DeepSeek &amp;nbsp;&amp;nbsp; Tech Times</description>
+</item>
+<item>
+<title>[Google News] DeepSeek Plans to Double Staff Across All Departments - Bloomberg</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlV1QmN3NHNuUG9OeTF4dllnNE1kcVNFRnVadWtYdTJtYUVTYkJDUE54S3BCRnZ3NFVVNGs0T0VPTTNaYVp4dVdocWg2Mko3MF9UN2dJbVFzQkM4Y1BwaEpxeE9iSS1IZzhTbzVuLXZhaVhmWkpJRTlNMXpNUnd0VnJDQURZUzY3aXZTcFJYaWkwdUd4R1d0OXZHaFlfWkpVam9ZWTkweVNGSVo2SHVIUThlbw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlV1QmN3NHNuUG9OeTF4dllnNE1kcVNFRnVadWtYdTJtYUVTYkJDUE54S3BCRnZ3NFVVNGs0T0VPTTNaYVp4dVdocWg2Mko3MF9UN2dJbVFzQkM4Y1BwaEpxeE9iSS1IZzhTbzVuLXZhaVhmWkpJRTlNMXpNUnd0VnJDQURZUzY3aXZTcFJYaWkwdUd4R1d0OXZHaFlfWkpVam9ZWTkweVNGSVo2SHVIUThlbw?oc=5</guid>
+<pubDate>Thu, 25 Jun 2026 14:32:32 GMT</pubDate>
+<description>DeepSeek Plans to Double Staff Across All Departments &amp;nbsp;&amp;nbsp; Bloomberg</description>
+</item>
+<item>
+<title>[Blog] The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts</title>
+<link>https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/</guid>
+<pubDate>Thu, 25 Jun 2026 13:00:34 +0000</pubDate>
+<description>Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Ell</description>
+</item>
+<item>
+<title>[YouTube] BNP Paribas accelerates AI-powered banking with Mistral</title>
+<link>https://www.youtube.com/watch?v=mZo6Y9f31r8</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=mZo6Y9f31r8</guid>
+<pubDate>Thu, 25 Jun 2026 12:55:38 GMT</pubDate>
+<description>What does it take to deploy frontier AI inside a global bank? BNP Paribas needed a partner who could run models on their own infrastructure, meet strict security and compliance requirements, and be energy-efficient at scale. Since the partnership began, our collaboration has expanded from models to </description>
 </item>
 <item>
 <title>[YouTube] NVIDIA cuPhoton: The Tech Fast-Tracking Space Discovery</title>
@@ -341,90 +425,6 @@
 <guid isPermaLink="false">https://www.youtube.com/shorts/Xe67WF8Hfu8</guid>
 <pubDate>Tue, 23 Jun 2026 07:50:42 GMT</pubDate>
 <description>One API. 27 different ML tasks. The secret is a simple input/output contract. The task ID defines what goes in and what comes out. Same pattern, every time. #TransformersJS #JavaScript #MachineLearning #AI #WebAI #Pipeline</description>
-</item>
-<item>
-<title>[Blog] NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations</title>
-<link>https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/</guid>
-<pubDate>Tue, 23 Jun 2026 06:00:09 +0000</pubDate>
-<description>Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Aut</description>
-</item>
-<item>
-<title>[Developer] How Telcos Build Autonomous Networks with Agentic AI</title>
-<link>https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai/</guid>
-<pubDate>Tue, 23 Jun 2026 06:00:00 GMT</pubDate>
-<description>Telecom operators are adopting AI across network operations, customer care, and back-office workflows, but most are still early in the journey to autonomy. In...</description>
-</item>
-<item>
-<title>[News] How Omio is building the future of conversational travel</title>
-<link>https://openai.com/index/omio</link>
-<guid isPermaLink="false">https://openai.com/index/omio</guid>
-<pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-<description>Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.</description>
-</item>
-<item>
-<title>[News] Introducing Claude Tag</title>
-<link>https://www.anthropic.com/news/introducing-claude-tag</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/introducing-claude-tag</guid>
-<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[Blog] Shipping huggingface_hub every week with AI, open tools, and a human in the loop</title>
-<link>https://huggingface.co/blog/huggingface-hub-release-ci</link>
-<guid isPermaLink="false">https://huggingface.co/blog/huggingface-hub-release-ci</guid>
-<pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Blog] Experimenting with the proposed Cross-Origin Storage API in Transformers.js</title>
-<link>https://huggingface.co/blog/cross-origin-storage</link>
-<guid isPermaLink="false">https://huggingface.co/blog/cross-origin-storage</guid>
-<pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] Meet the ChatGPT Futures, Class of 2026</title>
-<link>https://www.youtube.com/shorts/GhCP2eDrKHk</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/GhCP2eDrKHk</guid>
-<pubDate>Mon, 22 Jun 2026 21:06:32 GMT</pubDate>
-<description>The next generation is already building the future with AI. The ChatGPT Futures Class of 2026 came together in San Francisco to share the ideas they're pursuing, the projects they're building, and the experiences that inspired them to start. As the first graduating class to have ChatGPT throughout c</description>
-</item>
-<item>
-<title>[Google News] DeepSeek Reportedly Raises $7.4 Billion At More Than $50 Billion Valuation - Pulse 2.0</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQT1BmV2s3aEdxS1hfOWJJM1BYdm1tNm9sdzN3alR6UE5wcWRJSWhOQVM3Sk5rb0dydVBCSVJtd0swN3RBc2dpeC1uZVJXRFBUaEc5TWwyZmVIUGdkM1EyOHY3VjcxQWJkMzZCLXVWaHE5ZXVEZk0weXJYSU1hdWF1THV0MkdLd3hIdVF2OUh6dEJLS1RKV3A40gHnAUFVX3lxTE1zYkNOV25PZWxDeWstcXBSZEs1em5iM2VFeUxod3dOalZqSWY4RWNtckc0cVVrZUlwVEpQWnJfSS1RQV9HTmJ2bnYyRFRyblFQTndrZjhLZ1lNeTdyMHQ3aGtRVGQyQ1FxdHRVZ0VGc3N4NVpHVXV2TzFNY2tYSjdYd3daTzYtdkdGV0FHanNQQTRua253VW9aX0o0NFNDNE1XeTZraVpUSXhkOWVDMHRObUZjeDBDcmRTd2tQRk8yZFJOVDdmLWl4eUd3aGN3VnZQbjJIRzFJOG5KSXZ3YWNNMm9IZXMxdw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxQT1BmV2s3aEdxS1hfOWJJM1BYdm1tNm9sdzN3alR6UE5wcWRJSWhOQVM3Sk5rb0dydVBCSVJtd0swN3RBc2dpeC1uZVJXRFBUaEc5TWwyZmVIUGdkM1EyOHY3VjcxQWJkMzZCLXVWaHE5ZXVEZk0weXJYSU1hdWF1THV0MkdLd3hIdVF2OUh6dEJLS1RKV3A40gHnAUFVX3lxTE1zYkNOV25PZWxDeWstcXBSZEs1em5iM2VFeUxod3dOalZqSWY4RWNtckc0cVVrZUlwVEpQWnJfSS1RQV9HTmJ2bnYyRFRyblFQTndrZjhLZ1lNeTdyMHQ3aGtRVGQyQ1FxdHRVZ0VGc3N4NVpHVXV2TzFNY2tYSjdYd3daTzYtdkdGV0FHanNQQTRua253VW9aX0o0NFNDNE1XeTZraVpUSXhkOWVDMHRObUZjeDBDcmRTd2tQRk8yZFJOVDdmLWl4eUd3aGN3VnZQbjJIRzFJOG5KSXZ3YWNNMm9IZXMxdw?oc=5</guid>
-<pubDate>Mon, 22 Jun 2026 19:17:20 GMT</pubDate>
-<description>DeepSeek Reportedly Raises $7.4 Billion At More Than $50 Billion Valuation &amp;nbsp;&amp;nbsp; Pulse 2.0</description>
-</item>
-<item>
-<title>[YouTube] Training Agents: Live tutorial on how to fine-tune a coding agent for continual learning</title>
-<link>https://www.youtube.com/watch?v=rNgUoH7Wbv8</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=rNgUoH7Wbv8</guid>
-<pubDate>Mon, 22 Jun 2026 19:13:46 GMT</pubDate>
-<description>Training Agents, Session 1: from raw agent traces to a supervised fine-tuning baseline. In this live session, I’ll set up the first rung of an agentic post-training workflow: SFT. We’ll take public coding-agent traces, turn them into prompt/completion training data, run a small TRL + LoRA fine-tune,</description>
-</item>
-<item>
-<title>[Google News] Cheap Chinese AI models are quickly gaining customers across the US market: ‘This changes things’ - New York Post</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFVuN2xOSkpPb0x1c1FKNWZDNWdYNUkyZEdoMEFON3czVzVaRFU5NmlhX3BLSm5EVC13RGlGQ2hscDVNUUtKX0FVejZBUEE4bS16ZHN5Si1MbGE2LXR3eGthTVdUYUJTVVBFb1FHUTBTazl0OThNUk50NGVrQnFTYkw1S01jYW1fSDF3bDZYblgxTTQzYWdXSlRMTzA1bmxJNDlRd2phRDhlOENsclVBc3ZxeC0?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFVuN2xOSkpPb0x1c1FKNWZDNWdYNUkyZEdoMEFON3czVzVaRFU5NmlhX3BLSm5EVC13RGlGQ2hscDVNUUtKX0FVejZBUEE4bS16ZHN5Si1MbGE2LXR3eGthTVdUYUJTVVBFb1FHUTBTazl0OThNUk50NGVrQnFTYkw1S01jYW1fSDF3bDZYblgxTTQzYWdXSlRMTzA1bmxJNDlRd2phRDhlOENsclVBc3ZxeC0?oc=5</guid>
-<pubDate>Mon, 22 Jun 2026 19:01:00 GMT</pubDate>
-<description>Cheap Chinese AI models are quickly gaining customers across the US market: ‘This changes things’ &amp;nbsp;&amp;nbsp; New York Post</description>
-</item>
-<item>
-<title>[Google News] DeepSeek 2.0? New Chinese AI model GLM-5.2 generates buzz in Silicon Valley - The American Bazaar</title>
-<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3ZmcXVnTkVuZTAyVy1MQklDVGxiN1VBbFh2Q3RYNXJfSnZPVVY1bHRQZG1NYkhWXzVDZDBKVWFTSXlYNWVPX19NdWhWUG9EZzRWMXdTcW9YZHhGZC1RVFlnUzlWdE1lY2dEaXA3T2pRdTB0Ty0yTVNnUmJRY1pQVGE2ZldncWg3aHU1Nmh6WlpvbFBlMzdZVmJDMGEzb0tYWlJMOUEyNVBaSEM1?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3ZmcXVnTkVuZTAyVy1MQklDVGxiN1VBbFh2Q3RYNXJfSnZPVVY1bHRQZG1NYkhWXzVDZDBKVWFTSXlYNWVPX19NdWhWUG9EZzRWMXdTcW9YZHhGZC1RVFlnUzlWdE1lY2dEaXA3T2pRdTB0Ty0yTVNnUmJRY1pQVGE2ZldncWg3aHU1Nmh6WlpvbFBlMzdZVmJDMGEzb0tYWlJMOUEyNVBaSEM1?oc=5</guid>
-<pubDate>Mon, 22 Jun 2026 17:51:30 GMT</pubDate>
-<description>DeepSeek 2.0? New Chinese AI model GLM-5.2 generates buzz in Silicon Valley &amp;nbsp;&amp;nbsp; The American Bazaar</description>
-</item>
-<item>
-<title>[YouTube] How Zendesk CEO Tom Eggemeier goes from Idea to Action</title>
-<link>https://www.youtube.com/watch?v=27-GjDIWGo0</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=27-GjDIWGo0</guid>
-<pubDate>Mon, 22 Jun 2026 17:45:36 GMT</pubDate>
-<description>We’re excited to launch our new Monday Morning series, a leadership first take on going from idea to action in the AI era. First up is Tom Eggemeier, CEO at Zendesk who shares the one question that every CEO should ask of their board, and the Monday morning routine that sets him up for success. Grab</description>
 </item>
 </channel>
 </rss>
