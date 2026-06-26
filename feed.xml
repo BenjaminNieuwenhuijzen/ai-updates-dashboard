@@ -5,7 +5,63 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Fri, 26 Jun 2026 12:28:03 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 16:29:20 GMT</lastBuildDate>
+<item>
+<title>[Developer] Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer</title>
+<link>https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/</guid>
+<pubDate>Fri, 26 Jun 2026 16:00:35 GMT</pubDate>
+<description>As context windows grow longer, moving large model weights efficiently becomes critical to performance. A common way to address this is quantization, an...</description>
+</item>
+<item>
+<title>[YouTube] Bingyi Cao &amp; Koert Chen - TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text</title>
+<link>https://www.youtube.com/watch?v=DmGz7XRPFrQ</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=DmGz7XRPFrQ</guid>
+<pubDate>Fri, 26 Jun 2026 15:36:29 GMT</pubDate>
+<description>​00:00 Talk Intro 00:37 Why TIPS V2 02:04 Spatial Awareness Demos 04:14 Patch Text Alignment Gap 05:41 Distillation Mystery 06:53 Pretraining vs Distillation 08:58 Ablations Reveal Key 11:53 iBOT++ Upgrade 14:04 Head Only EMA 15:20 Multi Granularity Captions 16:51 Full Training Recipe 18:25 Live Q a</description>
+</item>
+<item>
+<title>[Google News] AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic - the-decoder.com</title>
+<link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNaGFvT2VneXdKSVA3VzdKUnFHVld4V3ZCRjdSczJUbzVfcEFJMzhQalF0LURuUlVyb0VVQlBjbUt0RVMxMi0wMGh5MHcwNk11eWllVUJ1RVJ4OGx4NnllOW9YRXRnVDRkVXdCQk5UZnEyQ1dTcGlkaWppUFo1Z0Z2eEVrZzVUMXp5Y0gtOHhpTDBiWm1aaTFQUWM0anRLTmtjbEtxU0pxeFptaFl6bjYwQ1BDWFAzdm9LelJhamxsbm5jcTZrajVnT0RDWQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxNaGFvT2VneXdKSVA3VzdKUnFHVld4V3ZCRjdSczJUbzVfcEFJMzhQalF0LURuUlVyb0VVQlBjbUt0RVMxMi0wMGh5MHcwNk11eWllVUJ1RVJ4OGx4NnllOW9YRXRnVDRkVXdCQk5UZnEyQ1dTcGlkaWppUFo1Z0Z2eEVrZzVUMXp5Y0gtOHhpTDBiWm1aaTFQUWM0anRLTmtjbEtxU0pxeFptaFl6bjYwQ1BDWFAzdm9LelJhamxsbm5jcTZrajVnT0RDWQ?oc=5</guid>
+<pubDate>Fri, 26 Jun 2026 15:11:58 GMT</pubDate>
+<description>AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic &amp;nbsp;&amp;nbsp; the-decoder.com</description>
+</item>
+<item>
+<title>[Google News] Chinese AI model emerges as fresh threat to Anthropic ahead of planned float - Yahoo! Finance Canada</title>
+<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNeE5RY3RTZ0lqYkg3dWxaTzNieVlpM2Z5WWQwT1FpdDVtWFpudjV5ZVZKVmhuVFpKaE4yOWRmM2FPN1VMQVlCYjY0bHNFNUVaLWNJZDdnbGgxS3pfZk0xRkFreU5KQ3VxZU1RVFlMbmFsdWVYZzJIUFpmZXo3bUY4Z29yajJpQQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNeE5RY3RTZ0lqYkg3dWxaTzNieVlpM2Z5WWQwT1FpdDVtWFpudjV5ZVZKVmhuVFpKaE4yOWRmM2FPN1VMQVlCYjY0bHNFNUVaLWNJZDdnbGgxS3pfZk0xRkFreU5KQ3VxZU1RVFlMbmFsdWVYZzJIUFpmZXo3bUY4Z29yajJpQQ?oc=5</guid>
+<pubDate>Fri, 26 Jun 2026 14:05:00 GMT</pubDate>
+<description>Chinese AI model emerges as fresh threat to Anthropic ahead of planned float &amp;nbsp;&amp;nbsp; Yahoo! Finance Canada</description>
+</item>
+<item>
+<title>[Google News] Anthropic's Powerful Mythos Model Spurs DeepSeek's $7.4 Billion Fundraising, The Information Reports - marketscreener.com</title>
+<link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYzBlU21xb0RRMkJlWENBaVRCdTRHZ3h0MmZXR3N6WUlmNXVRc0hoeU8tM3ZtSU1rckJmWU5tdXhNY2c5NTFrUHRoa3RucmtJdXhGM3RxVDlmNWJmVktoSkJieGxwTmd0UmlfSWdwMXl6VUdCZW1kVElCMmRBWndSdFkxSXZHdGJZWjk3MUNYUktxQmZrMzBlX0FFeVRFZ1BzMXBtaHhMUmt1c3hXNFd5NTE1SzZpVDQ5RVU0SWlNcE1NY1ZyeGYtOEhFNW04aWdGb2pEbXVXTDltM204cGxwakoxNDIyUQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYzBlU21xb0RRMkJlWENBaVRCdTRHZ3h0MmZXR3N6WUlmNXVRc0hoeU8tM3ZtSU1rckJmWU5tdXhNY2c5NTFrUHRoa3RucmtJdXhGM3RxVDlmNWJmVktoSkJieGxwTmd0UmlfSWdwMXl6VUdCZW1kVElCMmRBWndSdFkxSXZHdGJZWjk3MUNYUktxQmZrMzBlX0FFeVRFZ1BzMXBtaHhMUmt1c3hXNFd5NTE1SzZpVDQ5RVU0SWlNcE1NY1ZyeGYtOEhFNW04aWdGb2pEbXVXTDltM204cGxwakoxNDIyUQ?oc=5</guid>
+<pubDate>Fri, 26 Jun 2026 13:40:15 GMT</pubDate>
+<description>Anthropic's Powerful Mythos Model Spurs DeepSeek's $7.4 Billion Fundraising, The Information Reports &amp;nbsp;&amp;nbsp; marketscreener.com</description>
+</item>
+<item>
+<title>[Google News] Another DeepSeek moment? What's really behind the tech sell-off - CNBC</title>
+<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzNPMVJPRkxiYk5NQTJYVFhtNGpCMXZtZlZiYXc4dGFfbWQ0MnZGZ25OM0djSTY3ckJxR1g4UEZQVXpqUXhCSlNiWUlUdkk2Ukg2TzlTY0lSRy1ZSVBmSDcwanBkWlo1U3IwTTg5b0ZmOERuS0lZS0R0NTJ1Y1Brb0VBc2hxX1FoWUhnNlc5MUVXOUlqTXJVXzZ3dDZULWc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzNPMVJPRkxiYk5NQTJYVFhtNGpCMXZtZlZiYXc4dGFfbWQ0MnZGZ25OM0djSTY3ckJxR1g4UEZQVXpqUXhCSlNiWUlUdkk2Ukg2TzlTY0lSRy1ZSVBmSDcwanBkWlo1U3IwTTg5b0ZmOERuS0lZS0R0NTJ1Y1Brb0VBc2hxX1FoWUhnNlc5MUVXOUlqTXJVXzZ3dDZULWc?oc=5</guid>
+<pubDate>Fri, 26 Jun 2026 13:10:07 GMT</pubDate>
+<description>Another DeepSeek moment? What's really behind the tech sell-off &amp;nbsp;&amp;nbsp; CNBC</description>
+</item>
+<item>
+<title>[Google News] Anthropic’s Mythos Spooked DeepSeek, Prompting Its $7.4 Billion Fundraising - The Information</title>
+<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1kyM2RQTVppc3paZ0hFaEhrN0RxRnFHOU5reVdQRTZ3MjBVdmV2NUQ4dEpfMXJhU3g4TElZajdHR05XQkRQZWxaZ3VTZnlVNkpoYVYzZU1NbE1DOUpoMGVEUlZnLXRtTnphNzdOVXRsdDAyYmI2WGZUODgyendQaEtaWDV0a0NpSkxoWnp0U0Jxd2o3R1lhZm1fbENhaS1saFlDeG5VazYxOWhH?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1kyM2RQTVppc3paZ0hFaEhrN0RxRnFHOU5reVdQRTZ3MjBVdmV2NUQ4dEpfMXJhU3g4TElZajdHR05XQkRQZWxaZ3VTZnlVNkpoYVYzZU1NbE1DOUpoMGVEUlZnLXRtTnphNzdOVXRsdDAyYmI2WGZUODgyendQaEtaWDV0a0NpSkxoWnp0U0Jxd2o3R1lhZm1fbENhaS1saFlDeG5VazYxOWhH?oc=5</guid>
+<pubDate>Fri, 26 Jun 2026 13:00:00 GMT</pubDate>
+<description>Anthropic’s Mythos Spooked DeepSeek, Prompting Its $7.4 Billion Fundraising &amp;nbsp;&amp;nbsp; The Information</description>
+</item>
+<item>
+<title>[Google News] 'Humanity now stands on the eve of AGI': DeepSeek wants to "at least double the size of every department" as company pursues hiring spree in pursuit of AGI - TechRadar</title>
+<link>https://news.google.com/rss/articles/CBMijAJBVV95cUxPOERZblNwZGhvTHJhWERyUnU0cXYteExZLWsyT0ozUHBJaTVtWm9va1p3ME1USmFuTjBfeWg4V2k5Q3NpMkhEclROUGpKOHBnSWpadnhyNXNrUG5FNXRjSVBsMkViS2EzOC0wdi1QRTNzenJLdFBHUGFMb1Y0eEVIa1RBb1NiaTMyaFJ4YTdvSk9IMGREOG5oQTNyall4Uzkxd3N1anZLbTEwN1B6ZVFYX2o2S0FqY0g5cHptaDdqZlY5QmhXNWxxY1ZOMFZFbFdJcWdZZmJEV1FaallRelB6MTQ2QkpsN0NoWmdXWWJ0dUpxRGU4VGJCa0xWajBsOFF1eG1CTHVfSWFjLWdw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAJBVV95cUxPOERZblNwZGhvTHJhWERyUnU0cXYteExZLWsyT0ozUHBJaTVtWm9va1p3ME1USmFuTjBfeWg4V2k5Q3NpMkhEclROUGpKOHBnSWpadnhyNXNrUG5FNXRjSVBsMkViS2EzOC0wdi1QRTNzenJLdFBHUGFMb1Y0eEVIa1RBb1NiaTMyaFJ4YTdvSk9IMGREOG5oQTNyall4Uzkxd3N1anZLbTEwN1B6ZVFYX2o2S0FqY0g5cHptaDdqZlY5QmhXNWxxY1ZOMFZFbFdJcWdZZmJEV1FaallRelB6MTQ2QkpsN0NoWmdXWWJ0dUpxRGU4VGJCa0xWajBsOFF1eG1CTHVfSWFjLWdw?oc=5</guid>
+<pubDate>Fri, 26 Jun 2026 12:35:00 GMT</pubDate>
+<description>'Humanity now stands on the eve of AGI': DeepSeek wants to "at least double the size of every department" as company pursues hiring spree in pursuit of AGI &amp;nbsp;&amp;nbsp; TechRadar</description>
+</item>
 <item>
 <title>[Google News] Why is DeepSeek winning the token race? - The Low Down - Momentum Works</title>
 <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBGb3NSZ2FNUENmUDRpRFJDMDJ6bjNVVVgtbE9wYzdGVUhLQUFiVW5NVTZhUklCdmMxM3F5RDZ3eE5LLTJPWGVoM1NqNnFER2lnQVNMcFBJMC03SmpJMjdUOTUwY1ZnamFMWWozUnRnbHB4ZE5RNkRPM2ZRSnE?oc=5</link>
@@ -19,6 +75,13 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=mFwWax5pLTs</guid>
 <pubDate>Fri, 26 Jun 2026 11:00:22 GMT</pubDate>
 <description>Découvrez comment Verso développe une entreprise véritablement AI-native. Lors de cette session enregistrée lors de l'événement OpenAI France en juin 2026, Lydia Bellahouel, cofondatrice et CEO de Verso, partage la manière dont son équipe s'appuie sur les modèles OpenAI, Codex et des systèmes multi-</description>
+</item>
+<item>
+<title>[Google News] China: DeepSeek launches massive hiring push amid AI talent war - Plataforma Media</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkVGQWJCN3EySUUybWc5VTEtNTBjSlVsTUIxUUkwMzgzbEM1d1FEQUNvNFZCOWpvSkNISzJrMW1ZS2RmbnZsTFZsTkZLeDRmZF9BSkluUVZ2R1FxRF9tTGZGVzBwZ25uOGctSHhCeDdXdGZmTmVxakx6RGc0NEZBRUR0eHFVM2dmTUhNcFJFYkhRZ25PdjMxRWNqbWg3cFdCSkdMOFdmZFlvalRxOVE?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkVGQWJCN3EySUUybWc5VTEtNTBjSlVsTUIxUUkwMzgzbEM1d1FEQUNvNFZCOWpvSkNISzJrMW1ZS2RmbnZsTFZsTkZLeDRmZF9BSkluUVZ2R1FxRF9tTGZGVzBwZ25uOGctSHhCeDdXdGZmTmVxakx6RGc0NEZBRUR0eHFVM2dmTUhNcFJFYkhRZ25PdjMxRWNqbWg3cFdCSkdMOFdmZFlvalRxOVE?oc=5</guid>
+<pubDate>Fri, 26 Jun 2026 10:45:53 GMT</pubDate>
+<description>China: DeepSeek launches massive hiring push amid AI talent war &amp;nbsp;&amp;nbsp; Plataforma Media</description>
 </item>
 <item>
 <title>[Google News] DeepSeek plans major hiring drive as AI startup prepares for $7 billion fundraising - HR Katha</title>
@@ -38,7 +101,7 @@
 <title>[Google News] DeepSeek-v4-Fable: A Security-Focused AI Agent for CTFs - HackerNoon</title>
 <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPSWtiWTh2MDNJY05kSTZSU0E0UllXRURHcVJTX0I1bkdxekg3WGxXNU1mWkhiTUpJMEh6YlJlaXRVMFRyT0VKa1VZNUJnb2s2YjctUE8zVzBsNzk0bzVXTUpRUTNBeXFuWE10ZVEwd2FCUENCcldFOWg5aW9qVEFRUm1BUQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxPSWtiWTh2MDNJY05kSTZSU0E0UllXRURHcVJTX0I1bkdxekg3WGxXNU1mWkhiTUpJMEh6YlJlaXRVMFRyT0VKa1VZNUJnb2s2YjctUE8zVzBsNzk0bzVXTUpRUTNBeXFuWE10ZVEwd2FCUENCcldFOWg5aW9qVEFRUm1BUQ?oc=5</guid>
-<pubDate>Fri, 26 Jun 2026 05:48:45 GMT</pubDate>
+<pubDate>Fri, 26 Jun 2026 05:54:49 GMT</pubDate>
 <description>DeepSeek-v4-Fable: A Security-Focused AI Agent for CTFs &amp;nbsp;&amp;nbsp; HackerNoon</description>
 </item>
 <item>
@@ -91,11 +154,11 @@
 <description>Morning Briefing by Xiao K | DeepSeek Plans to Double Its Headcount; Apple's Market Cap Vanishes by 1.8 Trillion Yuan Overnight &amp;nbsp;&amp;nbsp; Moomoo</description>
 </item>
 <item>
-<title>[Google News] Morning Brief by Xiao K | DeepSeek Plans to Double Its Workforce; Apple’s Market Cap Drops by RMB 1.8 Trillion Overnight - 富途牛牛</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTgwNTNwMWdKRU95TlRWSUtwT2RhcGRTRnVSVnE4VzJYUURBaVRLUXdFc2ZzaHRocGlUTWpTZ2ZCeGhhVG41SlBFVGFmbkMwVmQ0dzQtd1RoSDYwUDlpV2UzbVFrU2VZT3V4RDZwb3VTbENSVUlzYUJ2OElaT3NkQkVoTS00Y2pZMnN3Wkk4WFl1VnNyQWlheQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTgwNTNwMWdKRU95TlRWSUtwT2RhcGRTRnVSVnE4VzJYUURBaVRLUXdFc2ZzaHRocGlUTWpTZ2ZCeGhhVG41SlBFVGFmbkMwVmQ0dzQtd1RoSDYwUDlpV2UzbVFrU2VZT3V4RDZwb3VTbENSVUlzYUJ2OElaT3NkQkVoTS00Y2pZMnN3Wkk4WFl1VnNyQWlheQ?oc=5</guid>
-<pubDate>Fri, 26 Jun 2026 00:07:48 GMT</pubDate>
-<description>Morning Brief by Xiao K | DeepSeek Plans to Double Its Workforce; Apple’s Market Cap Drops by RMB 1.8 Trillion Overnight &amp;nbsp;&amp;nbsp; 富途牛牛</description>
+<title>[Research] Anthropic Economic Index report: Cadences</title>
+<link>https://www.anthropic.com/research/economic-index-june-2026-report</link>
+<guid isPermaLink="false">https://www.anthropic.com/research/economic-index-june-2026-report</guid>
+<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+<description>In the latest Anthropic Economic Index report, we look at when people come to Claude, what they produce with it, and how they perceive AI’s impact on their work.</description>
 </item>
 <item>
 <title>[Blog] Run a vLLM Server on HF Jobs in One Command</title>
@@ -103,13 +166,6 @@
 <guid isPermaLink="false">https://huggingface.co/blog/vllm-jobs</guid>
 <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
 
-</item>
-<item>
-<title>[Google News] DeepSeek to double workforce ahead of $7.35b funding - Tech in Asia</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWV9ES3JUMDFqalB1a0oxSWNrRnk1d2FTZW5oWk1XV2xtcExJNzd6TUkyMDl1NjZlSHV4blFZWVZjY2ZzM2VuWUpVMlVXWkNSUnNwVW1ycnNPMEpNTERQRjJscjNCNk8xV0NuWGJtcFBvODNBUm51bUZNcnVhNWdSQUpzNVhpRkZpaFFz?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWV9ES3JUMDFqalB1a0oxSWNrRnk1d2FTZW5oWk1XV2xtcExJNzd6TUkyMDl1NjZlSHV4blFZWVZjY2ZzM2VuWUpVMlVXWkNSUnNwVW1ycnNPMEpNTERQRjJscjNCNk8xV0NuWGJtcFBvODNBUm51bUZNcnVhNWdSQUpzNVhpRkZpaFFz?oc=5</guid>
-<pubDate>Thu, 25 Jun 2026 23:39:00 GMT</pubDate>
-<description>DeepSeek to double workforce ahead of $7.35b funding &amp;nbsp;&amp;nbsp; Tech in Asia</description>
 </item>
 <item>
 <title>[Developer] Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps</title>
@@ -217,11 +273,18 @@
 <description>Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language. The post Understanding the brain with AI-driven explanations and experiments appeared first on Micr</description>
 </item>
 <item>
-<title>[Google News] DeepSeek Plans to Double Staff Across All Departments - Bloomberg</title>
+<title>[Google News] DeepSeek Plans to Double Staff Across All Departments - Bloomberg.com</title>
 <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlV1QmN3NHNuUG9OeTF4dllnNE1kcVNFRnVadWtYdTJtYUVTYkJDUE54S3BCRnZ3NFVVNGs0T0VPTTNaYVp4dVdocWg2Mko3MF9UN2dJbVFzQkM4Y1BwaEpxeE9iSS1IZzhTbzVuLXZhaVhmWkpJRTlNMXpNUnd0VnJDQURZUzY3aXZTcFJYaWkwdUd4R1d0OXZHaFlfWkpVam9ZWTkweVNGSVo2SHVIUThlbw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlV1QmN3NHNuUG9OeTF4dllnNE1kcVNFRnVadWtYdTJtYUVTYkJDUE54S3BCRnZ3NFVVNGs0T0VPTTNaYVp4dVdocWg2Mko3MF9UN2dJbVFzQkM4Y1BwaEpxeE9iSS1IZzhTbzVuLXZhaVhmWkpJRTlNMXpNUnd0VnJDQURZUzY3aXZTcFJYaWkwdUd4R1d0OXZHaFlfWkpVam9ZWTkweVNGSVo2SHVIUThlbw?oc=5</guid>
 <pubDate>Thu, 25 Jun 2026 15:35:33 GMT</pubDate>
-<description>DeepSeek Plans to Double Staff Across All Departments &amp;nbsp;&amp;nbsp; Bloomberg</description>
+<description>DeepSeek Plans to Double Staff Across All Departments &amp;nbsp;&amp;nbsp; Bloomberg.com</description>
+</item>
+<item>
+<title>[Google News] Chinese A.I. Models Gain Ground on Anthropic and OpenAI - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5</guid>
+<pubDate>Thu, 25 Jun 2026 15:34:41 GMT</pubDate>
+<description>Chinese A.I. Models Gain Ground on Anthropic and OpenAI &amp;nbsp;&amp;nbsp; The New York Times</description>
 </item>
 <item>
 <title>[Google News] China's DeepSeek plans to at least double staff in all departments - Reuters</title>
@@ -229,13 +292,6 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVB4ZXNNQUlBbXh2N1FQb2VGdTFvYzdUMzhQZ0xxd0thUy1BRnZhTnI0Mi05MjRKeUU1V2MyM3ZhUW52ZWpwd2ZqNVRJUkw0akZDTm03bDJjcjRfNU1SdG9udXBENkUxS3QzWlBpVjdfSlpUME1pVjUyMVAydUJKSDRaaVpKTkk5YUtTVENOaWx5RUdQaTRGQ0NCRTVPZmNsaVNPSlo2RTFFNzhFSWRDUg?oc=5</guid>
 <pubDate>Thu, 25 Jun 2026 15:13:44 GMT</pubDate>
 <description>China's DeepSeek plans to at least double staff in all departments &amp;nbsp;&amp;nbsp; Reuters</description>
-</item>
-<item>
-<title>[Google News] DeepSeek plans to double staff after raising $7.4 billion in first external funding round - Crypto Briefing</title>
-<link>https://news.google.com/rss/articles/CBMicEFVX3lxTE9LQ2h1WTA3dXJFeFd2WGZQU1FpOFQtUGRRdHh6QkF6MjZpT0hlV0dsT2RMVk5kWnI5YThKdGk1c002RnJKTlIzYnpxZTRWRkhuaVluTUpIMWpfQ1hNdXNUdURlcnJfbzA5LTlZX2xYQXg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMicEFVX3lxTE9LQ2h1WTA3dXJFeFd2WGZQU1FpOFQtUGRRdHh6QkF6MjZpT0hlV0dsT2RMVk5kWnI5YThKdGk1c002RnJKTlIzYnpxZTRWRkhuaVluTUpIMWpfQ1hNdXNUdURlcnJfbzA5LTlZX2xYQXg?oc=5</guid>
-<pubDate>Thu, 25 Jun 2026 14:51:57 GMT</pubDate>
-<description>DeepSeek plans to double staff after raising $7.4 billion in first external funding round &amp;nbsp;&amp;nbsp; Crypto Briefing</description>
 </item>
 <item>
 <title>[Google News] DeepSeek plans to double workforce amid $7.4 billion raise - Investing.com</title>
@@ -368,62 +424,6 @@
 <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</link>
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</guid>
 <pubDate>Wed, 24 Jun 2026 16:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[Research] Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis</title>
-<link>https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/</link>
-<guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/</guid>
-<pubDate>Wed, 24 Jun 2026 14:00:14 +0000</pubDate>
-<description>Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review. The post Talos: Scaling rare disease diagnosis with automated, iterative ge</description>
-</item>
-<item>
-<title>[Google News] Tencent Shares Jump 6% as WeCom Rolls Out DeepSeek-Powered AI Agent - TradingView</title>
-<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHhRSHdodFdrZHB1RUlJNW0xeTNfSHdVX19aTzFUaGJpVTF3OFJSSHQyYnZuVTRhSWZCOTN5MWxFam9MdTl4dzJHZF9YRGNzd1YwanJST1ZBSGlDUldiWDNoa2ZJa1BHNkxBd2hpY0NUMDY1RmdtTUNLQlFOenpnVjdkeklOMmFYTEdvc0U2TUZ0OTBNbVdvdjJHTmkxSm1MRVdZYUlzZm16Mm9pMzUxUFFCZlZXWXY1X2VFOVRQMVRlcllF?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHhRSHdodFdrZHB1RUlJNW0xeTNfSHdVX19aTzFUaGJpVTF3OFJSSHQyYnZuVTRhSWZCOTN5MWxFam9MdTl4dzJHZF9YRGNzd1YwanJST1ZBSGlDUldiWDNoa2ZJa1BHNkxBd2hpY0NUMDY1RmdtTUNLQlFOenpnVjdkeklOMmFYTEdvc0U2TUZ0OTBNbVdvdjJHTmkxSm1MRVdZYUlzZm16Mm9pMzUxUFFCZlZXWXY1X2VFOVRQMVRlcllF?oc=5</guid>
-<pubDate>Wed, 24 Jun 2026 13:36:42 GMT</pubDate>
-<description>Tencent Shares Jump 6% as WeCom Rolls Out DeepSeek-Powered AI Agent &amp;nbsp;&amp;nbsp; TradingView</description>
-</item>
-<item>
-<title>[News] Bringing more control over your connectors</title>
-<link>https://mistral.ai/news/more-control-over-connectors/</link>
-<guid isPermaLink="false">https://mistral.ai/news/more-control-over-connectors/</guid>
-<pubDate>Wed, 24 Jun 2026 12:00:30 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] Debug MCP Connector Auth with the Connectors Debugger</title>
-<link>https://www.youtube.com/watch?v=QjoTkonLub4</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=QjoTkonLub4</guid>
-<pubDate>Wed, 24 Jun 2026 06:00:36 GMT</pubDate>
-<description>The Connectors Debugger in Studio runs through every step of MCP OAuth authentication and shows you exactly where a connection breaks — and what the server actually said. In this video, we'll use it to diagnose two real authentication failures on a live server and fix both of them. Connectors Debugg</description>
-</item>
-<item>
-<title>[News] OpenAI and Broadcom unveil LLM-optimized inference chip</title>
-<link>https://openai.com/index/openai-broadcom-jalapeno-inference-chip</link>
-<guid isPermaLink="false">https://openai.com/index/openai-broadcom-jalapeno-inference-chip</guid>
-<pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
-<description>OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.</description>
-</item>
-<item>
-<title>[Google News] Tencent Tests DeepSeek-Powered AI Agent for WeChat Corporate App - Yahoo Finance</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxQODNKSlpudzJKYXhWb1RZTjhFSmR2Y2ZTNHZKNHdOYmQ5NEJXMUlKa1UxLWUzb01SNWl0Y3Z1VmIyNFBSaU1JQU5wc3pHYWVvd2pSN1FrN20tZ3FkQVVQSG1selNOYW5JaE5zTkJCazZLMUJrQ2wwTzNPMjRhWHBpeXhBSGhPY2hWWkprc1RCbDVURlphWENvTUltUWFFZw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxQODNKSlpudzJKYXhWb1RZTjhFSmR2Y2ZTNHZKNHdOYmQ5NEJXMUlKa1UxLWUzb01SNWl0Y3Z1VmIyNFBSaU1JQU5wc3pHYWVvd2pSN1FrN20tZ3FkQVVQSG1selNOYW5JaE5zTkJCazZLMUJrQ2wwTzNPMjRhWHBpeXhBSGhPY2hWWkprc1RCbDVURlphWENvTUltUWFFZw?oc=5</guid>
-<pubDate>Wed, 24 Jun 2026 04:29:00 GMT</pubDate>
-<description>Tencent Tests DeepSeek-Powered AI Agent for WeChat Corporate App &amp;nbsp;&amp;nbsp; Yahoo Finance</description>
-</item>
-<item>
-<title>[Blog] NVIDIA and AWS Collaborate to Bring AI to Production at Scale</title>
-<link>https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/</guid>
-<pubDate>Wed, 24 Jun 2026 00:05:37 +0000</pubDate>
-<description>Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Am</description>
-</item>
-<item>
-<title>[Blog] Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World</title>
-<link>https://huggingface.co/blog/ffasr-leaderboard</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ffasr-leaderboard</guid>
-<pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
 
 </item>
 </channel>
