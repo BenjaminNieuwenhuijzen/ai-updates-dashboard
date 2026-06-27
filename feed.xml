@@ -5,13 +5,20 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Sat, 27 Jun 2026 10:24:41 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 14:07:46 GMT</lastBuildDate>
 <item>
 <title>[Google News] DeepSeek V4 updates DSpark, boosting inference speed by 80% - 富途牛牛</title>
 <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQaU1kM1hIclcwVnNUOFM3ZlNVR3ZUYWx5ckFqbW43SWlJeEdCNHhpcWk0ZkVvQldnLTNJMzNzN1BETW1qTXlUOTkwc2dNcV9WVTdxMlJaWlVVY19jQUwxczRDTFJ2ZzdFMk9rd0ZLTTh1N3dXemNHTWE2SWRaS0EtbHk5c0xGSmxMYllGc3o3YkltNEVEeFdsVV9MdDJ0TGc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxQaU1kM1hIclcwVnNUOFM3ZlNVR3ZUYWx5ckFqbW43SWlJeEdCNHhpcWk0ZkVvQldnLTNJMzNzN1BETW1qTXlUOTkwc2dNcV9WVTdxMlJaWlVVY19jQUwxczRDTFJ2ZzdFMk9rd0ZLTTh1N3dXemNHTWE2SWRaS0EtbHk5c0xGSmxMYllGc3o3YkltNEVEeFdsVV9MdDJ0TGc?oc=5</guid>
-<pubDate>Sat, 27 Jun 2026 09:17:19 GMT</pubDate>
+<pubDate>Sat, 27 Jun 2026 09:13:33 GMT</pubDate>
 <description>DeepSeek V4 updates DSpark, boosting inference speed by 80% &amp;nbsp;&amp;nbsp; 富途牛牛</description>
+</item>
+<item>
+<title>[Google News] DeepSeek V4 Launches DSpark, Increasing Inference Speed by 80% - KuCoin</title>
+<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPYktfeFNmMEc1RjhqYkUzRDZaRVA2UWg2cEtRYkh0RV8xc3EteUE3dFpCY2xnMXNkLS13bV9USkJLLUROUGRoUDc4T05ROWxnNFRCOWpJMDZGQ1pyR19CNEdaS2Rmb2lOeEM2V0RRYmRCQUdCMUZScW5BVjRPOFlwOEdycTRiX0oxZUdpUEdqQW4yempt?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxPYktfeFNmMEc1RjhqYkUzRDZaRVA2UWg2cEtRYkh0RV8xc3EteUE3dFpCY2xnMXNkLS13bV9USkJLLUROUGRoUDc4T05ROWxnNFRCOWpJMDZGQ1pyR19CNEdaS2Rmb2lOeEM2V0RRYmRCQUdCMUZScW5BVjRPOFlwOEdycTRiX0oxZUdpUEdqQW4yempt?oc=5</guid>
+<pubDate>Sat, 27 Jun 2026 09:03:08 GMT</pubDate>
+<description>DeepSeek V4 Launches DSpark, Increasing Inference Speed by 80% &amp;nbsp;&amp;nbsp; KuCoin</description>
 </item>
 <item>
 <title>[Google News] DeepSeek Transforms From Idealism to Aggressive Expansion with $7B Funding and Massive Hiring - Pandaily</title>
@@ -82,6 +89,13 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=6UKl8e8-qKE</guid>
 <pubDate>Fri, 26 Jun 2026 17:11:20 GMT</pubDate>
 <description>00:00 Welcome and speaker intro 00:58 Why interpret physics 02:21 Video models break physics 04:44 How minds simulate physics 07:25 Human intuitive physics biases 11:07 From humans to model audits 13:43 Study questions and goals 17:26 High level findings preview 20:35 Task design and generality 24:1</description>
+</item>
+<item>
+<title>[Azure] The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code</title>
+<link>https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/</link>
+<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/</guid>
+<pubDate>Fri, 26 Jun 2026 17:00:00 +0000</pubDate>
+<description>Poor database performance is never just a database problem. In enterprise teams, it shows up as missed SLAs, delayed releases, frustrated development teams, and rising operational risk. The performance problem compounds further in business impact, often resulting in frustrated customers, retention a</description>
 </item>
 <item>
 <title>[Developer] Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer</title>
@@ -411,20 +425,6 @@
 <guid isPermaLink="false">https://www.youtube.com/shorts/TjOeI2dFz5o</guid>
 <pubDate>Wed, 24 Jun 2026 17:00:10 GMT</pubDate>
 <description>See how the new NVIDIA RTX Spark laptops accelerate heavy creative workflows. Featuring 128GB of unified memory, these systems enable creators to edit up to 12K video and render massive 3D scenes locally. Watch as DLSS Ray Reconstruction delivers real-time, final-quality viewport previews directly w</description>
-</item>
-<item>
-<title>[Research] Thinking to recall: How reasoning unlocks parametric knowledge in LLMs</title>
-<link>https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/</link>
-<guid isPermaLink="false">https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/</guid>
-<pubDate>Wed, 24 Jun 2026 16:51:52 +0000</pubDate>
-
-</item>
-<item>
-<title>[DeepMind] Introducing computer use in Gemini 3.5 Flash</title>
-<link>https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/</guid>
-<pubDate>Wed, 24 Jun 2026 16:30:01 +0000</pubDate>
-
 </item>
 </channel>
 </rss>
