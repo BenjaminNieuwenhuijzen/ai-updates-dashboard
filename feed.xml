@@ -5,7 +5,7 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Sat, 27 Jun 2026 19:46:10 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 21:21:04 GMT</lastBuildDate>
 <item>
 <title>[Google News] DeepSeek unveils DSpark for 60% to 85% faster inference optimization - Crypto Briefing</title>
 <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE9uV29nTEQ2d2hQcWJsbWNOWGxEVmlzdXc4Vkh4RjQ1c0xzdllCT2llMTJ3YXp1NXhpRWc0dGlReUtWdUxNS05EZE5JRl9YZ19xeGw3dGlOWWFCWktRVlJaVEJrd2pfRlZqaHlCXw?oc=5</link>
@@ -371,13 +371,6 @@
 <description>Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Ell</description>
 </item>
 <item>
-<title>[Microsoft 365] Copilot in Excel: Built for the era of Frontier Finance</title>
-<link>https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/</link>
-<guid isPermaLink="false">https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/</guid>
-<pubDate>Thu, 25 Jun 2026 13:00:00 +0000</pubDate>
-<description>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice. The post Copilot in Excel: Built for the era of Frontier Finance appeared first on Microsoft 365 Blog .</description>
-</item>
-<item>
 <title>[YouTube] BNP Paribas accelerates AI-powered banking with Mistral</title>
 <link>https://www.youtube.com/watch?v=mZo6Y9f31r8</link>
 <guid isPermaLink="false">https://www.youtube.com/watch?v=mZo6Y9f31r8</guid>
@@ -425,6 +418,13 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiVEFVX3lxTE54NEo1NzlWbkpuaUVocWVDTjNIR1dMWnR4WWlzX0JNUDJSZlV2b2t2cWV2U0Z0NnU5ZlNyTm1WQU9kVzlBTGdUbGxVamh3ZW5rdEQ0ZQ?oc=5</guid>
 <pubDate>Wed, 24 Jun 2026 20:37:34 GMT</pubDate>
 <description>DeepSeek V4 API: The Complete Developer Guide &amp;nbsp;&amp;nbsp; SitePoint</description>
+</item>
+<item>
+<title>[YouTube] Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302</title>
+<link>https://www.youtube.com/shorts/4mrfqPuXYA4</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/4mrfqPuXYA4</guid>
+<pubDate>Wed, 24 Jun 2026 18:48:39 GMT</pubDate>
+<description>Real grocery stores are hard on AI: changing shelves, spotty Wi-Fi and shoppers on the move. On the NVIDIA AI Podcast, Instacart's David McIntosh shares how Caper Carts use NVIDIA Jetson and edge AI to recognize items in store.</description>
 </item>
 </channel>
 </rss>
