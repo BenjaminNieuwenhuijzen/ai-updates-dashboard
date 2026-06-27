@@ -5,7 +5,7 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Sat, 27 Jun 2026 21:21:04 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 23:18:01 GMT</lastBuildDate>
 <item>
 <title>[Google News] DeepSeek unveils DSpark for 60% to 85% faster inference optimization - Crypto Briefing</title>
 <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE9uV29nTEQ2d2hQcWJsbWNOWGxEVmlzdXc4Vkh4RjQ1c0xzdllCT2llMTJ3YXp1NXhpRWc0dGlReUtWdUxNS05EZE5JRl9YZ19xeGw3dGlOWWFCWktRVlJaVEJrd2pfRlZqaHlCXw?oc=5</link>
@@ -103,6 +103,13 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=6UKl8e8-qKE</guid>
 <pubDate>Fri, 26 Jun 2026 17:11:20 GMT</pubDate>
 <description>00:00 Welcome and speaker intro 00:58 Why interpret physics 02:21 Video models break physics 04:44 How minds simulate physics 07:25 Human intuitive physics biases 11:07 From humans to model audits 13:43 Study questions and goals 17:26 High level findings preview 20:35 Task design and generality 24:1</description>
+</item>
+<item>
+<title>[Azure] The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code</title>
+<link>https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/</link>
+<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/</guid>
+<pubDate>Fri, 26 Jun 2026 17:00:00 +0000</pubDate>
+<description>Poor database performance is never just a database problem. In enterprise teams, it shows up as missed SLAs, delayed releases, frustrated development teams, and rising operational risk. The performance problem compounds further in business impact, often resulting in frustrated customers, retention a</description>
 </item>
 <item>
 <title>[Developer] Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer</title>
@@ -336,11 +343,11 @@
 <description>DeepSeek Plans to Double Staff Across All Departments &amp;nbsp;&amp;nbsp; Bloomberg.com</description>
 </item>
 <item>
-<title>[Google News] Chinese A.I. Models Close the Gap With Anthropic and OpenAI - The New York Times</title>
+<title>[Google News] Chinese A.I. Models Gain Ground on Anthropic and OpenAI - The New York Times</title>
 <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5</guid>
 <pubDate>Thu, 25 Jun 2026 15:34:41 GMT</pubDate>
-<description>Chinese A.I. Models Close the Gap With Anthropic and OpenAI &amp;nbsp;&amp;nbsp; The New York Times</description>
+<description>Chinese A.I. Models Gain Ground on Anthropic and OpenAI &amp;nbsp;&amp;nbsp; The New York Times</description>
 </item>
 <item>
 <title>[Google News] China's DeepSeek plans to at least double staff in all departments - Reuters</title>
@@ -418,13 +425,6 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiVEFVX3lxTE54NEo1NzlWbkpuaUVocWVDTjNIR1dMWnR4WWlzX0JNUDJSZlV2b2t2cWV2U0Z0NnU5ZlNyTm1WQU9kVzlBTGdUbGxVamh3ZW5rdEQ0ZQ?oc=5</guid>
 <pubDate>Wed, 24 Jun 2026 20:37:34 GMT</pubDate>
 <description>DeepSeek V4 API: The Complete Developer Guide &amp;nbsp;&amp;nbsp; SitePoint</description>
-</item>
-<item>
-<title>[YouTube] Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302</title>
-<link>https://www.youtube.com/shorts/4mrfqPuXYA4</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/4mrfqPuXYA4</guid>
-<pubDate>Wed, 24 Jun 2026 18:48:39 GMT</pubDate>
-<description>Real grocery stores are hard on AI: changing shelves, spotty Wi-Fi and shoppers on the move. On the NVIDIA AI Podcast, Instacart's David McIntosh shares how Caper Carts use NVIDIA Jetson and edge AI to recognize items in store.</description>
 </item>
 </channel>
 </rss>
