@@ -5,7 +5,28 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Mon, 29 Jun 2026 16:12:38 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 18:24:04 GMT</lastBuildDate>
+<item>
+<title>[Blog] DiScoFormer: One transformer for density and score, across distributions</title>
+<link>https://huggingface.co/blog/allenai/discoformer</link>
+<guid isPermaLink="false">https://huggingface.co/blog/allenai/discoformer</guid>
+<pubDate>Mon, 29 Jun 2026 18:02:48 GMT</pubDate>
+
+</item>
+<item>
+<title>[Gemini] The Gemini app is bringing personalized image creation to more users.</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion/</guid>
+<pubDate>Mon, 29 Jun 2026 17:30:00 +0000</pubDate>
+<description>Personal Intelligence makes the Gemini app feel tailored to you. With your permission, it pulls from Google tools like Gmail, Google Photos, YouTube and Search to provid…</description>
+</item>
+<item>
+<title>[Blog] Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure</title>
+<link>https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/</guid>
+<pubDate>Mon, 29 Jun 2026 17:00:19 +0000</pubDate>
+<description>Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise</description>
+</item>
 <item>
 <title>[Newsroom] It’s Time to Reserve Your WhatsApp Username</title>
 <link>https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/</link>
@@ -26,6 +47,13 @@
 <guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/</guid>
 <pubDate>Mon, 29 Jun 2026 16:00:00 +0000</pubDate>
 <description>We recently announced the preview of the BigQuery AI.AGG() function. With AI.AGG() , you can use natural-language instructions within a single line of SQL to summarize or synthesize information over millions of rows of unstructured or even multimodal data. Summarize millions of rows with one line of</description>
+</item>
+<item>
+<title>[Cloud AI] Cloud CISO Perspectives: How Google Cloud Security uses AI internally</title>
+<link>https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/</guid>
+<pubDate>Mon, 29 Jun 2026 16:00:00 +0000</pubDate>
+<description>Welcome to the second Cloud CISO Perspectives for June 2026. Today, we’re discussing how we use AI to chart a path to autonomous software development lifecycle security. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this </description>
 </item>
 <item>
 <title>[Gemini] Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.</title>
@@ -152,13 +180,6 @@
 <guid isPermaLink="false">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
 <pubDate>Mon, 29 Jun 2026 07:00:00 GMT</pubDate>
 <description>A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.</description>
-</item>
-<item>
-<title>[Google News] DeepSeek says it has found a way to make AI 85 per cent faster, flagship chip not required - India Today</title>
-<link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxOamdDN2VILWlTOFNjNUlnM3FuNHRxemstNTRSMXBoQUhtZUQ4eGlySUdLRW1uTGJ2eXJxTDh5SFhiY2JrT0YycG1BNzJ0SjFJTVBaSE9HM09kejBBLVMydWNBQ09nTFIzTHA4SllNZi1TSzA5SXNsdjRONGlOYldKUDBvSDYzdHBGSGV3eVF2cl9lRDEzbHp4djRrUWtJWFFucTNGME9ic2VLWVRlX0pSeThXamVfTFRSY2NSWDQzbmlRYWE4aVpVZktzS3JlQU1jWnd5QWFyV0JJTkFVWUxxT3BRaHJjb2NkLVpwetIB8gFBVV95cUxNVmtUVGJkcUVUUkVicXJtaGw1UDJLQlZhWF9ZU01tR1JESTVmRTRkX0tkZ1Eza2dJcGl0dTU2eUFDcUxYaXF2ajNDTHBKVmxIU0I4UGdLTGNDYlFGWnlEanBMbHNWS3NBU2ZoTmNkR181Y09KOG5LS01lemlBMXpZU1VpSFFSMWwtSWpmRDByRmtSakdIdG43N0hhQTNkNEZsZUFFWHBXRS1JbjlJd2J3YzZnRTdjZ2xOLU83dGxnWmR3SWUtY2Q5SlVvNWhsYnZOV3MyNktxWERDdTQwT0Y5ejBwaEZwaGdJcmF0ZDVGNkxQZw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi7AFBVV95cUxOamdDN2VILWlTOFNjNUlnM3FuNHRxemstNTRSMXBoQUhtZUQ4eGlySUdLRW1uTGJ2eXJxTDh5SFhiY2JrT0YycG1BNzJ0SjFJTVBaSE9HM09kejBBLVMydWNBQ09nTFIzTHA4SllNZi1TSzA5SXNsdjRONGlOYldKUDBvSDYzdHBGSGV3eVF2cl9lRDEzbHp4djRrUWtJWFFucTNGME9ic2VLWVRlX0pSeThXamVfTFRSY2NSWDQzbmlRYWE4aVpVZktzS3JlQU1jWnd5QWFyV0JJTkFVWUxxT3BRaHJjb2NkLVpwetIB8gFBVV95cUxNVmtUVGJkcUVUUkVicXJtaGw1UDJLQlZhWF9ZU01tR1JESTVmRTRkX0tkZ1Eza2dJcGl0dTU2eUFDcUxYaXF2ajNDTHBKVmxIU0I4UGdLTGNDYlFGWnlEanBMbHNWS3NBU2ZoTmNkR181Y09KOG5LS01lemlBMXpZU1VpSFFSMWwtSWpmRDByRmtSakdIdG43N0hhQTNkNEZsZUFFWHBXRS1JbjlJd2J3YzZnRTdjZ2xOLU83dGxnWmR3SWUtY2Q5SlVvNWhsYnZOV3MyNktxWERDdTQwT0Y5ejBwaEZwaGdJcmF0ZDVGNkxQZw?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 06:23:16 GMT</pubDate>
-<description>DeepSeek says it has found a way to make AI 85 per cent faster, flagship chip not required &amp;nbsp;&amp;nbsp; India Today</description>
 </item>
 <item>
 <title>[Google News] DeepSeek V4 is Now up to 85% Faster With New Inference Technique - Analytics India Magazine</title>
@@ -404,27 +425,6 @@
 <guid isPermaLink="false">https://www.youtube.com/shorts/Vy4cAPglzZo</guid>
 <pubDate>Thu, 25 Jun 2026 17:00:14 GMT</pubDate>
 <description>Premium on the outside. Powerful on the inside. Join NVIDIA’s Jacob Freeman for a closer look at the new Microsoft Surface Laptop Ultra powered by NVIDIA RTX Spark. Learn more about the Microsoft Surface Laptop Ultra: https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra</description>
-</item>
-<item>
-<title>[Gemini] Try these 3 Google AI tools to help find your next job.</title>
-<link>https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/</link>
-<guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/</guid>
-<pubDate>Thu, 25 Jun 2026 17:00:00 +0000</pubDate>
-<description>Use Google AI tools — like Career Dreamer, NotebookLM and Gemini Live — for resumes, cover letters, interview prep and more.</description>
-</item>
-<item>
-<title>[Gemini] 5 ways Google parents are using Gemini</title>
-<link>https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/</link>
-<guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/</guid>
-<pubDate>Thu, 25 Jun 2026 17:00:00 +0000</pubDate>
-<description>How Gemini helps with homework, meal planning and more, so parents have time to focus on the good stuff.</description>
-</item>
-<item>
-<title>[YouTube] Welcome to Open Source AI: Run Your Own Models Locally</title>
-<link>https://www.youtube.com/watch?v=wRcByxXkJCQ</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=wRcByxXkJCQ</guid>
-<pubDate>Thu, 25 Jun 2026 16:49:36 GMT</pubDate>
-<description>A livestream for everyone starting out with open models. We walk through the most robust stack for running AI on your own laptop or server, and answer your questions live. What we cover: Merve Noyan on llama.cpp: what it is and how it runs on your hardware, plus the new llama.app and llama barn. Dan</description>
 </item>
 </channel>
 </rss>
