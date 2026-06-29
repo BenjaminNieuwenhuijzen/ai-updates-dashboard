@@ -5,7 +5,77 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Mon, 29 Jun 2026 05:01:31 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 11:25:09 GMT</lastBuildDate>
+<item>
+<title>[Blog] Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron</title>
+<link>https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/</guid>
+<pubDate>Mon, 29 Jun 2026 10:59:38 +0000</pubDate>
+<description>Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership. In 1969, DARPA connec</description>
+</item>
+<item>
+<title>[Agent Framework] Agent Harness: Working with your data, safely</title>
+<link>https://devblogs.microsoft.com/agent-framework/agent-harness-working-with-your-data-safely/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/agent-framework/agent-harness-working-with-your-data-safely/</guid>
+<pubDate>Mon, 29 Jun 2026 10:41:33 +0000</pubDate>
+<description>Part 2 of Build your own claw and agent harness with Microsoft Agent Framework. In Part 1 we stood up a harness and gave our personal finance assistant its first abilities: a custom tool, web search, and planning. It can talk about the markets &amp;#8211; but it can&amp;#8217;t yet touch your data, and noth</description>
+</item>
+<item>
+<title>[Google News] Chinese AI’s Sputnik Moment - National Review</title>
+<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5jRlZXcUhCZ3dscWJIcUFGTEpoaFhvRkhtRkVNa2pUUGJDVHV4WHU2WWZLXzBlemxyYjc0cFhOVUp1ZGVONWIzQVlkTnFrUk5EQkZVdU9qUXFSV0I5SUN5SXI5b1VZdWFBNEp6V3EyNlNvdmVt0gF6QVVfeXFMT3cxczB6a2FzOEhnMDhtTnJCQmFMdVNSYUQ1dGQ4eldOSnY3T0dDUXFNcU9jN2JWRzFVdUZqMWdMZjVMb045RE9lbk96ektOQ0E5SkQ0VGIyVURyZEVDSVhFaWNFb2lTczJnd0xWN1J1THFTZkVYdkhOX1E?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidEFVX3lxTE5jRlZXcUhCZ3dscWJIcUFGTEpoaFhvRkhtRkVNa2pUUGJDVHV4WHU2WWZLXzBlemxyYjc0cFhOVUp1ZGVONWIzQVlkTnFrUk5EQkZVdU9qUXFSV0I5SUN5SXI5b1VZdWFBNEp6V3EyNlNvdmVt0gF6QVVfeXFMT3cxczB6a2FzOEhnMDhtTnJCQmFMdVNSYUQ1dGQ4eldOSnY3T0dDUXFNcU9jN2JWRzFVdUZqMWdMZjVMb045RE9lbk96ektOQ0E5SkQ0VGIyVURyZEVDSVhFaWNFb2lTczJnd0xWN1J1THFTZkVYdkhOX1E?oc=5</guid>
+<pubDate>Mon, 29 Jun 2026 10:30:24 GMT</pubDate>
+<description>Chinese AI’s Sputnik Moment &amp;nbsp;&amp;nbsp; National Review</description>
+</item>
+<item>
+<title>[YouTube] Training Agents 2: Live tutorial on model distillation for training custom agents.</title>
+<link>https://www.youtube.com/watch?v=GZT_oNQnLV4</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=GZT_oNQnLV4</guid>
+<pubDate>Mon, 29 Jun 2026 09:00:36 GMT</pubDate>
+<description>In this live session, we'll cover how to transfer capability from a teacher model to a smaller student through distillation. We'll work through supervised fine-tuning on teacher-generated data, then on-policy and online methods where the teacher scores the student live, then self-distillation where </description>
+</item>
+<item>
+<title>[Google News] Anthropic’s Mythos Spooked DeepSeek, Prompting Its $7.4 Billion Fundraising - The Information</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0pGMzd4V2lGN2R2RzliWXcwVWY5Ul9jMzgxajBibTFhSlFoVm8wSkladmVBNVF5UHVYbWJsY01vcVJ5ZER2bUhDQzlmbm9jMmw1c1JKYVBad0h2QXlsQ09HNDFQY3lzQlUyc002eGRIdjBzUFhKdkJqbFJ5OFR3eW9ucXEyekF4bUNyLXNnbV9hVUFmbHpuVlRHVU9GY2lINkladW9TWXgxbU1sdmc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0pGMzd4V2lGN2R2RzliWXcwVWY5Ul9jMzgxajBibTFhSlFoVm8wSkladmVBNVF5UHVYbWJsY01vcVJ5ZER2bUhDQzlmbm9jMmw1c1JKYVBad0h2QXlsQ09HNDFQY3lzQlUyc002eGRIdjBzUFhKdkJqbFJ5OFR3eW9ucXEyekF4bUNyLXNnbV9hVUFmbHpuVlRHVU9GY2lINkladW9TWXgxbU1sdmc?oc=5</guid>
+<pubDate>Mon, 29 Jun 2026 08:47:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Peking University, DeepSeek Open-Source DSpark To Boost LLM Efficiency - Open Source For You</title>
+<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjl5TVJGMDVRNWktZUo4YTl3MERBZlU2Y21GTHMza3hCUzhLNnY1Q3RZVEhWeV93Zlo2OG5tSjFuT1lQcDEweVptM2dWbVNmTVNnSC11dzlfbkllbFh3d1JtVGQyRzF1SDhEcDd0VmxSS2FUTHJNS0dnVjNoYV91UWJqWkR2ZWN1bXRJTEtR?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjl5TVJGMDVRNWktZUo4YTl3MERBZlU2Y21GTHMza3hCUzhLNnY1Q3RZVEhWeV93Zlo2OG5tSjFuT1lQcDEweVptM2dWbVNmTVNnSC11dzlfbkllbFh3d1JtVGQyRzF1SDhEcDd0VmxSS2FUTHJNS0dnVjNoYV91UWJqWkR2ZWN1bXRJTEtR?oc=5</guid>
+<pubDate>Mon, 29 Jun 2026 08:35:46 GMT</pubDate>
+<description>Peking University, DeepSeek Open-Source DSpark To Boost LLM Efficiency &amp;nbsp;&amp;nbsp; Open Source For You</description>
+</item>
+<item>
+<title>[News] Mapping Europe’s AI Workforce Opportunity</title>
+<link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
+<guid isPermaLink="false">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
+<pubDate>Mon, 29 Jun 2026 07:00:00 GMT</pubDate>
+<description>A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.</description>
+</item>
+<item>
+<title>[Google News] Amundi: Domestic Chinese chips may be approaching their "DeepSeek moment" - 富途牛牛</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmdfYy1SYWhiWS1BUUVqbVRNeGRKU185Y1hBSFhKNlZtWjgxWUs3ZmNzMDltWlppaTc0RkIzNW1od2w1UzlTMDNjUHpRQmVUV2xqblVnbFNQS0tINS1wcDVwUjZWT0RfOFNUZmRlakQyRnBLUzBSZU1aVW9nZVlaYUd2Y2lWdTRiSkZmV2dUSDZ4WHFYa1ZrMHhXQjdNYkN5Z0g1bFN5ZUZrTkJpaldqZw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmdfYy1SYWhiWS1BUUVqbVRNeGRKU185Y1hBSFhKNlZtWjgxWUs3ZmNzMDltWlppaTc0RkIzNW1od2w1UzlTMDNjUHpRQmVUV2xqblVnbFNQS0tINS1wcDVwUjZWT0RfOFNUZmRlakQyRnBLUzBSZU1aVW9nZVlaYUd2Y2lWdTRiSkZmV2dUSDZ4WHFYa1ZrMHhXQjdNYkN5Z0g1bFN5ZUZrTkJpaldqZw?oc=5</guid>
+<pubDate>Mon, 29 Jun 2026 06:49:36 GMT</pubDate>
+<description>Amundi: Domestic Chinese chips may be approaching their "DeepSeek moment" &amp;nbsp;&amp;nbsp; 富途牛牛</description>
+</item>
+<item>
+<title>[Google News] DeepSeek says it has found a way to make AI 85 per cent faster, flagship chip not required - India Today</title>
+<link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxOamdDN2VILWlTOFNjNUlnM3FuNHRxemstNTRSMXBoQUhtZUQ4eGlySUdLRW1uTGJ2eXJxTDh5SFhiY2JrT0YycG1BNzJ0SjFJTVBaSE9HM09kejBBLVMydWNBQ09nTFIzTHA4SllNZi1TSzA5SXNsdjRONGlOYldKUDBvSDYzdHBGSGV3eVF2cl9lRDEzbHp4djRrUWtJWFFucTNGME9ic2VLWVRlX0pSeThXamVfTFRSY2NSWDQzbmlRYWE4aVpVZktzS3JlQU1jWnd5QWFyV0JJTkFVWUxxT3BRaHJjb2NkLVpwetIB8gFBVV95cUxNVmtUVGJkcUVUUkVicXJtaGw1UDJLQlZhWF9ZU01tR1JESTVmRTRkX0tkZ1Eza2dJcGl0dTU2eUFDcUxYaXF2ajNDTHBKVmxIU0I4UGdLTGNDYlFGWnlEanBMbHNWS3NBU2ZoTmNkR181Y09KOG5LS01lemlBMXpZU1VpSFFSMWwtSWpmRDByRmtSakdIdG43N0hhQTNkNEZsZUFFWHBXRS1JbjlJd2J3YzZnRTdjZ2xOLU83dGxnWmR3SWUtY2Q5SlVvNWhsYnZOV3MyNktxWERDdTQwT0Y5ejBwaEZwaGdJcmF0ZDVGNkxQZw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi7AFBVV95cUxOamdDN2VILWlTOFNjNUlnM3FuNHRxemstNTRSMXBoQUhtZUQ4eGlySUdLRW1uTGJ2eXJxTDh5SFhiY2JrT0YycG1BNzJ0SjFJTVBaSE9HM09kejBBLVMydWNBQ09nTFIzTHA4SllNZi1TSzA5SXNsdjRONGlOYldKUDBvSDYzdHBGSGV3eVF2cl9lRDEzbHp4djRrUWtJWFFucTNGME9ic2VLWVRlX0pSeThXamVfTFRSY2NSWDQzbmlRYWE4aVpVZktzS3JlQU1jWnd5QWFyV0JJTkFVWUxxT3BRaHJjb2NkLVpwetIB8gFBVV95cUxNVmtUVGJkcUVUUkVicXJtaGw1UDJLQlZhWF9ZU01tR1JESTVmRTRkX0tkZ1Eza2dJcGl0dTU2eUFDcUxYaXF2ajNDTHBKVmxIU0I4UGdLTGNDYlFGWnlEanBMbHNWS3NBU2ZoTmNkR181Y09KOG5LS01lemlBMXpZU1VpSFFSMWwtSWpmRDByRmtSakdIdG43N0hhQTNkNEZsZUFFWHBXRS1JbjlJd2J3YzZnRTdjZ2xOLU83dGxnWmR3SWUtY2Q5SlVvNWhsYnZOV3MyNktxWERDdTQwT0Y5ejBwaEZwaGdJcmF0ZDVGNkxQZw?oc=5</guid>
+<pubDate>Mon, 29 Jun 2026 06:23:16 GMT</pubDate>
+<description>DeepSeek says it has found a way to make AI 85 per cent faster, flagship chip not required &amp;nbsp;&amp;nbsp; India Today</description>
+</item>
+<item>
+<title>[Google News] DeepSeek V4 is Now up to 85% Faster With New Inference Technique - Analytics India Magazine</title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQREhXN3Fna2ZkbHZZUmg5cFN0VTF0bEVOM0VBb3lCYmxvMExkTWx4RnBSTTV0UVN2VW5RLW5hRUh1MVl4YjR6T1M4XzhqSEUxVXgzMmlOeEsyZmpISGx2MWJlNmI0VFNhUUR3OGt5Q1RDbXFyNGE3VGRBOG9PMzQtY21GQlRvRGxDMzlzdF9yMzljQWd6bFNWek0xSUUtQVdNNDhN?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQREhXN3Fna2ZkbHZZUmg5cFN0VTF0bEVOM0VBb3lCYmxvMExkTWx4RnBSTTV0UVN2VW5RLW5hRUh1MVl4YjR6T1M4XzhqSEUxVXgzMmlOeEsyZmpISGx2MWJlNmI0VFNhUUR3OGt5Q1RDbXFyNGE3VGRBOG9PMzQtY21GQlRvRGxDMzlzdF9yMzljQWd6bFNWek0xSUUtQVdNNDhN?oc=5</guid>
+<pubDate>Mon, 29 Jun 2026 05:33:16 GMT</pubDate>
+<description>DeepSeek V4 is Now up to 85% Faster With New Inference Technique &amp;nbsp;&amp;nbsp; Analytics India Magazine</description>
+</item>
 <item>
 <title>[Google News] How DeepSeek raised its 50 billion yuan round - The Low Down - Momentum Works</title>
 <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQY3NCUFFDLXI3a3VjVDFieTNpT0UzaUJWODYtV1FubHh1bVFMcmxxdmlrcVgzeTNMR003NkQtZTl3T2tKc0JObE1OTzNaZ3ZHVzJWRzBYLW1aXzJMdWQxSkVXcEs2MGNjWVE4U3ZESUxGaEdqYXlERWRzdU93eWVVbXZFV0lJQQ?oc=5</link>
@@ -35,13 +105,6 @@
 <description>HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.</description>
 </item>
 <item>
-<title>[Google News] Step Aside DeepSeek! Chinese Startup Z.ai is Threatening US Hegemony in AI - CXOToday.com</title>
-<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTh4ZWZyd29NYnNfcDFZOTQ5Z0o3dXgzY0R3U0VJNmZtTy1mdlZ0SVdYcjB5TWpjVHRxV0JUTnFreXFiVUxMbXRUSFZ2TDVoNDF1NnZpVzdYeUZiQ1pnRFZ2R2QwbjZONHVDbVhmNmZ0UVFObU9sc2xIQl9RSGVqTDRGSlJaRDZxQTBaSEJXWUoxN1JJdGVMdGlLVFRnWTQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTh4ZWZyd29NYnNfcDFZOTQ5Z0o3dXgzY0R3U0VJNmZtTy1mdlZ0SVdYcjB5TWpjVHRxV0JUTnFreXFiVUxMbXRUSFZ2TDVoNDF1NnZpVzdYeUZiQ1pnRFZ2R2QwbjZONHVDbVhmNmZ0UVFObU9sc2xIQl9RSGVqTDRGSlJaRDZxQTBaSEJXWUoxN1JJdGVMdGlLVFRnWTQ?oc=5</guid>
-<pubDate>Sun, 28 Jun 2026 15:02:47 GMT</pubDate>
-<description>Step Aside DeepSeek! Chinese Startup Z.ai is Threatening US Hegemony in AI &amp;nbsp;&amp;nbsp; CXOToday.com</description>
-</item>
-<item>
 <title>[Google News] More 'DeepSeek moments' ahead: Will US continue to build walls or learn? - Global Times</title>
 <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JV3RnR0FoaE80a2NtU1NNVjlIcXVpSTZmVE84RGtjSmhsM0ZpYXBCV3hxX1pQS0otZ0hPOG1PZ094SkhhMXlRR3psMWdzc3pMQVJOVWRfaGRYYk00dFEzRmt3?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JV3RnR0FoaE80a2NtU1NNVjlIcXVpSTZmVE84RGtjSmhsM0ZpYXBCV3hxX1pQS0otZ0hPOG1PZ094SkhhMXlRR3psMWdzc3pMQVJOVWRfaGRYYk00dFEzRmt3?oc=5</guid>
@@ -56,25 +119,11 @@
 <description>Behind DeepSeek's 85% Speed Increase: Large Models Bid Farewell to Parameter Race, Embracing Cost War &amp;nbsp;&amp;nbsp; PANews</description>
 </item>
 <item>
-<title>[Google News] DeepSeek V4 Upgrade: DSpark Framework Accelerates AI Response Generation by 85% - News and Statistics - IndexBox</title>
-<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOY1MtN1h3bFo2ZjlCdmpSblFhZ3ROVWc2MjJCTTUwd2ctRnB3WGNYRzhSRkd6WEhUOEczN0tUYWl3elhqc21ldW1kcUhyZ1g1M1FnR2F6REJGUnN4ODhWWG9rdFZzcWlFTGhIV2ZsM29jaTV1S3lfZWt1ZU9HVk90M0ZSQmtSMGo4ZGRTalR1YUVHN3U0MVEtS01UZw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxOY1MtN1h3bFo2ZjlCdmpSblFhZ3ROVWc2MjJCTTUwd2ctRnB3WGNYRzhSRkd6WEhUOEczN0tUYWl3elhqc21ldW1kcUhyZ1g1M1FnR2F6REJGUnN4ODhWWG9rdFZzcWlFTGhIV2ZsM29jaTV1S3lfZWt1ZU9HVk90M0ZSQmtSMGo4ZGRTalR1YUVHN3U0MVEtS01UZw?oc=5</guid>
-<pubDate>Sun, 28 Jun 2026 11:30:00 GMT</pubDate>
-<description>DeepSeek V4 Upgrade: DSpark Framework Accelerates AI Response Generation by 85% - News and Statistics &amp;nbsp;&amp;nbsp; IndexBox</description>
-</item>
-<item>
 <title>[Google News] Faster AI, lower costs: DSpark eases bottlenecks and chip strain, says DeepSeek - South China Morning Post</title>
 <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajNTbEVhUkwwZ0dpSHlTM194R1U4V19pS1dmNHktQXZLOHNJMW9ybXMzZUVpdENZYlFtLTVtUXVJckVSbThjMk9Bdjd6ZDVEM3F1UEdtU2lrOUllbHdCekItUms1ZW5NLVRaSUJBRklQT1ZnVUdSOUI0Y3ZDVW5ib1RPTjU5R2pIb3ByeDFkdzRBRERQbjRRem0tXy1UWmJqMjl4bE5zMHY5b3dSSGRpREtTR0FQcVRSVHd1cWZBUThHblZxQ2VVU29MOGpPUXRoR1BR0gHTAUFVX3lxTE81aVpYWEFxTnNNZGJlNENKdGh3M3Q4a1Mzd1A1bFhGbVpSU1Q4TzNEN1VYLXA1WjZMei0xbDI2bURCWlBtY0JFd29ZVHZKQ1lQMVRFeTg2YllNN0xzTE1aOTN6MklJZ0JGNHBFa2NuTG1IQzdOQnctVmIxY1FVR3NRSEhvTFhWSlExQmYtb25Gc1QzbDhiNXd6QTg1Z29fRWgwaTJjdVNPOG0zNXlLbkZ2UHZJMkR0U2JqQUtwcGVOb2RxbTZyTVJod0xQaVdIMm55Xzg?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajNTbEVhUkwwZ0dpSHlTM194R1U4V19pS1dmNHktQXZLOHNJMW9ybXMzZUVpdENZYlFtLTVtUXVJckVSbThjMk9Bdjd6ZDVEM3F1UEdtU2lrOUllbHdCekItUms1ZW5NLVRaSUJBRklQT1ZnVUdSOUI0Y3ZDVW5ib1RPTjU5R2pIb3ByeDFkdzRBRERQbjRRem0tXy1UWmJqMjl4bE5zMHY5b3dSSGRpREtTR0FQcVRSVHd1cWZBUThHblZxQ2VVU29MOGpPUXRoR1BR0gHTAUFVX3lxTE81aVpYWEFxTnNNZGJlNENKdGh3M3Q4a1Mzd1A1bFhGbVpSU1Q4TzNEN1VYLXA1WjZMei0xbDI2bURCWlBtY0JFd29ZVHZKQ1lQMVRFeTg2YllNN0xzTE1aOTN6MklJZ0JGNHBFa2NuTG1IQzdOQnctVmIxY1FVR3NRSEhvTFhWSlExQmYtb25Gc1QzbDhiNXd6QTg1Z29fRWgwaTJjdVNPOG0zNXlLbkZ2UHZJMkR0U2JqQUtwcGVOb2RxbTZyTVJod0xQaVdIMm55Xzg?oc=5</guid>
 <pubDate>Sun, 28 Jun 2026 11:00:08 GMT</pubDate>
 <description>Faster AI, lower costs: DSpark eases bottlenecks and chip strain, says DeepSeek &amp;nbsp;&amp;nbsp; South China Morning Post</description>
-</item>
-<item>
-<title>[Google News] Peking University and DeepSeek Open-Source DSpark, Delivering Major Leap in LLM Inference Efficiency - Pandaily</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUzZ2ZS1fZHNmLTdnc3NYY19BZ3dWeExabnFyODVkSmZPSElUZWNFeS1La0JiYUgtM01Hc1BXQzZwaUJWNG9tRU1YYlpMZ1ZrVzJEQzlGNXF2cm14X0N2dmdCejVMTUtPOU1JX0c4amFVbzlrMVFEZklWbXM2bTZrQ1ZWcG1GVjJHRXVR?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUzZ2ZS1fZHNmLTdnc3NYY19BZ3dWeExabnFyODVkSmZPSElUZWNFeS1La0JiYUgtM01Hc1BXQzZwaUJWNG9tRU1YYlpMZ1ZrVzJEQzlGNXF2cm14X0N2dmdCejVMTUtPOU1JX0c4amFVbzlrMVFEZklWbXM2bTZrQ1ZWcG1GVjJHRXVR?oc=5</guid>
-<pubDate>Sun, 28 Jun 2026 08:37:43 GMT</pubDate>
-<description>Peking University and DeepSeek Open-Source DSpark, Delivering Major Leap in LLM Inference Efficiency &amp;nbsp;&amp;nbsp; Pandaily</description>
 </item>
 <item>
 <title>[Google News] DeepSeek V4 Updates DSpark, Boosting Inference Speed by 80% Just Now - 36Kr</title>
@@ -193,7 +242,7 @@
 <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1kyM2RQTVppc3paZ0hFaEhrN0RxRnFHOU5reVdQRTZ3MjBVdmV2NUQ4dEpfMXJhU3g4TElZajdHR05XQkRQZWxaZ3VTZnlVNkpoYVYzZU1NbE1DOUpoMGVEUlZnLXRtTnphNzdOVXRsdDAyYmI2WGZUODgyendQaEtaWDV0a0NpSkxoWnp0U0Jxd2o3R1lhZm1fbENhaS1saFlDeG5VazYxOWhH?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1kyM2RQTVppc3paZ0hFaEhrN0RxRnFHOU5reVdQRTZ3MjBVdmV2NUQ4dEpfMXJhU3g4TElZajdHR05XQkRQZWxaZ3VTZnlVNkpoYVYzZU1NbE1DOUpoMGVEUlZnLXRtTnphNzdOVXRsdDAyYmI2WGZUODgyendQaEtaWDV0a0NpSkxoWnp0U0Jxd2o3R1lhZm1fbENhaS1saFlDeG5VazYxOWhH?oc=5</guid>
 <pubDate>Fri, 26 Jun 2026 13:00:00 GMT</pubDate>
-<description>Anthropic’s Mythos Spooked DeepSeek, Prompting Its $7.4 Billion Fundraising &amp;nbsp;&amp;nbsp; The Information</description>
+
 </item>
 <item>
 <title>[YouTube] Verso, l'entreprise qui ne dort jamais</title>
@@ -357,18 +406,11 @@
 <description>Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language. The post Understanding the brain with AI-driven explanations and experiments appeared first on Micr</description>
 </item>
 <item>
-<title>[Google News] DeepSeek Plans to Double Staff Across All Departments - Bloomberg.com</title>
+<title>[Google News] DeepSeek Plans to Double Staff Across All Departments - Bloomberg</title>
 <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlV1QmN3NHNuUG9OeTF4dllnNE1kcVNFRnVadWtYdTJtYUVTYkJDUE54S3BCRnZ3NFVVNGs0T0VPTTNaYVp4dVdocWg2Mko3MF9UN2dJbVFzQkM4Y1BwaEpxeE9iSS1IZzhTbzVuLXZhaVhmWkpJRTlNMXpNUnd0VnJDQURZUzY3aXZTcFJYaWkwdUd4R1d0OXZHaFlfWkpVam9ZWTkweVNGSVo2SHVIUThlbw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlV1QmN3NHNuUG9OeTF4dllnNE1kcVNFRnVadWtYdTJtYUVTYkJDUE54S3BCRnZ3NFVVNGs0T0VPTTNaYVp4dVdocWg2Mko3MF9UN2dJbVFzQkM4Y1BwaEpxeE9iSS1IZzhTbzVuLXZhaVhmWkpJRTlNMXpNUnd0VnJDQURZUzY3aXZTcFJYaWkwdUd4R1d0OXZHaFlfWkpVam9ZWTkweVNGSVo2SHVIUThlbw?oc=5</guid>
 <pubDate>Thu, 25 Jun 2026 15:35:33 GMT</pubDate>
-<description>DeepSeek Plans to Double Staff Across All Departments &amp;nbsp;&amp;nbsp; Bloomberg.com</description>
-</item>
-<item>
-<title>[Google News] Chinese A.I. Models Close the Gap With Anthropic and OpenAI - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5</guid>
-<pubDate>Thu, 25 Jun 2026 15:34:41 GMT</pubDate>
-<description>Chinese A.I. Models Close the Gap With Anthropic and OpenAI &amp;nbsp;&amp;nbsp; The New York Times</description>
+<description>DeepSeek Plans to Double Staff Across All Departments &amp;nbsp;&amp;nbsp; Bloomberg</description>
 </item>
 <item>
 <title>[Google News] China's DeepSeek plans to at least double staff in all departments - Reuters</title>
@@ -378,53 +420,11 @@
 <description>China's DeepSeek plans to at least double staff in all departments &amp;nbsp;&amp;nbsp; Reuters</description>
 </item>
 <item>
-<title>[Google News] DeepSeek plans to double workforce amid $7.4 billion raise - Investing.com</title>
-<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxORWUwbk5VbGJNdHo0N0sxYXQ4XzRWSnRTRGtrU1VwcXBLdDlDRlNWVlAyN2VpMW5pS251Nk53VlRJRFd3eFF1MTdaa184OHFwOXV3VUlQUmRUb2pnTnhFUU1icnc4T01kV1lLMkpVaDlUWUdjcVZlQ2hOQ2FjTTZvS0dnTEY5VDBxMzdoVDZybWtyTnl5NjBHWDcyZGdGbEdJTjFOU2Y3aFpramwyeGZnQldUX0JuY0RERXc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxORWUwbk5VbGJNdHo0N0sxYXQ4XzRWSnRTRGtrU1VwcXBLdDlDRlNWVlAyN2VpMW5pS251Nk53VlRJRFd3eFF1MTdaa184OHFwOXV3VUlQUmRUb2pnTnhFUU1icnc4T01kV1lLMkpVaDlUWUdjcVZlQ2hOQ2FjTTZvS0dnTEY5VDBxMzdoVDZybWtyTnl5NjBHWDcyZGdGbEdJTjFOU2Y3aFpramwyeGZnQldUX0JuY0RERXc?oc=5</guid>
-<pubDate>Thu, 25 Jun 2026 14:50:30 GMT</pubDate>
-<description>DeepSeek plans to double workforce amid $7.4 billion raise &amp;nbsp;&amp;nbsp; Investing.com</description>
-</item>
-<item>
 <title>[Google News] DeepSeek is doubling its headcount and the real question is whether its famous efficiency survives the growth - Startup Fortune</title>
 <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTGhpOEVvQldlV0RKYnRPQmR0MnhBMmJWUGdMempMZ1ZTcE1sTU4wZFhKLXZLUWNFdnRCc001ZW5nLUJkS0NzZ21pY095bC1kWGxVSlVDb0FPWGR3VW50UTlXVGpOWmpSZTVjcGVMR3M5UzlNX1FXTDYxTXBfN1FXYlR0WXdJSXhiRU9VWl9YVi1mWjU4S29KUE9rM1BQaXFYbXFpRTFoYzhJMndoZ25jSDYwem1RLTlrRmpJOEdEd1BlYkE5ZkNsdjVReEtEcS05SnFZ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTGhpOEVvQldlV0RKYnRPQmR0MnhBMmJWUGdMempMZ1ZTcE1sTU4wZFhKLXZLUWNFdnRCc001ZW5nLUJkS0NzZ21pY095bC1kWGxVSlVDb0FPWGR3VW50UTlXVGpOWmpSZTVjcGVMR3M5UzlNX1FXTDYxTXBfN1FXYlR0WXdJSXhiRU9VWl9YVi1mWjU4S29KUE9rM1BQaXFYbXFpRTFoYzhJMndoZ25jSDYwem1RLTlrRmpJOEdEd1BlYkE5ZkNsdjVReEtEcS05SnFZ?oc=5</guid>
 <pubDate>Thu, 25 Jun 2026 14:46:27 GMT</pubDate>
 <description>DeepSeek is doubling its headcount and the real question is whether its famous efficiency survives the growth &amp;nbsp;&amp;nbsp; Startup Fortune</description>
-</item>
-<item>
-<title>[Blog] The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts</title>
-<link>https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/</guid>
-<pubDate>Thu, 25 Jun 2026 13:00:34 +0000</pubDate>
-<description>Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Ell</description>
-</item>
-<item>
-<title>[YouTube] BNP Paribas accelerates AI-powered banking with Mistral</title>
-<link>https://www.youtube.com/watch?v=mZo6Y9f31r8</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=mZo6Y9f31r8</guid>
-<pubDate>Thu, 25 Jun 2026 12:55:38 GMT</pubDate>
-<description>What does it take to deploy frontier AI inside a global bank? BNP Paribas needed a partner who could run models on their own infrastructure, meet strict security and compliance requirements, and be energy-efficient at scale. Since the partnership began, our collaboration has expanded from models to </description>
-</item>
-<item>
-<title>[Research] Optimizing cloud economics with linear elastic caching</title>
-<link>https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/</link>
-<guid isPermaLink="false">https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/</guid>
-<pubDate>Thu, 25 Jun 2026 10:03:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[YouTube] NVIDIA cuPhoton: The Tech Fast-Tracking Space Discovery</title>
-<link>https://www.youtube.com/watch?v=Ywgx2AqcdM8</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=Ywgx2AqcdM8</guid>
-<pubDate>Thu, 25 Jun 2026 03:51:55 GMT</pubDate>
-<description>High in the Chilean mountains, the Rubin Observatory—home to the largest digital camera ever built—captures a staggering 20 terabytes of sky data every single night. Hidden within these petabytes are the ultimate secrets of dark matter and dark energy, which make up 95% of our universe. The problem?</description>
-</item>
-<item>
-<title>[YouTube] NVIDIA &amp; Coherent: Reindustrializing America, Manufacturing for the AI Era</title>
-<link>https://www.youtube.com/watch?v=GsqW5MPFajw</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=GsqW5MPFajw</guid>
-<pubDate>Thu, 25 Jun 2026 03:51:12 GMT</pubDate>
-<description>NVIDIA founder and CEO Jensen Huang joins Coherent CEO Jim Anderson in Sherman, Texas for a conversation on the infrastructure behind the AI era, from advanced photonics and optical links to U.S. manufacturing capacity. Learn more about how the factories, workers, and supply chains behind AI are hel</description>
 </item>
 </channel>
 </rss>
