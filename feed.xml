@@ -5,7 +5,21 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Mon, 29 Jun 2026 18:24:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 21:45:28 GMT</lastBuildDate>
+<item>
+<title>[Research] Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity</title>
+<link>https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/</link>
+<guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/</guid>
+<pubDate>Mon, 29 Jun 2026 21:14:22 +0000</pubDate>
+<description>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved. The post Memora: A Harmonic Memory Represe</description>
+</item>
+<item>
+<title>[Google News] DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% - VentureBeat</title>
+<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHZDQWRkY1hKUVJwUjFsZlpWT1F0ck9CcWJoajNnd1RXWjJxVXZBYVZBWTdxS1drelFFbW05LVFZcEtiWVNBUExJM3FwNC1vb2tCSzUzZmFja09URkExUTNsRE9pUUhYRmNPU1FOdUtseFE2VzhDT2pCVE1ES0kzSW5BQ2hQdTJhVm1CZmMySUdTUFRvT3RtRGV2MHRkd0NiZFpmQ0VXbldCcWJleTZfOV9IaE1GSFpSaHpWTA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHZDQWRkY1hKUVJwUjFsZlpWT1F0ck9CcWJoajNnd1RXWjJxVXZBYVZBWTdxS1drelFFbW05LVFZcEtiWVNBUExJM3FwNC1vb2tCSzUzZmFja09URkExUTNsRE9pUUhYRmNPU1FOdUtseFE2VzhDT2pCVE1ES0kzSW5BQ2hQdTJhVm1CZmMySUdTUFRvT3RtRGV2MHRkd0NiZFpmQ0VXbldCcWJleTZfOV9IaE1GSFpSaHpWTA?oc=5</guid>
+<pubDate>Mon, 29 Jun 2026 20:36:15 GMT</pubDate>
+<description>DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% &amp;nbsp;&amp;nbsp; VentureBeat</description>
+</item>
 <item>
 <title>[Blog] DiScoFormer: One transformer for density and score, across distributions</title>
 <link>https://huggingface.co/blog/allenai/discoformer</link>
@@ -105,6 +119,13 @@
 
 </item>
 <item>
+<title>[Google News] DeepSeek Plans to More Than Double Headcount in Massive Hiring Push, Accelerates AI Agent Development with $7.4 Billion Funding - BigGo Finance</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1tS2RJeWNhWTdtSzd4WkhJdmtZSzhwaW5XdzdyWldkSWQySFJuVTk5RDMxRERrLVhuWVBWNHZiRmNnSnhnbFV5MEV0SE11WmV4UUpZZmFaNDdvVFNKZ2pydVhMYS1Ec2VmZllJMUpoVGNMWW4tNXc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE1tS2RJeWNhWTdtSzd4WkhJdmtZSzhwaW5XdzdyWldkSWQySFJuVTk5RDMxRERrLVhuWVBWNHZiRmNnSnhnbFV5MEV0SE11WmV4UUpZZmFaNDdvVFNKZ2pydVhMYS1Ec2VmZllJMUpoVGNMWW4tNXc?oc=5</guid>
+<pubDate>Mon, 29 Jun 2026 13:05:35 GMT</pubDate>
+<description>DeepSeek Plans to More Than Double Headcount in Massive Hiring Push, Accelerates AI Agent Development with $7.4 Billion Funding &amp;nbsp;&amp;nbsp; BigGo Finance</description>
+</item>
+<item>
 <title>[Google News] DeepSeek claims new technique boosts LLM serving efficiency by up to 85% - Computing UK</title>
 <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNTTZ5cnVESjZuaUdhSkkzcUhvSXU5U092cnRZSTBOQlk2cW9ZQVZ4TmRsZjdXaVZpZnNLeU50NUZTNFFqNFpmbkJTWC1MQnZ5OWdZamF2YXp1R0Ztbk9yX21PNnk3ckNMd0pDdExCSkVyaWFXeWtzTUNrNEp4R3IwVERTNktsQnd1ZWJlc2lKbzg5OF9kalg1YUFKQW9NYmFUellpZV9TNFdTUE85YW1Bb1dR?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxNTTZ5cnVESjZuaUdhSkkzcUhvSXU5U092cnRZSTBOQlk2cW9ZQVZ4TmRsZjdXaVZpZnNLeU50NUZTNFFqNFpmbkJTWC1MQnZ5OWdZamF2YXp1R0Ztbk9yX21PNnk3ckNMd0pDdExCSkVyaWFXeWtzTUNrNEp4R3IwVERTNktsQnd1ZWJlc2lKbzg5OF9kalg1YUFKQW9NYmFUellpZV9TNFdTUE85YW1Bb1dR?oc=5</guid>
@@ -131,13 +152,6 @@
 <guid isPermaLink="false">https://devblogs.microsoft.com/agent-framework/agent-harness-working-with-your-data-safely/</guid>
 <pubDate>Mon, 29 Jun 2026 10:41:33 +0000</pubDate>
 <description>Part 2 of Build your own claw and agent harness with Microsoft Agent Framework. In Part 1 we stood up a harness and gave our personal finance assistant its first abilities: a custom tool, web search, and planning. It can talk about the markets &amp;#8211; but it can&amp;#8217;t yet touch your data, and noth</description>
-</item>
-<item>
-<title>[Google News] Chinese AI’s Sputnik Moment - National Review</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5jRlZXcUhCZ3dscWJIcUFGTEpoaFhvRkhtRkVNa2pUUGJDVHV4WHU2WWZLXzBlemxyYjc0cFhOVUp1ZGVONWIzQVlkTnFrUk5EQkZVdU9qUXFSV0I5SUN5SXI5b1VZdWFBNEp6V3EyNlNvdmVt0gF6QVVfeXFMT3cxczB6a2FzOEhnMDhtTnJCQmFMdVNSYUQ1dGQ4eldOSnY3T0dDUXFNcU9jN2JWRzFVdUZqMWdMZjVMb045RE9lbk96ektOQ0E5SkQ0VGIyVURyZEVDSVhFaWNFb2lTczJnd0xWN1J1THFTZkVYdkhOX1E?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidEFVX3lxTE5jRlZXcUhCZ3dscWJIcUFGTEpoaFhvRkhtRkVNa2pUUGJDVHV4WHU2WWZLXzBlemxyYjc0cFhOVUp1ZGVONWIzQVlkTnFrUk5EQkZVdU9qUXFSV0I5SUN5SXI5b1VZdWFBNEp6V3EyNlNvdmVt0gF6QVVfeXFMT3cxczB6a2FzOEhnMDhtTnJCQmFMdVNSYUQ1dGQ4eldOSnY3T0dDUXFNcU9jN2JWRzFVdUZqMWdMZjVMb045RE9lbk96ektOQ0E5SkQ0VGIyVURyZEVDSVhFaWNFb2lTczJnd0xWN1J1THFTZkVYdkhOX1E?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 10:30:24 GMT</pubDate>
-<description>Chinese AI’s Sputnik Moment &amp;nbsp;&amp;nbsp; National Review</description>
 </item>
 <item>
 <title>[YouTube] Training Agents 2: Live tutorial on model distillation for training custom agents.</title>
@@ -411,20 +425,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=sbCSYEaMEmg</guid>
 <pubDate>Thu, 25 Jun 2026 22:03:18 GMT</pubDate>
 <description>00:00 Seminar Welcome 00:53 Talk Overview 01:22 Why Inference Is Hard 02:55 Speculative Decoding Basics 06:58 EAGLETree and MTP 08:59 Attention Sinks Primer 10:08 Attention Drift Discovery 15:14 Magnitude Mismatch Clues 17:51 Post Norm Fix 20:48 Training Time Tests 24:02 Gated Attention Experiments </description>
-</item>
-<item>
-<title>[YouTube] What if plants could talk?</title>
-<link>https://www.youtube.com/watch?v=q_diWy3xdrw</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=q_diWy3xdrw</guid>
-<pubDate>Thu, 25 Jun 2026 17:19:53 GMT</pubDate>
-<description>Now our plants won't shut up. Give your plants a voice: https://github.com/openai/planttalk</description>
-</item>
-<item>
-<title>[YouTube] An Early Look At The Microsoft Surface Laptop Ultra Powered by NVIDIA RTX Spark</title>
-<link>https://www.youtube.com/shorts/Vy4cAPglzZo</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/Vy4cAPglzZo</guid>
-<pubDate>Thu, 25 Jun 2026 17:00:14 GMT</pubDate>
-<description>Premium on the outside. Powerful on the inside. Join NVIDIA’s Jacob Freeman for a closer look at the new Microsoft Surface Laptop Ultra powered by NVIDIA RTX Spark. Learn more about the Microsoft Surface Laptop Ultra: https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra</description>
 </item>
 </channel>
 </rss>
