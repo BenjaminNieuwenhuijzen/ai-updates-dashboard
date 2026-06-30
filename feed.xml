@@ -5,7 +5,14 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 30 Jun 2026 20:20:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 23:39:03 GMT</lastBuildDate>
+<item>
+<title>[Gemini] Gemini Spark updates: macOS launch, connected apps and more</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/</guid>
+<pubDate>Tue, 30 Jun 2026 21:00:00 +0000</pubDate>
+<description>The latest Gemini Spark updates brings Spark to the macOS app, connects with your favorite apps and tracks topics in real time.</description>
+</item>
 <item>
 <title>[YouTube] Redefining Financial Services With Next-Generation Compute and Agentic AI</title>
 <link>https://www.youtube.com/watch?v=NcjBCtqRgtE</link>
@@ -21,6 +28,13 @@
 <description>NVIDIA Slashes DeepSeek v4 Token Costs By Up To 5x Just One Month After Launch, Through Pure Blackwell Software Tuning &amp;nbsp;&amp;nbsp; Wccftech</description>
 </item>
 <item>
+<title>[Google News] DeepSeek's DSpark Just Made Nvidia's Most Important New Bet Harder to Close - The Motley Fool</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1dpN0FSYlM1Uk5jQzJqYVR6c1lXbEdsX0labnF6ekZKMVptMUw2OHhOTWFwMm5YQnlpaW9DNUd2eXg1bFNaLUI3MUhXYTBrWUxSVHhMOEFzWk1sZTE2LU9SVExZelh4bjl1TDlKUXBYMURIRUJDV1NIejU4Tk5ZZXNYZktWWVJzWlhDaHp3R1hOU0luVzc0?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1dpN0FSYlM1Uk5jQzJqYVR6c1lXbEdsX0labnF6ekZKMVptMUw2OHhOTWFwMm5YQnlpaW9DNUd2eXg1bFNaLUI3MUhXYTBrWUxSVHhMOEFzWk1sZTE2LU9SVExZelh4bjl1TDlKUXBYMURIRUJDV1NIejU4Tk5ZZXNYZktWWVJzWlhDaHp3R1hOU0luVzc0?oc=5</guid>
+<pubDate>Tue, 30 Jun 2026 18:46:00 GMT</pubDate>
+<description>DeepSeek's DSpark Just Made Nvidia's Most Important New Bet Harder to Close &amp;nbsp;&amp;nbsp; The Motley Fool</description>
+</item>
+<item>
 <title>[Blog] ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration</title>
 <link>https://huggingface.co/blog/ibm-research/scarfbench</link>
 <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/scarfbench</guid>
@@ -33,13 +47,6 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMic0FVX3lxTE5JSVRiODBnSl9sZ1VsRG1UOURUV2NaandQaVZ0cnM0N0EtQXhsTGZiVlRNdkJtNGZrZ0xOVjBnOWd0ZGdLVWNGbC0tazRvZlo1eVdMMk80cEJkbjlFTG91WlE2dTdQS1ExdVNFRXBJWjdHdEk?oc=5</guid>
 <pubDate>Tue, 30 Jun 2026 18:14:36 GMT</pubDate>
 <description>DeepSeek’s DSpark complicates Nvidia’s latest hardware deals &amp;nbsp;&amp;nbsp; Crypto Briefing</description>
-</item>
-<item>
-<title>[Google News] DeepSeek's DSpark Just Made Nvidia's Most Important New Bet Harder to Close - The Motley Fool</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1dpN0FSYlM1Uk5jQzJqYVR6c1lXbEdsX0labnF6ekZKMVptMUw2OHhOTWFwMm5YQnlpaW9DNUd2eXg1bFNaLUI3MUhXYTBrWUxSVHhMOEFzWk1sZTE2LU9SVExZelh4bjl1TDlKUXBYMURIRUJDV1NIejU4Tk5ZZXNYZktWWVJzWlhDaHp3R1hOU0luVzc0?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1dpN0FSYlM1Uk5jQzJqYVR6c1lXbEdsX0labnF6ekZKMVptMUw2OHhOTWFwMm5YQnlpaW9DNUd2eXg1bFNaLUI3MUhXYTBrWUxSVHhMOEFzWk1sZTE2LU9SVExZelh4bjl1TDlKUXBYMURIRUJDV1NIejU4Tk5ZZXNYZktWWVJzWlhDaHp3R1hOU0luVzc0?oc=5</guid>
-<pubDate>Tue, 30 Jun 2026 18:12:48 GMT</pubDate>
-<description>DeepSeek's DSpark Just Made Nvidia's Most Important New Bet Harder to Close &amp;nbsp;&amp;nbsp; The Motley Fool</description>
 </item>
 <item>
 <title>[Developer] Designing GPU-Accelerated Query Engines with NVIDIA GQE</title>
@@ -84,6 +91,13 @@
 
 </item>
 <item>
+<title>[Cloud AI] What Google Cloud announced in AI this month</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</guid>
+<pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
+<description>Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. Our main focus in June was helping your teams build, scale, and secure AI. Today, we’re sharing a fresh ro</description>
+</item>
+<item>
 <title>[Cloud AI] How Schrödinger sped up molecular discovery by 4x with Alphaevolve</title>
 <link>https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x/</guid>
@@ -103,13 +117,6 @@
 <guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/</guid>
 <pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
 <description>Great creative happens when your tools move at the speed of your ideas. To help you create rich, reliable experiences while reducing regeneration time and costs, we’re adding two new models to Gemini Enterprise Agent Platform . First, we’re announcing the general availability of Nano Banana 2 Lite (</description>
-</item>
-<item>
-<title>[Cloud AI] What Google Cloud announced in AI this month</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</guid>
-<pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
-<description>Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. Our main focus in June was helping your teams build, scale, and secure AI. Today, we’re sharing a fresh ro</description>
 </item>
 <item>
 <title>[Gemini] Start building with Nano Banana 2 Lite and Gemini Omni Flash</title>
@@ -322,13 +329,6 @@
 <description>DeepSeek and Peking University open-source DSpark, boosting single-user inference speed by 60–85%. &amp;nbsp;&amp;nbsp; KuCoin</description>
 </item>
 <item>
-<title>[Google News] DeepSeek V4 Official Version Due Mid-July with Peak-Hour API Pricing Doubling - Pandaily</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9DSklFbi1fY1FkdnlVWm9EN2RjS1Y3LXpsTVR1R1RiNklMVlk0Rk0xckpKeFhlTFA0LVBIWXNTLTBUOWdPN0Y0aHlYMENfMHRDTjE3Ti1iS2gtT1ljOFg1ZVVmZWM2SW9VbmFNcEdFMlBKTWtLMmc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE9DSklFbi1fY1FkdnlVWm9EN2RjS1Y3LXpsTVR1R1RiNklMVlk0Rk0xckpKeFhlTFA0LVBIWXNTLTBUOWdPN0Y0aHlYMENfMHRDTjE3Ti1iS2gtT1ljOFg1ZVVmZWM2SW9VbmFNcEdFMlBKTWtLMmc?oc=5</guid>
-<pubDate>Tue, 30 Jun 2026 02:23:09 GMT</pubDate>
-<description>DeepSeek V4 Official Version Due Mid-July with Peak-Hour API Pricing Doubling &amp;nbsp;&amp;nbsp; Pandaily</description>
-</item>
-<item>
 <title>[Google News] Why an American Company Opts for 100% Access to DeepSeek - 36Kr</title>
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hb3ozZk9vZlVEZmQ5NlpXcU03SFlSM3FnZDg3SWh6Ym9iZFMwd1c5elowaE13SmZFZkFWbVEyOFNteTdUT1RLN2xJcGdubkI5ai1R?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hb3ozZk9vZlVEZmQ5NlpXcU03SFlSM3FnZDg3SWh6Ym9iZFMwd1c5elowaE13SmZFZkFWbVEyOFNteTdUT1RLN2xJcGdubkI5ai1R?oc=5</guid>
@@ -420,11 +420,11 @@
 <description>Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise</description>
 </item>
 <item>
-<title>[Azure] Claude in Microsoft Foundry is now generally available</title>
-<link>https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/</link>
-<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/</guid>
-<pubDate>Mon, 29 Jun 2026 17:00:00 +0000</pubDate>
-<description>Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post Claude in Microsoft Foundry is now generally available appeared first on Microsoft Azure Blog .</description>
+<title>[Newsroom] It’s Time to Reserve Your WhatsApp Username</title>
+<link>https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/</link>
+<guid isPermaLink="false">https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/</guid>
+<pubDate>Mon, 29 Jun 2026 16:00:06 +0000</pubDate>
+<description>We're launching usernames for WhatsApp, so you can connect with people without giving out your phone number. The post It’s Time to Reserve Your WhatsApp Username appeared first on Meta Newsroom .</description>
 </item>
 </channel>
 </rss>
