@@ -5,41 +5,27 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 30 Jun 2026 04:35:37 GMT</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 10:02:44 GMT</lastBuildDate>
 <item>
-<title>[Google News] DeepSeek Opens a Large Recruitment, Targeting AGI - VOI.id</title>
-<link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nNkVadzV0RnkzcTZLS2dWcmt0SW9SVUdVbHdkai1aajhLbUIxNkVPU2tSZ0ZaRXNzOEZGTWFtd3RDSzVvRTZaaFBHNNIBQkFVX3lxTE0xWjZ6Z25CVXM0WDNmLWRYSV8ySTZ5NUxqczZBMVhDRzFNS3BUcXZ6MVU0WEd1VHZkckxDS2Y1eHR3UQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nNkVadzV0RnkzcTZLS2dWcmt0SW9SVUdVbHdkai1aajhLbUIxNkVPU2tSZ0ZaRXNzOEZGTWFtd3RDSzVvRTZaaFBHNNIBQkFVX3lxTE0xWjZ6Z25CVXM0WDNmLWRYSV8ySTZ5NUxqczZBMVhDRzFNS3BUcXZ6MVU0WEd1VHZkckxDS2Y1eHR3UQ?oc=5</guid>
-<pubDate>Tue, 30 Jun 2026 02:52:27 GMT</pubDate>
-<description>DeepSeek Opens a Large Recruitment, Targeting AGI &amp;nbsp;&amp;nbsp; VOI.id</description>
+<title>[YouTube] How LLMs Actually Generate Text</title>
+<link>https://www.youtube.com/shorts/HfjF__xhSdk</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/HfjF__xhSdk</guid>
+<pubDate>Tue, 30 Jun 2026 06:34:41 GMT</pubDate>
+<description>Text generation looks like one function call. Underneath, it's a loop: infer, pick a token, append it, repeat. Watch how Transformers.js runs an LLM step by step.. and understand what's actually happening every time you chat with one.</description>
 </item>
 <item>
-<title>[Google News] DeepSeek to launch V4 in mid-July with new peak-time API pricing - TechNode</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxNNm9pZ2hSeXRXdVN2WmJOZll0MUpqRWQ3RGRZMnpTY2RHZnNqcmZ3dmRwNldCN3BjTVp2YVZpQk1lRXRteURtelFCZXB3bUlDb3libEl0Zi1GV2NHNGs1a1o1TXlZbi11XzN4OUxsNmh4SjBUWHNOQVNoTkxRR1J5SkVVdGxicmVqV3RCMGpJS21fUlBMQ0xwUEpOd3RXdw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxNNm9pZ2hSeXRXdVN2WmJOZll0MUpqRWQ3RGRZMnpTY2RHZnNqcmZ3dmRwNldCN3BjTVp2YVZpQk1lRXRteURtelFCZXB3bUlDb3libEl0Zi1GV2NHNGs1a1o1TXlZbi11XzN4OUxsNmh4SjBUWHNOQVNoTkxRR1J5SkVVdGxicmVqV3RCMGpJS21fUlBMQ0xwUEpOd3RXdw?oc=5</guid>
-<pubDate>Tue, 30 Jun 2026 02:35:37 GMT</pubDate>
-<description>DeepSeek to launch V4 in mid-July with new peak-time API pricing &amp;nbsp;&amp;nbsp; TechNode</description>
+<title>[Google AI] Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers</title>
+<link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/</link>
+<guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/</guid>
+<pubDate>Tue, 30 Jun 2026 06:00:00 +0000</pubDate>
+<description>Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.</description>
 </item>
 <item>
-<title>[Google News] DeepSeek and Peking University open-source DSpark, boosting single-user inference speed by 60–85%. - KuCoin</title>
-<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNY2tMNXd3MjFDYUlTMDZCRmVWdEhuTzR1UzJvOXh6cDd1VGZqVUZLUXBNeUdQa3RTeFM1VHk2LUhWWlhVLV93dmJDOUw5R2tZZ1g3cUFCa2NpVlRPd1Y0NGhLTnkwbHBvSjB5cjlCNmNHOUpFYjVod1BWalVpT3dfYl9NdFF2ZFQ5YndINHBQNjV6azFzRjhEOU8tZXVUcm9QczIyMGRZMjg3M3V3RGdMSXgxT1ZPbkdHUEllNEVzTWZzZkVEdmc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxNY2tMNXd3MjFDYUlTMDZCRmVWdEhuTzR1UzJvOXh6cDd1VGZqVUZLUXBNeUdQa3RTeFM1VHk2LUhWWlhVLV93dmJDOUw5R2tZZ1g3cUFCa2NpVlRPd1Y0NGhLTnkwbHBvSjB5cjlCNmNHOUpFYjVod1BWalVpT3dfYl9NdFF2ZFQ5YndINHBQNjV6azFzRjhEOU8tZXVUcm9QczIyMGRZMjg3M3V3RGdMSXgxT1ZPbkdHUEllNEVzTWZzZkVEdmc?oc=5</guid>
-<pubDate>Tue, 30 Jun 2026 02:25:57 GMT</pubDate>
-<description>DeepSeek and Peking University open-source DSpark, boosting single-user inference speed by 60–85%. &amp;nbsp;&amp;nbsp; KuCoin</description>
-</item>
-<item>
-<title>[Google News] DeepSeek V4 Official Version Due Mid-July with Peak-Hour API Pricing Doubling - Pandaily</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9DSklFbi1fY1FkdnlVWm9EN2RjS1Y3LXpsTVR1R1RiNklMVlk0Rk0xckpKeFhlTFA0LVBIWXNTLTBUOWdPN0Y0aHlYMENfMHRDTjE3Ti1iS2gtT1ljOFg1ZVVmZWM2SW9VbmFNcEdFMlBKTWtLMmc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE9DSklFbi1fY1FkdnlVWm9EN2RjS1Y3LXpsTVR1R1RiNklMVlk0Rk0xckpKeFhlTFA0LVBIWXNTLTBUOWdPN0Y0aHlYMENfMHRDTjE3Ti1iS2gtT1ljOFg1ZVVmZWM2SW9VbmFNcEdFMlBKTWtLMmc?oc=5</guid>
-<pubDate>Tue, 30 Jun 2026 02:23:09 GMT</pubDate>
-<description>DeepSeek V4 Official Version Due Mid-July with Peak-Hour API Pricing Doubling &amp;nbsp;&amp;nbsp; Pandaily</description>
-</item>
-<item>
-<title>[Google News] Der Grund, weshalb ein amerikanisches Unternehmen sich für 100 %ige Integration von DeepSeek entscheidet - 36Kr</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE12eGY3WjJVLVY2dHk2WnJhTVFJOHdKT3AtTk51Q1FSMmdaNzB3VWtTN0xzWkdFZl9TUVFaT3htQWhPVWo1ZmVoWDNCdUpzTWR0S3VF?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE12eGY3WjJVLVY2dHk2WnJhTVFJOHdKT3AtTk51Q1FSMmdaNzB3VWtTN0xzWkdFZl9TUVFaT3htQWhPVWo1ZmVoWDNCdUpzTWR0S3VF?oc=5</guid>
-<pubDate>Tue, 30 Jun 2026 00:54:58 GMT</pubDate>
-<description>Der Grund, weshalb ein amerikanisches Unternehmen sich für 100 %ige Integration von DeepSeek entscheidet &amp;nbsp;&amp;nbsp; 36Kr</description>
+<title>[YouTube] An Early Preview of AI Agent Workflows on NVIDIA RTX Spark Laptops</title>
+<link>https://www.youtube.com/shorts/ZeIYVHxHnQ0</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/ZeIYVHxHnQ0</guid>
+<pubDate>Mon, 29 Jun 2026 22:23:07 GMT</pubDate>
+<description>See how NVIDIA RTX Spark laptops accelerate advanced local AI and agentic workflows. Featuring up to 128GB of unified memory, these systems enable creators to run large models entirely on-device. Watch as the OpenClaw personal agent automates complex ComfyUI tasks, managing prompts and hyperparamete</description>
 </item>
 <item>
 <title>[Research] Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity</title>
@@ -47,13 +33,6 @@
 <guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/</guid>
 <pubDate>Mon, 29 Jun 2026 21:14:22 +0000</pubDate>
 <description>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved. The post Memora: A Harmonic Memory Represe</description>
-</item>
-<item>
-<title>[Google News] DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% - VentureBeat</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHZDQWRkY1hKUVJwUjFsZlpWT1F0ck9CcWJoajNnd1RXWjJxVXZBYVZBWTdxS1drelFFbW05LVFZcEtiWVNBUExJM3FwNC1vb2tCSzUzZmFja09URkExUTNsRE9pUUhYRmNPU1FOdUtseFE2VzhDT2pCVE1ES0kzSW5BQ2hQdTJhVm1CZmMySUdTUFRvT3RtRGV2MHRkd0NiZFpmQ0VXbldCcWJleTZfOV9IaE1GSFpSaHpWTA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHZDQWRkY1hKUVJwUjFsZlpWT1F0ck9CcWJoajNnd1RXWjJxVXZBYVZBWTdxS1drelFFbW05LVFZcEtiWVNBUExJM3FwNC1vb2tCSzUzZmFja09URkExUTNsRE9pUUhYRmNPU1FOdUtseFE2VzhDT2pCVE1ES0kzSW5BQ2hQdTJhVm1CZmMySUdTUFRvT3RtRGV2MHRkd0NiZFpmQ0VXbldCcWJleTZfOV9IaE1GSFpSaHpWTA?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 20:36:15 GMT</pubDate>
-<description>DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% &amp;nbsp;&amp;nbsp; VentureBeat</description>
 </item>
 <item>
 <title>[Blog] DiScoFormer: One transformer for density and score, across distributions</title>
@@ -77,13 +56,6 @@
 <description>Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise</description>
 </item>
 <item>
-<title>[Azure] Claude in Microsoft Foundry is now generally available</title>
-<link>https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/</link>
-<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/</guid>
-<pubDate>Mon, 29 Jun 2026 17:00:00 +0000</pubDate>
-<description>Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post Claude in Microsoft Foundry is now generally available appeared first on Microsoft Azure Blog .</description>
-</item>
-<item>
 <title>[Newsroom] It’s Time to Reserve Your WhatsApp Username</title>
 <link>https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/</link>
 <guid isPermaLink="false">https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/</guid>
@@ -98,18 +70,18 @@
 <description>A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.</description>
 </item>
 <item>
-<title>[Cloud AI] Synthesize the big picture and analyze trends with BigQuery's AI.AGG function</title>
-<link>https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/</guid>
-<pubDate>Mon, 29 Jun 2026 16:00:00 +0000</pubDate>
-<description>We recently announced the preview of the BigQuery AI.AGG() function. With AI.AGG() , you can use natural-language instructions within a single line of SQL to summarize or synthesize information over millions of rows of unstructured or even multimodal data. Summarize millions of rows with one line of</description>
-</item>
-<item>
 <title>[Cloud AI] Cloud CISO Perspectives: How Google Cloud Security uses AI internally</title>
 <link>https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/</guid>
 <pubDate>Mon, 29 Jun 2026 16:00:00 +0000</pubDate>
 <description>Welcome to the second Cloud CISO Perspectives for June 2026. Today, we’re discussing how we use AI to chart a path to autonomous software development lifecycle security. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this </description>
+</item>
+<item>
+<title>[Cloud AI] Synthesize the big picture and analyze trends with BigQuery's AI.AGG function</title>
+<link>https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/</guid>
+<pubDate>Mon, 29 Jun 2026 16:00:00 +0000</pubDate>
+<description>We recently announced the preview of the BigQuery AI.AGG() function. With AI.AGG() , you can use natural-language instructions within a single line of SQL to summarize or synthesize information over millions of rows of unstructured or even multimodal data. Summarize millions of rows with one line of</description>
 </item>
 <item>
 <title>[Gemini] Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.</title>
@@ -126,13 +98,6 @@
 <description>AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on...</description>
 </item>
 <item>
-<title>[Azure] The 2026 Agent Confidence Index: Where 300 builders see real momentum</title>
-<link>https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/</link>
-<guid isPermaLink="false">https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/</guid>
-<pubDate>Mon, 29 Jun 2026 15:15:00 +0000</pubDate>
-<description>At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI. The post The 2026 Agent Confidence Index: Where 300 builde</description>
-</item>
-<item>
 <title>[Blog] Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time</title>
 <link>https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/</link>
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/</guid>
@@ -140,39 +105,25 @@
 <description>The NVIDIA Inception member’s Ocula moon imaging service will harness the NVIDIA Jetson platform for edge AI, running inference directly in space to significantly accelerate insights compared with downlinking all data back down to Earth.</description>
 </item>
 <item>
-<title>[Azure] Accelerate modern Linux workloads with Azure Files</title>
-<link>https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/</link>
-<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/</guid>
-<pubDate>Mon, 29 Jun 2026 15:00:00 +0000</pubDate>
-<description>Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .</description>
+<title>[YouTube] Advent Accelerates Deals with ChatGPT + Codex</title>
+<link>https://www.youtube.com/watch?v=f-HiB82Tl94</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=f-HiB82Tl94</guid>
+<pubDate>Mon, 29 Jun 2026 14:30:09 GMT</pubDate>
+<description>ChatGPT + Codex are a one-two punch for investment firms. "Having the ability to connect your deal folder with all of the context, and then be able to ask ChatGPT and Codex real time questions has been really impactful to our workflows," - Jasmine Azizi (Advent). Financial firms hold a tremendous am</description>
 </item>
 <item>
-<title>[Google News] DeepSeek V4 set to launch in mid-July with peak hour pricing that doubles current rates - Crypto Briefing</title>
-<link>https://news.google.com/rss/articles/CBMickFVX3lxTFBjdUhsQTVlVExiYnpqcXBFVUp2alU2MldVMjJCeXhZcXN5ZW4xa1JJakt4X2tpeWpSenpHQnU5emM4T1lZUmV3S21sOVNpQ3Fobi1yZ0VSZlNiLVp5RzgyMlpXbC1yaWM3VnVaa0Y0ekotdw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMickFVX3lxTFBjdUhsQTVlVExiYnpqcXBFVUp2alU2MldVMjJCeXhZcXN5ZW4xa1JJakt4X2tpeWpSenpHQnU5emM4T1lZUmV3S21sOVNpQ3Fobi1yZ0VSZlNiLVp5RzgyMlpXbC1yaWM3VnVaa0Y0ekotdw?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 14:12:26 GMT</pubDate>
-<description>DeepSeek V4 set to launch in mid-July with peak hour pricing that doubles current rates &amp;nbsp;&amp;nbsp; Crypto Briefing</description>
+<title>[YouTube] How NPS and NVIDIA Are Training the Next AI Leaders</title>
+<link>https://www.youtube.com/watch?v=zDuZmccxjlA</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=zDuZmccxjlA</guid>
+<pubDate>Mon, 29 Jun 2026 14:00:17 GMT</pubDate>
+
 </item>
 <item>
-<title>[Google News] DeepSeek Plans to More Than Double Headcount in Massive Hiring Push, Accelerates AI Agent Development with $7.4 Billion Funding - BigGo Finance</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1tS2RJeWNhWTdtSzd4WkhJdmtZSzhwaW5XdzdyWldkSWQySFJuVTk5RDMxRERrLVhuWVBWNHZiRmNnSnhnbFV5MEV0SE11WmV4UUpZZmFaNDdvVFNKZ2pydVhMYS1Ec2VmZllJMUpoVGNMWW4tNXc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE1tS2RJeWNhWTdtSzd4WkhJdmtZSzhwaW5XdzdyWldkSWQySFJuVTk5RDMxRERrLVhuWVBWNHZiRmNnSnhnbFV5MEV0SE11WmV4UUpZZmFaNDdvVFNKZ2pydVhMYS1Ec2VmZllJMUpoVGNMWW4tNXc?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 12:35:00 GMT</pubDate>
-<description>DeepSeek Plans to More Than Double Headcount in Massive Hiring Push, Accelerates AI Agent Development with $7.4 Billion Funding &amp;nbsp;&amp;nbsp; BigGo Finance</description>
-</item>
-<item>
-<title>[Google News] DeepSeek claims new technique boosts LLM serving efficiency by up to 85% - Computing UK</title>
-<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNTTZ5cnVESjZuaUdhSkkzcUhvSXU5U092cnRZSTBOQlk2cW9ZQVZ4TmRsZjdXaVZpZnNLeU50NUZTNFFqNFpmbkJTWC1MQnZ5OWdZamF2YXp1R0Ztbk9yX21PNnk3ckNMd0pDdExCSkVyaWFXeWtzTUNrNEp4R3IwVERTNktsQnd1ZWJlc2lKbzg5OF9kalg1YUFKQW9NYmFUellpZV9TNFdTUE85YW1Bb1dR?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxNTTZ5cnVESjZuaUdhSkkzcUhvSXU5U092cnRZSTBOQlk2cW9ZQVZ4TmRsZjdXaVZpZnNLeU50NUZTNFFqNFpmbkJTWC1MQnZ5OWdZamF2YXp1R0Ztbk9yX21PNnk3ckNMd0pDdExCSkVyaWFXeWtzTUNrNEp4R3IwVERTNktsQnd1ZWJlc2lKbzg5OF9kalg1YUFKQW9NYmFUellpZV9TNFdTUE85YW1Bb1dR?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 11:32:20 GMT</pubDate>
-<description>DeepSeek claims new technique boosts LLM serving efficiency by up to 85% &amp;nbsp;&amp;nbsp; Computing UK</description>
-</item>
-<item>
-<title>[Google News] DeepSeek V4 is scheduled for mid-July, with concurrent implementation of Peak-Valley API pricing. - 富途牛牛</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlZvTnY3S2VvcnQ1eWFMaThranJScExBbGVwSGRMWndPS01OaVVjd1FnYmctTXJXdWQtOEZMeExoNXlFRm82X3dhajhrRDN0SlpQSmhiVTdfTVdVbVZmTWJma1lKMTdONjFpUHRaNjk5ajlzYkFpMURiaFBuRG5uVGdaNlhIVU55cTYzdjBkYnRER1NYMU5mV1l0LUtoTzdfSThIMVloNUJqbGNmeVE?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlZvTnY3S2VvcnQ1eWFMaThranJScExBbGVwSGRMWndPS01OaVVjd1FnYmctTXJXdWQtOEZMeExoNXlFRm82X3dhajhrRDN0SlpQSmhiVTdfTVdVbVZmTWJma1lKMTdONjFpUHRaNjk5ajlzYkFpMURiaFBuRG5uVGdaNlhIVU55cTYzdjBkYnRER1NYMU5mV1l0LUtoTzdfSThIMVloNUJqbGNmeVE?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 11:14:45 GMT</pubDate>
-<description>DeepSeek V4 is scheduled for mid-July, with concurrent implementation of Peak-Valley API pricing. &amp;nbsp;&amp;nbsp; 富途牛牛</description>
+<title>[YouTube] How NPS and NVIDIA Are Training the Next AI Leaders</title>
+<link>https://www.youtube.com/shorts/hA0S7_jr1F0</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/hA0S7_jr1F0</guid>
+<pubDate>Mon, 29 Jun 2026 14:00:06 GMT</pubDate>
+
 </item>
 <item>
 <title>[Blog] Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron</title>
@@ -189,32 +140,11 @@
 <description>Part 2 of Build your own claw and agent harness with Microsoft Agent Framework. In Part 1 we stood up a harness and gave our personal finance assistant its first abilities: a custom tool, web search, and planning. It can talk about the markets &amp;#8211; but it can&amp;#8217;t yet touch your data, and noth</description>
 </item>
 <item>
-<title>[Google News] DeepSeek has released 'DSpark,' which can improve the speed of AI language model generation by up to 85%. - GIGAZINE</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1HLXcxc2dST29nTkhvQ1hENGxLTUhHTkRSVDhZMmZkcUJrME5FcW9hUXoxWTJlT0c3andFZ2tuZFc0ejlSRmVDbHBVbkxMY1prMXM4bXZuMk9jTGkxWjh1MzdiSWJ0MFFLd2c?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiakFVX3lxTE1HLXcxc2dST29nTkhvQ1hENGxLTUhHTkRSVDhZMmZkcUJrME5FcW9hUXoxWTJlT0c3andFZ2tuZFc0ejlSRmVDbHBVbkxMY1prMXM4bXZuMk9jTGkxWjh1MzdiSWJ0MFFLd2c?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 10:00:00 GMT</pubDate>
-<description>DeepSeek has released 'DSpark,' which can improve the speed of AI language model generation by up to 85%. &amp;nbsp;&amp;nbsp; GIGAZINE</description>
-</item>
-<item>
-<title>[Google News] DeepSeek vs ChatGPT vs Gemini: $0.43 vs $5/M [2026] - tech-insider.org</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBENHhaSVBxcTdlcjNlU0lBczF2Sk8tTzk3bi10VnZIdTVIc01CZ20ySTRPLUdTcVVFQXdQYjZfVDZjSERSOWZVdUpobGVoMkNZWU9tTklrWk5VcC1HSndfbTJpdUt0d3VnSUFydw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMibEFVX3lxTFBENHhaSVBxcTdlcjNlU0lBczF2Sk8tTzk3bi10VnZIdTVIc01CZ20ySTRPLUdTcVVFQXdQYjZfVDZjSERSOWZVdUpobGVoMkNZWU9tTklrWk5VcC1HSndfbTJpdUt0d3VnSUFydw?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 08:54:59 GMT</pubDate>
-<description>DeepSeek vs ChatGPT vs Gemini: $0.43 vs $5/M [2026] &amp;nbsp;&amp;nbsp; tech-insider.org</description>
-</item>
-<item>
-<title>[Google News] Anthropic’s Mythos Spooked DeepSeek, Prompting Its $7.4 Billion Fundraising - The Information</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0pGMzd4V2lGN2R2RzliWXcwVWY5Ul9jMzgxajBibTFhSlFoVm8wSkladmVBNVF5UHVYbWJsY01vcVJ5ZER2bUhDQzlmbm9jMmw1c1JKYVBad0h2QXlsQ09HNDFQY3lzQlUyc002eGRIdjBzUFhKdkJqbFJ5OFR3eW9ucXEyekF4bUNyLXNnbV9hVUFmbHpuVlRHVU9GY2lINkladW9TWXgxbU1sdmc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0pGMzd4V2lGN2R2RzliWXcwVWY5Ul9jMzgxajBibTFhSlFoVm8wSkladmVBNVF5UHVYbWJsY01vcVJ5ZER2bUhDQzlmbm9jMmw1c1JKYVBad0h2QXlsQ09HNDFQY3lzQlUyc002eGRIdjBzUFhKdkJqbFJ5OFR3eW9ucXEyekF4bUNyLXNnbV9hVUFmbHpuVlRHVU9GY2lINkladW9TWXgxbU1sdmc?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 08:47:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Peking University, DeepSeek Open-Source DSpark To Boost LLM Efficiency - Open Source For You</title>
-<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjl5TVJGMDVRNWktZUo4YTl3MERBZlU2Y21GTHMza3hCUzhLNnY1Q3RZVEhWeV93Zlo2OG5tSjFuT1lQcDEweVptM2dWbVNmTVNnSC11dzlfbkllbFh3d1JtVGQyRzF1SDhEcDd0VmxSS2FUTHJNS0dnVjNoYV91UWJqWkR2ZWN1bXRJTEtR?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjl5TVJGMDVRNWktZUo4YTl3MERBZlU2Y21GTHMza3hCUzhLNnY1Q3RZVEhWeV93Zlo2OG5tSjFuT1lQcDEweVptM2dWbVNmTVNnSC11dzlfbkllbFh3d1JtVGQyRzF1SDhEcDd0VmxSS2FUTHJNS0dnVjNoYV91UWJqWkR2ZWN1bXRJTEtR?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 08:35:46 GMT</pubDate>
-<description>Peking University, DeepSeek Open-Source DSpark To Boost LLM Efficiency &amp;nbsp;&amp;nbsp; Open Source For You</description>
+<title>[YouTube] Training Agents 2: Live tutorial on model distillation for training custom agents.</title>
+<link>https://www.youtube.com/watch?v=GZT_oNQnLV4</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=GZT_oNQnLV4</guid>
+<pubDate>Mon, 29 Jun 2026 09:00:36 GMT</pubDate>
+<description>In this live session, we'll cover how to transfer capability from a teacher model to a smaller student through distillation. We'll work through supervised fine-tuning on teacher-generated data, then on-policy and online methods where the teacher scores the student live, then self-distillation where </description>
 </item>
 <item>
 <title>[News] Mapping Europe’s AI Workforce Opportunity</title>
@@ -231,13 +161,6 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek Releases DSpark: Speculative Decoding Makes V4 Up to 85 Percent Faster - Tech Times</title>
-<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVRFbTltV1I2R2hYbGNmc2ZSdWhCczVWRFdCT0JJc3hoNFJNVjhhM3hyZG1nT004dGJRWGw4eHRUY3lLY2NleTR1VXRlZ1l0VzZtSFZpQ1AzY3JmdktaQ2dncjFhV18tM3pEMDFKbGV5WXhZRGo0RldsT1lueFZnOXBRTTJVNlJJTEptNlJtUzBrYldLUHF6U1VTVUtjS2Z5VFp0VjRGQjNGTjFma0V1ODViY0xSOENxeEtTYXhWSXJRYlVVYnc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVRFbTltV1I2R2hYbGNmc2ZSdWhCczVWRFdCT0JJc3hoNFJNVjhhM3hyZG1nT004dGJRWGw4eHRUY3lLY2NleTR1VXRlZ1l0VzZtSFZpQ1AzY3JmdktaQ2dncjFhV18tM3pEMDFKbGV5WXhZRGo0RldsT1lueFZnOXBRTTJVNlJJTEptNlJtUzBrYldLUHF6U1VTVUtjS2Z5VFp0VjRGQjNGTjFma0V1ODViY0xSOENxeEtTYXhWSXJRYlVVYnc?oc=5</guid>
-<pubDate>Sun, 28 Jun 2026 20:21:27 GMT</pubDate>
-<description>DeepSeek Releases DSpark: Speculative Decoding Makes V4 Up to 85 Percent Faster &amp;nbsp;&amp;nbsp; Tech Times</description>
-</item>
-<item>
 <title>[News] HP Inc. launches Frontier strategic partnership with OpenAI</title>
 <link>https://openai.com/index/hp-frontier-partnership</link>
 <guid isPermaLink="false">https://openai.com/index/hp-frontier-partnership</guid>
@@ -245,25 +168,18 @@
 <description>HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.</description>
 </item>
 <item>
-<title>[Google News] More 'DeepSeek moments' ahead: Will US continue to build walls or learn? - Global Times</title>
-<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JV3RnR0FoaE80a2NtU1NNVjlIcXVpSTZmVE84RGtjSmhsM0ZpYXBCV3hxX1pQS0otZ0hPOG1PZ094SkhhMXlRR3psMWdzc3pMQVJOVWRfaGRYYk00dFEzRmt3?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JV3RnR0FoaE80a2NtU1NNVjlIcXVpSTZmVE84RGtjSmhsM0ZpYXBCV3hxX1pQS0otZ0hPOG1PZ094SkhhMXlRR3psMWdzc3pMQVJOVWRfaGRYYk00dFEzRmt3?oc=5</guid>
-<pubDate>Sun, 28 Jun 2026 15:01:00 GMT</pubDate>
-<description>More 'DeepSeek moments' ahead: Will US continue to build walls or learn? &amp;nbsp;&amp;nbsp; Global Times</description>
+<title>[YouTube] From Machine Translation to AI-Mediated Communication- Cohere Labs in Conversation w/ Marine Carpuat</title>
+<link>https://www.youtube.com/watch?v=HzGQUgo5NPA</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=HzGQUgo5NPA</guid>
+<pubDate>Fri, 26 Jun 2026 19:43:32 GMT</pubDate>
+<description>​From Machine Translation to AI-Mediated Communication Talk by Marine Carpuat, Associate Professor, University of Maryland Hosted by Julia Kreutzer, Senior Research Scientist, Cohere Labs ​Multilingual AI systems have never performed better, with steady progress across an increasing variety of langu</description>
 </item>
 <item>
-<title>[Google News] Faster AI, lower costs: DSpark eases bottlenecks and chip strain, says DeepSeek - South China Morning Post</title>
-<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajNTbEVhUkwwZ0dpSHlTM194R1U4V19pS1dmNHktQXZLOHNJMW9ybXMzZUVpdENZYlFtLTVtUXVJckVSbThjMk9Bdjd6ZDVEM3F1UEdtU2lrOUllbHdCekItUms1ZW5NLVRaSUJBRklQT1ZnVUdSOUI0Y3ZDVW5ib1RPTjU5R2pIb3ByeDFkdzRBRERQbjRRem0tXy1UWmJqMjl4bE5zMHY5b3dSSGRpREtTR0FQcVRSVHd1cWZBUThHblZxQ2VVU29MOGpPUXRoR1BR0gHTAUFVX3lxTE81aVpYWEFxTnNNZGJlNENKdGh3M3Q4a1Mzd1A1bFhGbVpSU1Q4TzNEN1VYLXA1WjZMei0xbDI2bURCWlBtY0JFd29ZVHZKQ1lQMVRFeTg2YllNN0xzTE1aOTN6MklJZ0JGNHBFa2NuTG1IQzdOQnctVmIxY1FVR3NRSEhvTFhWSlExQmYtb25Gc1QzbDhiNXd6QTg1Z29fRWgwaTJjdVNPOG0zNXlLbkZ2UHZJMkR0U2JqQUtwcGVOb2RxbTZyTVJod0xQaVdIMm55Xzg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajNTbEVhUkwwZ0dpSHlTM194R1U4V19pS1dmNHktQXZLOHNJMW9ybXMzZUVpdENZYlFtLTVtUXVJckVSbThjMk9Bdjd6ZDVEM3F1UEdtU2lrOUllbHdCekItUms1ZW5NLVRaSUJBRklQT1ZnVUdSOUI0Y3ZDVW5ib1RPTjU5R2pIb3ByeDFkdzRBRERQbjRRem0tXy1UWmJqMjl4bE5zMHY5b3dSSGRpREtTR0FQcVRSVHd1cWZBUThHblZxQ2VVU29MOGpPUXRoR1BR0gHTAUFVX3lxTE81aVpYWEFxTnNNZGJlNENKdGh3M3Q4a1Mzd1A1bFhGbVpSU1Q4TzNEN1VYLXA1WjZMei0xbDI2bURCWlBtY0JFd29ZVHZKQ1lQMVRFeTg2YllNN0xzTE1aOTN6MklJZ0JGNHBFa2NuTG1IQzdOQnctVmIxY1FVR3NRSEhvTFhWSlExQmYtb25Gc1QzbDhiNXd6QTg1Z29fRWgwaTJjdVNPOG0zNXlLbkZ2UHZJMkR0U2JqQUtwcGVOb2RxbTZyTVJod0xQaVdIMm55Xzg?oc=5</guid>
-<pubDate>Sun, 28 Jun 2026 11:00:08 GMT</pubDate>
-<description>Faster AI, lower costs: DSpark eases bottlenecks and chip strain, says DeepSeek &amp;nbsp;&amp;nbsp; South China Morning Post</description>
-</item>
-<item>
-<title>[Google News] DeepSeek V4 Updates DSpark, Boosting Inference Speed by 80% Just Now - 36Kr</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Pdl9YX1BkbWt5NGZabzV0OFFfQW9jREpMVkJXVFZTRmgxb0VtdUl4OFlIaXVUUk1CcHlQSll1a1pKdHNzUXY1WXdsU2hvODE0bjlz?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Pdl9YX1BkbWt5NGZabzV0OFFfQW9jREpMVkJXVFZTRmgxb0VtdUl4OFlIaXVUUk1CcHlQSll1a1pKdHNzUXY1WXdsU2hvODE0bjlz?oc=5</guid>
-<pubDate>Sat, 27 Jun 2026 09:05:07 GMT</pubDate>
-<description>DeepSeek V4 Updates DSpark, Boosting Inference Speed by 80% Just Now &amp;nbsp;&amp;nbsp; 36Kr</description>
+<title>[YouTube] Builders Unscripted: Ep. 4 - Pietro Schirano</title>
+<link>https://www.youtube.com/watch?v=SPC_yCe1cUw</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=SPC_yCe1cUw</guid>
+<pubDate>Fri, 26 Jun 2026 19:40:00 GMT</pubDate>
+<description>Pietro Schirano, Founder &amp; CEO of MagicPath sits down with Romain Huet to talk about pushing the creative edges of GPT-5.5 and using Codex to turn ideas into software. 03:45 Images into sound 07:57 Multi-agent Codex workflows 14:34 Reviving hardware with Codex 25:27 From doing to directing</description>
 </item>
 <item>
 <title>[Developer] Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure</title>
@@ -271,6 +187,13 @@
 <guid isPermaLink="false">https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/</guid>
 <pubDate>Fri, 26 Jun 2026 19:00:45 GMT</pubDate>
 <description>AI agents have changed a lot in the last two years. The first could only answer one question at a time. Then came multi-turn chat, where the model could keep...</description>
+</item>
+<item>
+<title>[YouTube] Personal Computer for Mac | Perplexity Academy</title>
+<link>https://www.youtube.com/watch?v=9ywd9s3kTmE</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=9ywd9s3kTmE</guid>
+<pubDate>Fri, 26 Jun 2026 19:00:32 GMT</pubDate>
+<description>Personal Computer brings Perplexity Computer onto your Mac, where most of your real work already happens. It connects local files, native apps, and the desktop environment with the multi-model orchestration of Computer, so tasks that start outside a chat box finally have a home. A lot of work depend</description>
 </item>
 <item>
 <title>[Research] Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction</title>
@@ -294,6 +217,13 @@
 <description>As enterprises scale autonomous AI agents into production, enabling safe innovation requires robust architectural guardrails. AI agents connect across tools and datasets, so it’s essential to establish clear network-level boundaries for comprehensive data protection. To help organizations confidentl</description>
 </item>
 <item>
+<title>[YouTube] Sonia Joseph - Interpreting Physics in Video World Models</title>
+<link>https://www.youtube.com/watch?v=6UKl8e8-qKE</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=6UKl8e8-qKE</guid>
+<pubDate>Fri, 26 Jun 2026 17:11:20 GMT</pubDate>
+<description>00:00 Welcome and speaker intro 00:58 Why interpret physics 02:21 Video models break physics 04:44 How minds simulate physics 07:25 Human intuitive physics biases 11:07 From humans to model audits 13:43 Study questions and goals 17:26 High level findings preview 20:35 Task design and generality 24:1</description>
+</item>
+<item>
 <title>[Azure] The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code</title>
 <link>https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/</link>
 <guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/</guid>
@@ -315,11 +245,18 @@
 <description>If you’ve got a faraway trip coming up, the Gemini app can help you avoid jetlag so you can make the most of your visit.Once you’ve given Gemini permission to access you…</description>
 </item>
 <item>
-<title>[Google News] Anthropic’s Mythos Spooked DeepSeek, Prompting Its $7.4 Billion Fundraising - The Information</title>
-<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1kyM2RQTVppc3paZ0hFaEhrN0RxRnFHOU5reVdQRTZ3MjBVdmV2NUQ4dEpfMXJhU3g4TElZajdHR05XQkRQZWxaZ3VTZnlVNkpoYVYzZU1NbE1DOUpoMGVEUlZnLXRtTnphNzdOVXRsdDAyYmI2WGZUODgyendQaEtaWDV0a0NpSkxoWnp0U0Jxd2o3R1lhZm1fbENhaS1saFlDeG5VazYxOWhH?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1kyM2RQTVppc3paZ0hFaEhrN0RxRnFHOU5reVdQRTZ3MjBVdmV2NUQ4dEpfMXJhU3g4TElZajdHR05XQkRQZWxaZ3VTZnlVNkpoYVYzZU1NbE1DOUpoMGVEUlZnLXRtTnphNzdOVXRsdDAyYmI2WGZUODgyendQaEtaWDV0a0NpSkxoWnp0U0Jxd2o3R1lhZm1fbENhaS1saFlDeG5VazYxOWhH?oc=5</guid>
-<pubDate>Fri, 26 Jun 2026 13:00:00 GMT</pubDate>
-
+<title>[YouTube] Bingyi Cao &amp; Koert Chen - TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text</title>
+<link>https://www.youtube.com/watch?v=DmGz7XRPFrQ</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=DmGz7XRPFrQ</guid>
+<pubDate>Fri, 26 Jun 2026 15:36:29 GMT</pubDate>
+<description>​00:00 Talk Intro 00:37 Why TIPS V2 02:04 Spatial Awareness Demos 04:14 Patch Text Alignment Gap 05:41 Distillation Mystery 06:53 Pretraining vs Distillation 08:58 Ablations Reveal Key 11:53 iBOT++ Upgrade 14:04 Head Only EMA 15:20 Multi Granularity Captions 16:51 Full Training Recipe 18:25 Live Q a</description>
+</item>
+<item>
+<title>[YouTube] Verso, l'entreprise qui ne dort jamais</title>
+<link>https://www.youtube.com/watch?v=mFwWax5pLTs</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=mFwWax5pLTs</guid>
+<pubDate>Fri, 26 Jun 2026 11:00:22 GMT</pubDate>
+<description>Découvrez comment Verso développe une entreprise véritablement AI-native. Lors de cette session enregistrée lors de l'événement OpenAI France en juin 2026, Lydia Bellahouel, cofondatrice et CEO de Verso, partage la manière dont son équipe s'appuie sur les modèles OpenAI, Codex et des systèmes multi-</description>
 </item>
 <item>
 <title>[News] Previewing GPT-5.6 Sol: a next-generation model</title>
@@ -327,27 +264,6 @@
 <guid isPermaLink="false">https://openai.com/index/previewing-gpt-5-6-sol</guid>
 <pubDate>Fri, 26 Jun 2026 10:00:00 GMT</pubDate>
 <description>OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.</description>
-</item>
-<item>
-<title>[Google News] DeepSeek plans hiring spree in escalation of China’s AI talent war - Financial Times</title>
-<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTN3OUt0ZlZsZ3hhZHJnTFZWMk5NVEdRVkJTZlExQVM4SDBDbm9uWlBHUFdzeTZGTXhlS1BQYl81ZzFuZF94eGNHajlHbDFweHRXV2hFN251LUpiSS1iZ0VweGV4ZFZGa2xlTVpwMjdfUERycS05VU9LV2dFc1lsN3NVc2M?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTN3OUt0ZlZsZ3hhZHJnTFZWMk5NVEdRVkJTZlExQVM4SDBDbm9uWlBHUFdzeTZGTXhlS1BQYl81ZzFuZF94eGNHajlHbDFweHRXV2hFN251LUpiSS1iZ0VweGV4ZFZGa2xlTVpwMjdfUERycS05VU9LV2dFc1lsN3NVc2M?oc=5</guid>
-<pubDate>Fri, 26 Jun 2026 05:12:43 GMT</pubDate>
-<description>DeepSeek plans hiring spree in escalation of China’s AI talent war &amp;nbsp;&amp;nbsp; Financial Times</description>
-</item>
-<item>
-<title>[Google News] China’s Zhipu AI sparks new ‘DeepSeek moment’ in Silicon Valley - South China Morning Post</title>
-<link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUVUSVBGVHBVWUJYNXNnY05iaHBkR19DeFdPdjQ1YzlGVHdhTWNncUsxSk5lQmk1OHl3M0NpZ0pTYmtaZHdKSDVTMW1JT3ppaTZXNXlHMzJ5bFkwVUw0OWwxWmJBRmpXUTJJV0x0ZmE2d2xkWnllNE9KRVF0UGRGTHFERzRRWkFNZEZ5cTRsSm55bjhEcEQ5U0VCZV9yd2l2bDZqYWhVNjdaOVFabE1ZMTVxZm1JOG5mc1g2Q1ln0gG-AUFVX3lxTE4zMExhUG1DT2FNTU53d2NRQWprcTFvQjZNVHp3R1VwaDRuU09NdlVkcXZqaEJZcHgzNEhBX1BPV3RUZzRXbjZxUkx5UEczcmpvMWVDbjBCYmFJamRYRnZ5Mm9ST0hQc3pjZVg0MkFUc1RHZEw2RVZLSW5LSWozb0plRGh6TGNPdUNxVXJMM18tUlNWOGVRWnRxd1pBUFdSUUh0bkJ5aVEzbllqMG56VzA1RjlHdWRfRXNFaDE1THc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUVUSVBGVHBVWUJYNXNnY05iaHBkR19DeFdPdjQ1YzlGVHdhTWNncUsxSk5lQmk1OHl3M0NpZ0pTYmtaZHdKSDVTMW1JT3ppaTZXNXlHMzJ5bFkwVUw0OWwxWmJBRmpXUTJJV0x0ZmE2d2xkWnllNE9KRVF0UGRGTHFERzRRWkFNZEZ5cTRsSm55bjhEcEQ5U0VCZV9yd2l2bDZqYWhVNjdaOVFabE1ZMTVxZm1JOG5mc1g2Q1ln0gG-AUFVX3lxTE4zMExhUG1DT2FNTU53d2NRQWprcTFvQjZNVHp3R1VwaDRuU09NdlVkcXZqaEJZcHgzNEhBX1BPV3RUZzRXbjZxUkx5UEczcmpvMWVDbjBCYmFJamRYRnZ5Mm9ST0hQc3pjZVg0MkFUc1RHZEw2RVZLSW5LSWozb0plRGh6TGNPdUNxVXJMM18tUlNWOGVRWnRxd1pBUFdSUUh0bkJ5aVEzbllqMG56VzA1RjlHdWRfRXNFaDE1THc?oc=5</guid>
-<pubDate>Fri, 26 Jun 2026 04:06:08 GMT</pubDate>
-<description>China’s Zhipu AI sparks new ‘DeepSeek moment’ in Silicon Valley &amp;nbsp;&amp;nbsp; South China Morning Post</description>
-</item>
-<item>
-<title>[Google News] DeepSeek Looks to Double Workforce as Fresh Funding Fuels Growth - WSJ</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQUElGcldpT3h4dVBmaDJxeTZsUzVWdFJRNjE5RFhTUHBZeG9HNzlNZUxfX29nY1hsamJJdVh6WnZKVzF4Q3FxaDRPckFrUjV0UnZYU2RiVW1hVmFIbHRKNzY0RTN3aXlzeTV3cS1wY2t6aENscGpsNDJXLU5kRGVGS0xJdkFQY1hQQ2hVbnI5dy1CRVp0QldNNlJNMXZZd2ljUm5z?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQUElGcldpT3h4dVBmaDJxeTZsUzVWdFJRNjE5RFhTUHBZeG9HNzlNZUxfX29nY1hsamJJdVh6WnZKVzF4Q3FxaDRPckFrUjV0UnZYU2RiVW1hVmFIbHRKNzY0RTN3aXlzeTV3cS1wY2t6aENscGpsNDJXLU5kRGVGS0xJdkFQY1hQQ2hVbnI5dy1CRVp0QldNNlJNMXZZd2ljUm5z?oc=5</guid>
-<pubDate>Fri, 26 Jun 2026 01:20:00 GMT</pubDate>
-<description>DeepSeek Looks to Double Workforce as Fresh Funding Fuels Growth &amp;nbsp;&amp;nbsp; WSJ</description>
 </item>
 <item>
 <title>[Research] Anthropic Economic Index report: CadencesIn our latest Economic Index report, we sample hourly for the first time to ask: When do people come to Claude? What do they produce with it? And how do they perceive AI's impact on their work?</title>
@@ -371,6 +287,27 @@
 <description>Shaders are GPU programs that process visual data—such as rays, pixels, geometry, and textures—to produce specific rendering effects. Shaders find necessary...</description>
 </item>
 <item>
+<title>[YouTube] Doğaç Eldenk - Attention Drift – What speculative decoding models learn</title>
+<link>https://www.youtube.com/watch?v=sbCSYEaMEmg</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=sbCSYEaMEmg</guid>
+<pubDate>Thu, 25 Jun 2026 22:03:18 GMT</pubDate>
+<description>00:00 Seminar Welcome 00:53 Talk Overview 01:22 Why Inference Is Hard 02:55 Speculative Decoding Basics 06:58 EAGLETree and MTP 08:59 Attention Sinks Primer 10:08 Attention Drift Discovery 15:14 Magnitude Mismatch Clues 17:51 Post Norm Fix 20:48 Training Time Tests 24:02 Gated Attention Experiments </description>
+</item>
+<item>
+<title>[YouTube] What if plants could talk?</title>
+<link>https://www.youtube.com/watch?v=q_diWy3xdrw</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=q_diWy3xdrw</guid>
+<pubDate>Thu, 25 Jun 2026 17:19:53 GMT</pubDate>
+<description>Now our plants won't shut up. Give your plants a voice: https://github.com/openai/planttalk</description>
+</item>
+<item>
+<title>[YouTube] An Early Look At The Microsoft Surface Laptop Ultra Powered by NVIDIA RTX Spark</title>
+<link>https://www.youtube.com/shorts/Vy4cAPglzZo</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/Vy4cAPglzZo</guid>
+<pubDate>Thu, 25 Jun 2026 17:00:14 GMT</pubDate>
+<description>Premium on the outside. Powerful on the inside. Join NVIDIA’s Jacob Freeman for a closer look at the new Microsoft Surface Laptop Ultra powered by NVIDIA RTX Spark. Learn more about the Microsoft Surface Laptop Ultra: https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra</description>
+</item>
+<item>
 <title>[Gemini] Try these 3 Google AI tools to help find your next job.</title>
 <link>https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/</link>
 <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/</guid>
@@ -385,18 +322,25 @@
 <description>How Gemini helps with homework, meal planning and more, so parents have time to focus on the good stuff.</description>
 </item>
 <item>
+<title>[YouTube] Welcome to Open Source AI: Run Your Own Models Locally</title>
+<link>https://www.youtube.com/watch?v=wRcByxXkJCQ</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=wRcByxXkJCQ</guid>
+<pubDate>Thu, 25 Jun 2026 16:49:36 GMT</pubDate>
+<description>A livestream for everyone starting out with open models. We walk through the most robust stack for running AI on your own laptop or server, and answer your questions live. What we cover: Merve Noyan on llama.cpp: what it is and how it runs on your hardware, plus the new llama.app and llama barn. Dan</description>
+</item>
+<item>
+<title>[YouTube] BIO Conference with Kimberly Powell</title>
+<link>https://www.youtube.com/shorts/mnd-SxN-SFk</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/mnd-SxN-SFk</guid>
+<pubDate>Thu, 25 Jun 2026 16:45:32 GMT</pubDate>
+<description>Walk the #BIO2026 show floor with Kimberly Powell, NVIDIA VP of Healthcare, as she shares what’s exciting about the latest BioNeMo toolkit announcement. BioNeMo is helping bring AI-driven biology and drug discovery closer to the next experiment, with tools for researchers and developers to build, cu</description>
+</item>
+<item>
 <title>[Developer] Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support</title>
 <link>https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/</link>
 <guid isPermaLink="false">https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/</guid>
 <pubDate>Thu, 25 Jun 2026 16:43:48 GMT</pubDate>
 <description>Generative AI workloads are rapidly outgrowing the memory and compute budget of single GPUs. For inference developers building media generation pipelines, the...</description>
-</item>
-<item>
-<title>[Google News] DeepSeek on hiring spree – seeks newcomers, not just AI geniuses - South China Morning Post</title>
-<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMmFEcGJhYTdvNHZNRWE3VnFpTFVJSnFIQnRHZ25yMTFLem1nVjZuOUpvV1M5NDdlN1RNR0VzNTkza3NDTHdUX2JjSDczLTNRZjNIdVZUSGh2Z1hYd25OM2wwVF92VVktVkd6MFhwdDFMNzVoX0pfbmJNQ2toRk9ldVkzSXIxRGUyZFNZWGRSMDBTRm5NZDZCbVlkTWdnOGFjTlFFMnlQbVZtczB3WUpYTDJqTkJMWGN5Z2dz0gG7AUFVX3lxTE1KbUdTSE5TdGRwM2lZdDR3eGFHd2lQQmxHOEluM1ZuSUg1TXA3dlFZdzRCSGVMM0JtSm8wWDF2QWx0RV8ybTlTeGdUcjJJdXdiTXhJdXZTU1E0NUxDVV94ajhEZFFUd3NsVU1zdFF5cGJTcTR0WFJ6cXJubndPMUp4QWtscGNQQVZFQXJFR1hja2VPTURTbGpOdXZtMlcyZXJUTTByWVRhd2t1a2Z5cS1NLVpVemlFeVQ3ZkU?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMmFEcGJhYTdvNHZNRWE3VnFpTFVJSnFIQnRHZ25yMTFLem1nVjZuOUpvV1M5NDdlN1RNR0VzNTkza3NDTHdUX2JjSDczLTNRZjNIdVZUSGh2Z1hYd25OM2wwVF92VVktVkd6MFhwdDFMNzVoX0pfbmJNQ2toRk9ldVkzSXIxRGUyZFNZWGRSMDBTRm5NZDZCbVlkTWdnOGFjTlFFMnlQbVZtczB3WUpYTDJqTkJMWGN5Z2dz0gG7AUFVX3lxTE1KbUdTSE5TdGRwM2lZdDR3eGFHd2lQQmxHOEluM1ZuSUg1TXA3dlFZdzRCSGVMM0JtSm8wWDF2QWx0RV8ybTlTeGdUcjJJdXdiTXhJdXZTU1E0NUxDVV94ajhEZFFUd3NsVU1zdFF5cGJTcTR0WFJ6cXJubndPMUp4QWtscGNQQVZFQXJFR1hja2VPTURTbGpOdXZtMlcyZXJUTTByWVRhd2t1a2Z5cS1NLVpVemlFeVQ3ZkU?oc=5</guid>
-<pubDate>Thu, 25 Jun 2026 16:38:30 GMT</pubDate>
-<description>DeepSeek on hiring spree – seeks newcomers, not just AI geniuses &amp;nbsp;&amp;nbsp; South China Morning Post</description>
 </item>
 <item>
 <title>[Developer] Q&amp;A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE</title>
@@ -425,6 +369,62 @@
 <guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/</guid>
 <pubDate>Thu, 25 Jun 2026 16:00:00 +0000</pubDate>
 <description>Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language. The post Understanding the brain with AI-driven explanations and experiments appeared first on Micr</description>
+</item>
+<item>
+<title>[Blog] The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts</title>
+<link>https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/</guid>
+<pubDate>Thu, 25 Jun 2026 13:00:34 +0000</pubDate>
+<description>Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Ell</description>
+</item>
+<item>
+<title>[YouTube] BNP Paribas accelerates AI-powered banking with Mistral</title>
+<link>https://www.youtube.com/watch?v=mZo6Y9f31r8</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=mZo6Y9f31r8</guid>
+<pubDate>Thu, 25 Jun 2026 12:55:38 GMT</pubDate>
+<description>What does it take to deploy frontier AI inside a global bank? BNP Paribas needed a partner who could run models on their own infrastructure, meet strict security and compliance requirements, and be energy-efficient at scale. Since the partnership began, our collaboration has expanded from models to </description>
+</item>
+<item>
+<title>[Research] Optimizing cloud economics with linear elastic caching</title>
+<link>https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/</link>
+<guid isPermaLink="false">https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/</guid>
+<pubDate>Thu, 25 Jun 2026 10:03:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[YouTube] NVIDIA cuPhoton: The Tech Fast-Tracking Space Discovery</title>
+<link>https://www.youtube.com/watch?v=Ywgx2AqcdM8</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=Ywgx2AqcdM8</guid>
+<pubDate>Thu, 25 Jun 2026 03:51:55 GMT</pubDate>
+<description>High in the Chilean mountains, the Rubin Observatory—home to the largest digital camera ever built—captures a staggering 20 terabytes of sky data every single night. Hidden within these petabytes are the ultimate secrets of dark matter and dark energy, which make up 95% of our universe. The problem?</description>
+</item>
+<item>
+<title>[YouTube] NVIDIA &amp; Coherent: Reindustrializing America, Manufacturing for the AI Era</title>
+<link>https://www.youtube.com/watch?v=GsqW5MPFajw</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=GsqW5MPFajw</guid>
+<pubDate>Thu, 25 Jun 2026 03:51:12 GMT</pubDate>
+<description>NVIDIA founder and CEO Jensen Huang joins Coherent CEO Jim Anderson in Sherman, Texas for a conversation on the infrastructure behind the AI era, from advanced photonics and optical links to U.S. manufacturing capacity. Learn more about how the factories, workers, and supply chains behind AI are hel</description>
+</item>
+<item>
+<title>[YouTube] NVIDIA's Kimberly Powell at BIO International Convention</title>
+<link>https://www.youtube.com/shorts/tqN19lJ9Bsc</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/tqN19lJ9Bsc</guid>
+<pubDate>Thu, 25 Jun 2026 03:49:27 GMT</pubDate>
+<description>Science is getting an AI lab partner. 🧬 At #BIO2026, NVIDIA’s Kimberly Powell joined Genentech CEO Ashley Magargee and Katie Couric to introduce BioNeMo Agent Toolkit, and discuss the importance of agents to accelerate discoveries in life sciences. Read more: https://nvda.ws/43U1iDi</description>
+</item>
+<item>
+<title>[News] How agents are transforming work</title>
+<link>https://openai.com/index/how-agents-are-transforming-work</link>
+<guid isPermaLink="false">https://openai.com/index/how-agents-are-transforming-work</guid>
+<pubDate>Thu, 25 Jun 2026 02:00:00 GMT</pubDate>
+<description>A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.</description>
+</item>
+<item>
+<title>[YouTube] Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302</title>
+<link>https://www.youtube.com/shorts/4mrfqPuXYA4</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/4mrfqPuXYA4</guid>
+<pubDate>Wed, 24 Jun 2026 18:48:39 GMT</pubDate>
+<description>Real grocery stores are hard on AI: changing shelves, spotty Wi-Fi and shoppers on the move. On the NVIDIA AI Podcast, Instacart's David McIntosh shares how Caper Carts use NVIDIA Jetson and edge AI to recognize items in store.</description>
 </item>
 </channel>
 </rss>
