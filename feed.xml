@@ -5,7 +5,189 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 30 Jun 2026 12:25:11 GMT</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 16:32:47 GMT</lastBuildDate>
+<item>
+<title>[YouTube] How Together AI Uses NVIDIA's Full Stack to Deliver AI Responses in Under 100ms</title>
+<link>https://www.youtube.com/watch?v=10Kb3IB0d70</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=10Kb3IB0d70</guid>
+<pubDate>Tue, 30 Jun 2026 16:20:15 GMT</pubDate>
+<description>Together AI's Dan Fu, Vice President of Kernels, explains how Together AI leverages NVIDIA GPUs to deliver AI responses in under 100 milliseconds while achieving some of the industry's lowest token costs. From developing a megakernel that fits an entire model into a single CUDA kernel to powering re</description>
+</item>
+<item>
+<title>[DeepMind] Start building with Nano Banana 2 Lite and Gemini Omni Flash</title>
+<link>https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</guid>
+<pubDate>Tue, 30 Jun 2026 16:02:40 +0000</pubDate>
+
+</item>
+<item>
+<title>[Cloud AI] How Schrödinger sped up molecular discovery by 4x with Alphaevolve</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x/</guid>
+<pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
+<description>Computational chemistry researchers have traditionally faced a frustrating trade-off when simulating molecular interactions: use fast classical force fields that sacrifice precision or rely on accurate quantum-mechanical methods that run too slowly on large jobs. Machine-learned force fields (MLFFs)</description>
+</item>
+<item>
+<title>[Cloud AI] Build agents even faster with Gemini Enterprise Agent Platform’s fully-managed, remote MCP server</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/</guid>
+<pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
+<description>A couple of months ago, we announced that over 50 Google-managed MCP servers are available. Today, we’ll dive into how to use the Gemini Enterprise Agent Platform remote MCP server to securely connect your external AI agents to the resources inside your Google Cloud environment. Connect your IDE to </description>
+</item>
+<item>
+<title>[Cloud AI] Bringing speed and strong cost performance to the market with Gemini Omni Flash and Nano Banana 2 Lite</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/</guid>
+<pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
+<description>Great creative happens when your tools move at the speed of your ideas. To help you create rich, reliable experiences while reducing regeneration time and costs, we’re adding two new models to Gemini Enterprise Agent Platform . First, we’re announcing the general availability of Nano Banana 2 Lite (</description>
+</item>
+<item>
+<title>[Gemini] Start building with Nano Banana 2 Lite and Gemini Omni Flash</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/</guid>
+<pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Developer] Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools</title>
+<link>https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/</guid>
+<pubDate>Tue, 30 Jun 2026 16:00:00 GMT</pubDate>
+<description>NVIDIA Ominverse NuRec is a neural reconstruction pipeline for building high-fidelity 3D representations of real-world environments from multisensor data such...</description>
+</item>
+<item>
+<title>[YouTube] How Airbus is powering Europe’s Al industrial revolution | AI Now Summit 2026</title>
+<link>https://www.youtube.com/watch?v=PdeLBAwb9IQ</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=PdeLBAwb9IQ</guid>
+<pubDate>Tue, 30 Jun 2026 15:11:08 GMT</pubDate>
+<description>Explore how a global aerospace leader is integrating artificial intelligence to revolutionize the industry and maintain its competitive edge. Strategic AI partnership: Airbus has launched a five-year collaboration with Mistral AI to advance European industrial technology. Augmenting the workforce: A</description>
+</item>
+<item>
+<title>[YouTube] Scaling secure and transparent workflows | AI Now Summit 2026</title>
+<link>https://www.youtube.com/watch?v=9IsgWBMyp50</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=9IsgWBMyp50</guid>
+<pubDate>Tue, 30 Jun 2026 15:04:15 GMT</pubDate>
+<description>Mistral AI and SAP have joined forces to deeply embed advanced language models into a new business AI platform designed to deliver real outcomes for global enterprises. Highlights: * Embedding Mistral AI models within SAP's business AI platform to enhance business process automation. * Leveraging SA</description>
+</item>
+<item>
+<title>[Blog] How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost</title>
+<link>https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/</guid>
+<pubDate>Tue, 30 Jun 2026 15:00:57 +0000</pubDate>
+<description>As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and </description>
+</item>
+<item>
+<title>[Blog] How Jaiveer Singh Is Helping Robots — and Developers — Move Faster</title>
+<link>https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/</guid>
+<pubDate>Tue, 30 Jun 2026 15:00:49 +0000</pubDate>
+<description>When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot&amp;#8217;s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a rob</description>
+</item>
+<item>
+<title>[YouTube] Culture-driven approach to innovation | AI Now Summit 2026</title>
+<link>https://www.youtube.com/watch?v=gIC1ftvrGwo</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=gIC1ftvrGwo</guid>
+<pubDate>Tue, 30 Jun 2026 14:56:21 GMT</pubDate>
+<description>The CEO and owner of the Visma-Lease a Bike professional cycling team explains how a culture-driven approach and innovative technology transformed a struggling team into a world-class powerhouse. Highlights: * Overcoming rock bottom and a lack of trust after losing a major sponsor in 2013. * Redefin</description>
+</item>
+<item>
+<title>[YouTube] Scaling enterprise value with sovereign AI</title>
+<link>https://www.youtube.com/watch?v=HICHSfDkBzs</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=HICHSfDkBzs</guid>
+<pubDate>Tue, 30 Jun 2026 14:51:26 GMT</pubDate>
+<description>A leader from Accenture explains hownterprises are moving beyond AI pilots to drive real business value through sovereign technology and strategic reinvention. Scaling beyond pilots. While most Fortune 500 companies have started AI initiatives, only 8% have successfully scaled them to drive signific</description>
+</item>
+<item>
+<title>[YouTube] The Machines Behind the Machines | AI Now Summit 2026</title>
+<link>https://www.youtube.com/watch?v=usu2729-3yA</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=usu2729-3yA</guid>
+<pubDate>Tue, 30 Jun 2026 14:47:19 GMT</pubDate>
+<description>ASML is using AI to accelerate the design and maintenance of the lithography scanners essential for modern semiconductor manufacturing. By combining physics with data, they are augmenting engineers to build complex 3D chip architectures faster than ever before. Accelerating system design. AI surroga</description>
+</item>
+<item>
+<title>[YouTube] How nations can develop resilient, citizen-centric AI systems | AI Now Summit 2026</title>
+<link>https://www.youtube.com/watch?v=d5jLSGn2oj8</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=d5jLSGn2oj8</guid>
+<pubDate>Tue, 30 Jun 2026 14:40:16 GMT</pubDate>
+<description>A panel of experts discusses the transformative role of AI in public services and government institutions, focusing on modernization, data sovereignty, and maintaining public trust. Explore how AI is reshaping administration, security, and societal stability. Key Themes: Why AI in government? Effici</description>
+</item>
+<item>
+<title>[Blog] Why Specialization Is Inevitable</title>
+<link>https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable</link>
+<guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable</guid>
+<pubDate>Tue, 30 Jun 2026 14:39:11 GMT</pubDate>
+
+</item>
+<item>
+<title>[YouTube] Scaling AI to support the energy transition | AI Now Summit 2026</title>
+<link>https://www.youtube.com/watch?v=yZ5g7Jic714</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=yZ5g7Jic714</guid>
+<pubDate>Tue, 30 Jun 2026 14:37:11 GMT</pubDate>
+<description>TotalEnergies is leveraging AI as a strategic lever to compress the timeline of the energy transition. Strategic shift: the company is transitioning from oil and gas to becoming a major player in electricity, aiming for 20% of its energy mix to be electrons by 2030. Data investment: a global data pl</description>
+</item>
+<item>
+<title>[YouTube] Perspectives on AI for defense | AI Now Summit 2026</title>
+<link>https://www.youtube.com/watch?v=zR_jp_D7eWg</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=zR_jp_D7eWg</guid>
+<pubDate>Tue, 30 Jun 2026 14:32:36 GMT</pubDate>
+<description>Mistral AI and AMIAD (the French agency for defense AI) have partnered to integrate advanced AI into the Ministry of the Armed Forces to secure France's strategic autonomy. This collaboration focuses on scaling defense AI across military forces, transitioning from experimental pilot projects to oper</description>
+</item>
+<item>
+<title>[YouTube] Tansforming a global group with sovereign technology | AI Now Summit 2026</title>
+<link>https://www.youtube.com/watch?v=KlI08FYHaXc</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=KlI08FYHaXc</guid>
+<pubDate>Tue, 30 Jun 2026 14:27:49 GMT</pubDate>
+<description>CMA CGM leadership discusses scaling artificial intelligence across global operations in shipping, logistics, and media. Key takeaways * Industrial scaling: The group moved beyond small-scale proofs of concept to industrialize AI across all business lines. * Centralized structure: One dedicated AI d</description>
+</item>
+<item>
+<title>[YouTube] How Agentic AI is reinventing large organizations | AI Now Summit 2026</title>
+<link>https://www.youtube.com/watch?v=MJf_qB3waqc</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=MJf_qB3waqc</guid>
+<pubDate>Tue, 30 Jun 2026 14:01:09 GMT</pubDate>
+<description>The Chief AI Officer at BNP Paribas shares a visionary approach to agentic AI—a shift from human-AI collaboration to autonomous systems where AI interacts with AI under human supervision. Discover the six pillars for scaling AI and transforming banking for 2030. Key Themes: The power of intent: From</description>
+</item>
+<item>
+<title>[YouTube] How HTX is Scaling AI for Public Safety | AI Now Summit 2026</title>
+<link>https://www.youtube.com/watch?v=33hFF-IZ6I0</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=33hFF-IZ6I0</guid>
+<pubDate>Tue, 30 Jun 2026 13:58:10 GMT</pubDate>
+<description>Singapore's Home Team Science and Technology Agency (HTX) is leading a shift from experimental AI to large-scale national security deployments. This initiative is built on three core pillars: Sovereignty: HTX developed "Engine," a sovereign, air-gapped infrastructure, and "Fenix," a specialized mode</description>
+</item>
+<item>
+<title>[YouTube] How EDF and Mistral are reinventing France's electricity | AI Now Summit 2026</title>
+<link>https://www.youtube.com/watch?v=oypLpWb74PY</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=oypLpWb74PY</guid>
+<pubDate>Tue, 30 Jun 2026 13:52:43 GMT</pubDate>
+<description>Discover how EDF and Mistral are joining forces to integrate AI into nuclear operations, accelerating France’s energy sovereignty and the global transition to low-carbon electricity. From optimizing construction to managing decades of technical data, this partnership is a game-changer. Key Themes: *</description>
+</item>
+<item>
+<title>[YouTube] A CIO's Vision on the AI industrial revolution | AI Now Summit 2026</title>
+<link>https://www.youtube.com/watch?v=Tb7RLf9qBlc</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=Tb7RLf9qBlc</guid>
+<pubDate>Tue, 30 Jun 2026 13:50:05 GMT</pubDate>
+<description>Marjorie Janiewicz, CRO of Mistral, and Dr. Franz Decker, CIO &amp; Senior Vice President Group IT at BMW Group, announced a strategic partnership to develop specialized industrial AI models, starting with automotive crash testing. Key Highlights: Accelerated Engineering: AI can now analyze complex cras</description>
+</item>
+<item>
+<title>[YouTube] Opening keynote | AI Now Summit 2026</title>
+<link>https://www.youtube.com/watch?v=IC0VNOzPZU8</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=IC0VNOzPZU8</guid>
+<pubDate>Tue, 30 Jun 2026 13:43:35 GMT</pubDate>
+<description>Mistral's founders discuss the transformative role of AI in public services and government institutions, focusing on modernization, data sovereignty, and maintaining public trust. They also discuss the importance of full-stack ownership, how they are addressing compute capacity, model advancements, </description>
+</item>
+<item>
+<title>[Blog] Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning</title>
+<link>https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/</guid>
+<pubDate>Tue, 30 Jun 2026 13:00:27 +0000</pubDate>
+<description>Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from t</description>
+</item>
+<item>
+<title>[News] How ChatGPT adoption has expanded</title>
+<link>https://openai.com/index/how-chatgpt-adoption-has-expanded</link>
+<guid isPermaLink="false">https://openai.com/index/how-chatgpt-adoption-has-expanded</guid>
+<pubDate>Tue, 30 Jun 2026 09:00:00 GMT</pubDate>
+<description>New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.</description>
+</item>
 <item>
 <title>[Google News] Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls - the-decoder.com</title>
 <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTnJpalQ2Wkp2Uk9BOWRCakxzQjRNak9qNTNHc3loOFJCak14elhsN1E5RDlzZ194WEhRX1pfSmpwSF9rRm04bGt1OXRRenRCdnZRUDNSemFqdmNqUXVtakEyaHlJZno1LVphZWdNekh4ZVNYOVRrc2dxUUZDZTBMbTlxelVQWVUybzljSzJnX0VobjcwU0VnNVhyYzZsV2gxZ3hRdEpnWE1kelhhU3ZjekViMEs3cTJOQXNRVFQwbHNlWDNKeEo5ZQ?oc=5</link>
@@ -33,6 +215,13 @@
 <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/</guid>
 <pubDate>Tue, 30 Jun 2026 06:00:00 +0000</pubDate>
 <description>Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.</description>
+</item>
+<item>
+<title>[Google News] Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter — trained entirely on Chinese chips - Venturebeat</title>
+<link>https://news.google.com/rss/articles/CBMihgJBVV95cUxNUmI2X2tDYTRtVGRYVEVxalYtaGNlQzJCa0pScXpJTmU0bVEzMzk1RTNEeVB5VTZyUWRleU5wa3NqcEJQVXJ1VzZ2alZhcl9VZnVmeFpwZHhkWFhsVXVqbERhb2M2ZVd4ZG1GdEREODdXWi1mT3R2RTJzWUpQV1VHWnJHdzBJQ09DVkU5OXFRUjhYcTItWHdqQ2RyNFREaGswd2JlcmoyT2V1bFJ2cVhweVctdnNvcGV1amp1VDVCNW8xbnBRbVQwMGdYRmE3UVZUT2lzQXZrdGV6eHV1ODV3WkNxdkZBZGEyMjRYOUlWcmxWUDZLU1YtVEtLN0tGUFBiLV90b0Vn?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgJBVV95cUxNUmI2X2tDYTRtVGRYVEVxalYtaGNlQzJCa0pScXpJTmU0bVEzMzk1RTNEeVB5VTZyUWRleU5wa3NqcEJQVXJ1VzZ2alZhcl9VZnVmeFpwZHhkWFhsVXVqbERhb2M2ZVd4ZG1GdEREODdXWi1mT3R2RTJzWUpQV1VHWnJHdzBJQ09DVkU5OXFRUjhYcTItWHdqQ2RyNFREaGswd2JlcmoyT2V1bFJ2cVhweVctdnNvcGV1amp1VDVCNW8xbnBRbVQwMGdYRmE3UVZUT2lzQXZrdGV6eHV1ODV3WkNxdkZBZGEyMjRYOUlWcmxWUDZLU1YtVEtLN0tGUFBiLV90b0Vn?oc=5</guid>
+<pubDate>Tue, 30 Jun 2026 05:40:02 GMT</pubDate>
+<description>Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter — trained entirely on Chinese chips &amp;nbsp;&amp;nbsp; Venturebeat</description>
 </item>
 <item>
 <title>[Google News] Meituan claims China’s biggest AI model trained on local chips - South China Morning Post</title>
@@ -70,13 +259,6 @@
 <description>DeepSeek V4 Official Version Due Mid-July with Peak-Hour API Pricing Doubling &amp;nbsp;&amp;nbsp; Pandaily</description>
 </item>
 <item>
-<title>[Google News] Der Grund, weshalb ein amerikanisches Unternehmen sich für 100 %ige Integration von DeepSeek entscheidet - 36Kr</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE12eGY3WjJVLVY2dHk2WnJhTVFJOHdKT3AtTk51Q1FSMmdaNzB3VWtTN0xzWkdFZl9TUVFaT3htQWhPVWo1ZmVoWDNCdUpzTWR0S3VF?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE12eGY3WjJVLVY2dHk2WnJhTVFJOHdKT3AtTk51Q1FSMmdaNzB3VWtTN0xzWkdFZl9TUVFaT3htQWhPVWo1ZmVoWDNCdUpzTWR0S3VF?oc=5</guid>
-<pubDate>Tue, 30 Jun 2026 00:54:58 GMT</pubDate>
-<description>Der Grund, weshalb ein amerikanisches Unternehmen sich für 100 %ige Integration von DeepSeek entscheidet &amp;nbsp;&amp;nbsp; 36Kr</description>
-</item>
-<item>
 <title>[Google News] Why an American Company Opts for 100% Access to DeepSeek - 36Kr</title>
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hb3ozZk9vZlVEZmQ5NlpXcU03SFlSM3FnZDg3SWh6Ym9iZFMwd1c5elowaE13SmZFZkFWbVEyOFNteTdUT1RLN2xJcGdubkI5ai1R?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hb3ozZk9vZlVEZmQ5NlpXcU03SFlSM3FnZDg3SWh6Ym9iZFMwd1c5elowaE13SmZFZkFWbVEyOFNteTdUT1RLN2xJcGdubkI5ai1R?oc=5</guid>
@@ -84,11 +266,18 @@
 <description>Why an American Company Opts for 100% Access to DeepSeek &amp;nbsp;&amp;nbsp; 36Kr</description>
 </item>
 <item>
-<title>[Google News] MiniMax M3 Claims 59% SWE-bench, Beats GPT-5.5 [2026] - tech-insider.org</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE55STFTdkNnVnhKOGtvNm9lN0hIZU1felh2R0dmY3E2OUV4OG53aTdYVkVVX1QxRHZMUFJiZE8ydXhBQVJRbzhXMHkzSk0zVWNJeng3QkwyMk5JT0R6MTdxSUVlV0o4aVdRTEpoRg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMibEFVX3lxTE55STFTdkNnVnhKOGtvNm9lN0hIZU1felh2R0dmY3E2OUV4OG53aTdYVkVVX1QxRHZMUFJiZE8ydXhBQVJRbzhXMHkzSk0zVWNJeng3QkwyMk5JT0R6MTdxSUVlV0o4aVdRTEpoRg?oc=5</guid>
-<pubDate>Tue, 30 Jun 2026 00:26:22 GMT</pubDate>
-<description>MiniMax M3 Claims 59% SWE-bench, Beats GPT-5.5 [2026] &amp;nbsp;&amp;nbsp; tech-insider.org</description>
+<title>[News] Core dump epidemiology: fixing an 18-year-old bug</title>
+<link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
+<guid isPermaLink="false">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
+<pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+<description>OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.</description>
+</item>
+<item>
+<title>[Blog] Featuring Every Eval Ever Results on Hugging Face Model Pages</title>
+<link>https://huggingface.co/blog/eee-community-evals</link>
+<guid isPermaLink="false">https://huggingface.co/blog/eee-community-evals</guid>
+<pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+
 </item>
 <item>
 <title>[YouTube] An Early Preview of AI Agent Workflows on NVIDIA RTX Spark Laptops</title>
@@ -105,11 +294,11 @@
 <description>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved. The post Memora: A Harmonic Memory Represe</description>
 </item>
 <item>
-<title>[Google News] DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% - VentureBeat</title>
+<title>[Google News] DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% - Venturebeat</title>
 <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHZDQWRkY1hKUVJwUjFsZlpWT1F0ck9CcWJoajNnd1RXWjJxVXZBYVZBWTdxS1drelFFbW05LVFZcEtiWVNBUExJM3FwNC1vb2tCSzUzZmFja09URkExUTNsRE9pUUhYRmNPU1FOdUtseFE2VzhDT2pCVE1ES0kzSW5BQ2hQdTJhVm1CZmMySUdTUFRvT3RtRGV2MHRkd0NiZFpmQ0VXbldCcWJleTZfOV9IaE1GSFpSaHpWTA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHZDQWRkY1hKUVJwUjFsZlpWT1F0ck9CcWJoajNnd1RXWjJxVXZBYVZBWTdxS1drelFFbW05LVFZcEtiWVNBUExJM3FwNC1vb2tCSzUzZmFja09URkExUTNsRE9pUUhYRmNPU1FOdUtseFE2VzhDT2pCVE1ES0kzSW5BQ2hQdTJhVm1CZmMySUdTUFRvT3RtRGV2MHRkd0NiZFpmQ0VXbldCcWJleTZfOV9IaE1GSFpSaHpWTA?oc=5</guid>
 <pubDate>Mon, 29 Jun 2026 20:36:15 GMT</pubDate>
-<description>DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% &amp;nbsp;&amp;nbsp; VentureBeat</description>
+<description>DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% &amp;nbsp;&amp;nbsp; Venturebeat</description>
 </item>
 <item>
 <title>[Blog] DiScoFormer: One transformer for density and score, across distributions</title>
@@ -131,6 +320,13 @@
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/</guid>
 <pubDate>Mon, 29 Jun 2026 17:00:19 +0000</pubDate>
 <description>Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise</description>
+</item>
+<item>
+<title>[Azure] Claude in Microsoft Foundry is now generally available</title>
+<link>https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/</link>
+<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/</guid>
+<pubDate>Mon, 29 Jun 2026 17:00:00 +0000</pubDate>
+<description>Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post Claude in Microsoft Foundry is now generally available appeared first on Microsoft Azure Blog .</description>
 </item>
 <item>
 <title>[Newsroom] It’s Time to Reserve Your WhatsApp Username</title>
@@ -175,6 +371,13 @@
 <description>AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on...</description>
 </item>
 <item>
+<title>[Azure] The 2026 Agent Confidence Index: Where 300 builders see real momentum</title>
+<link>https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/</link>
+<guid isPermaLink="false">https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/</guid>
+<pubDate>Mon, 29 Jun 2026 15:15:00 +0000</pubDate>
+<description>At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI. The post The 2026 Agent Confidence Index: Where 300 builde</description>
+</item>
+<item>
 <title>[Blog] Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time</title>
 <link>https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/</link>
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/</guid>
@@ -182,18 +385,18 @@
 <description>The NVIDIA Inception member’s Ocula moon imaging service will harness the NVIDIA Jetson platform for edge AI, running inference directly in space to significantly accelerate insights compared with downlinking all data back down to Earth.</description>
 </item>
 <item>
+<title>[Azure] Accelerate modern Linux workloads with Azure Files</title>
+<link>https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/</link>
+<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/</guid>
+<pubDate>Mon, 29 Jun 2026 15:00:00 +0000</pubDate>
+<description>Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .</description>
+</item>
+<item>
 <title>[YouTube] Advent Accelerates Deals with ChatGPT + Codex</title>
 <link>https://www.youtube.com/watch?v=f-HiB82Tl94</link>
 <guid isPermaLink="false">https://www.youtube.com/watch?v=f-HiB82Tl94</guid>
 <pubDate>Mon, 29 Jun 2026 14:30:09 GMT</pubDate>
 <description>ChatGPT + Codex are a one-two punch for investment firms. "Having the ability to connect your deal folder with all of the context, and then be able to ask ChatGPT and Codex real time questions has been really impactful to our workflows," - Jasmine Azizi (Advent). Financial firms hold a tremendous am</description>
-</item>
-<item>
-<title>[Google News] DeepSeek V4 set to launch in mid-July with peak hour pricing that doubles current rates - Crypto Briefing</title>
-<link>https://news.google.com/rss/articles/CBMickFVX3lxTFBjdUhsQTVlVExiYnpqcXBFVUp2alU2MldVMjJCeXhZcXN5ZW4xa1JJakt4X2tpeWpSenpHQnU5emM4T1lZUmV3S21sOVNpQ3Fobi1yZ0VSZlNiLVp5RzgyMlpXbC1yaWM3VnVaa0Y0ekotdw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMickFVX3lxTFBjdUhsQTVlVExiYnpqcXBFVUp2alU2MldVMjJCeXhZcXN5ZW4xa1JJakt4X2tpeWpSenpHQnU5emM4T1lZUmV3S21sOVNpQ3Fobi1yZ0VSZlNiLVp5RzgyMlpXbC1yaWM3VnVaa0Y0ekotdw?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 14:12:26 GMT</pubDate>
-<description>DeepSeek V4 set to launch in mid-July with peak hour pricing that doubles current rates &amp;nbsp;&amp;nbsp; Crypto Briefing</description>
 </item>
 <item>
 <title>[YouTube] How NPS and NVIDIA Are Training the Next AI Leaders</title>
@@ -222,209 +425,6 @@
 <guid isPermaLink="false">https://devblogs.microsoft.com/agent-framework/agent-harness-working-with-your-data-safely/</guid>
 <pubDate>Mon, 29 Jun 2026 10:41:33 +0000</pubDate>
 <description>Part 2 of Build your own claw and agent harness with Microsoft Agent Framework. In Part 1 we stood up a harness and gave our personal finance assistant its first abilities: a custom tool, web search, and planning. It can talk about the markets &amp;#8211; but it can&amp;#8217;t yet touch your data, and noth</description>
-</item>
-<item>
-<title>[Google News] DeepSeek V4 DeepSpec Signals a New Era for Open-Source AI, Boosting AI Efficiency By 85% - Geeky Gadgets</title>
-<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE16YUhkMkdad040WkVGOVA0Y3p2UnRSUnJLOGhjeTU1c3dsY2REdm91S0c1R2pkWDNCSmk3TkhQdTJrbnhFc0pxak9Rb0FfZ2hHcHlGS1VpZmNhTVNOODkzOWlXRDFEaGQw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTE16YUhkMkdad040WkVGOVA0Y3p2UnRSUnJLOGhjeTU1c3dsY2REdm91S0c1R2pkWDNCSmk3TkhQdTJrbnhFc0pxak9Rb0FfZ2hHcHlGS1VpZmNhTVNOODkzOWlXRDFEaGQw?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 09:16:38 GMT</pubDate>
-<description>DeepSeek V4 DeepSpec Signals a New Era for Open-Source AI, Boosting AI Efficiency By 85% &amp;nbsp;&amp;nbsp; Geeky Gadgets</description>
-</item>
-<item>
-<title>[YouTube] Training Agents 2: Live tutorial on model distillation for training custom agents.</title>
-<link>https://www.youtube.com/watch?v=GZT_oNQnLV4</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=GZT_oNQnLV4</guid>
-<pubDate>Mon, 29 Jun 2026 09:00:36 GMT</pubDate>
-<description>In this live session, we'll cover how to transfer capability from a teacher model to a smaller student through distillation. We'll work through supervised fine-tuning on teacher-generated data, then on-policy and online methods where the teacher scores the student live, then self-distillation where </description>
-</item>
-<item>
-<title>[Google News] DeepSeek vs ChatGPT vs Gemini: $0.43 vs $5/M [2026] - tech-insider.org</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBENHhaSVBxcTdlcjNlU0lBczF2Sk8tTzk3bi10VnZIdTVIc01CZ20ySTRPLUdTcVVFQXdQYjZfVDZjSERSOWZVdUpobGVoMkNZWU9tTklrWk5VcC1HSndfbTJpdUt0d3VnSUFydw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMibEFVX3lxTFBENHhaSVBxcTdlcjNlU0lBczF2Sk8tTzk3bi10VnZIdTVIc01CZ20ySTRPLUdTcVVFQXdQYjZfVDZjSERSOWZVdUpobGVoMkNZWU9tTklrWk5VcC1HSndfbTJpdUt0d3VnSUFydw?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 08:54:59 GMT</pubDate>
-<description>DeepSeek vs ChatGPT vs Gemini: $0.43 vs $5/M [2026] &amp;nbsp;&amp;nbsp; tech-insider.org</description>
-</item>
-<item>
-<title>[Google News] Anthropic’s Mythos Spooked DeepSeek, Prompting Its $7.4 Billion Fundraising - The Information</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0pGMzd4V2lGN2R2RzliWXcwVWY5Ul9jMzgxajBibTFhSlFoVm8wSkladmVBNVF5UHVYbWJsY01vcVJ5ZER2bUhDQzlmbm9jMmw1c1JKYVBad0h2QXlsQ09HNDFQY3lzQlUyc002eGRIdjBzUFhKdkJqbFJ5OFR3eW9ucXEyekF4bUNyLXNnbV9hVUFmbHpuVlRHVU9GY2lINkladW9TWXgxbU1sdmc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0pGMzd4V2lGN2R2RzliWXcwVWY5Ul9jMzgxajBibTFhSlFoVm8wSkladmVBNVF5UHVYbWJsY01vcVJ5ZER2bUhDQzlmbm9jMmw1c1JKYVBad0h2QXlsQ09HNDFQY3lzQlUyc002eGRIdjBzUFhKdkJqbFJ5OFR3eW9ucXEyekF4bUNyLXNnbV9hVUFmbHpuVlRHVU9GY2lINkladW9TWXgxbU1sdmc?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 08:47:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[News] Mapping Europe’s AI Workforce Opportunity</title>
-<link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
-<guid isPermaLink="false">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
-<pubDate>Mon, 29 Jun 2026 07:00:00 GMT</pubDate>
-<description>A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.</description>
-</item>
-<item>
-<title>[Blog] From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery</title>
-<link>https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</link>
-<guid isPermaLink="false">https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</guid>
-<pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-
-</item>
-<item>
-<title>[News] HP Inc. launches Frontier strategic partnership with OpenAI</title>
-<link>https://openai.com/index/hp-frontier-partnership</link>
-<guid isPermaLink="false">https://openai.com/index/hp-frontier-partnership</guid>
-<pubDate>Sun, 28 Jun 2026 17:00:00 GMT</pubDate>
-<description>HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.</description>
-</item>
-<item>
-<title>[Google News] More 'DeepSeek moments' ahead: Will US continue to build walls or learn? - Global Times</title>
-<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JV3RnR0FoaE80a2NtU1NNVjlIcXVpSTZmVE84RGtjSmhsM0ZpYXBCV3hxX1pQS0otZ0hPOG1PZ094SkhhMXlRR3psMWdzc3pMQVJOVWRfaGRYYk00dFEzRmt3?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JV3RnR0FoaE80a2NtU1NNVjlIcXVpSTZmVE84RGtjSmhsM0ZpYXBCV3hxX1pQS0otZ0hPOG1PZ094SkhhMXlRR3psMWdzc3pMQVJOVWRfaGRYYk00dFEzRmt3?oc=5</guid>
-<pubDate>Sun, 28 Jun 2026 15:01:00 GMT</pubDate>
-<description>More 'DeepSeek moments' ahead: Will US continue to build walls or learn? &amp;nbsp;&amp;nbsp; Global Times</description>
-</item>
-<item>
-<title>[Google News] Faster AI, lower costs: DSpark eases bottlenecks and chip strain, says DeepSeek - South China Morning Post</title>
-<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajNTbEVhUkwwZ0dpSHlTM194R1U4V19pS1dmNHktQXZLOHNJMW9ybXMzZUVpdENZYlFtLTVtUXVJckVSbThjMk9Bdjd6ZDVEM3F1UEdtU2lrOUllbHdCekItUms1ZW5NLVRaSUJBRklQT1ZnVUdSOUI0Y3ZDVW5ib1RPTjU5R2pIb3ByeDFkdzRBRERQbjRRem0tXy1UWmJqMjl4bE5zMHY5b3dSSGRpREtTR0FQcVRSVHd1cWZBUThHblZxQ2VVU29MOGpPUXRoR1BR0gHTAUFVX3lxTE81aVpYWEFxTnNNZGJlNENKdGh3M3Q4a1Mzd1A1bFhGbVpSU1Q4TzNEN1VYLXA1WjZMei0xbDI2bURCWlBtY0JFd29ZVHZKQ1lQMVRFeTg2YllNN0xzTE1aOTN6MklJZ0JGNHBFa2NuTG1IQzdOQnctVmIxY1FVR3NRSEhvTFhWSlExQmYtb25Gc1QzbDhiNXd6QTg1Z29fRWgwaTJjdVNPOG0zNXlLbkZ2UHZJMkR0U2JqQUtwcGVOb2RxbTZyTVJod0xQaVdIMm55Xzg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajNTbEVhUkwwZ0dpSHlTM194R1U4V19pS1dmNHktQXZLOHNJMW9ybXMzZUVpdENZYlFtLTVtUXVJckVSbThjMk9Bdjd6ZDVEM3F1UEdtU2lrOUllbHdCekItUms1ZW5NLVRaSUJBRklQT1ZnVUdSOUI0Y3ZDVW5ib1RPTjU5R2pIb3ByeDFkdzRBRERQbjRRem0tXy1UWmJqMjl4bE5zMHY5b3dSSGRpREtTR0FQcVRSVHd1cWZBUThHblZxQ2VVU29MOGpPUXRoR1BR0gHTAUFVX3lxTE81aVpYWEFxTnNNZGJlNENKdGh3M3Q4a1Mzd1A1bFhGbVpSU1Q4TzNEN1VYLXA1WjZMei0xbDI2bURCWlBtY0JFd29ZVHZKQ1lQMVRFeTg2YllNN0xzTE1aOTN6MklJZ0JGNHBFa2NuTG1IQzdOQnctVmIxY1FVR3NRSEhvTFhWSlExQmYtb25Gc1QzbDhiNXd6QTg1Z29fRWgwaTJjdVNPOG0zNXlLbkZ2UHZJMkR0U2JqQUtwcGVOb2RxbTZyTVJod0xQaVdIMm55Xzg?oc=5</guid>
-<pubDate>Sun, 28 Jun 2026 11:00:08 GMT</pubDate>
-<description>Faster AI, lower costs: DSpark eases bottlenecks and chip strain, says DeepSeek &amp;nbsp;&amp;nbsp; South China Morning Post</description>
-</item>
-<item>
-<title>[Google News] DeepSeek V4 Updates DSpark, Boosting Inference Speed by 80% Just Now - 36Kr</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Pdl9YX1BkbWt5NGZabzV0OFFfQW9jREpMVkJXVFZTRmgxb0VtdUl4OFlIaXVUUk1CcHlQSll1a1pKdHNzUXY1WXdsU2hvODE0bjlz?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Pdl9YX1BkbWt5NGZabzV0OFFfQW9jREpMVkJXVFZTRmgxb0VtdUl4OFlIaXVUUk1CcHlQSll1a1pKdHNzUXY1WXdsU2hvODE0bjlz?oc=5</guid>
-<pubDate>Sat, 27 Jun 2026 09:05:07 GMT</pubDate>
-<description>DeepSeek V4 Updates DSpark, Boosting Inference Speed by 80% Just Now &amp;nbsp;&amp;nbsp; 36Kr</description>
-</item>
-<item>
-<title>[YouTube] From Machine Translation to AI-Mediated Communication- Cohere Labs in Conversation w/ Marine Carpuat</title>
-<link>https://www.youtube.com/watch?v=HzGQUgo5NPA</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=HzGQUgo5NPA</guid>
-<pubDate>Fri, 26 Jun 2026 19:43:32 GMT</pubDate>
-<description>​From Machine Translation to AI-Mediated Communication Talk by Marine Carpuat, Associate Professor, University of Maryland Hosted by Julia Kreutzer, Senior Research Scientist, Cohere Labs ​Multilingual AI systems have never performed better, with steady progress across an increasing variety of langu</description>
-</item>
-<item>
-<title>[YouTube] Builders Unscripted: Ep. 4 - Pietro Schirano</title>
-<link>https://www.youtube.com/watch?v=SPC_yCe1cUw</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=SPC_yCe1cUw</guid>
-<pubDate>Fri, 26 Jun 2026 19:40:00 GMT</pubDate>
-<description>Pietro Schirano, Founder &amp; CEO of MagicPath sits down with Romain Huet to talk about pushing the creative edges of GPT-5.5 and using Codex to turn ideas into software. 03:45 Images into sound 07:57 Multi-agent Codex workflows 14:34 Reviving hardware with Codex 25:27 From doing to directing</description>
-</item>
-<item>
-<title>[Developer] Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure</title>
-<link>https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/</guid>
-<pubDate>Fri, 26 Jun 2026 19:00:45 GMT</pubDate>
-<description>AI agents have changed a lot in the last two years. The first could only answer one question at a time. Then came multi-turn chat, where the model could keep...</description>
-</item>
-<item>
-<title>[YouTube] Personal Computer for Mac | Perplexity Academy</title>
-<link>https://www.youtube.com/watch?v=9ywd9s3kTmE</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=9ywd9s3kTmE</guid>
-<pubDate>Fri, 26 Jun 2026 19:00:32 GMT</pubDate>
-<description>Personal Computer brings Perplexity Computer onto your Mac, where most of your real work already happens. It connects local files, native apps, and the desktop environment with the multi-model orchestration of Computer, so tasks that start outside a chat box finally have a home. A lot of work depend</description>
-</item>
-<item>
-<title>[Research] Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction</title>
-<link>https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/</link>
-<guid isPermaLink="false">https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/</guid>
-<pubDate>Fri, 26 Jun 2026 18:30:00 +0000</pubDate>
-<description>Machine Intelligence</description>
-</item>
-<item>
-<title>[Newsroom] Inside One of Meta’s Data Centers</title>
-<link>https://about.fb.com/news/2026/06/inside-meta-data-center/</link>
-<guid isPermaLink="false">https://about.fb.com/news/2026/06/inside-meta-data-center/</guid>
-<pubDate>Fri, 26 Jun 2026 18:28:26 +0000</pubDate>
-<description>See Tom Shaw's perspective on the infrastructure and technology inside one of Meta's data centers. The post Inside One of Meta’s Data Centers appeared first on Meta Newsroom .</description>
-</item>
-<item>
-<title>[Cloud AI] Securing agentic AI with perimeter guardrails: What's new in VPC Service Controls</title>
-<link>https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/</guid>
-<pubDate>Fri, 26 Jun 2026 18:00:00 +0000</pubDate>
-<description>As enterprises scale autonomous AI agents into production, enabling safe innovation requires robust architectural guardrails. AI agents connect across tools and datasets, so it’s essential to establish clear network-level boundaries for comprehensive data protection. To help organizations confidentl</description>
-</item>
-<item>
-<title>[YouTube] Sonia Joseph - Interpreting Physics in Video World Models</title>
-<link>https://www.youtube.com/watch?v=6UKl8e8-qKE</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=6UKl8e8-qKE</guid>
-<pubDate>Fri, 26 Jun 2026 17:11:20 GMT</pubDate>
-<description>00:00 Welcome and speaker intro 00:58 Why interpret physics 02:21 Video models break physics 04:44 How minds simulate physics 07:25 Human intuitive physics biases 11:07 From humans to model audits 13:43 Study questions and goals 17:26 High level findings preview 20:35 Task design and generality 24:1</description>
-</item>
-<item>
-<title>[Azure] The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code</title>
-<link>https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/</link>
-<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/</guid>
-<pubDate>Fri, 26 Jun 2026 17:00:00 +0000</pubDate>
-<description>Poor database performance is never just a database problem. In enterprise teams, it shows up as missed SLAs, delayed releases, frustrated development teams, and rising operational risk. The performance problem compounds further in business impact, often resulting in frustrated customers, retention a</description>
-</item>
-<item>
-<title>[Developer] Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer</title>
-<link>https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/</guid>
-<pubDate>Fri, 26 Jun 2026 16:00:35 GMT</pubDate>
-<description>As context windows grow longer, moving large model weights efficiently becomes critical to performance. A common way to address this is quantization, an...</description>
-</item>
-<item>
-<title>[Gemini] Here's how Gemini can help you avoid jetlag.</title>
-<link>https://blog.google/products-and-platforms/products/gemini/gemini-help-avoid-jetlag/</link>
-<guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-help-avoid-jetlag/</guid>
-<pubDate>Fri, 26 Jun 2026 16:00:00 +0000</pubDate>
-<description>If you’ve got a faraway trip coming up, the Gemini app can help you avoid jetlag so you can make the most of your visit.Once you’ve given Gemini permission to access you…</description>
-</item>
-<item>
-<title>[YouTube] Bingyi Cao &amp; Koert Chen - TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text</title>
-<link>https://www.youtube.com/watch?v=DmGz7XRPFrQ</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=DmGz7XRPFrQ</guid>
-<pubDate>Fri, 26 Jun 2026 15:36:29 GMT</pubDate>
-<description>​00:00 Talk Intro 00:37 Why TIPS V2 02:04 Spatial Awareness Demos 04:14 Patch Text Alignment Gap 05:41 Distillation Mystery 06:53 Pretraining vs Distillation 08:58 Ablations Reveal Key 11:53 iBOT++ Upgrade 14:04 Head Only EMA 15:20 Multi Granularity Captions 16:51 Full Training Recipe 18:25 Live Q a</description>
-</item>
-<item>
-<title>[Google News] Anthropic’s Mythos Spooked DeepSeek, Prompting Its $7.4 Billion Fundraising - The Information</title>
-<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1kyM2RQTVppc3paZ0hFaEhrN0RxRnFHOU5reVdQRTZ3MjBVdmV2NUQ4dEpfMXJhU3g4TElZajdHR05XQkRQZWxaZ3VTZnlVNkpoYVYzZU1NbE1DOUpoMGVEUlZnLXRtTnphNzdOVXRsdDAyYmI2WGZUODgyendQaEtaWDV0a0NpSkxoWnp0U0Jxd2o3R1lhZm1fbENhaS1saFlDeG5VazYxOWhH?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1kyM2RQTVppc3paZ0hFaEhrN0RxRnFHOU5reVdQRTZ3MjBVdmV2NUQ4dEpfMXJhU3g4TElZajdHR05XQkRQZWxaZ3VTZnlVNkpoYVYzZU1NbE1DOUpoMGVEUlZnLXRtTnphNzdOVXRsdDAyYmI2WGZUODgyendQaEtaWDV0a0NpSkxoWnp0U0Jxd2o3R1lhZm1fbENhaS1saFlDeG5VazYxOWhH?oc=5</guid>
-<pubDate>Fri, 26 Jun 2026 13:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] Verso, l'entreprise qui ne dort jamais</title>
-<link>https://www.youtube.com/watch?v=mFwWax5pLTs</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=mFwWax5pLTs</guid>
-<pubDate>Fri, 26 Jun 2026 11:00:22 GMT</pubDate>
-<description>Découvrez comment Verso développe une entreprise véritablement AI-native. Lors de cette session enregistrée lors de l'événement OpenAI France en juin 2026, Lydia Bellahouel, cofondatrice et CEO de Verso, partage la manière dont son équipe s'appuie sur les modèles OpenAI, Codex et des systèmes multi-</description>
-</item>
-<item>
-<title>[News] Previewing GPT-5.6 Sol: a next-generation model</title>
-<link>https://openai.com/index/previewing-gpt-5-6-sol</link>
-<guid isPermaLink="false">https://openai.com/index/previewing-gpt-5-6-sol</guid>
-<pubDate>Fri, 26 Jun 2026 10:00:00 GMT</pubDate>
-<description>OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.</description>
-</item>
-<item>
-<title>[Google News] DeepSeek plans hiring spree in escalation of China’s AI talent war - Financial Times</title>
-<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTN3OUt0ZlZsZ3hhZHJnTFZWMk5NVEdRVkJTZlExQVM4SDBDbm9uWlBHUFdzeTZGTXhlS1BQYl81ZzFuZF94eGNHajlHbDFweHRXV2hFN251LUpiSS1iZ0VweGV4ZFZGa2xlTVpwMjdfUERycS05VU9LV2dFc1lsN3NVc2M?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTN3OUt0ZlZsZ3hhZHJnTFZWMk5NVEdRVkJTZlExQVM4SDBDbm9uWlBHUFdzeTZGTXhlS1BQYl81ZzFuZF94eGNHajlHbDFweHRXV2hFN251LUpiSS1iZ0VweGV4ZFZGa2xlTVpwMjdfUERycS05VU9LV2dFc1lsN3NVc2M?oc=5</guid>
-<pubDate>Fri, 26 Jun 2026 05:12:43 GMT</pubDate>
-<description>DeepSeek plans hiring spree in escalation of China’s AI talent war &amp;nbsp;&amp;nbsp; Financial Times</description>
-</item>
-<item>
-<title>[Google News] China’s Zhipu AI sparks new ‘DeepSeek moment’ in Silicon Valley - South China Morning Post</title>
-<link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUVUSVBGVHBVWUJYNXNnY05iaHBkR19DeFdPdjQ1YzlGVHdhTWNncUsxSk5lQmk1OHl3M0NpZ0pTYmtaZHdKSDVTMW1JT3ppaTZXNXlHMzJ5bFkwVUw0OWwxWmJBRmpXUTJJV0x0ZmE2d2xkWnllNE9KRVF0UGRGTHFERzRRWkFNZEZ5cTRsSm55bjhEcEQ5U0VCZV9yd2l2bDZqYWhVNjdaOVFabE1ZMTVxZm1JOG5mc1g2Q1ln0gG-AUFVX3lxTE4zMExhUG1DT2FNTU53d2NRQWprcTFvQjZNVHp3R1VwaDRuU09NdlVkcXZqaEJZcHgzNEhBX1BPV3RUZzRXbjZxUkx5UEczcmpvMWVDbjBCYmFJamRYRnZ5Mm9ST0hQc3pjZVg0MkFUc1RHZEw2RVZLSW5LSWozb0plRGh6TGNPdUNxVXJMM18tUlNWOGVRWnRxd1pBUFdSUUh0bkJ5aVEzbllqMG56VzA1RjlHdWRfRXNFaDE1THc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUVUSVBGVHBVWUJYNXNnY05iaHBkR19DeFdPdjQ1YzlGVHdhTWNncUsxSk5lQmk1OHl3M0NpZ0pTYmtaZHdKSDVTMW1JT3ppaTZXNXlHMzJ5bFkwVUw0OWwxWmJBRmpXUTJJV0x0ZmE2d2xkWnllNE9KRVF0UGRGTHFERzRRWkFNZEZ5cTRsSm55bjhEcEQ5U0VCZV9yd2l2bDZqYWhVNjdaOVFabE1ZMTVxZm1JOG5mc1g2Q1ln0gG-AUFVX3lxTE4zMExhUG1DT2FNTU53d2NRQWprcTFvQjZNVHp3R1VwaDRuU09NdlVkcXZqaEJZcHgzNEhBX1BPV3RUZzRXbjZxUkx5UEczcmpvMWVDbjBCYmFJamRYRnZ5Mm9ST0hQc3pjZVg0MkFUc1RHZEw2RVZLSW5LSWozb0plRGh6TGNPdUNxVXJMM18tUlNWOGVRWnRxd1pBUFdSUUh0bkJ5aVEzbllqMG56VzA1RjlHdWRfRXNFaDE1THc?oc=5</guid>
-<pubDate>Fri, 26 Jun 2026 04:06:08 GMT</pubDate>
-<description>China’s Zhipu AI sparks new ‘DeepSeek moment’ in Silicon Valley &amp;nbsp;&amp;nbsp; South China Morning Post</description>
-</item>
-<item>
-<title>[Google News] DeepSeek Looks to Double Workforce as Fresh Funding Fuels Growth - WSJ</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQUElGcldpT3h4dVBmaDJxeTZsUzVWdFJRNjE5RFhTUHBZeG9HNzlNZUxfX29nY1hsamJJdVh6WnZKVzF4Q3FxaDRPckFrUjV0UnZYU2RiVW1hVmFIbHRKNzY0RTN3aXlzeTV3cS1wY2t6aENscGpsNDJXLU5kRGVGS0xJdkFQY1hQQ2hVbnI5dy1CRVp0QldNNlJNMXZZd2ljUm5z?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQUElGcldpT3h4dVBmaDJxeTZsUzVWdFJRNjE5RFhTUHBZeG9HNzlNZUxfX29nY1hsamJJdVh6WnZKVzF4Q3FxaDRPckFrUjV0UnZYU2RiVW1hVmFIbHRKNzY0RTN3aXlzeTV3cS1wY2t6aENscGpsNDJXLU5kRGVGS0xJdkFQY1hQQ2hVbnI5dy1CRVp0QldNNlJNMXZZd2ljUm5z?oc=5</guid>
-<pubDate>Fri, 26 Jun 2026 01:20:00 GMT</pubDate>
-<description>DeepSeek Looks to Double Workforce as Fresh Funding Fuels Growth &amp;nbsp;&amp;nbsp; WSJ</description>
-</item>
-<item>
-<title>[Research] Anthropic Economic Index report: CadencesIn our latest Economic Index report, we sample hourly for the first time to ask: When do people come to Claude? What do they produce with it? And how do they perceive AI's impact on their work?</title>
-<link>https://www.anthropic.com/research/economic-index-june-2026-report</link>
-<guid isPermaLink="false">https://www.anthropic.com/research/economic-index-june-2026-report</guid>
-<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-<description>In the latest Anthropic Economic Index report, we look at when people come to Claude, what they produce with it, and how they perceive AI’s impact on their work.</description>
 </item>
 </channel>
 </rss>
