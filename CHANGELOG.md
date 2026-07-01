@@ -30,6 +30,12 @@ can see exactly what changed between any two versions.
 - Three new per-post categories — **Hardware & Infrastructure**, **Developer & How-to**
   and **Applied AI** — while the old **Company** and **Safety** tags were broadened into
   **Business & Funding** and **Safety & Policy**, taking the taxonomy from 6 to 9.
+- Multi-category post labels: a post can now carry more than one category chip (up to
+  three, in priority order) instead of only its top match, so a model release that is
+  also a policy story (e.g. "Redeploying Fable 5") shows both **Model release** and
+  **Safety & Policy** rather than the first match alone. The category filter now matches
+  any of a post's categories, which surfaces the model releases (~20 of them) that were
+  hidden behind a higher-priority label under the **Model releases** filter.
 
 ### Changed
 - `rssImage` skips non-image `media:content` (e.g. YouTube's video URL) and tiny
@@ -46,6 +52,11 @@ can see exactly what changed between any two versions.
   match wins). Cut the uncategorised **Other** bucket from ~29% to ~12% of items and
   broke up the over-stuffed **Product** bucket, fixing rule gaps along the way (e.g.
   "fundraising" and the plural "APIs" were previously missed).
+- The **Top story** block now leads with model releases: the hero lead card and the
+  "More top stories" rail are both filled from the most recent model releases (30-day
+  window), falling back to the newest items only when there are too few. The rail may
+  repeat a company, since the aim is to surface releases rather than spread across
+  companies.
 
 ### Fixed
 - Anthropic research-mirror titles that glued the date, section label and headline into

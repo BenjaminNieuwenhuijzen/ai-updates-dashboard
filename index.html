@@ -435,7 +435,7 @@
   .stream-row.nolink:hover::after { opacity: 0; }
 
   /* Save (star): inline on the right of the date line, in both views. */
-  .row .date, .stream-row .date { display: flex; align-items: center; }
+  .row .date, .stream-row .date { display: flex; align-items: center; flex-wrap: wrap; row-gap: 2px; }
   .star {
     margin-left: auto; flex: none; cursor: pointer; color: var(--muted);
     font-size: 14px; line-height: 1; padding: 1px 5px; border-radius: 5px; user-select: none;
@@ -1100,21 +1100,33 @@ const CATS = {
   product: "Product",
   overig: "Other"
 };
-function categorize(it) {
+function categorizeAll(it) {
   const t = ((it.title || "") + " " + (it.summary || "")).toLowerCase();
-  if (/(fundrais|\bfunding\b|\braise[sd]?\b|valuation|valued at|\bseries [abc]\b|\bipo\b|\bs-1\b|\bm&a\b|acquisition|acquir\w+|\bmerger\b|backed by|\binvest(ment|or|ed|ing)?\b|\bstake\b|\$\s?\d+(\.\d+)?\s?(b|bn|billion|m|mn|million)|\d+\s?gigawatt|partner(ship|s|ing|ed)?\b|collaborat\w+|\bdeal\b|in talks|\bmulls\b|\beyes\b|\bweighs\b|revenue|earnings|\bprofit|appoint\w*|board of directors|representative director|general manager|\bceo\b|\bcfo\b)/.test(t)) return "funding";
-  if (/(safety|\bsecur|cyber|threat|\bpolic(y|ies)|regulat|governance|privacy|misuse|jailbreak|red.?team|alignment|biodefense|guardrail|responsible ai|content moderation|\bteens?\b|child safety|\bminors?\b|age verif|watermark|confidential comput|blacklist|\bban(s|ned)?\b|sanction|export control|national security|security risk|antitrust|lawsuit|\bchina\b|chinese|beijing|\bmilitary\b|espionage)/.test(t)) return "safety_policy";
-  if (/(\bgpus?\b|\bchips?\b|\bhardware\b|blackwell|\bcuda\b|\bkernels?\b|instinct|\bmi3\d\d|\bmtia\b|\btpu\b|data cent|datacenter|data center|\bgigawatt|\bcompute\b|infrastructure|ai factor|infiniband|optical backbone|silicon|\bwafer|\bfab\b|semiconductor|accelerat\w*|private cloud compute|\brtx\b|interconnect|fusion kernel|robot\w*|sovereign|supercomput\w*|\bgrid\b|on-device)/.test(t)) return "hardware";
-  if (isModelUpdate(it)) return "model";
-  if (/(benchmark\w*|mlperf|leaderboard|state.of.the.art|\bsota\b|\beval(uation|s)?\b|\bpaper\b|arxiv|\bresearch\b|scaling law|ablation|\bstudy\b|novel method|theorem|hypothesis|we trained|reasoning|self-supervised|interpretability|\bscience\b|scientific|biolog\w*|genom\w*|chemist\w*|chemistry|physics|mathemat\w*|protein|molecul\w*|neuron\w*|\bbrain\b|quantum|forecasting|simulat\w*)/.test(t)) return "onderzoek";
-  if (/(how to|how-to|tutorial|\bguide\b|developer.s guide|walkthrough|deep dive|explained|recipe|cookbook|getting started|step.by.step|fine-tun\w*|\blora\b|quantiz\w*|profiling|pytorch|transformers\.js|\btensors?\b|softmax|low-precision|\bsdk\b|\bapis?\b|integrat\w+|connector|\bextensions?\b|\bmigrat\w+|\bmcp\b|build(ing)? (a|your)|code review|\bdebug|agent framework|agent platform|orchestrat\w*|\ba2a\b|agent skills|scaffold|\bharness\b|multi-agent|\binference\b|continuous batching|distributed (ai )?training|\bembeddings?\b)/.test(t)) return "developer";
-  if (/(uses ai|using ai|ai-powered|powered by ai|\bhelps?\b|how .* uses|diagnos\w*|\bpatient|clinic\w*|hospital|\bdiseases?\b|genetic|\bdrugs?\b|medicine|cancer|\bhealth\b|conservation|wildlife|species|\bclimate|weather|\bstorms?\b|\bflood|restoration|case study|customer|deploy\w*|real-world|freelanc|aged care|\bfans\b|race operations|\beducation\b|farming|agricultur\w*|insurance|\bretail\b|\bfinance\b|\blegal\b|government|public sector|workforce|\bjobs\b)/.test(t)) return "applied";
-  if (/(new feature|\bfeatures?\b|now available|available now|rolling out|\brollout|general availability|\bbeta\b|\bpreview\b|redesign|custom voice|custom skills|\bmemories\b|record & replay|spend controls|usage analytics|scheduling|subscription|pricing|open.sourc\w*|\bapps?\b|desktop|\bupdates?\b|\blaunch\w*|introduc\w+|\bagents?\b|agentic|generally available|\bis here\b|available to)/.test(t)) return "product";
-  return "overig";
+  const cats = [];
+  if (/(fundrais|\bfunding\b|\braise[sd]?\b|valuation|valued at|\bseries [abc]\b|\bipo\b|\bs-1\b|\bm&a\b|acquisition|acquir\w+|\bmerger\b|backed by|\binvest(ment|or|ed|ing)?\b|\bstake\b|\$\s?\d+(\.\d+)?\s?(b|bn|billion|m|mn|million)|\d+\s?gigawatt|partner(ship|s|ing|ed)?\b|collaborat\w+|\bdeal\b|in talks|\bmulls\b|\beyes\b|\bweighs\b|revenue|earnings|\bprofit|appoint\w*|board of directors|representative director|general manager|\bceo\b|\bcfo\b)/.test(t)) cats.push("funding");
+  if (/(safety|\bsecur|cyber|threat|\bpolic(y|ies)|regulat|governance|privacy|misuse|jailbreak|red.?team|alignment|biodefense|guardrail|responsible ai|content moderation|\bteens?\b|child safety|\bminors?\b|age verif|watermark|confidential comput|blacklist|\bban(s|ned)?\b|sanction|export control|national security|security risk|antitrust|lawsuit|\bchina\b|chinese|beijing|\bmilitary\b|espionage)/.test(t)) cats.push("safety_policy");
+  if (/(\bgpus?\b|\bchips?\b|\bhardware\b|blackwell|\bcuda\b|\bkernels?\b|instinct|\bmi3\d\d|\bmtia\b|\btpu\b|data cent|datacenter|data center|\bgigawatt|\bcompute\b|infrastructure|ai factor|infiniband|optical backbone|silicon|\bwafer|\bfab\b|semiconductor|accelerat\w*|private cloud compute|\brtx\b|interconnect|fusion kernel|robot\w*|sovereign|supercomput\w*|\bgrid\b|on-device)/.test(t)) cats.push("hardware");
+  if (isModelUpdate(it)) cats.push("model");
+  if (/(benchmark\w*|mlperf|leaderboard|state.of.the.art|\bsota\b|\beval(uation|s)?\b|\bpaper\b|arxiv|\bresearch\b|scaling law|ablation|\bstudy\b|novel method|theorem|hypothesis|we trained|reasoning|self-supervised|interpretability|\bscience\b|scientific|biolog\w*|genom\w*|chemist\w*|chemistry|physics|mathemat\w*|protein|molecul\w*|neuron\w*|\bbrain\b|quantum|forecasting|simulat\w*)/.test(t)) cats.push("onderzoek");
+  if (/(how to|how-to|tutorial|\bguide\b|developer.s guide|walkthrough|deep dive|explained|recipe|cookbook|getting started|step.by.step|fine-tun\w*|\blora\b|quantiz\w*|profiling|pytorch|transformers\.js|\btensors?\b|softmax|low-precision|\bsdk\b|\bapis?\b|integrat\w+|connector|\bextensions?\b|\bmigrat\w+|\bmcp\b|build(ing)? (a|your)|code review|\bdebug|agent framework|agent platform|orchestrat\w*|\ba2a\b|agent skills|scaffold|\bharness\b|multi-agent|\binference\b|continuous batching|distributed (ai )?training|\bembeddings?\b)/.test(t)) cats.push("developer");
+  if (/(uses ai|using ai|ai-powered|powered by ai|\bhelps?\b|how .* uses|diagnos\w*|\bpatient|clinic\w*|hospital|\bdiseases?\b|genetic|\bdrugs?\b|medicine|cancer|\bhealth\b|conservation|wildlife|species|\bclimate|weather|\bstorms?\b|\bflood|restoration|case study|customer|deploy\w*|real-world|freelanc|aged care|\bfans\b|race operations|\beducation\b|farming|agricultur\w*|insurance|\bretail\b|\bfinance\b|\blegal\b|government|public sector|workforce|\bjobs\b)/.test(t)) cats.push("applied");
+  if (/(new feature|\bfeatures?\b|now available|available now|rolling out|\brollout|general availability|\bbeta\b|\bpreview\b|redesign|custom voice|custom skills|\bmemories\b|record & replay|spend controls|usage analytics|scheduling|subscription|pricing|open.sourc\w*|\bapps?\b|desktop|\bupdates?\b|\blaunch\w*|introduc\w+|\bagents?\b|agentic|generally available|\bis here\b|available to)/.test(t)) cats.push("product");
+  return cats.length ? cats : ["overig"];
 }
+// The single primary category (highest-priority match). Same value the old
+// first-match categorize() returned, so ranking, the hero label and the
+// category filter keep behaving as before.
+function categorize(it) {
+  return categorizeAll(it)[0];
+}
+// Up to MAX_CHIPS category chips per post, in priority order, so a post that
+// spans several themes (e.g. a model release that is also a policy story)
+// shows each label instead of only the first. Kept small so cards stay calm.
+const MAX_CHIPS = 3;
 function catTag(it) {
-  const c = categorize(it);
-  return `<span class="cat cat-${c}" title="Automatically categorized based on title and summary">${CATS[c]}</span>`;
+  return categorizeAll(it).slice(0, MAX_CHIPS).map(c =>
+    `<span class="cat cat-${c}" title="Automatically categorized based on title and summary">${CATS[c]}</span>`
+  ).join("");
 }
 
 let currentCategory = "all";   // active filter from the navigation bar
@@ -1376,7 +1388,7 @@ function renderItems(i, items) {
     shown = shown.filter(it => { const t = Date.parse(it.date); return isNaN(t) ? false : t >= cutoff; });
   }
   if (currentCategory !== "all") {
-    shown = shown.filter(it => categorize(it) === currentCategory);
+    shown = shown.filter(it => categorizeAll(it).includes(currentCategory));
   }
   if (currentQuery) {
     shown = shown.filter(matchesQuery);
@@ -1427,7 +1439,7 @@ function renderStream() {
   });
   if (cutoff) all = all.filter(it => { const t = Date.parse(it.date); return !isNaN(t) && t >= cutoff; });
   all = all.filter(it => selectedCompanies.has(it.company));
-  if (currentCategory !== "all") all = all.filter(it => categorize(it) === currentCategory);
+  if (currentCategory !== "all") all = all.filter(it => categorizeAll(it).includes(currentCategory));
   if (currentQuery) all = all.filter(matchesQuery);
   if (savedOnly) all = all.filter(it => savedLinks.has(it.link));
   all.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
@@ -1459,9 +1471,11 @@ function renderStream() {
   wrap.innerHTML = html;
 }
 
-// Hero: the biggest recent news. Prefers a recent model update with an
-// image, otherwise the newest item with an image, otherwise the newest.
-// Respects the company and search filter (not category/period).
+// Hero / "Top story": model releases lead the dashboard. The big lead card is
+// the newest recent model release with an image; the rail beside it holds the
+// next few recent model releases. If there are too few, both fall back to the
+// newest items so the block is never sparse. Respects the company and search
+// filter (not category/period).
 function renderHero() {
   const wrap = document.getElementById("hero");
   let all = [];
@@ -1473,39 +1487,42 @@ function renderHero() {
   all.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
   if (!all.length) { wrap.innerHTML = ""; return; }
 
+  const recentCut = Date.now() - 30 * 86400000;
+  const isRecentModel = it => isModelUpdate(it) && (Date.parse(it.date) || 0) >= recentCut;
   const withImg = all.filter(it => it.image);
-  const recentCut = Date.now() - 21 * 86400000;
-  const hero = withImg.find(it => isModelUpdate(it) && (Date.parse(it.date) || 0) >= recentCut) || withImg[0] || all[0];
 
-  const media = hero.image
-    ? `<div class="hero-media"><img src="${escapeHtml(hero.image)}" alt="" referrerpolicy="no-referrer" onerror="this.closest('.hero-media').remove()"></div>` : "";
-  const meta = fmtDate(hero.date) + (hero.source ? " · " + hero.source : "");
-  const summary = hero.summary ? `<p class="hero-summary">${escapeHtml(hero.summary)}</p>` : "";
-  const heroCard = `<a class="hero-card" style="--accent-co:${hero.accent}" href="${hero.link}" target="_blank" rel="noopener">
+  // Lead: newest recent model release with an image; fall back to the newest
+  // item with an image, then the newest item overall.
+  const lead = withImg.find(isRecentModel) || withImg[0] || all[0];
+  const heroCat = isModelUpdate(lead) ? "model" : categorize(lead);
+
+  const media = lead.image
+    ? `<div class="hero-media"><img src="${escapeHtml(lead.image)}" alt="" referrerpolicy="no-referrer" onerror="this.closest('.hero-media').remove()"></div>` : "";
+  const meta = fmtDate(lead.date) + (lead.source ? " · " + lead.source : "");
+  const summary = lead.summary ? `<p class="hero-summary">${escapeHtml(lead.summary)}</p>` : "";
+  const heroCard = `<a class="hero-card" style="--accent-co:${lead.accent}" href="${lead.link}" target="_blank" rel="noopener">
       ${media}
       <div class="hero-body">
-        <span class="hero-kicker">${logoFor(hero.logo)}${escapeHtml(hero.company)}<span class="hero-tag">${CATS[categorize(hero)]}</span></span>
-        <h2 class="hero-title">${escapeHtml(hero.title)}</h2>
+        <span class="hero-kicker">${logoFor(lead.logo)}${escapeHtml(lead.company)}<span class="hero-tag">${CATS[heroCat]}</span></span>
+        <h2 class="hero-title">${escapeHtml(lead.title)}</h2>
         ${summary}
         <div class="hero-date">${meta}</div>
       </div>
     </a>`;
 
-  // "More top stories" list: the newest other headlines, at most one per
-  // company for variety. A cross-company selection that doesn't duplicate the
-  // per-company grid view below.
-  const rest = all.filter(it => it.link && it.link !== hero.link);
+  // "More top stories": the next recent model releases (newest first, image
+  // preferred), excluding the lead. Companies may repeat, since the point is to
+  // surface releases. Top up with the newest remaining items (one per company)
+  // if there are too few model releases, so the rail is never sparse.
+  const HERO_MORE = 3;
   const rail = [];
-  const usedCo = new Set();
-  for (const it of rest) {                       // company other than the lead, one per company
-    if (rail.length >= 3) break;
-    if (it.company === hero.company || usedCo.has(it.company)) continue;
-    rail.push(it); usedCo.add(it.company);
-  }
-  for (const it of rest) {                       // top up if there are too few companies
-    if (rail.length >= 3) break;
-    if (!rail.includes(it)) rail.push(it);
-  }
+  const used = new Set([lead.link]);
+  const add = it => { if (it.link && !used.has(it.link)) { rail.push(it); used.add(it.link); } };
+  for (const it of all) { if (rail.length >= HERO_MORE) break; if (isRecentModel(it) && it.image) add(it); }
+  for (const it of all) { if (rail.length >= HERO_MORE) break; if (isRecentModel(it)) add(it); }
+  const usedCo = new Set([lead.company, ...rail.map(r => r.company)]);
+  for (const it of all) { if (rail.length >= HERO_MORE) break; if (usedCo.has(it.company)) continue; add(it); usedCo.add(it.company); }
+  for (const it of all) { if (rail.length >= HERO_MORE) break; add(it); }
 
   const railHtml = rail.length ? `<aside class="hero-rail" aria-label="More top stories">
       <h3>More top stories</h3>
@@ -1576,7 +1593,7 @@ function reorderGrid() {
   const ranked = [...grid.querySelectorAll(".card")].map(card => {
     const name = card.dataset.company;
     let items = (STATE[name] || []).filter(it => { const t = Date.parse(it.date); return !isNaN(t) && t >= cutoff; });
-    if (currentCategory !== "all") items = items.filter(it => categorize(it) === currentCategory);
+    if (currentCategory !== "all") items = items.filter(it => categorizeAll(it).includes(currentCategory));
     if (currentQuery) items = items.filter(matchesQuery);
     if (savedOnly) items = items.filter(it => savedLinks.has(it.link));
     let newest = 0;
