@@ -38,6 +38,10 @@ can see exactly what changed between any two versions.
   hidden behind a higher-priority label under the **Model releases** filter.
 
 ### Changed
+- Trimmed the homepage footer to cut duplication with the standalone pages: the long
+  **Disclaimer** paragraph is now a one-line pointer to the full `/disclaimer` and `/privacy`
+  pages, and the **Updates in your inbox** blurb no longer repeats the Blogtrottr/email detail
+  that already lives on `/privacy`. The **About AI Radar** explainer stays, as it has no other home.
 - `rssImage` skips non-image `media:content` (e.g. YouTube's video URL) and tiny
   author avatars (GitHub release feeds), so the real thumbnail is used.
 - Items are de-duplicated by link, so overlapping feeds for one company (e.g. its
