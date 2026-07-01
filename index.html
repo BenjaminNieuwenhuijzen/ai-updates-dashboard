@@ -225,9 +225,13 @@
      Grid of company cards.
   ------------------------------------------------------------------ */
   .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-    gap: 16px;
+    /* Masonry via CSS multi-column: cards flow top-to-bottom into columns and
+       pack tightly, so there are no equal-height gaps. Cards keep their DOM
+       order, so activity-ranking, filtering and drag-to-reorder all still work
+       (a plain grid can't do gap-free masonry without breaking those). The
+       browser fits as many ~350px columns as the width allows. */
+    columns: 350px;
+    column-gap: 16px;
     padding: 24px 32px;
   }
   .card {
@@ -241,6 +245,11 @@
     flex-direction: column;
     position: relative;
     transition: transform .16s ease, box-shadow .16s ease;
+    /* Multi-column masonry: never split a card across columns, and give each
+       card the vertical gap to the one stacked below it. */
+    break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    margin-bottom: 16px;
   }
   .card-head {
     padding: 14px 16px 12px;
@@ -310,11 +319,8 @@
   ------------------------------------------------------------------ */
   /* List of updates: compact by default (a few items) with a "show more"
      instead of a scrollbar inside the card, so no nested scroll. */
-  .items { list-style: none; margin: 0; padding: 0; flex: 1; display: flex; flex-direction: column; }
-  /* Pin the "show more" row to the bottom of the (equal-height) card, so the
-     buttons and card bottoms line up across a row instead of floating at the
-     end of each card's content. */
-  .more-li { border-bottom: none !important; margin-top: auto; }
+  .items { list-style: none; margin: 0; padding: 0; flex: 1; }
+  .more-li { border-bottom: none !important; }
   .showmore {
     width: 100%; background: transparent; color: var(--link);
     border: none; padding: 9px; font-size: 12.5px; font-weight: 600; cursor: pointer;
@@ -698,7 +704,7 @@
     input#search { width: 100%; }
     #hero { padding: 16px 16px 0; }
     .hero-title { font-size: 20px; }
-    .grid { grid-template-columns: 1fr; padding: 16px 14px; gap: 12px; }
+    .grid { column-count: 1; padding: 16px 14px; }
     #stream { padding: 16px 16px; }
     #subscribe { margin: 0 16px 8px; padding: 14px 16px; }
     footer { padding: 0 16px 28px; }
