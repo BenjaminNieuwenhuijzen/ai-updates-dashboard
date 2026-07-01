@@ -1,0 +1,32 @@
+{
+  "_note": "Hand-curated stories for the 'Across AI' card: industry-wide, policy, society, or not-yet-tracked labs. The build (scripts/build-feed.mjs) merges these into data.json. Each item needs company, title, link and date (ISO YYYY-MM-DD or RFC822); source, summary and image are optional. Leave image empty to let the build pull the article's og:image. Keep at least one item so the card is never empty.",
+  "items": [
+    {
+      "company": "Across AI",
+      "source": "Vatican",
+      "title": "Vatican issues 'Antiqua et Nova', a note on AI and human intelligence",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2025-01/new-vatican-document-examines-potential-and-risks-of-ai.html",
+      "date": "2025-01-28",
+      "summary": "A joint note from the Dicastery for the Doctrine of the Faith and the Dicastery for Culture and Education sets out the Church's policy stance on AI, arguing it should complement rather than replace human intelligence and urging international regulation of autonomous weapons and other high-risk uses.",
+      "image": ""
+    },
+    {
+      "company": "Across AI",
+      "source": "TechCrunch",
+      "title": "Sakana AI raises $135M Series B at a $2.65B valuation",
+      "link": "https://techcrunch.com/2025/11/17/sakana-ai-raises-135m-series-b-at-a-2-65b-valuation-to-continue-building-ai-models-for-japan/",
+      "date": "2025-11-17",
+      "summary": "The Tokyo startup, which builds smaller models tailored to Japan rather than chasing frontier scale, became the country's most valuable private AI company. New backers include MPower Partners and In-Q-Tel.",
+      "image": ""
+    },
+    {
+      "company": "Across AI",
+      "source": "Mitsubishi Electric",
+      "title": "Mitsubishi Electric invests in Sakana AI",
+      "link": "https://www.mitsubishielectric.com/en/pr/2026/0325-b/",
+      "date": "2026-03-25",
+      "summary": "Mitsubishi Electric takes a stake in the Japanese foundation-model startup, aiming to apply its models in manufacturing and physical AI.",
+      "image": ""
+    }
+  ]
+}

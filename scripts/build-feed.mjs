@@ -204,6 +204,37 @@ for (const feed of FEEDS) {
   }
 }
 
+// ---- merge curated (editorial) items ----
+// Hand-maintained stories that don't belong to a single tracked company:
+// industry-wide, policy/society, or a not-yet-tracked lab. Kept in curated.json
+// so they can be added without touching a feed. Same shape as a data.json item;
+// the date may be ISO (YYYY-MM-DD) or RFC822. They join the pipeline below, so
+// their image/summary get backfilled and first-party cached like any other item.
+try {
+  const curated = JSON.parse(readFileSync("curated.json", "utf8"));
+  let added = 0;
+  for (const c of (curated.items || [])) {
+    const t = Date.parse(c.date);
+    if (!c.title || !c.link || isNaN(t)) {
+      console.error(`curated: skipped "${(c.title || "").slice(0, 40)}" (needs title, link and a valid date)`);
+      continue;
+    }
+    items.push({
+      company: c.company || "Across AI",
+      source: c.source || "",
+      title: strip(c.title),
+      link: c.link,
+      pubDate: new Date(t).toUTCString(),
+      t,
+      desc: strip(c.summary || "").slice(0, 300),
+      image: c.image || "",
+      curatedFlag: true
+    });
+    added++;
+  }
+  if (added) console.log(`curated: +${added} items`);
+} catch { /* no curated.json — feature stays dormant */ }
+
 items.sort((a, b) => b.t - a.t);
 // De-duplicate by link: overlapping feeds for one company (e.g. the AI-tag newsroom and the
 // full newsroom) can carry the same article. Keep the first (newest) occurrence. Only the URL
@@ -217,6 +248,9 @@ for (const it of items) {
   deduped.push(it);
 }
 const kept = deduped.slice(0, JSON_MAX);
+// Curated items must survive the JSON_MAX cap regardless of their (often older)
+// date, which could otherwise sort them past the limit and silently drop them.
+for (const it of deduped) if (it.curatedFlag && !kept.includes(it)) kept.push(it);
 
 // ---- fill in images + summaries ----
 const cache = {};
