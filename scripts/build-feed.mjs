@@ -67,12 +67,12 @@ const FEEDS = [
   // Across AI — the cross-industry card: the wider AI world (policy, funding, society,
   // emerging labs). A tuned Google News query is the always-on baseline; it is capped
   // via `max` so it cannot flood the combined email feed, and gated by `aiFilter`
-  // because general-press search also matches on article body text. Import AI and
-  // MIT Technology Review's AI topic are AI-scoped editorial feeds and need no filter.
-  // Items from curated.json still merge in below as optional hand-picked pins.
-  // Verified live 2026-07-01.
+  // because general-press search also matches on article body text. MIT Technology
+  // Review's AI topic is an AI-scoped editorial feed and needs no filter. Items from
+  // curated.json still merge in below as optional hand-picked pins. Verified live
+  // 2026-07-01. (Import AI was verified too, but Substack 403-blocks GitHub's runner
+  // IPs — the feed works from a browser, so it stays as a card link only.)
   { company: "Across AI", source: "Google News", url: "https://news.google.com/rss/search?q=%22artificial%20intelligence%22%20(regulation%20OR%20policy%20OR%20funding%20OR%20startup%20OR%20lawsuit%20OR%20%22AI%20Act%22)%20when:7d&hl=en-US&gl=US&ceid=US:en", max: 15, aiFilter: true },
-  { company: "Across AI", source: "Import AI", url: "https://importai.substack.com/feed" },
   { company: "Across AI", source: "MIT Tech Review", url: "https://www.technologyreview.com/topic/artificial-intelligence/feed/" }
 ];
 

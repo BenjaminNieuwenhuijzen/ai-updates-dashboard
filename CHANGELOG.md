@@ -38,13 +38,14 @@ can see exactly what changed between any two versions.
   hidden behind a higher-priority label under the **Model releases** filter.
 
 ### Changed
-- The **Across AI** card now fills itself. It reads a tuned Google News query plus two
-  AI-scoped editorial feeds (Import AI and MIT Technology Review's AI topic); the news
-  query is capped per run and passed through an AI-relevance keyword filter, so
-  general-press noise can't flood the card or the combined email feed. `curated.json`
-  still merges in as optional hand-picked pins. The card's header label changed from
-  **Curated · Editorial picks** to **Aggregated · Google News + editorial feeds**; as
-  before, the card stays out of the footer's company count and official/community mix.
+- The **Across AI** card now fills itself. It reads a tuned Google News query plus MIT
+  Technology Review's AI-topic feed; the news query is capped per run and passed through
+  an AI-relevance keyword filter, so general-press noise can't flood the card or the
+  combined email feed. `curated.json` still merges in as optional hand-picked pins.
+  The card's header label changed from **Curated · Editorial picks** to
+  **Aggregated · Google News + MIT Tech Review**; as before, the card stays out of the
+  footer's company count and official/community mix. (Import AI was also verified as a
+  source, but Substack 403-blocks GitHub's runner IPs, so it remains a card link only.)
 - Per-feed item caps now keep the **newest** items instead of the first in document
   order: Google News search RSS is relevance-ordered, so the old cap could hold on to
   week-old evergreen hits while dropping same-day news (this also freshens the DeepSeek
