@@ -5,7 +5,70 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Wed, 01 Jul 2026 13:10:21 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 16:40:56 GMT</lastBuildDate>
+<item>
+<title>[Google News] Nvidia says software cuts DeepSeek V4 token costs fivefold - DataCenterNews Asia Pacific</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPTDl2VlJ6U2I2N3NURGNSZ2dkWVNLVF9TSnR2ZkktVmFsTnJ1ZWpWeHFRY3VuVjdiaFJxa1FiZFI5LXlOcF9aczlDdXFLSHphLVlZdkVaRXhBaUxoWE5WZWNaa1hQS09ZTDh5NnZiNTRYTkRxb1dLRnlmQkRrUHBxT3gtTFpVbUlIVUFCODRoaG1vWTNhX2VN?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxPTDl2VlJ6U2I2N3NURGNSZ2dkWVNLVF9TSnR2ZkktVmFsTnJ1ZWpWeHFRY3VuVjdiaFJxa1FiZFI5LXlOcF9aczlDdXFLSHphLVlZdkVaRXhBaUxoWE5WZWNaa1hQS09ZTDh5NnZiNTRYTkRxb1dLRnlmQkRrUHBxT3gtTFpVbUlIVUFCODRoaG1vWTNhX2VN?oc=5</guid>
+<pubDate>Wed, 01 Jul 2026 16:15:00 GMT</pubDate>
+<description>Nvidia says software cuts DeepSeek V4 token costs fivefold &amp;nbsp;&amp;nbsp; DataCenterNews Asia Pacific</description>
+</item>
+<item>
+<title>[Google AI] New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.</title>
+<link>https://blog.google/products-and-platforms/products/education/nyc-ai-summit/</link>
+<guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/nyc-ai-summit/</guid>
+<pubDate>Wed, 01 Jul 2026 16:00:00 +0000</pubDate>
+<description>Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.</description>
+</item>
+<item>
+<title>[Cloud AI] Get started with the Claude apps gateway for Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/</guid>
+<pubDate>Wed, 01 Jul 2026 16:00:00 +0000</pubDate>
+<description>Anthropic's agentic coding tool Claude Code has worked with Google Cloud for a while now. An individual developer could easily point CLAUDE_CODE_USE_VERTEX=1 at a Google Cloud (GCP) project, grant the role roles/aiplatform.user , and inference stays inside your Google Cloud perimeter. That flow work</description>
+</item>
+<item>
+<title>[YouTube] NVIDIA Data Center Partners Recap | GTC Taipei 2026 Recap</title>
+<link>https://www.youtube.com/watch?v=sUdEcG824YQ</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=sUdEcG824YQ</guid>
+<pubDate>Wed, 01 Jul 2026 15:37:52 GMT</pubDate>
+<description>Purpose-built infrastructure for the era of agentic AI is here. Join us as we recap the biggest announcements from #NVIDIAGTC Taipei, featuring NVIDIA Vera Rubin, the Vera CPU, the DSX platform, and the ecosystem innovations from Foxconn, Quanta, Wistron, ASUS, GIGABYTE, Pegatron, and Wiwynn that ar</description>
+</item>
+<item>
+<title>[Source] New AI-powered library lets people meet Theodore Roosevelt in a whole new way</title>
+<link>https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library/</link>
+<guid isPermaLink="false">https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library/</guid>
+<pubDate>Wed, 01 Jul 2026 15:35:36 +0000</pubDate>
+<description>The post New AI-powered library lets people meet Theodore Roosevelt in a whole new way appeared first on Source .</description>
+</item>
+<item>
+<title>[YouTube] Setup with ChatGPT</title>
+<link>https://www.youtube.com/watch?v=IUGEvzfvUWU</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=IUGEvzfvUWU</guid>
+<pubDate>Wed, 01 Jul 2026 14:30:32 GMT</pubDate>
+
+</item>
+<item>
+<title>[YouTube] Grow With ChatGPT</title>
+<link>https://www.youtube.com/watch?v=N3Hzsf2PuHA</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=N3Hzsf2PuHA</guid>
+<pubDate>Wed, 01 Jul 2026 14:28:59 GMT</pubDate>
+
+</item>
+<item>
+<title>[YouTube] OCR4 in Production</title>
+<link>https://www.youtube.com/watch?v=6QlKeIrrmzU</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=6QlKeIrrmzU</guid>
+<pubDate>Wed, 01 Jul 2026 13:44:23 GMT</pubDate>
+<description>Learn about the new feature in the OCR4 release and how can they be used inside workflows and search toolkit to get production grade indexing.</description>
+</item>
+<item>
+<title>[Blog] NVIDIA and Partners Build in America, for America</title>
+<link>https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</guid>
+<pubDate>Wed, 01 Jul 2026 13:00:47 +0000</pubDate>
+<description>NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.</description>
+</item>
 <item>
 <title>[YouTube] Closing keynote: The end of AI as we know it | AI Now Summit 2026</title>
 <link>https://www.youtube.com/watch?v=dEWPTAXC3JA</link>
@@ -68,6 +131,13 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUs2N0FDV1ZwVGdkWGxTZFpWaUZWTkk0dVpBNFNkUXVoazdLVEc2YVNtYk01cnBkVi1zYVVUMXBfTHJsQklhNnQ4cjNoRzlLMjBBN0ZiX2Y1U1p4YWVsTl9kanlnR2l5YUQ5NmlLRzB4b2t1M2kxNS00aGJVZ0lUTFI4MA?oc=5</guid>
 <pubDate>Wed, 01 Jul 2026 02:54:38 GMT</pubDate>
 <description>DeepSeek V4 introduces utility-style AI pricing in shift beyond China's LLM price war &amp;nbsp;&amp;nbsp; digitimes</description>
+</item>
+<item>
+<title>[Blog] Hugging Face and Cerebras bring Gemma 4 to real-time voice AI</title>
+<link>https://huggingface.co/blog/cerebras-gemma4-voice-ai</link>
+<guid isPermaLink="false">https://huggingface.co/blog/cerebras-gemma4-voice-ai</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+
 </item>
 <item>
 <title>[Gemini] Gemini Spark updates: macOS launch, connected apps and more</title>
@@ -154,6 +224,13 @@
 
 </item>
 <item>
+<title>[Cloud AI] What Google Cloud announced in AI this month</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</guid>
+<pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
+<description>Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. Our main focus in June was helping your teams build, scale, and secure AI. Today, we’re sharing a fresh ro</description>
+</item>
+<item>
 <title>[Cloud AI] How Schrödinger sped up molecular discovery by 4x with Alphaevolve</title>
 <link>https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x/</guid>
@@ -168,13 +245,6 @@
 <description>A couple of months ago, we announced that over 50 Google-managed MCP servers are available. Today, we’ll dive into how to use the Gemini Enterprise Agent Platform remote MCP server to securely connect your external AI agents to the resources inside your Google Cloud environment. Connect your IDE to </description>
 </item>
 <item>
-<title>[Cloud AI] What Google Cloud announced in AI this month</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</guid>
-<pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
-<description>Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. Our main focus in June was helping your teams build, scale, and secure AI. Today, we’re sharing a fresh ro</description>
-</item>
-<item>
 <title>[Cloud AI] Bringing speed and strong cost performance to the market with Gemini Omni Flash and Nano Banana 2 Lite</title>
 <link>https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/</guid>
@@ -187,13 +257,6 @@
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/</guid>
 <pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
 
-</item>
-<item>
-<title>[Azure] Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency</title>
-<link>https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/</link>
-<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/</guid>
-<pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
-<description>As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimi</description>
 </item>
 <item>
 <title>[Developer] Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools</title>
@@ -287,13 +350,6 @@
 <description>CMA CGM leadership discusses scaling artificial intelligence across global operations in shipping, logistics, and media. Key takeaways * Industrial scaling: The group moved beyond small-scale proofs of concept to industrialize AI across all business lines. * Centralized structure: One dedicated AI d</description>
 </item>
 <item>
-<title>[YouTube] How Agentic AI is reinventing large organizations | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=MJf_qB3waqc</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=MJf_qB3waqc</guid>
-<pubDate>Tue, 30 Jun 2026 14:01:09 GMT</pubDate>
-<description>The Chief AI Officer at BNP Paribas shares a visionary approach to agentic AI—a shift from human-AI collaboration to autonomous systems where AI interacts with AI under human supervision. Discover the six pillars for scaling AI and transforming banking for 2030. Key Themes: The power of intent: From</description>
-</item>
-<item>
 <title>[Blog] Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning</title>
 <link>https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/</link>
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/</guid>
@@ -369,62 +425,6 @@
 <guid isPermaLink="false">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
 <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
 <description>OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.</description>
-</item>
-<item>
-<title>[News] Inside Genebench-Pro</title>
-<link>https://openai.com/index/genebench-pro/case-studies</link>
-<guid isPermaLink="false">https://openai.com/index/genebench-pro/case-studies</guid>
-<pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[News] Claude Science, an AI workbench for scientists, is now available</title>
-<link>https://www.anthropic.com/news/claude-science-ai-workbench</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/claude-science-ai-workbench</guid>
-<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-<description>Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.</description>
-</item>
-<item>
-<title>[News] Introducing Claude Sonnet 5</title>
-<link>https://www.anthropic.com/news/claude-sonnet-5</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/claude-sonnet-5</guid>
-<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-<description>Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work.</description>
-</item>
-<item>
-<title>[News] Redeploying Fable 5</title>
-<link>https://www.anthropic.com/news/redeploying-fable-5</link>
-<guid isPermaLink="false">https://www.anthropic.com/news/redeploying-fable-5</guid>
-<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-<description>Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework.</description>
-</item>
-<item>
-<title>[Blog] Featuring Every Eval Ever Results on Hugging Face Model Pages</title>
-<link>https://huggingface.co/blog/eee-community-evals</link>
-<guid isPermaLink="false">https://huggingface.co/blog/eee-community-evals</guid>
-<pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] An Early Preview of AI Agent Workflows on NVIDIA RTX Spark Laptops</title>
-<link>https://www.youtube.com/shorts/ZeIYVHxHnQ0</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/ZeIYVHxHnQ0</guid>
-<pubDate>Mon, 29 Jun 2026 22:23:07 GMT</pubDate>
-<description>See how NVIDIA RTX Spark laptops accelerate advanced local AI and agentic workflows. Featuring up to 128GB of unified memory, these systems enable creators to run large models entirely on-device. Watch as the OpenClaw personal agent automates complex ComfyUI tasks, managing prompts and hyperparamete</description>
-</item>
-<item>
-<title>[Research] Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity</title>
-<link>https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/</link>
-<guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/</guid>
-<pubDate>Mon, 29 Jun 2026 21:14:22 +0000</pubDate>
-<description>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved. The post Memora: A Harmonic Memory Represe</description>
-</item>
-<item>
-<title>[Google News] DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% - VentureBeat</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHZDQWRkY1hKUVJwUjFsZlpWT1F0ck9CcWJoajNnd1RXWjJxVXZBYVZBWTdxS1drelFFbW05LVFZcEtiWVNBUExJM3FwNC1vb2tCSzUzZmFja09URkExUTNsRE9pUUhYRmNPU1FOdUtseFE2VzhDT2pCVE1ES0kzSW5BQ2hQdTJhVm1CZmMySUdTUFRvT3RtRGV2MHRkd0NiZFpmQ0VXbldCcWJleTZfOV9IaE1GSFpSaHpWTA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHZDQWRkY1hKUVJwUjFsZlpWT1F0ck9CcWJoajNnd1RXWjJxVXZBYVZBWTdxS1drelFFbW05LVFZcEtiWVNBUExJM3FwNC1vb2tCSzUzZmFja09URkExUTNsRE9pUUhYRmNPU1FOdUtseFE2VzhDT2pCVE1ES0kzSW5BQ2hQdTJhVm1CZmMySUdTUFRvT3RtRGV2MHRkd0NiZFpmQ0VXbldCcWJleTZfOV9IaE1GSFpSaHpWTA?oc=5</guid>
-<pubDate>Mon, 29 Jun 2026 20:36:15 GMT</pubDate>
-<description>DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% &amp;nbsp;&amp;nbsp; VentureBeat</description>
 </item>
 </channel>
 </rss>
