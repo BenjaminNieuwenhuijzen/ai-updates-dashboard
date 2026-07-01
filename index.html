@@ -310,8 +310,11 @@
   ------------------------------------------------------------------ */
   /* List of updates: compact by default (a few items) with a "show more"
      instead of a scrollbar inside the card, so no nested scroll. */
-  .items { list-style: none; margin: 0; padding: 0; flex: 1; }
-  .more-li { border-bottom: none !important; }
+  .items { list-style: none; margin: 0; padding: 0; flex: 1; display: flex; flex-direction: column; }
+  /* Pin the "show more" row to the bottom of the (equal-height) card, so the
+     buttons and card bottoms line up across a row instead of floating at the
+     end of each card's content. */
+  .more-li { border-bottom: none !important; margin-top: auto; }
   .showmore {
     width: 100%; background: transparent; color: var(--link);
     border: none; padding: 9px; font-size: 12.5px; font-weight: 600; cursor: pointer;

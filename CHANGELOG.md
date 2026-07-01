@@ -59,6 +59,11 @@ can see exactly what changed between any two versions.
   companies.
 
 ### Fixed
+- Company cards in a grid row now share a common bottom edge. The cards already
+  stretch to equal height, but the "Show more" button sat at the end of each card's
+  content and floated at uneven heights, so the empty space below it read as a ragged
+  bottom. The button is now pinned to the bottom of the card, so buttons and card
+  bottoms line up across a row.
 - Anthropic research-mirror titles that glued the date, section label and headline into
   one string (e.g. "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two") are now
   cleaned at build time down to just the headline.
