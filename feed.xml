@@ -5,20 +5,27 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 30 Jun 2026 23:39:03 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 04:55:14 GMT</lastBuildDate>
+<item>
+<title>[Google News] DeepSeek V4 introduces utility-style AI pricing in shift beyond China's LLM price war - digitimes</title>
+<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUs2N0FDV1ZwVGdkWGxTZFpWaUZWTkk0dVpBNFNkUXVoazdLVEc2YVNtYk01cnBkVi1zYVVUMXBfTHJsQklhNnQ4cjNoRzlLMjBBN0ZiX2Y1U1p4YWVsTl9kanlnR2l5YUQ5NmlLRzB4b2t1M2kxNS00aGJVZ0lUTFI4MA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUs2N0FDV1ZwVGdkWGxTZFpWaUZWTkk0dVpBNFNkUXVoazdLVEc2YVNtYk01cnBkVi1zYVVUMXBfTHJsQklhNnQ4cjNoRzlLMjBBN0ZiX2Y1U1p4YWVsTl9kanlnR2l5YUQ5NmlLRzB4b2t1M2kxNS00aGJVZ0lUTFI4MA?oc=5</guid>
+<pubDate>Wed, 01 Jul 2026 02:54:38 GMT</pubDate>
+<description>DeepSeek V4 introduces utility-style AI pricing in shift beyond China's LLM price war &amp;nbsp;&amp;nbsp; digitimes</description>
+</item>
+<item>
+<title>[Google News] DeepSeek to double peak-hour fees for V4 model API from July - 디지털투데이</title>
+<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUGN3UHdkZEEwak56Y1VxS1dnV1hHWEMwZlJ5R0NwdWZVaUpaMEZDWm03MG93RkUzMEEtbk12U1lLYlNDSHl0NFVYSE9TUnh4end6c1JOWXFTSUFLcEhzTDVEN1J5dzh2WEN4eG9DVy01d1h3aWd6d2VJZDd4QnhyQ2dseTVRdzJmUzQyMEVER0pzNEk5R3JTbVZDWE51S3dQbXV5dDBrU3M?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUGN3UHdkZEEwak56Y1VxS1dnV1hHWEMwZlJ5R0NwdWZVaUpaMEZDWm03MG93RkUzMEEtbk12U1lLYlNDSHl0NFVYSE9TUnh4end6c1JOWXFTSUFLcEhzTDVEN1J5dzh2WEN4eG9DVy01d1h3aWd6d2VJZDd4QnhyQ2dseTVRdzJmUzQyMEVER0pzNEk5R3JTbVZDWE51S3dQbXV5dDBrU3M?oc=5</guid>
+<pubDate>Wed, 01 Jul 2026 01:26:20 GMT</pubDate>
+<description>DeepSeek to double peak-hour fees for V4 model API from July &amp;nbsp;&amp;nbsp; 디지털투데이</description>
+</item>
 <item>
 <title>[Gemini] Gemini Spark updates: macOS launch, connected apps and more</title>
 <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/</link>
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/</guid>
 <pubDate>Tue, 30 Jun 2026 21:00:00 +0000</pubDate>
 <description>The latest Gemini Spark updates brings Spark to the macOS app, connects with your favorite apps and tracks topics in real time.</description>
-</item>
-<item>
-<title>[YouTube] Redefining Financial Services With Next-Generation Compute and Agentic AI</title>
-<link>https://www.youtube.com/watch?v=NcjBCtqRgtE</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=NcjBCtqRgtE</guid>
-<pubDate>Tue, 30 Jun 2026 19:31:51 GMT</pubDate>
-<description>Jyh-Shing Jang from E.SUN FHC will discuss how agentic AI and next-generation compute are redefining financial services by improving reporting, sentiment analysis, workflow support, and executive decision-making. Key Takeaways: Agentic AI can transform financial operations by gathering, analyzing, a</description>
 </item>
 <item>
 <title>[Google News] NVIDIA Slashes DeepSeek v4 Token Costs By Up To 5x Just One Month After Launch, Through Pure Blackwell Software Tuning - Wccftech</title>
@@ -77,13 +84,6 @@
 <description>AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights. The post SkillOpt: Agent skills as trainable paramet</description>
 </item>
 <item>
-<title>[YouTube] How Together AI Uses NVIDIA's Full Stack to Deliver AI Responses in Under 100ms</title>
-<link>https://www.youtube.com/watch?v=10Kb3IB0d70</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=10Kb3IB0d70</guid>
-<pubDate>Tue, 30 Jun 2026 16:20:15 GMT</pubDate>
-<description>Together AI's Dan Fu, Vice President of Kernels, explains how Together AI leverages NVIDIA GPUs to deliver AI responses in under 100 milliseconds while achieving some of the industry's lowest token costs. From developing a megakernel that fits an entire model into a single CUDA kernel to powering re</description>
-</item>
-<item>
 <title>[DeepMind] Start building with Nano Banana 2 Lite and Gemini Omni Flash</title>
 <link>https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</link>
 <guid isPermaLink="false">https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</guid>
@@ -133,20 +133,6 @@
 <description>NVIDIA Omniverse NuRec is a neural reconstruction pipeline for building high-fidelity 3D representations of real-world environments from multisensor data such...</description>
 </item>
 <item>
-<title>[YouTube] How Airbus is powering Europe’s Al industrial revolution | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=PdeLBAwb9IQ</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=PdeLBAwb9IQ</guid>
-<pubDate>Tue, 30 Jun 2026 15:11:08 GMT</pubDate>
-<description>Explore how a global aerospace leader is integrating artificial intelligence to revolutionize the industry and maintain its competitive edge. Strategic AI partnership: Airbus has launched a five-year collaboration with Mistral AI to advance European industrial technology. Augmenting the workforce: A</description>
-</item>
-<item>
-<title>[YouTube] Scaling secure and transparent workflows | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=9IsgWBMyp50</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=9IsgWBMyp50</guid>
-<pubDate>Tue, 30 Jun 2026 15:04:15 GMT</pubDate>
-<description>Mistral AI and SAP have joined forces to deeply embed advanced language models into a new business AI platform designed to deliver real outcomes for global enterprises. Highlights: * Embedding Mistral AI models within SAP's business AI platform to enhance business process automation. * Leveraging SA</description>
-</item>
-<item>
 <title>[Blog] How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost</title>
 <link>https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/</link>
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/</guid>
@@ -161,95 +147,11 @@
 <description>When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot&amp;#8217;s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a rob</description>
 </item>
 <item>
-<title>[YouTube] Culture-driven approach to innovation | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=gIC1ftvrGwo</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=gIC1ftvrGwo</guid>
-<pubDate>Tue, 30 Jun 2026 14:56:21 GMT</pubDate>
-<description>The CEO and owner of the Visma-Lease a Bike professional cycling team explains how a culture-driven approach and innovative technology transformed a struggling team into a world-class powerhouse. Highlights: * Overcoming rock bottom and a lack of trust after losing a major sponsor in 2013. * Redefin</description>
-</item>
-<item>
-<title>[YouTube] Scaling enterprise value with sovereign AI</title>
-<link>https://www.youtube.com/watch?v=HICHSfDkBzs</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=HICHSfDkBzs</guid>
-<pubDate>Tue, 30 Jun 2026 14:51:26 GMT</pubDate>
-<description>A leader from Accenture explains hownterprises are moving beyond AI pilots to drive real business value through sovereign technology and strategic reinvention. Scaling beyond pilots. While most Fortune 500 companies have started AI initiatives, only 8% have successfully scaled them to drive signific</description>
-</item>
-<item>
-<title>[YouTube] The Machines Behind the Machines | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=usu2729-3yA</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=usu2729-3yA</guid>
-<pubDate>Tue, 30 Jun 2026 14:47:19 GMT</pubDate>
-<description>ASML is using AI to accelerate the design and maintenance of the lithography scanners essential for modern semiconductor manufacturing. By combining physics with data, they are augmenting engineers to build complex 3D chip architectures faster than ever before. Accelerating system design. AI surroga</description>
-</item>
-<item>
-<title>[YouTube] How nations can develop resilient, citizen-centric AI systems | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=d5jLSGn2oj8</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=d5jLSGn2oj8</guid>
-<pubDate>Tue, 30 Jun 2026 14:40:16 GMT</pubDate>
-<description>A panel of experts discusses the transformative role of AI in public services and government institutions, focusing on modernization, data sovereignty, and maintaining public trust. Explore how AI is reshaping administration, security, and societal stability. Key Themes: Why AI in government? Effici</description>
-</item>
-<item>
 <title>[Blog] Why Specialization Is Inevitable</title>
 <link>https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable</link>
 <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable</guid>
 <pubDate>Tue, 30 Jun 2026 14:39:11 GMT</pubDate>
 
-</item>
-<item>
-<title>[YouTube] Scaling AI to support the energy transition | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=yZ5g7Jic714</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=yZ5g7Jic714</guid>
-<pubDate>Tue, 30 Jun 2026 14:37:11 GMT</pubDate>
-<description>TotalEnergies is leveraging AI as a strategic lever to compress the timeline of the energy transition. Strategic shift: the company is transitioning from oil and gas to becoming a major player in electricity, aiming for 20% of its energy mix to be electrons by 2030. Data investment: a global data pl</description>
-</item>
-<item>
-<title>[YouTube] Perspectives on AI for defense | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=zR_jp_D7eWg</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=zR_jp_D7eWg</guid>
-<pubDate>Tue, 30 Jun 2026 14:32:36 GMT</pubDate>
-<description>Mistral AI and AMIAD (the French agency for defense AI) have partnered to integrate advanced AI into the Ministry of the Armed Forces to secure France's strategic autonomy. This collaboration focuses on scaling defense AI across military forces, transitioning from experimental pilot projects to oper</description>
-</item>
-<item>
-<title>[YouTube] Tansforming a global group with sovereign technology | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=KlI08FYHaXc</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=KlI08FYHaXc</guid>
-<pubDate>Tue, 30 Jun 2026 14:27:49 GMT</pubDate>
-<description>CMA CGM leadership discusses scaling artificial intelligence across global operations in shipping, logistics, and media. Key takeaways * Industrial scaling: The group moved beyond small-scale proofs of concept to industrialize AI across all business lines. * Centralized structure: One dedicated AI d</description>
-</item>
-<item>
-<title>[YouTube] How Agentic AI is reinventing large organizations | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=MJf_qB3waqc</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=MJf_qB3waqc</guid>
-<pubDate>Tue, 30 Jun 2026 14:01:09 GMT</pubDate>
-<description>The Chief AI Officer at BNP Paribas shares a visionary approach to agentic AI—a shift from human-AI collaboration to autonomous systems where AI interacts with AI under human supervision. Discover the six pillars for scaling AI and transforming banking for 2030. Key Themes: The power of intent: From</description>
-</item>
-<item>
-<title>[YouTube] How HTX is Scaling AI for Public Safety | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=33hFF-IZ6I0</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=33hFF-IZ6I0</guid>
-<pubDate>Tue, 30 Jun 2026 13:58:10 GMT</pubDate>
-<description>Singapore's Home Team Science and Technology Agency (HTX) is leading a shift from experimental AI to large-scale national security deployments. This initiative is built on three core pillars: Sovereignty: HTX developed "Engine," a sovereign, air-gapped infrastructure, and "Fenix," a specialized mode</description>
-</item>
-<item>
-<title>[YouTube] How EDF and Mistral are reinventing France's electricity | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=oypLpWb74PY</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=oypLpWb74PY</guid>
-<pubDate>Tue, 30 Jun 2026 13:52:43 GMT</pubDate>
-<description>Discover how EDF and Mistral are joining forces to integrate AI into nuclear operations, accelerating France’s energy sovereignty and the global transition to low-carbon electricity. From optimizing construction to managing decades of technical data, this partnership is a game-changer. Key Themes: *</description>
-</item>
-<item>
-<title>[YouTube] A CIO's Vision on the AI industrial revolution | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=Tb7RLf9qBlc</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=Tb7RLf9qBlc</guid>
-<pubDate>Tue, 30 Jun 2026 13:50:05 GMT</pubDate>
-<description>Marjorie Janiewicz, CRO of Mistral, and Dr. Franz Decker, CIO &amp; Senior Vice President Group IT at BMW Group, announced a strategic partnership to develop specialized industrial AI models, starting with automotive crash testing. Key Highlights: Accelerated Engineering: AI can now analyze complex cras</description>
-</item>
-<item>
-<title>[YouTube] Opening keynote | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=IC0VNOzPZU8</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=IC0VNOzPZU8</guid>
-<pubDate>Tue, 30 Jun 2026 13:43:35 GMT</pubDate>
-<description>Mistral's founders discuss the transformative role of AI in public services and government institutions, focusing on modernization, data sovereignty, and maintaining public trust. They also discuss the importance of full-stack ownership, how they are addressing compute capacity, model advancements, </description>
 </item>
 <item>
 <title>[Blog] Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning</title>
@@ -273,11 +175,11 @@
 <description>New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.</description>
 </item>
 <item>
-<title>[Google News] Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls - the-decoder.com</title>
+<title>[Google News] Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls - The Decoder</title>
 <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTnJpalQ2Wkp2Uk9BOWRCakxzQjRNak9qNTNHc3loOFJCak14elhsN1E5RDlzZ194WEhRX1pfSmpwSF9rRm04bGt1OXRRenRCdnZRUDNSemFqdmNqUXVtakEyaHlJZno1LVphZWdNekh4ZVNYOVRrc2dxUUZDZTBMbTlxelVQWVUybzljSzJnX0VobjcwU0VnNVhyYzZsV2gxZ3hRdEpnWE1kelhhU3ZjekViMEs3cTJOQXNRVFQwbHNlWDNKeEo5ZQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTnJpalQ2Wkp2Uk9BOWRCakxzQjRNak9qNTNHc3loOFJCak14elhsN1E5RDlzZ194WEhRX1pfSmpwSF9rRm04bGt1OXRRenRCdnZRUDNSemFqdmNqUXVtakEyaHlJZno1LVphZWdNekh4ZVNYOVRrc2dxUUZDZTBMbTlxelVQWVUybzljSzJnX0VobjcwU0VnNVhyYzZsV2gxZ3hRdEpnWE1kelhhU3ZjekViMEs3cTJOQXNRVFQwbHNlWDNKeEo5ZQ?oc=5</guid>
 <pubDate>Tue, 30 Jun 2026 08:30:09 GMT</pubDate>
-<description>Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls &amp;nbsp;&amp;nbsp; the-decoder.com</description>
+<description>Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls &amp;nbsp;&amp;nbsp; The Decoder</description>
 </item>
 <item>
 <title>[Google News] DeepSeek bucks China’s AI price war with peak-hour surcharges for API services - South China Morning Post</title>
@@ -285,13 +187,6 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxPNTlWVWY5VXpvaEtUNU9jTGdlbTl0eG5jS3ptVXpZd1laN3c1Z2RfVXBMb2NySXpraWlldzNXYjA3UkJpRzVkaEttRlhXb3JhamVyb3ZNbmN1TFhTSExOUVNfUFhOS25hd1lXZmtNc0tVQXo2ZDduMW1acENVYlNkWE83ZmdPd1pTb2VjS1hfQXhURUw5aU1US09rUkJhMTI3WmZEZGJZSF94V3RDUFBWWWdZZUplNHMwWFVBajlsNHVnek5qdlJPXzNB0gHKAUFVX3lxTE1GRjFoLUhjTDdUOWFKZE1DVmtkWVAxbklXVTlfM2treEhwNUczbkl6WlpkYVBwZFFnVzJ0cjZ1UDVXOFI2QVJDTzQ4aTlGcFFkQjZ6N2hmMFdQVkVfZ2JwYlhNdHhtN3ZEcDFMQ0F6LUZZZ0N0aVpiTmROZE1DZTZUTjlJNlFscEFmWTF5N20yeGRyNzRZWXNmQWVTTmlKbVpza084TUJIbzVVOTRONktCd0FBaW9ycElTV0R1Q0g2SDJpbHJGM3FqcWc?oc=5</guid>
 <pubDate>Tue, 30 Jun 2026 08:00:09 GMT</pubDate>
 <description>DeepSeek bucks China’s AI price war with peak-hour surcharges for API services &amp;nbsp;&amp;nbsp; South China Morning Post</description>
-</item>
-<item>
-<title>[YouTube] How LLMs Actually Generate Text</title>
-<link>https://www.youtube.com/shorts/HfjF__xhSdk</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/HfjF__xhSdk</guid>
-<pubDate>Tue, 30 Jun 2026 06:34:41 GMT</pubDate>
-<description>Text generation looks like one function call. Underneath, it's a loop: infer, pick a token, append it, repeat. Watch how Transformers.js runs an LLM step by step.. and understand what's actually happening every time you chat with one.</description>
 </item>
 <item>
 <title>[Google AI] Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers</title>
@@ -322,20 +217,6 @@
 <description>DeepSeek to launch V4 in mid-July with new peak-time API pricing &amp;nbsp;&amp;nbsp; TechNode</description>
 </item>
 <item>
-<title>[Google News] DeepSeek and Peking University open-source DSpark, boosting single-user inference speed by 60–85%. - KuCoin</title>
-<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNY2tMNXd3MjFDYUlTMDZCRmVWdEhuTzR1UzJvOXh6cDd1VGZqVUZLUXBNeUdQa3RTeFM1VHk2LUhWWlhVLV93dmJDOUw5R2tZZ1g3cUFCa2NpVlRPd1Y0NGhLTnkwbHBvSjB5cjlCNmNHOUpFYjVod1BWalVpT3dfYl9NdFF2ZFQ5YndINHBQNjV6azFzRjhEOU8tZXVUcm9QczIyMGRZMjg3M3V3RGdMSXgxT1ZPbkdHUEllNEVzTWZzZkVEdmc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxNY2tMNXd3MjFDYUlTMDZCRmVWdEhuTzR1UzJvOXh6cDd1VGZqVUZLUXBNeUdQa3RTeFM1VHk2LUhWWlhVLV93dmJDOUw5R2tZZ1g3cUFCa2NpVlRPd1Y0NGhLTnkwbHBvSjB5cjlCNmNHOUpFYjVod1BWalVpT3dfYl9NdFF2ZFQ5YndINHBQNjV6azFzRjhEOU8tZXVUcm9QczIyMGRZMjg3M3V3RGdMSXgxT1ZPbkdHUEllNEVzTWZzZkVEdmc?oc=5</guid>
-<pubDate>Tue, 30 Jun 2026 02:33:23 GMT</pubDate>
-<description>DeepSeek and Peking University open-source DSpark, boosting single-user inference speed by 60–85%. &amp;nbsp;&amp;nbsp; KuCoin</description>
-</item>
-<item>
-<title>[Google News] Why an American Company Opts for 100% Access to DeepSeek - 36Kr</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hb3ozZk9vZlVEZmQ5NlpXcU03SFlSM3FnZDg3SWh6Ym9iZFMwd1c5elowaE13SmZFZkFWbVEyOFNteTdUT1RLN2xJcGdubkI5ai1R?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hb3ozZk9vZlVEZmQ5NlpXcU03SFlSM3FnZDg3SWh6Ym9iZFMwd1c5elowaE13SmZFZkFWbVEyOFNteTdUT1RLN2xJcGdubkI5ai1R?oc=5</guid>
-<pubDate>Tue, 30 Jun 2026 00:32:40 GMT</pubDate>
-<description>Why an American Company Opts for 100% Access to DeepSeek &amp;nbsp;&amp;nbsp; 36Kr</description>
-</item>
-<item>
 <title>[News] Introducing GeneBench-Pro</title>
 <link>https://openai.com/index/introducing-genebench-pro</link>
 <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro</guid>
@@ -357,6 +238,13 @@
 
 </item>
 <item>
+<title>[News] Redeploying Fable 5</title>
+<link>https://www.anthropic.com/news/redeploying-fable-5</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/redeploying-fable-5</guid>
+<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+<description>Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework.</description>
+</item>
+<item>
 <title>[News] Claude Science, an AI workbench for scientists, is now available</title>
 <link>https://www.anthropic.com/news/claude-science-ai-workbench</link>
 <guid isPermaLink="false">https://www.anthropic.com/news/claude-science-ai-workbench</guid>
@@ -376,13 +264,6 @@
 <guid isPermaLink="false">https://huggingface.co/blog/eee-community-evals</guid>
 <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
 
-</item>
-<item>
-<title>[YouTube] An Early Preview of AI Agent Workflows on NVIDIA RTX Spark Laptops</title>
-<link>https://www.youtube.com/shorts/ZeIYVHxHnQ0</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/ZeIYVHxHnQ0</guid>
-<pubDate>Mon, 29 Jun 2026 22:23:07 GMT</pubDate>
-<description>See how NVIDIA RTX Spark laptops accelerate advanced local AI and agentic workflows. Featuring up to 128GB of unified memory, these systems enable creators to run large models entirely on-device. Watch as the OpenClaw personal agent automates complex ComfyUI tasks, managing prompts and hyperparamete</description>
 </item>
 <item>
 <title>[Research] Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity</title>
@@ -425,6 +306,125 @@
 <guid isPermaLink="false">https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/</guid>
 <pubDate>Mon, 29 Jun 2026 16:00:06 +0000</pubDate>
 <description>We're launching usernames for WhatsApp, so you can connect with people without giving out your phone number. The post It’s Time to Reserve Your WhatsApp Username appeared first on Meta Newsroom .</description>
+</item>
+<item>
+<title>[Google AI] Ask an AI expert: What exactly is the full stack?</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</guid>
+<pubDate>Mon, 29 Jun 2026 16:00:00 +0000</pubDate>
+<description>A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.</description>
+</item>
+<item>
+<title>[Cloud AI] Cloud CISO Perspectives: How Google Cloud Security uses AI internally</title>
+<link>https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/</guid>
+<pubDate>Mon, 29 Jun 2026 16:00:00 +0000</pubDate>
+<description>Welcome to the second Cloud CISO Perspectives for June 2026. Today, we’re discussing how we use AI to chart a path to autonomous software development lifecycle security. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this </description>
+</item>
+<item>
+<title>[Cloud AI] Synthesize the big picture and analyze trends with BigQuery's AI.AGG function</title>
+<link>https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/</guid>
+<pubDate>Mon, 29 Jun 2026 16:00:00 +0000</pubDate>
+<description>We recently announced the preview of the BigQuery AI.AGG() function. With AI.AGG() , you can use natural-language instructions within a single line of SQL to summarize or synthesize information over millions of rows of unstructured or even multimodal data. Summarize millions of rows with one line of</description>
+</item>
+<item>
+<title>[Gemini] Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.</title>
+<link>https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/</link>
+<guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/</guid>
+<pubDate>Mon, 29 Jun 2026 16:00:00 +0000</pubDate>
+<description>Google Meet's "Take notes for me" feature is available to Google AI Pro and Ultra subscribers in select languages.</description>
+</item>
+<item>
+<title>[Developer] How to Govern Autonomous Agents in Enterprise AI Factories</title>
+<link>https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/</guid>
+<pubDate>Mon, 29 Jun 2026 15:50:13 GMT</pubDate>
+<description>AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on...</description>
+</item>
+<item>
+<title>[Blog] Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time</title>
+<link>https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/</guid>
+<pubDate>Mon, 29 Jun 2026 15:00:04 +0000</pubDate>
+<description>The NVIDIA Inception member’s Ocula moon imaging service will harness the NVIDIA Jetson platform for edge AI, running inference directly in space to significantly accelerate insights compared with downlinking all data back down to Earth.</description>
+</item>
+<item>
+<title>[Blog] Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron</title>
+<link>https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/</guid>
+<pubDate>Mon, 29 Jun 2026 10:59:38 +0000</pubDate>
+<description>Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership. In 1969, DARPA connec</description>
+</item>
+<item>
+<title>[Agent Framework] Agent Harness: Working with your data, safely</title>
+<link>https://devblogs.microsoft.com/agent-framework/agent-harness-working-with-your-data-safely/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/agent-framework/agent-harness-working-with-your-data-safely/</guid>
+<pubDate>Mon, 29 Jun 2026 10:41:33 +0000</pubDate>
+<description>Part 2 of Build your own claw and agent harness with Microsoft Agent Framework. In Part 1 we stood up a harness and gave our personal finance assistant its first abilities: a custom tool, web search, and planning. It can talk about the markets &amp;#8211; but it can&amp;#8217;t yet touch your data, and noth</description>
+</item>
+<item>
+<title>[Google News] DeepSeek V4 DeepSpec Signals a New Era for Open-Source AI, Boosting AI Efficiency By 85% - Geeky Gadgets</title>
+<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE16YUhkMkdad040WkVGOVA0Y3p2UnRSUnJLOGhjeTU1c3dsY2REdm91S0c1R2pkWDNCSmk3TkhQdTJrbnhFc0pxak9Rb0FfZ2hHcHlGS1VpZmNhTVNOODkzOWlXRDFEaGQw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTE16YUhkMkdad040WkVGOVA0Y3p2UnRSUnJLOGhjeTU1c3dsY2REdm91S0c1R2pkWDNCSmk3TkhQdTJrbnhFc0pxak9Rb0FfZ2hHcHlGS1VpZmNhTVNOODkzOWlXRDFEaGQw?oc=5</guid>
+<pubDate>Mon, 29 Jun 2026 09:16:38 GMT</pubDate>
+<description>DeepSeek V4 DeepSpec Signals a New Era for Open-Source AI, Boosting AI Efficiency By 85% &amp;nbsp;&amp;nbsp; Geeky Gadgets</description>
+</item>
+<item>
+<title>[Google News] DeepSeek vs ChatGPT vs Gemini: $0.43 vs $5/M [2026] - tech-insider.org</title>
+<link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBENHhaSVBxcTdlcjNlU0lBczF2Sk8tTzk3bi10VnZIdTVIc01CZ20ySTRPLUdTcVVFQXdQYjZfVDZjSERSOWZVdUpobGVoMkNZWU9tTklrWk5VcC1HSndfbTJpdUt0d3VnSUFydw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMibEFVX3lxTFBENHhaSVBxcTdlcjNlU0lBczF2Sk8tTzk3bi10VnZIdTVIc01CZ20ySTRPLUdTcVVFQXdQYjZfVDZjSERSOWZVdUpobGVoMkNZWU9tTklrWk5VcC1HSndfbTJpdUt0d3VnSUFydw?oc=5</guid>
+<pubDate>Mon, 29 Jun 2026 08:54:59 GMT</pubDate>
+<description>DeepSeek vs ChatGPT vs Gemini: $0.43 vs $5/M [2026] &amp;nbsp;&amp;nbsp; tech-insider.org</description>
+</item>
+<item>
+<title>[Google News] Anthropic’s Mythos Spooked DeepSeek, Prompting Its $7.4 Billion Fundraising - The Information</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0pGMzd4V2lGN2R2RzliWXcwVWY5Ul9jMzgxajBibTFhSlFoVm8wSkladmVBNVF5UHVYbWJsY01vcVJ5ZER2bUhDQzlmbm9jMmw1c1JKYVBad0h2QXlsQ09HNDFQY3lzQlUyc002eGRIdjBzUFhKdkJqbFJ5OFR3eW9ucXEyekF4bUNyLXNnbV9hVUFmbHpuVlRHVU9GY2lINkladW9TWXgxbU1sdmc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0pGMzd4V2lGN2R2RzliWXcwVWY5Ul9jMzgxajBibTFhSlFoVm8wSkladmVBNVF5UHVYbWJsY01vcVJ5ZER2bUhDQzlmbm9jMmw1c1JKYVBad0h2QXlsQ09HNDFQY3lzQlUyc002eGRIdjBzUFhKdkJqbFJ5OFR3eW9ucXEyekF4bUNyLXNnbV9hVUFmbHpuVlRHVU9GY2lINkladW9TWXgxbU1sdmc?oc=5</guid>
+<pubDate>Mon, 29 Jun 2026 08:47:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[News] Mapping Europe’s AI Workforce Opportunity</title>
+<link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
+<guid isPermaLink="false">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
+<pubDate>Mon, 29 Jun 2026 07:00:00 GMT</pubDate>
+<description>A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.</description>
+</item>
+<item>
+<title>[Blog] From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery</title>
+<link>https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</link>
+<guid isPermaLink="false">https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</guid>
+<pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[News] HP Inc. launches Frontier strategic partnership with OpenAI</title>
+<link>https://openai.com/index/hp-frontier-partnership</link>
+<guid isPermaLink="false">https://openai.com/index/hp-frontier-partnership</guid>
+<pubDate>Sun, 28 Jun 2026 17:00:00 GMT</pubDate>
+<description>HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.</description>
+</item>
+<item>
+<title>[Google News] More 'DeepSeek moments' ahead: Will US continue to build walls or learn? - Global Times</title>
+<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JV3RnR0FoaE80a2NtU1NNVjlIcXVpSTZmVE84RGtjSmhsM0ZpYXBCV3hxX1pQS0otZ0hPOG1PZ094SkhhMXlRR3psMWdzc3pMQVJOVWRfaGRYYk00dFEzRmt3?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JV3RnR0FoaE80a2NtU1NNVjlIcXVpSTZmVE84RGtjSmhsM0ZpYXBCV3hxX1pQS0otZ0hPOG1PZ094SkhhMXlRR3psMWdzc3pMQVJOVWRfaGRYYk00dFEzRmt3?oc=5</guid>
+<pubDate>Sun, 28 Jun 2026 15:01:00 GMT</pubDate>
+<description>More 'DeepSeek moments' ahead: Will US continue to build walls or learn? &amp;nbsp;&amp;nbsp; Global Times</description>
+</item>
+<item>
+<title>[Google News] Faster AI, lower costs: DSpark eases bottlenecks and chip strain, says DeepSeek - South China Morning Post</title>
+<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajNTbEVhUkwwZ0dpSHlTM194R1U4V19pS1dmNHktQXZLOHNJMW9ybXMzZUVpdENZYlFtLTVtUXVJckVSbThjMk9Bdjd6ZDVEM3F1UEdtU2lrOUllbHdCekItUms1ZW5NLVRaSUJBRklQT1ZnVUdSOUI0Y3ZDVW5ib1RPTjU5R2pIb3ByeDFkdzRBRERQbjRRem0tXy1UWmJqMjl4bE5zMHY5b3dSSGRpREtTR0FQcVRSVHd1cWZBUThHblZxQ2VVU29MOGpPUXRoR1BR0gHTAUFVX3lxTE81aVpYWEFxTnNNZGJlNENKdGh3M3Q4a1Mzd1A1bFhGbVpSU1Q4TzNEN1VYLXA1WjZMei0xbDI2bURCWlBtY0JFd29ZVHZKQ1lQMVRFeTg2YllNN0xzTE1aOTN6MklJZ0JGNHBFa2NuTG1IQzdOQnctVmIxY1FVR3NRSEhvTFhWSlExQmYtb25Gc1QzbDhiNXd6QTg1Z29fRWgwaTJjdVNPOG0zNXlLbkZ2UHZJMkR0U2JqQUtwcGVOb2RxbTZyTVJod0xQaVdIMm55Xzg?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajNTbEVhUkwwZ0dpSHlTM194R1U4V19pS1dmNHktQXZLOHNJMW9ybXMzZUVpdENZYlFtLTVtUXVJckVSbThjMk9Bdjd6ZDVEM3F1UEdtU2lrOUllbHdCekItUms1ZW5NLVRaSUJBRklQT1ZnVUdSOUI0Y3ZDVW5ib1RPTjU5R2pIb3ByeDFkdzRBRERQbjRRem0tXy1UWmJqMjl4bE5zMHY5b3dSSGRpREtTR0FQcVRSVHd1cWZBUThHblZxQ2VVU29MOGpPUXRoR1BR0gHTAUFVX3lxTE81aVpYWEFxTnNNZGJlNENKdGh3M3Q4a1Mzd1A1bFhGbVpSU1Q4TzNEN1VYLXA1WjZMei0xbDI2bURCWlBtY0JFd29ZVHZKQ1lQMVRFeTg2YllNN0xzTE1aOTN6MklJZ0JGNHBFa2NuTG1IQzdOQnctVmIxY1FVR3NRSEhvTFhWSlExQmYtb25Gc1QzbDhiNXd6QTg1Z29fRWgwaTJjdVNPOG0zNXlLbkZ2UHZJMkR0U2JqQUtwcGVOb2RxbTZyTVJod0xQaVdIMm55Xzg?oc=5</guid>
+<pubDate>Sun, 28 Jun 2026 11:00:08 GMT</pubDate>
+<description>Faster AI, lower costs: DSpark eases bottlenecks and chip strain, says DeepSeek &amp;nbsp;&amp;nbsp; South China Morning Post</description>
+</item>
+<item>
+<title>[Developer] Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure</title>
+<link>https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/</guid>
+<pubDate>Fri, 26 Jun 2026 19:00:45 GMT</pubDate>
+<description>AI agents have changed a lot in the last two years. The first could only answer one question at a time. Then came multi-turn chat, where the model could keep...</description>
 </item>
 </channel>
 </rss>
