@@ -5,7 +5,7 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Wed, 01 Jul 2026 12:50:19 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 13:10:21 GMT</lastBuildDate>
 <item>
 <title>[YouTube] Closing keynote: The end of AI as we know it | AI Now Summit 2026</title>
 <link>https://www.youtube.com/watch?v=dEWPTAXC3JA</link>
@@ -154,13 +154,6 @@
 
 </item>
 <item>
-<title>[Cloud AI] What Google Cloud announced in AI this month</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</guid>
-<pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
-<description>Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. Our main focus in June was helping your teams build, scale, and secure AI. Today, we’re sharing a fresh ro</description>
-</item>
-<item>
 <title>[Cloud AI] How Schrödinger sped up molecular discovery by 4x with Alphaevolve</title>
 <link>https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x/</guid>
@@ -175,6 +168,13 @@
 <description>A couple of months ago, we announced that over 50 Google-managed MCP servers are available. Today, we’ll dive into how to use the Gemini Enterprise Agent Platform remote MCP server to securely connect your external AI agents to the resources inside your Google Cloud environment. Connect your IDE to </description>
 </item>
 <item>
+<title>[Cloud AI] What Google Cloud announced in AI this month</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</guid>
+<pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
+<description>Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. Our main focus in June was helping your teams build, scale, and secure AI. Today, we’re sharing a fresh ro</description>
+</item>
+<item>
 <title>[Cloud AI] Bringing speed and strong cost performance to the market with Gemini Omni Flash and Nano Banana 2 Lite</title>
 <link>https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/</guid>
@@ -187,6 +187,13 @@
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/</guid>
 <pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
 
+</item>
+<item>
+<title>[Azure] Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency</title>
+<link>https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/</link>
+<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/</guid>
+<pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
+<description>As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimi</description>
 </item>
 <item>
 <title>[Developer] Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools</title>
@@ -418,13 +425,6 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHZDQWRkY1hKUVJwUjFsZlpWT1F0ck9CcWJoajNnd1RXWjJxVXZBYVZBWTdxS1drelFFbW05LVFZcEtiWVNBUExJM3FwNC1vb2tCSzUzZmFja09URkExUTNsRE9pUUhYRmNPU1FOdUtseFE2VzhDT2pCVE1ES0kzSW5BQ2hQdTJhVm1CZmMySUdTUFRvT3RtRGV2MHRkd0NiZFpmQ0VXbldCcWJleTZfOV9IaE1GSFpSaHpWTA?oc=5</guid>
 <pubDate>Mon, 29 Jun 2026 20:36:15 GMT</pubDate>
 <description>DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% &amp;nbsp;&amp;nbsp; VentureBeat</description>
-</item>
-<item>
-<title>[Blog] DiScoFormer: One transformer for density and score, across distributions</title>
-<link>https://huggingface.co/blog/allenai/discoformer</link>
-<guid isPermaLink="false">https://huggingface.co/blog/allenai/discoformer</guid>
-<pubDate>Mon, 29 Jun 2026 18:02:48 GMT</pubDate>
-
 </item>
 </channel>
 </rss>
