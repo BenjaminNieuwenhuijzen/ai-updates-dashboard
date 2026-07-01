@@ -71,8 +71,10 @@ can see exactly what changed between any two versions.
   left-to-right and pack tightly by their own height: no empty gaps under short cards
   and no ragged, uneven bottoms. Toggling companies reflows the rest left-to-right;
   filtering and drag-to-reorder still work.
-- Returning to the dashboard from the privacy, disclaimer and contact pages now goes to
-  the site root (`/`) instead of `/index.html`, so the address bar stays clean.
+- All internal links now use clean, extensionless URLs (`/`, `/privacy`, `/disclaimer`,
+  `/contact`) instead of `*.html`, matched by the `canonical`/`og:url` tags and the
+  sitemap, so the address bar never shows `.html`. GitHub Pages serves the
+  extensionless paths.
 - Anthropic research-mirror titles that glued the date, section label and headline into
   one string (e.g. "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two") are now
   cleaned at build time down to just the headline.
