@@ -63,7 +63,17 @@ const FEEDS = [
   // the card current between drops. Verified live 2026-06-17.
   { company: "DeepSeek", source: "Releases", url: "https://github.com/deepseek-ai/DeepSeek-V3/releases.atom" },
   { company: "DeepSeek", source: "Releases", url: "https://github.com/deepseek-ai/DeepSeek-R1/releases.atom" },
-  { company: "DeepSeek", source: "Google News", url: "https://news.google.com/rss/search?q=%22DeepSeek%22&hl=en-US&gl=US&ceid=US:en" }
+  { company: "DeepSeek", source: "Google News", url: "https://news.google.com/rss/search?q=%22DeepSeek%22&hl=en-US&gl=US&ceid=US:en" },
+  // Across AI — the cross-industry card: the wider AI world (policy, funding, society,
+  // emerging labs). A tuned Google News query is the always-on baseline; it is capped
+  // via `max` so it cannot flood the combined email feed, and gated by `aiFilter`
+  // because general-press search also matches on article body text. Import AI and
+  // MIT Technology Review's AI topic are AI-scoped editorial feeds and need no filter.
+  // Items from curated.json still merge in below as optional hand-picked pins.
+  // Verified live 2026-07-01.
+  { company: "Across AI", source: "Google News", url: "https://news.google.com/rss/search?q=%22artificial%20intelligence%22%20(regulation%20OR%20policy%20OR%20funding%20OR%20startup%20OR%20lawsuit%20OR%20%22AI%20Act%22)%20when:7d&hl=en-US&gl=US&ceid=US:en", max: 15, aiFilter: true },
+  { company: "Across AI", source: "Import AI", url: "https://importai.substack.com/feed" },
+  { company: "Across AI", source: "MIT Tech Review", url: "https://www.technologyreview.com/topic/artificial-intelligence/feed/" }
 ];
 
 const PER_FEED = 40;       // items per source feed
@@ -71,6 +81,12 @@ const RSS_MAX = 60;        // items in the combined RSS (email)
 const JSON_MAX = 800;      // items in data.json (dashboard) — raised for the larger feed set
 const MAX_FETCH = 170;     // max article pages to fetch per run (rest from cache)
 const CONCURRENCY = 8;
+
+// Feeds flagged `aiFilter` come from general news search, which also matches on the
+// article body — so a headline may carry no AI signal at all. Keep only items whose
+// visible text (title + summary) is recognisably about AI. Company names cover posts
+// like "OpenAI faces lawsuit" that name no generic AI term.
+const AI_RELEVANT = /\bA\.?I\.?\b|artificial[\s-]+intelligence|machine learning|\bLLM\b|\bGPT\b|\bAGI\b|GenAI|superintelligence|chatbot|\bgenerative\b|deep learning|neural net|foundation model|Copilot|OpenAI|\bAnthropic\b|DeepMind|\bGemini\b|\bClaude\b|\bMistral\b|NVIDIA|Hugging Face|DeepSeek|Perplexity|\bxAI\b|\bMeta\b|Microsoft/i;
 
 const pick = (xml, tag) => {
   const m = xml.match(new RegExp("<" + tag + "[^>]*>([\\s\\S]*?)</" + tag + ">", "i"));
@@ -83,6 +99,7 @@ const strip = s => (s || "")
   .replace(/&quot;/gi, '"').replace(/&#0?39;/g, "'").replace(/&apos;/gi, "'").replace(/&nbsp;/gi, " ")
   .replace(/<[^>]+>/g, " ")
   .replace(/&amp;/gi, "&")
+  .replace(/&nbsp;/gi, " ")   // again, after &amp;→&: catches double-encoded &amp;nbsp;
   .replace(/\s+/g, " ").trim();
 const escXml = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const deEnt = s => s.replace(/&amp;/g, "&").replace(/&#x2F;/gi, "/").replace(/&#38;/g, "&");
@@ -177,7 +194,11 @@ for (const feed of FEEDS) {
     // so we must NOT detect on the Atom namespace alone.)
     const isAtom = !/<item[\s>]/i.test(xml) && /<entry[\s>]/i.test(xml);
     const blockRe = isAtom ? /<entry[\s>][\s\S]*?<\/entry>/gi : /<item[\s>][\s\S]*?<\/item>/gi;
-    let count = 0;
+    // Parse the whole document first, then keep the newest `max` items. Google News
+    // search RSS is relevance-ordered, not date-ordered, so capping in document
+    // order would keep week-old evergreen hits and drop same-day news; for the
+    // date-ordered publisher feeds the sort is a no-op.
+    const parsed = [];
     for (const m of xml.matchAll(blockRe)) {
       const block = m[0];
       const title = cleanMirrorTitle(strip(unCdata(pick(block, "title"))), feed.company);
@@ -194,10 +215,17 @@ for (const feed of FEEDS) {
         desc = cleanMirrorTitle(strip(unCdata(pick(block, "description"))), feed.company).slice(0, 300);
       }
       if (!title || !link || isNaN(t)) continue;
+      if (feed.aiFilter && !AI_RELEVANT.test(title + " " + desc)) continue;
+      // Google News descriptions are only the headline re-linked plus the outlet
+      // name, so they add nothing over the title: drop them (the title already
+      // carries the outlet as its " - Outlet" suffix).
+      if (/news\.google\.com/i.test(feed.url)) desc = "";
       if (norm(desc) === norm(title)) desc = "";
-      items.push({ company: feed.company, source: feed.source, title, link, pubDate, t, desc, image: rssImage(block) });
-      if (++count >= PER_FEED) break;
+      parsed.push({ company: feed.company, source: feed.source, title, link, pubDate, t, desc, image: rssImage(block) });
     }
+    parsed.sort((a, b) => b.t - a.t);
+    const count = Math.min(parsed.length, feed.max || PER_FEED);
+    items.push(...parsed.slice(0, count));
     console.log(`${feed.company}/${feed.source || "-"}: ${count} items${isAtom ? " (atom)" : ""}`);
   } catch (e) {
     console.error(`${feed.company}/${feed.source || "-"}: ${e.message}`);
@@ -259,12 +287,21 @@ try {
   for (const it of prev.items || []) if (it.link) cache[it.link] = { image: it.image || "", summary: it.summary || "" };
 } catch { /* first run */ }
 
+// Hosts whose article URLs are redirect interstitials with no usable og: metadata
+// (news.google.com) — never burn fetch budget on them; their items keep the feed's
+// own summary (if any) and the brand-placeholder thumbnail.
+const META_BLOCK = ["news.google.com"];
 let fetched = 0;
 const tasks = [];
 for (const it of kept) {
   const c = cache[it.link];
   if (!it.image && c && c.image) it.image = c.image;
-  if (!it.desc && c && c.summary) it.desc = c.summary;
+  // The &nbsp; guard keeps junk Google News summaries cached by older builds
+  // (headline + outlet with literal "&nbsp;" text) from re-entering.
+  if (!it.desc && c && c.summary && !/&nbsp;/i.test(c.summary)) it.desc = c.summary;
+  let metaHost = "";
+  try { metaHost = new URL(it.link).hostname.replace(/^www\./, ""); } catch {}
+  if (META_BLOCK.some(d => metaHost === d || metaHost.endsWith("." + d))) continue;
   if ((!it.image || !it.desc) && fetched < MAX_FETCH) {
     fetched++;
     tasks.push(async () => {

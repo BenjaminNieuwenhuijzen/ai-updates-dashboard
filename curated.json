@@ -1,5 +1,5 @@
 {
-  "_note": "Hand-curated stories for the 'Across AI' card: industry-wide, policy, society, or not-yet-tracked labs. The build (scripts/build-feed.mjs) merges these into data.json. Each item needs company, title, link and date (ISO YYYY-MM-DD or RFC822); source, summary and image are optional. Leave image empty to let the build pull the article's og:image. Keep at least one item so the card is never empty.",
+  "_note": "Optional hand-picked pins for the 'Across AI' card: industry-wide, policy, society, or not-yet-tracked labs. The card now fills itself from feeds (see the Across AI entries in scripts/build-feed.mjs); the build merges the items below on top, and they always survive the item cap. Each item needs company, title, link and date (ISO YYYY-MM-DD or RFC822); source, summary and image are optional. Leave image empty to let the build pull the article's og:image. The items array may be left empty.",
   "items": [
     {
       "company": "Across AI",

@@ -1015,17 +1015,24 @@ const COMPANIES = [
     ]
   },
   {
-    // Curated cross-industry card: stories not tied to one tracked company
-    // (industry-wide, policy/society, or a not-yet-tracked lab). Filled from
-    // curated.json by the build; has no feed, so `curated` drives an honest
-    // "Curated" header label instead of the official/community one.
+    // Cross-industry card: stories not tied to one tracked company (industry-wide,
+    // policy/society, or a not-yet-tracked lab). Auto-filled by the build from the
+    // feeds below — a tuned Google News query plus AI-scoped editorial feeds, with
+    // an AI-relevance filter on the news query. curated.json items still merge in
+    // as optional hand-picked pins. `aggregate` drives an honest "Aggregated"
+    // header label and keeps this card out of the footer's company count and mix.
     name: "Across AI",
     logo: LOGOS.acrossai,
     accent: "#64748b",
-    curated: true,
-    feeds: [],
+    aggregate: true,
+    feeds: [
+      "https://news.google.com/rss/search?q=%22artificial%20intelligence%22%20(regulation%20OR%20policy%20OR%20funding%20OR%20startup%20OR%20lawsuit%20OR%20%22AI%20Act%22)%20when:7d&hl=en-US&gl=US&ceid=US:en",
+      "https://importai.substack.com/feed",
+      "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
+    ],
     links: [
       { label: "Import AI", url: "https://importai.substack.com/" },
+      { label: "MIT Tech Review", url: "https://www.technologyreview.com/topic/artificial-intelligence/" },
       { label: "The Batch", url: "https://www.deeplearning.ai/the-batch/" }
     ]
   }
@@ -1045,7 +1052,7 @@ const FEED_SOURCE = {
   "Mistral AI": "mistral.ai/news",
   "Cohere": "cohere.com/blog",
   "DeepSeek": "GitHub releases + Google News",
-  "Across AI": "Editorial picks"
+  "Across AI": "Google News + editorial feeds"
 };
 
 const REFRESH_MINUTES = 30;    // automatic refresh for screen use (0 = off)
@@ -1212,7 +1219,7 @@ function thumbHtml(it, logo, accent, name) {
 }
 
 const UNOFFICIAL_HINT = "No official RSS feed available; updates come from a community feed and may lag behind.";
-const CURATED_HINT = "Hand-picked stories that aren't tied to one company: industry-wide, policy, society, and emerging labs.";
+const AGGREGATE_HINT = "Stories from across the AI world, aggregated from general AI news feeds plus occasional hand-picked pins: industry-wide, policy, society, and emerging labs.";
 
 /* ------------------------------------------------------------------
    Fetching with proxy fallback.
@@ -1362,8 +1369,8 @@ function buildCards() {
     card.style.setProperty("--card-accent", c.accent);
     const links = c.links.map(l => `<a href="${l.url}" target="_blank" rel="noopener">${l.label}</a>`).join("");
     const srcName = FEED_SOURCE[c.name] || "";
-    const srcLabel = c.curated ? "Curated" : (c.official ? "Official feed" : "Community feed");
-    const srcTitle = c.curated ? CURATED_HINT : (c.official ? "Official RSS feed read for this card" : UNOFFICIAL_HINT);
+    const srcLabel = c.aggregate ? "Aggregated" : (c.official ? "Official feed" : "Community feed");
+    const srcTitle = c.aggregate ? AGGREGATE_HINT : (c.official ? "Official RSS feed read for this card" : UNOFFICIAL_HINT);
     const src = `<span class="srcline" title="${srcTitle}"><span class="rss-dot"></span>${srcLabel}${srcName ? " · " + srcName : ""}</span>`;
     card.innerHTML = `
       <div class="card-head">
@@ -2013,9 +2020,9 @@ document.querySelectorAll(".catbar button").forEach(b =>
 // text never has to be updated by hand when COMPANIES or CATS changes.
 (function fillFooter() {
   const set = (id, val) => { const el = document.getElementById(id); if (el) el.textContent = val; };
-  // Curated cards (e.g. "Across AI") aren't feed-backed companies, so they are
-  // left out of both the company count and the official/community feed mix.
-  const feedCards = COMPANIES.filter(c => !c.curated);
+  // Aggregate cards (e.g. "Across AI") aren't companies, so they are left out
+  // of both the company count and the official/community feed mix.
+  const feedCards = COMPANIES.filter(c => !c.aggregate);
   set("companyCount", feedCards.length);
 
   const official = feedCards.filter(c => c.official).length;
