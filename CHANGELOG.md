@@ -58,10 +58,21 @@ can see exactly what changed between any two versions.
   repeat a company, since the aim is to surface releases rather than spread across
   companies.
 
+### Removed
+- The **Cookiebot** cookie-consent tool, from every page. The dashboard sets no cookies,
+  has no analytics or tracking, and stores only strictly functional data in the browser,
+  so no consent is required under the GDPR/ePrivacy rules; the banner added nothing but
+  its own third-party requests and a consent cookie. The privacy statement already
+  described this.
+
 ### Fixed
-- Company cards now use a masonry layout (CSS multi-column) instead of a fixed-row
-  grid, so cards pack tightly by their own height: no empty gaps under short cards and
-  no ragged, uneven card bottoms. Card order, filtering and drag-to-reorder are kept.
+- Company cards now use a masonry layout (a CSS grid whose column count and per-card
+  row spans are computed in JS) instead of fixed-height rows, so cards fill
+  left-to-right and pack tightly by their own height: no empty gaps under short cards
+  and no ragged, uneven bottoms. Toggling companies reflows the rest left-to-right;
+  filtering and drag-to-reorder still work.
+- Returning to the dashboard from the privacy, disclaimer and contact pages now goes to
+  the site root (`/`) instead of `/index.html`, so the address bar stays clean.
 - Anthropic research-mirror titles that glued the date, section label and headline into
   one string (e.g. "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two") are now
   cleaned at build time down to just the headline.

@@ -3,7 +3,6 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="32e6e51d-0727-4371-8658-6cb405abb823" data-blockingmode="auto" type="text/javascript"></script>
 <title>AI Radar — Latest news from the leading AI companies</title>
 <meta name="description" content="AI Radar is a live dashboard that aggregates the latest news and updates from the leading AI companies into one page.">
 <link rel="canonical" href="https://ai-radar.eu/">
@@ -225,13 +224,17 @@
      Grid of company cards.
   ------------------------------------------------------------------ */
   .grid {
-    /* Masonry via CSS multi-column: cards flow top-to-bottom into columns and
-       pack tightly, so there are no equal-height gaps. Cards keep their DOM
-       order, so activity-ranking, filtering and drag-to-reorder all still work
-       (a plain grid can't do gap-free masonry without breaking those). The
-       browser fits as many ~350px columns as the width allows. */
-    columns: 350px;
+    /* Row-major masonry. A plain grid leaves gaps under short cards (equal-height
+       rows) and CSS multi-column fills column-first (cards don't read left-to-
+       right), so the column count and each card's row span are set in JS
+       (layoutMasonry): cards fill left-to-right and pack tightly under the
+       shortest column, with no gaps. grid-auto-rows is the fine unit the spans
+       are measured in; align-items:start keeps every card at its content height. */
+    display: grid;
+    grid-auto-rows: 1px;
     column-gap: 16px;
+    row-gap: 0;
+    align-items: start;
     padding: 24px 32px;
   }
   .card {
@@ -245,11 +248,6 @@
     flex-direction: column;
     position: relative;
     transition: transform .16s ease, box-shadow .16s ease;
-    /* Multi-column masonry: never split a card across columns, and give each
-       card the vertical gap to the one stacked below it. */
-    break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-    margin-bottom: 16px;
   }
   .card-head {
     padding: 14px 16px 12px;
@@ -704,7 +702,7 @@
     input#search { width: 100%; }
     #hero { padding: 16px 16px 0; }
     .hero-title { font-size: 20px; }
-    .grid { column-count: 1; padding: 16px 14px; }
+    .grid { padding: 16px 14px; }
     #stream { padding: 16px 16px; }
     #subscribe { margin: 0 16px 8px; padding: 14px 16px; }
     footer { padding: 0 16px 28px; }
@@ -1371,6 +1369,56 @@ function buildCards() {
   });
 }
 
+/* Row-major masonry for the company grid. A CSS grid can't pack variable-height
+   cards without gaps and CSS multi-column fills column-first (so cards don't read
+   left-to-right). So drive it from JS: compute the column count from the width,
+   then place each visible card, in DOM order, into whichever column is currently
+   shortest — a left-to-right top row that packs tightly beneath. Cards stay real
+   grid items, so filtering and drag-to-reorder keep working; a ResizeObserver
+   re-runs it when a card's height changes (content render, image load, expand). */
+const GRID_GAP = 16, CARD_MIN = 350;
+function layoutMasonry() {
+  const grid = document.getElementById("grid");
+  if (!grid) return;
+  const cs = getComputedStyle(grid);
+  const innerW = grid.clientWidth - (parseFloat(cs.paddingLeft) || 0) - (parseFloat(cs.paddingRight) || 0);
+  if (innerW <= 0) return;   // hidden (timeline view): nothing to lay out
+  const ncol = Math.max(1, Math.floor((innerW + GRID_GAP) / (CARD_MIN + GRID_GAP)));
+  const cards = [...grid.querySelectorAll(".card")].filter(c => c.style.display !== "none");
+  // Reset placement so each card is a plain one-track item at the current width.
+  for (const c of cards) { c.style.gridColumn = ""; c.style.gridRowStart = ""; c.style.gridRowEnd = ""; }
+  grid.style.gridTemplateColumns = "repeat(" + ncol + ", minmax(0, 1fr))";
+  // offsetHeight is the untransformed layout height, so a card mid-drag (which
+  // carries transform: scale(1.03)) is measured at its true height and not given
+  // an inflated row span that would leave a gap beneath it after the drop.
+  const heights = cards.map(c => Math.max(1, c.offsetHeight));
+  const colH = new Array(ncol).fill(0);
+  cards.forEach((c, i) => {
+    let col = 0;
+    for (let k = 1; k < ncol; k++) if (colH[k] < colH[col]) col = k;
+    c.style.gridColumn = String(col + 1);
+    c.style.gridRowStart = String(colH[col] + 1);
+    c.style.gridRowEnd = "span " + heights[i];
+    colH[col] += heights[i] + GRID_GAP;
+  });
+}
+let masonryScheduled = false;
+function scheduleMasonry() {
+  if (masonryScheduled) return;
+  masonryScheduled = true;
+  requestAnimationFrame(() => { masonryScheduled = false; layoutMasonry(); });
+}
+function initMasonry() {
+  const grid = document.getElementById("grid");
+  if (!grid) return;
+  if (window.ResizeObserver) {
+    const ro = new ResizeObserver(() => scheduleMasonry());
+    grid.querySelectorAll(".card").forEach(c => ro.observe(c));
+  }
+  window.addEventListener("resize", scheduleMasonry);
+  layoutMasonry();
+}
+
 function currentPeriodDays() {
   return parseInt(document.getElementById("period").value, 10) || 0;
 }
@@ -1572,6 +1620,7 @@ function applyCompanyVisibility() {
   document.querySelectorAll("#grid .card").forEach(card => {
     card.style.display = selectedCompanies.has(card.dataset.company) ? "" : "none";
   });
+  scheduleMasonry();
 }
 
 // Reorder cards by "how much in the news": the number of updates within a
@@ -1595,6 +1644,7 @@ function reorderGrid() {
     [...grid.querySelectorAll(".card")]
       .sort((a, b) => rank(a.dataset.company) - rank(b.dataset.company))
       .forEach(card => grid.appendChild(card));
+    scheduleMasonry();
     return;
   }
   const days = currentPeriodDays() || RANK_WINDOW_DAYS;
@@ -1612,6 +1662,7 @@ function reorderGrid() {
   });
   ranked.sort((a, b) => b.count - a.count || b.newest - a.newest || a.origIdx - b.origIdx);
   ranked.forEach(r => grid.appendChild(r.card));
+  scheduleMasonry();
 }
 
 /* Drag-to-reorder the company cards. Dragging starts from the grip handle, so
@@ -1640,6 +1691,7 @@ function placeDragged(grid, dragCard, x, y) {
   // one from its old spot to the new one so they glide instead of jumping.
   const first = others.map(c => c.getBoundingClientRect());
   grid.insertBefore(dragCard, ref);
+  layoutMasonry();   // re-place in the new order so the FLIP below animates to the right spots
   others.forEach((c, i) => {
     const last = c.getBoundingClientRect();
     const dx = first[i].left - last.left, dy = first[i].top - last.top;
@@ -1857,6 +1909,7 @@ function setView(view) {
   const stream = view === "stream";
   document.getElementById("grid").style.display = stream ? "none" : "";
   document.getElementById("stream").style.display = stream ? "block" : "none";
+  if (!stream) scheduleMasonry();   // grid became visible again: recompute placement
   document.querySelectorAll("#view button").forEach(b => {
     const on = b.dataset.view === view;
     b.classList.toggle("active", on);
@@ -1868,6 +1921,7 @@ function setView(view) {
 
 buildCards();
 initCardDragging();
+initMasonry();
 refreshAll();
 document.getElementById("period").addEventListener("change", applyFilter);
 document.querySelectorAll("#view button").forEach(b =>
@@ -2064,11 +2118,13 @@ document.addEventListener("click", e => {
     const i = parseInt(btn.dataset.i, 10);
     expandedCards.add(i);
     renderItems(i, STATE[COMPANIES[i].name] || []);
+    scheduleMasonry();
   }
   if (btn.dataset.action === "collapse-card") {
     const i = parseInt(btn.dataset.i, 10);
     expandedCards.delete(i);
     renderItems(i, STATE[COMPANIES[i].name] || []);
+    scheduleMasonry();
   }
   if (btn.dataset.action === "load-more-stream") {
     streamShown += STREAM_PAGE;
