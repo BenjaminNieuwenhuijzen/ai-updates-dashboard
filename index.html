@@ -693,6 +693,19 @@
   .colophon a:hover { text-decoration: underline; }
 
   /* ------------------------------------------------------------------
+     Very wide windows (ultrawide, zoomed out): cap and center the content
+     band. Without a cap the masonry keeps adding a column per ~366px, so
+     with every company enabled the cards form one long strip that never
+     wraps. The cap keeps it at six columns at most; anything past that
+     becomes a new row. The header stays full-width, like any sticky bar.
+     (Last in the sheet, after the base margins it overrides.)
+  ------------------------------------------------------------------ */
+  @media (min-width: 2600px) {
+    #hero, .grid, #subscribe, footer { max-width: 2520px; margin-left: auto; margin-right: auto; }
+    #digest { max-width: 2456px; margin-left: auto; margin-right: auto; }
+  }
+
+  /* ------------------------------------------------------------------
      Mobile: more compact margins and controls on narrow screens, so the
      content doesn't disappear far below a long row of controls.
   ------------------------------------------------------------------ */
