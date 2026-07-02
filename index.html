@@ -224,12 +224,12 @@
      Grid of company cards.
   ------------------------------------------------------------------ */
   .grid {
-    /* Row-major masonry. A plain grid leaves gaps under short cards (equal-height
-       rows) and CSS multi-column fills column-first (cards don't read left-to-
-       right), so the column count and each card's row span are set in JS
-       (layoutMasonry): cards fill left-to-right and pack tightly under the
-       shortest column, with no gaps. grid-auto-rows is the fine unit the spans
-       are measured in; align-items:start keeps every card at its content height. */
+    /* Row-major placement. CSS multi-column fills column-first (cards don't
+       read left-to-right), so the column count and each card's position are
+       set in JS (layoutMasonry): cards fill rows from left to right, and each
+       row starts on one shared line below the row above. grid-auto-rows is the
+       fine unit the placements are measured in; align-items:start keeps every
+       card at its content height. */
     display: grid;
     grid-auto-rows: 1px;
     column-gap: 16px;
@@ -1400,13 +1400,14 @@ function buildCards() {
   });
 }
 
-/* Row-major masonry for the company grid. A CSS grid can't pack variable-height
-   cards without gaps and CSS multi-column fills column-first (so cards don't read
-   left-to-right). So drive it from JS: compute the column count from the width,
-   then place each visible card, in DOM order, into whichever column is currently
-   shortest — a left-to-right top row that packs tightly beneath. Cards stay real
-   grid items, so filtering and drag-to-reorder keep working; a ResizeObserver
-   re-runs it when a card's height changes (content render, image load, expand). */
+/* Row-major layout for the company grid, driven from JS: compute the column
+   count from the width, then place the visible cards, in DOM order, in rows
+   of ncol from left to right. Every row starts on one shared line, below the
+   tallest card of the row above — so the reading order is unambiguous (a
+   shortest-column masonry packs tighter but scatters the order once card
+   heights differ). Cards stay real grid items, so filtering and
+   drag-to-reorder keep working; a ResizeObserver re-runs it when a card's
+   height changes (content render, image load, expand). */
 const GRID_GAP = 16, CARD_MIN = 350;
 function layoutMasonry() {
   const grid = document.getElementById("grid");
@@ -1423,15 +1424,18 @@ function layoutMasonry() {
   // carries transform: scale(1.03)) is measured at its true height and not given
   // an inflated row span that would leave a gap beneath it after the drop.
   const heights = cards.map(c => Math.max(1, c.offsetHeight));
-  const colH = new Array(ncol).fill(0);
-  cards.forEach((c, i) => {
-    let col = 0;
-    for (let k = 1; k < ncol; k++) if (colH[k] < colH[col]) col = k;
-    c.style.gridColumn = String(col + 1);
-    c.style.gridRowStart = String(colH[col] + 1);
-    c.style.gridRowEnd = "span " + heights[i];
-    colH[col] += heights[i] + GRID_GAP;
-  });
+  let y = 0;
+  for (let r = 0; r < cards.length; r += ncol) {
+    let rowH = 0;
+    for (let k = 0; k < ncol && r + k < cards.length; k++) {
+      const c = cards[r + k], h = heights[r + k];
+      c.style.gridColumn = String(k + 1);
+      c.style.gridRowStart = String(y + 1);
+      c.style.gridRowEnd = "span " + h;
+      if (h > rowH) rowH = h;
+    }
+    y += rowH + GRID_GAP;
+  }
 }
 let masonryScheduled = false;
 function scheduleMasonry() {
