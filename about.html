@@ -4,9 +4,18 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="index, follow">
-<title>Disclaimer · AI Radar</title>
-<meta name="description" content="AI Radar is an aggregator, not a source. It reads publicly available AI news feeds and shows them unchanged, each linking to the original article.">
-<link rel="canonical" href="https://ai-radar.eu/disclaimer">
+<title>About · AI Radar</title>
+<meta name="description" content="What AI Radar is, where the posts come from, which parts are automated, and who makes it.">
+<link rel="canonical" href="https://ai-radar.eu/about">
+<meta name="theme-color" content="#1f56c4">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI Radar">
+<meta property="og:title" content="About · AI Radar">
+<meta property="og:description" content="What AI Radar is, where the posts come from, which parts are automated, and who makes it.">
+<meta property="og:url" content="https://ai-radar.eu/about">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="About · AI Radar">
+<meta name="twitter:description" content="What AI Radar is, where the posts come from, which parts are automated, and who makes it.">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231f56c4'/%3E%3Cpath d='M31 34 L31 17 A17 17 0 0 1 43 22 Z' fill='%23fff' opacity='.18'/%3E%3Ccircle cx='31' cy='34' r='17' fill='none' stroke='%23fff' stroke-width='2.4' opacity='.4'/%3E%3Ccircle cx='31' cy='34' r='11' fill='none' stroke='%23fff' stroke-width='2.4' opacity='.6'/%3E%3Cline x1='31' y1='34' x2='43' y2='22' stroke='%23fff' stroke-width='2.4' stroke-linecap='round' opacity='.9'/%3E%3Ccircle cx='31' cy='34' r='3' fill='%23fff'/%3E%3Ccircle cx='40' cy='25' r='3.6' fill='%237cc4ff' stroke='%231f56c4' stroke-width='2.4'/%3E%3C/svg%3E">
 <style>
   /* Same theme tokens as the dashboard, so light/dark match. */
@@ -57,6 +66,9 @@
   }
   h2:first-of-type { border-top: 0; padding-top: 0; }
   p { margin: 0 0 12px; }
+  ul { margin: 0 0 12px; padding-left: 22px; }
+  li { margin: 4px 0; }
+  .muted { color: var(--muted); }
   footer {
     max-width: 760px; margin: 0 auto; padding: 0 32px 48px;
     color: var(--muted); font-size: 12.5px;
@@ -95,60 +107,63 @@
 </header>
 
 <main>
-  <h1 class="doc-title">Disclaimer</h1>
-  <p class="updated">Last updated: 19 June 2026</p>
+  <h1 class="doc-title">About AI Radar</h1>
+  <p class="updated">A personal, non-commercial project by Benjamin Nieuwenhuijzen.</p>
 
   <div class="lead">
-    <p><strong>In short.</strong> AI Radar is an aggregator, not a source. It reads publicly
-    available feeds and shows them unchanged, with a link to each original article. No rights
-    can be derived from what is shown, and AI Radar is not affiliated with any of the
-    companies listed.</p>
+    <p>AI Radar is a live dashboard that collects the latest news and updates from the leading
+    AI companies on one page. Every post links straight to the original article. AI Radar
+    publishes nothing of its own.</p>
   </div>
 
-  <h2>1. An aggregator, not a source</h2>
-  <p>The content shown on AI Radar is not owned by its creator. AI Radar only reads publicly
-  available sources &mdash; the news feeds of the companies listed and community feeds &mdash;
-  and displays them unchanged, each with a link to the original article. All rights to the
-  posts remain with the original sources.</p>
+  <h2>What the dashboard shows</h2>
+  <p>Each company has its own card, from OpenAI and Anthropic to Mistral and DeepSeek. The
+  <em>Across AI</em> card adds industry news that is not tied to a single company. You can
+  filter by category or search, follow a subset of companies, drag the cards into your own
+  order, save posts for later, or switch to a timeline that lists everything chronologically.
+  The footer of the dashboard shows the current number of companies and the split between
+  official and community feeds; that text is generated from the live configuration, so it is
+  always up to date.</p>
 
-  <h2>2. No warranty and no rights</h2>
-  <p>No rights can be derived from the information shown. The creator offers no guarantee as
-  to the accuracy, completeness or timeliness of the data, and accepts no responsibility or
-  liability for incorrect, outdated or incomplete posts, nor for any decisions made based on
-  them. Community feeds in particular may lag behind the official source.</p>
+  <h2>Where the posts come from</h2>
+  <p>AI Radar reads publicly available RSS and Atom feeds. Each card states its source: an
+  <em>official feed</em> is maintained by the company itself, a <em>community feed</em> is
+  maintained by others and may lag behind. A scheduled job fetches all feeds every two hours
+  and rebuilds the page data. Nothing is rewritten or shortened by hand; posts appear as their
+  source published them.</p>
 
-  <h2>3. Automated categorisation</h2>
-  <p>Each post is automatically assigned a category based on its title and summary. This is an
-  automated estimate, not an editorial judgement, and it is not foolproof. Posts may
-  occasionally be placed in a less fitting category.</p>
+  <h2>What is automated, and therefore fallible</h2>
+  <p>Three things on the page are produced by software rather than a person, and each one can
+  be wrong:</p>
+  <ul>
+    <li><strong>Categories</strong> (Research, Product, Developer and so on) are assigned from
+    a post's title and summary. A mislabelled post is an estimate gone wrong, not an editorial
+    judgement.</li>
+    <li><strong>Card order</strong> follows recent news activity, unless you drag the cards
+    yourself.</li>
+    <li><strong>The "Today in AI" briefing</strong> at the top is written by an AI model from
+    the most recent headlines.</li>
+  </ul>
+  <p>For anything that matters, click through and read the original article.</p>
 
-  <h2>4. Brand names and intellectual property</h2>
-  <p>Brand names and logos mentioned are the property of their respective owners and are used
-  here for identification purposes only. AI Radar is not affiliated with, sponsored by or
-  endorsed by any of the companies listed.</p>
-
-  <h2>5. External links</h2>
-  <p>The dashboard links to external websites. AI Radar has no control over those sites and
-  is not responsible for their content, availability, terms or privacy practices. Visiting
-  them is at your own discretion.</p>
-
-  <h2>6. Email delivery</h2>
-  <p>The optional email subscription is provided by the third-party service Blogtrottr. Your
-  email address never reaches AI Radar, and the delivery of those emails falls outside the
-  creator's responsibility.</p>
-
-  <h2>7. A personal project</h2>
-  <p>AI Radar is a personal, non-commercial project. How it handles your data is described in
-  the <a href="/privacy">Privacy Statement</a>.</p>
+  <h2>Who makes it</h2>
+  <p>AI Radar is made and maintained by Benjamin Nieuwenhuijzen. It is not affiliated with,
+  or endorsed by, any of the companies it follows. All rights to the posts remain with their
+  original sources, as set out in the <a href="/disclaimer">Disclaimer</a>. The dashboard
+  needs no account and collects no personal data about you; the details are in the
+  <a href="/privacy">Privacy Statement</a>.</p>
+  <p>Suggestions for new sources, corrections and other feedback are welcome via the
+  <a href="/contact">contact page</a>. Prefer your own reader? There is an
+  <a href="/feed.xml">RSS feed</a> with everything combined.</p>
 </main>
 
 <footer>
   <span>AI Radar &middot; Made by Benjamin Nieuwenhuijzen</span>
   <span class="links">
     <a href="/">Dashboard</a>
-    <a href="/about">About</a>
-    <a href="/privacy">Privacy</a>
     <a href="/contact">Contact</a>
+    <a href="/privacy">Privacy</a>
+    <a href="/disclaimer">Disclaimer</a>
   </span>
 </footer>
 
