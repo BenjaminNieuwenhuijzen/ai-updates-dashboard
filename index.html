@@ -662,7 +662,8 @@
   :root[data-theme="dark"] .sub-btn { color: #10131a; }
 
   /* ------------------------------------------------------------------
-     Footer: aligned with the page margin, two columns plus colophon.
+     Footer: one summary line plus colophon; the full story lives on the
+     about page.
   ------------------------------------------------------------------ */
   footer {
     margin-top: 8px;
@@ -670,14 +671,7 @@
     color: var(--muted);
     font-size: 12.5px;
   }
-  .foot-cols {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 8px 48px;
-    align-items: start;
-  }
-  footer h3 { font-size: 12.5px; color: var(--text); margin: 14px 0 4px; }
-  footer p { margin: 0; }
+  .foot-line { margin: 14px 0 0; max-width: 860px; }
   .colophon {
     margin-top: 18px;
     padding-top: 12px;
@@ -813,21 +807,10 @@
 </section>
 
 <footer>
-  <div class="foot-cols">
-    <div>
-      <h3>About AI Radar</h3>
-      <p>AI Radar shows updates from <span id="companyCount">several</span> AI companies and links
-      each post to the original article. <span id="feedMix"></span> Every post is automatically assigned a
-      category (<span id="categoryList"></span>) from its title and summary; this is an automated estimate
-      and not foolproof. More on the <a href="/about">about page</a>.</p>
-    </div>
-    <div>
-      <h3>Disclaimer</h3>
-      <p>AI Radar is an aggregator, not a source: it shows publicly available feeds unchanged and
-      collects no personal data about you. See the <a href="/disclaimer">Disclaimer</a> and
-      <a href="/privacy">Privacy Statement</a> for the full details.</p>
-    </div>
-  </div>
+  <p class="foot-line">AI Radar is an aggregator, not a source: it shows updates from
+  <span id="companyCount">several</span> AI companies unchanged and links each post to the
+  original article. How it works is on the <a href="/about">about page</a>; see the
+  <a href="/disclaimer">Disclaimer</a> and <a href="/privacy">Privacy Statement</a> for the rest.</p>
   <div class="colophon">
     <span>AI Radar &middot; Made by Benjamin Nieuwenhuijzen</span>
     <span class="links">
@@ -2032,29 +2015,12 @@ document.querySelectorAll(".catbar button").forEach(b =>
     applyFilter();
   }));
 
-// Generate the footer entirely from the configuration: number of companies, the
-// ratio of official/community feeds and the category list. This way the footer
-// text never has to be updated by hand when COMPANIES or CATS changes.
+// Fill in the company count in the footer from the configuration, so it never
+// has to be updated by hand when COMPANIES changes. Aggregate cards (e.g.
+// "Across AI") aren't companies, so they are left out of the count.
 (function fillFooter() {
-  const set = (id, val) => { const el = document.getElementById(id); if (el) el.textContent = val; };
-  // Aggregate cards (e.g. "Across AI") aren't companies, so they are left out
-  // of both the company count and the official/community feed mix.
-  const feedCards = COMPANIES.filter(c => !c.aggregate);
-  set("companyCount", feedCards.length);
-
-  const official = feedCards.filter(c => c.official).length;
-  const community = feedCards.length - official;
-  let feedMix;
-  if (community === 0) feedMix = "All are read from an official feed.";
-  else if (official === 0) feedMix = "All are read from a community feed, which may lag behind.";
-  else feedMix = official + " of them are read from an official feed; the other " + community +
-                 " from a community feed, which may lag behind.";
-  set("feedMix", feedMix);
-
-  const labels = Object.values(CATS);
-  set("categoryList", labels.length > 1
-    ? labels.slice(0, -1).join(", ") + " or " + labels[labels.length - 1]
-    : labels.join(""));
+  const el = document.getElementById("companyCount");
+  if (el) el.textContent = COMPANIES.filter(c => !c.aggregate).length;
 })();
 
 /* ------------------------------------------------------------------
