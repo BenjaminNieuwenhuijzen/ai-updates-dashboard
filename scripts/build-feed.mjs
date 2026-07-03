@@ -304,8 +304,10 @@ for (const it of kept) {
   const c = cache[it.link];
   if (!it.image && c && c.image) it.image = c.image;
   // The &nbsp; guard keeps junk Google News summaries cached by older builds
-  // (headline + outlet with literal "&nbsp;" text) from re-entering.
-  if (!it.desc && c && c.summary && !/&nbsp;/i.test(c.summary)) it.desc = c.summary;
+  // (headline + outlet with literal "&nbsp;" text) from re-entering. Cached
+  // summaries go through strip() again: older builds cached them with encoded
+  // entities (&#x27; and friends) still in the text.
+  if (!it.desc && c && c.summary && !/&nbsp;/i.test(c.summary)) it.desc = strip(c.summary);
   let metaHost = "";
   try { metaHost = new URL(it.link).hostname.replace(/^www\./, ""); } catch {}
   if (META_BLOCK.some(d => metaHost === d || metaHost.endsWith("." + d))) continue;
