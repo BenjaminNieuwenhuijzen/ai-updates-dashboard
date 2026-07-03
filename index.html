@@ -704,15 +704,50 @@
      content doesn't disappear far below a long row of controls.
   ------------------------------------------------------------------ */
   @media (max-width: 600px) {
-    header { padding: 12px 16px; }
-    .controls { gap: 10px 12px; }
-    input#search { width: 100%; }
-    #hero { padding: 16px 16px 0; }
-    .hero-title { font-size: 20px; }
-    .grid { padding: 16px 14px; }
-    #stream { padding: 16px 16px; }
-    #subscribe { margin: 0 16px 8px; padding: 14px 16px; }
-    footer { padding: 0 16px 28px; }
+    /* Phones. The header scrolls along instead of permanently covering a
+       quarter of a small screen, and the controls regroup: view toggle,
+       Filters and theme on one row, the search on its own full-width row. */
+    header { position: static; padding: 10px 14px 12px; gap: 8px 14px; }
+    header h1 { font-size: 16px; }
+    .brand svg { width: 26px; height: 26px; }
+    .meta { font-size: 11.5px; }
+    .controls { width: 100%; gap: 8px; }
+    button#filtersBtn { margin-left: auto; }
+    input#search {
+      width: 100%;
+      order: 10;             /* wraps to its own row below the buttons */
+      height: 40px;
+      font-size: 16px;       /* under 16px, iOS Safari zooms in on focus */
+    }
+    /* Reading sizes: slightly larger type and smaller chrome. */
+    #hero { padding: 14px 14px 0; }
+    .hero-title { font-size: 19px; }
+    .hero-body { padding: 16px 16px; }
+    .hero-summary { font-size: 13.5px; }
+    #digest { margin: 14px 14px 0; padding: 13px 14px; }
+    .grid { padding: 14px 10px; }
+    .card-head { padding: 12px 12px 10px; }
+    .card-sources { display: none; }   /* the source chips are desktop detail */
+    .items a.row, .items span.row { padding: 10px 12px; }
+    .row .title { font-size: 14.5px; }
+    .row .summary { font-size: 13px; -webkit-line-clamp: 3; }
+    .row .date { font-size: 12px; }
+    .thumb { width: 54px; height: 54px; }
+    #stream { padding: 14px 12px; }
+    .stream-row .title { font-size: 14.5px; }
+    #subscribe { margin: 0 12px 8px; padding: 14px 16px; }
+    footer { padding: 0 14px 28px; }
+  }
+  @media (pointer: coarse) {
+    /* Touch: finger-sized targets, independent of the screen width. */
+    .seg { height: 40px; }
+    .seg button { padding: 7px 14px; }
+    button#filtersBtn, button#themeBtn, button#orderReset,
+    select#period, #companyBtn { height: 40px; }
+    .catbar button, .saved-toggle { height: 38px; }
+    .star { padding: 6px 10px; font-size: 16px; }
+    .company-panel-list label { padding: 9px 8px; }
+    .drag-handle { display: none; }    /* drag-to-reorder is a mouse affordance */
   }
 </style>
 <script>

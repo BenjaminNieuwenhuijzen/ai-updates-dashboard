@@ -94,12 +94,19 @@ const pick = (xml, tag) => {
 };
 const unCdata = s => s.replace(/^<!\[CDATA\[([\s\S]*?)\]\]>$/, "$1").trim();
 // Decode encoded HTML entities, then strip tags, then normalize whitespace.
-const strip = s => (s || "")
+// Numeric entities (&#x27;, &#8217;, …) decode via fromCodePoint; invalid code
+// points become a space rather than crashing the build.
+const cp = n => { try { return String.fromCodePoint(n); } catch { return " "; } };
+const decNum = s => s
+  .replace(/&#x([0-9a-f]{1,6});/gi, (_, h) => cp(parseInt(h, 16)))
+  .replace(/&#(\d{1,7});/g, (_, d) => cp(+d));
+const strip = s => decNum(decNum(s || "")
   .replace(/&lt;/gi, "<").replace(/&gt;/gi, ">")
   .replace(/&quot;/gi, '"').replace(/&#0?39;/g, "'").replace(/&apos;/gi, "'").replace(/&nbsp;/gi, " ")
   .replace(/<[^>]+>/g, " ")
   .replace(/&amp;/gi, "&")
   .replace(/&nbsp;/gi, " ")   // again, after &amp;→&: catches double-encoded &amp;nbsp;
+  )
   .replace(/\s+/g, " ").trim();
 const escXml = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const deEnt = s => s.replace(/&amp;/g, "&").replace(/&#x2F;/gi, "/").replace(/&#38;/g, "&");
