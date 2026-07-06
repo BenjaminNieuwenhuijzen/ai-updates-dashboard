@@ -5,7 +5,7 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Mon, 06 Jul 2026 18:21:38 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 21:48:29 GMT</lastBuildDate>
 <item>
 <title>[Blog] LeRobot v0.6.0: Imagine, Evaluate, Improve</title>
 <link>https://huggingface.co/blog/lerobot-release-v060</link>
@@ -14,11 +14,53 @@
 
 </item>
 <item>
+<title>[Developer] Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism</title>
+<link>https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/</guid>
+<pubDate>Mon, 06 Jul 2026 21:44:23 GMT</pubDate>
+<description>Training LLMs at massive scale brings unique infrastructure challenges, especially as jobs span thousands of GPUs and run for extended periods. The longer these...</description>
+</item>
+<item>
+<title>[YouTube] Builders Unscripted: Ep. 5 - Derya Unutmaz</title>
+<link>https://www.youtube.com/watch?v=4sexN3yE8xg</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=4sexN3yE8xg</guid>
+<pubDate>Mon, 06 Jul 2026 20:03:49 GMT</pubDate>
+<description>Derya Unutmaz, M.D., an immunologist and professor at The Jackson Laboratory, chats with Romain Huet about building tools for biology with Codex and a future where AI helps scientists simulate experiments. 00:00 Builders Unscripted Episode 5 09:17 Cell analysis with Codex 13:26 Simulating immune cel</description>
+</item>
+<item>
+<title>[Google News] Mistral AI Eyes €3 Billion Raise as Europe Pushes for a Stronger Place in the Global AI Race - ascendants.in</title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQbDNmeVBYdnYtV1hyWWFjSnEzSkZwWE5KR1ZpdnZma25RYnIzNjd6YnNiVEE3QlNJdXdIMUlxRU5Sem1Sa2R6QzNVV25pcEFBY0k4MHlUUkRJN0k1UDVGb2ZQd25CaTBPa2N4VW9KOE9PZ3Z4Nnpuak9nTzJza3d1OVd5bHZfRXY1N2dKcmZRbjNDS3NmTmc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxQbDNmeVBYdnYtV1hyWWFjSnEzSkZwWE5KR1ZpdnZma25RYnIzNjd6YnNiVEE3QlNJdXdIMUlxRU5Sem1Sa2R6QzNVV25pcEFBY0k4MHlUUkRJN0k1UDVGb2ZQd25CaTBPa2N4VW9KOE9PZ3Z4Nnpuak9nTzJza3d1OVd5bHZfRXY1N2dKcmZRbjNDS3NmTmc?oc=5</guid>
+<pubDate>Mon, 06 Jul 2026 19:57:41 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Pranjali Awasthi’s ₹100 Crore AI Journey: How a Teenage Coder Built Delv.AI - ascendants.in</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQaGpwZ2FKbXhPSUdtWk93VTh6QU9hOGEwa2NDYUhnakM3YUhlOWhjWUZiSkFIdjc1NGJyQWhzNDFscTJQSU0tdUtzWTJBSFlrdTkydktwS1lOWEhmLURYUEFHcDN0M3NVZTVMdU42ZWxaVzZSeVlmWW5FNTJVTmFuVDZaRXRCdHJRb2c?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxQaGpwZ2FKbXhPSUdtWk93VTh6QU9hOGEwa2NDYUhnakM3YUhlOWhjWUZiSkFIdjc1NGJyQWhzNDFscTJQSU0tdUtzWTJBSFlrdTkydktwS1lOWEhmLURYUEFHcDN0M3NVZTVMdU42ZWxaVzZSeVlmWW5FNTJVTmFuVDZaRXRCdHJRb2c?oc=5</guid>
+<pubDate>Mon, 06 Jul 2026 19:32:27 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] OpenAI Reportedly Offers U.S. Government 5% Stake as Washington Pressure Builds - ascendants.in</title>
+<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOZE9WMG1SMTVmWlFuMEJKeGtCTTNKZkVpLU9rVkkyR2ctSmZVMzlWWTdxWUxTMHU3cEM5dkFLWjctR3ZiVk94RmpOb2ZBRDEtTGVKVnZEdG5xWW5SSjhoazBGeW00UG9xYlhRVFNjVEFoZDRoU0tHY01iSXVLWFRaUjNhOG9sY2xGa0lfbWJDU3Y?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxOZE9WMG1SMTVmWlFuMEJKeGtCTTNKZkVpLU9rVkkyR2ctSmZVMzlWWTdxWUxTMHU3cEM5dkFLWjctR3ZiVk94RmpOb2ZBRDEtTGVKVnZEdG5xWW5SSjhoazBGeW00UG9xYlhRVFNjVEFoZDRoU0tHY01iSXVLWFRaUjNhOG9sY2xGa0lfbWJDU3Y?oc=5</guid>
+<pubDate>Mon, 06 Jul 2026 19:26:02 GMT</pubDate>
+
+</item>
+<item>
 <title>[MIT Tech Review] Your family’s $300 stake in OpenAI</title>
 <link>https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/</link>
 <guid isPermaLink="false">https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/</guid>
 <pubDate>Mon, 06 Jul 2026 18:00:00 +0000</pubDate>
 <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times</description>
+</item>
+<item>
+<title>[Google News] Artificial Intelligence (AI) glasses: Important policy update - canada.ca</title>
+<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNc01EZzk5Z0c2RmFNbGN4TTZ4YWhtdGhnclpTanpLQS1sbkRZY3A0V2lCQjhZNmZOZmh0THBLbFFHMFd0Nk5HcmUzR3Y4RmdaVWhlNWE3Q2F5UmFTX3JGRUkyQWZ5QjFRdHNRdnFJeTViTklmeVNNeGtuR0tTTWMtVkhTY0pRY2pETHpveHNSeEU1WHczdFRxZTJRLTFnZk9WRFNMS2U4d0dNUmtDT2M0bHFybkpLcU0?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNc01EZzk5Z0c2RmFNbGN4TTZ4YWhtdGhnclpTanpLQS1sbkRZY3A0V2lCQjhZNmZOZmh0THBLbFFHMFd0Nk5HcmUzR3Y4RmdaVWhlNWE3Q2F5UmFTX3JGRUkyQWZ5QjFRdHNRdnFJeTViTklmeVNNeGtuR0tTTWMtVkhTY0pRY2pETHpveHNSeEU1WHczdFRxZTJRLTFnZk9WRFNMS2U4d0dNUmtDT2M0bHFybkpLcU0?oc=5</guid>
+<pubDate>Mon, 06 Jul 2026 17:09:47 GMT</pubDate>
+
 </item>
 <item>
 <title>[YouTube] What’s at the center of Claude’s mind?</title>
@@ -105,17 +147,10 @@
 
 </item>
 <item>
-<title>[Google News] UN Secretary-General calls for AI regulation - africanews.com</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRU9NUmZDTmNtSk8yZkVscURwejhPLWRJVVY2bVh6aWNzX3RaSnZzOEdfMlBjTVJoWU90WHJ4TkRyeW1VT2c2a2RUME9NTVFvd1h6T0NEcDhna3pDWTFEYzdtdUljLUxyckFDQkQtZTlDMXFYU05obExvMWxJeUdpVE5DaDdwbldzajUw0gGQAUFVX3lxTFBZQy1ieG5NVVk4X1cxS2ZCZWVNUll0X2hGUld1bHUwOC1lYmtDMVhLUE1IYnpHUzhmby1sa1Zqam1tS3ZBU3ZFQUw2WW44RmdrYTctNFEyMXdrbFZ2Q09KR0xYVWJpalF3Mjg4VGRNcjEzdW91RmhzVzJNVEo0U0VWaXRDY0MwdkZUWEpMNGxoVQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRU9NUmZDTmNtSk8yZkVscURwejhPLWRJVVY2bVh6aWNzX3RaSnZzOEdfMlBjTVJoWU90WHJ4TkRyeW1VT2c2a2RUME9NTVFvd1h6T0NEcDhna3pDWTFEYzdtdUljLUxyckFDQkQtZTlDMXFYU05obExvMWxJeUdpVE5DaDdwbldzajUw0gGQAUFVX3lxTFBZQy1ieG5NVVk4X1cxS2ZCZWVNUll0X2hGUld1bHUwOC1lYmtDMVhLUE1IYnpHUzhmby1sa1Zqam1tS3ZBU3ZFQUw2WW44RmdrYTctNFEyMXdrbFZ2Q09KR0xYVWJpalF3Mjg4VGRNcjEzdW91RmhzVzJNVEo0U0VWaXRDY0MwdkZUWEpMNGxoVQ?oc=5</guid>
-<pubDate>Mon, 06 Jul 2026 11:44:13 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Pranjali Awasthi’s ₹100 Crore AI Journey: How a Teenage Coder Built Delv.AI - ascendants.in</title>
-<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQaGpwZ2FKbXhPSUdtWk93VTh6QU9hOGEwa2NDYUhnakM3YUhlOWhjWUZiSkFIdjc1NGJyQWhzNDFscTJQSU0tdUtzWTJBSFlrdTkydktwS1lOWEhmLURYUEFHcDN0M3NVZTVMdU42ZWxaVzZSeVlmWW5FNTJVTmFuVDZaRXRCdHJRb2c?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxQaGpwZ2FKbXhPSUdtWk93VTh6QU9hOGEwa2NDYUhnakM3YUhlOWhjWUZiSkFIdjc1NGJyQWhzNDFscTJQSU0tdUtzWTJBSFlrdTkydktwS1lOWEhmLURYUEFHcDN0M3NVZTVMdU42ZWxaVzZSeVlmWW5FNTJVTmFuVDZaRXRCdHJRb2c?oc=5</guid>
-<pubDate>Mon, 06 Jul 2026 11:26:25 GMT</pubDate>
+<title>[Google News] Illinois sets national standard for AI regulation with new law - MyStateline</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNeVA3eUhnY2RzTFJKbTFSUXU0bGtQM3hwN3Q3VjJOdzMwcm15b3BnM0hEb05kUFhQZjlCbERfbHUtMnJEOGpOMVA3YzBPRnJETlkwVnJORnU3REhmY0tlWFdUM01GR0xtVUFOSHIzTTV1cHQzdlhYVDRtcnl1YTFJeDJRa3RsbmdJSE1wMkZLUWExWENodVo4QXFrcnYwTlJZOHBhUk92anBjUmp2aEZlZNIBsAFBVV95cUxNeVA3eUhnY2RzTFJKbTFSUXU0bGtQM3hwN3Q3VjJOdzMwcm15b3BnM0hEb05kUFhQZjlCbERfbHUtMnJEOGpOMVA3YzBPRnJETlkwVnJORnU3REhmY0tlWFdUM01GR0xtVUFOSHIzTTV1cHQzdlhYVDRtcnl1YTFJeDJRa3RsbmdJSE1wMkZLUWExWENodVo4QXFrcnYwTlJZOHBhUk92anBjUmp2aEZlZA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxNeVA3eUhnY2RzTFJKbTFSUXU0bGtQM3hwN3Q3VjJOdzMwcm15b3BnM0hEb05kUFhQZjlCbERfbHUtMnJEOGpOMVA3YzBPRnJETlkwVnJORnU3REhmY0tlWFdUM01GR0xtVUFOSHIzTTV1cHQzdlhYVDRtcnl1YTFJeDJRa3RsbmdJSE1wMkZLUWExWENodVo4QXFrcnYwTlJZOHBhUk92anBjUmp2aEZlZNIBsAFBVV95cUxNeVA3eUhnY2RzTFJKbTFSUXU0bGtQM3hwN3Q3VjJOdzMwcm15b3BnM0hEb05kUFhQZjlCbERfbHUtMnJEOGpOMVA3YzBPRnJETlkwVnJORnU3REhmY0tlWFdUM01GR0xtVUFOSHIzTTV1cHQzdlhYVDRtcnl1YTFJeDJRa3RsbmdJSE1wMkZLUWExWENodVo4QXFrcnYwTlJZOHBhUk92anBjUmp2aEZlZA?oc=5</guid>
+<pubDate>Mon, 06 Jul 2026 12:09:51 GMT</pubDate>
 
 </item>
 <item>
@@ -133,13 +168,6 @@
 
 </item>
 <item>
-<title>[Google News] Forbes 2026 AI 50 List | Top Artificial Intelligence Companies - Forbes</title>
-<link>https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</guid>
-<pubDate>Mon, 06 Jul 2026 10:21:35 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] CFPs: Pax Silica Artificial Intelligence Assistance Project (US) - fundsforNGOs</title>
 <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlkxeWdKcFAtVW1uVC1BUnFlX2dXLUJ1Rk52UG9BVk42ZndSWWhmekFYSngyTVNwaklTOTBrcVE4a1FRVG50RDNRLVQ1Q1cyX3BRYnlJQnZ3al9BTDdTeG05ZFM5Z0gyTnUxV2hZbUxBTmxHbHNLUjd1RzVoYjZuMUZQNU8zdER6Yy0tSXlQTEl6endkR01pRVdEWmc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlkxeWdKcFAtVW1uVC1BUnFlX2dXLUJ1Rk52UG9BVk42ZndSWWhmekFYSngyTVNwaklTOTBrcVE4a1FRVG50RDNRLVQ1Q1cyX3BRYnlJQnZ3al9BTDdTeG05ZFM5Z0gyTnUxV2hZbUxBTmxHbHNLUjd1RzVoYjZuMUZQNU8zdER6Yy0tSXlQTEl6endkR01pRVdEWmc?oc=5</guid>
@@ -147,10 +175,10 @@
 
 </item>
 <item>
-<title>[Google News] OpenAI Reportedly Offers U.S. Government 5% Stake as Washington Pressure Builds - ascendants.in</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOZE9WMG1SMTVmWlFuMEJKeGtCTTNKZkVpLU9rVkkyR2ctSmZVMzlWWTdxWUxTMHU3cEM5dkFLWjctR3ZiVk94RmpOb2ZBRDEtTGVKVnZEdG5xWW5SSjhoazBGeW00UG9xYlhRVFNjVEFoZDRoU0tHY01iSXVLWFRaUjNhOG9sY2xGa0lfbWJDU3Y?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxOZE9WMG1SMTVmWlFuMEJKeGtCTTNKZkVpLU9rVkkyR2ctSmZVMzlWWTdxWUxTMHU3cEM5dkFLWjctR3ZiVk94RmpOb2ZBRDEtTGVKVnZEdG5xWW5SSjhoazBGeW00UG9xYlhRVFNjVEFoZDRoU0tHY01iSXVLWFRaUjNhOG9sY2xGa0lfbWJDU3Y?oc=5</guid>
-<pubDate>Mon, 06 Jul 2026 10:04:19 GMT</pubDate>
+<title>[Google News] China’s web novel platforms embraced AI. Now they are fighting it - Rest of World</title>
+<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE13Q05PQTJrMXcyNXppLVhtd2RrYzJLREpsdk1JYlN6V2ZhNHAweTFmYnd6QTQtNHJaVEFXWE9JckFBNW5QamNDNTA3RGdWWjN0UGJFZ05uTkV0WktNZFE?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiXkFVX3lxTE13Q05PQTJrMXcyNXppLVhtd2RrYzJLREpsdk1JYlN6V2ZhNHAweTFmYnd6QTQtNHJaVEFXWE9JckFBNW5QamNDNTA3RGdWWjN0UGJFZ05uTkV0WktNZFE?oc=5</guid>
+<pubDate>Mon, 06 Jul 2026 10:00:48 GMT</pubDate>
 
 </item>
 <item>
@@ -182,13 +210,6 @@
 <description>Meet Tau — a small, readable coding agent written in Python. In this quick tour, I introduce Tau, show how to install and run it, configure model providers (Hugging Face Inference Providers, GLM 5.2, Minimax, Kimi), resume durable sessions, and walk through its three-layer architecture: tau_ai (prov</description>
 </item>
 <item>
-<title>[Google News] Perplexity Announces $1 Million Challenge to Build a Billion-Dollar AI Startup - ascendants.in</title>
-<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOWm1ZMnlkNm1LSmpfNzVFcm8xblVnV3FqYnNaMUkzakJ4cWtINDFHcFhlYUIzeUZVYktqMlg4Z0lPWHhMQXZ1RHJMX1k4ZGJvalNsUVdoSkRmaW5aa1J6STFjVUJHNTVHcGxMNXBIWGhsWU1EM2Q2TW1GMG9TWlVhZjZ0OFpvaDVQdEgyVFZucE1vZHYwZWVsX2xB?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxOWm1ZMnlkNm1LSmpfNzVFcm8xblVnV3FqYnNaMUkzakJ4cWtINDFHcFhlYUIzeUZVYktqMlg4Z0lPWHhMQXZ1RHJMX1k4ZGJvalNsUVdoSkRmaW5aa1J6STFjVUJHNTVHcGxMNXBIWGhsWU1EM2Q2TW1GMG9TWlVhZjZ0OFpvaDVQdEgyVFZucE1vZHYwZWVsX2xB?oc=5</guid>
-<pubDate>Mon, 06 Jul 2026 02:51:56 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] Gu Yuxian from Tsinghua University joins DeepSeek. - KuCoin</title>
 <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQOURjcnhxN2Fick04WlIzM09KRDVmX2t6NENrZTd2WGxPV1QwM3dnLU9CdVhVWHFiMy11czUtQXcyVUFJTTMxLUxOZWpCM3BMYXM4TjhBSGR5dGpjMW1zSG9jZVJBZzJXazhjR0ZQSmpJOVV5a2RpOG8tbE9GNGVmdl9Zbjhid1k?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxQOURjcnhxN2Fick04WlIzM09KRDVmX2t6NENrZTd2WGxPV1QwM3dnLU9CdVhVWHFiMy11czUtQXcyVUFJTTMxLUxOZWpCM3BMYXM4TjhBSGR5dGpjMW1zSG9jZVJBZzJXazhjR0ZQSmpJOVV5a2RpOG8tbE9GNGVmdl9Zbjhid1k?oc=5</guid>
@@ -203,6 +224,13 @@
 
 </item>
 <item>
+<title>[News] Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</title>
+<link>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/alberta-government-claude-cybersecurity</guid>
+<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+<description>The Government of Alberta has been using Claude Code with both Opus and Sonnet models to review its systems, find vulnerabilities, and fix them.</description>
+</item>
+<item>
 <title>[Research] A global workspace in language models</title>
 <link>https://www.anthropic.com/research/global-workspace</link>
 <guid isPermaLink="false">https://www.anthropic.com/research/global-workspace</guid>
@@ -214,13 +242,6 @@
 <link>https://huggingface.co/blog/revamped-kernels</link>
 <guid isPermaLink="false">https://huggingface.co/blog/revamped-kernels</guid>
 <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Weekly Recap: Share buybacks and DeepSeek V4 tiered API pricing - TradingView</title>
-<link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS1lCUE40TjQyMUgwZ253YUtUUmhTYV9xWjRsbDRFUVVoVHM3bVFIQWVOWFFVNEtwMkpKUUkxNFlvZHNkcVh3QlBHMFJGMXJ6enBINDJXbGRhVXo4OG16RGVTU1JvR3dYRkd1aVY5ZnhxSnUtam1LWnlmdVktM3ZlczdKeW5yV3h2Mm9mdGlxTUc0U2JmeU53TFBtSXBCQVNIdVNsVWc4RG1tdlNtSUVEWUFrLVgyRm5rcFZ6bklZSE4tdw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS1lCUE40TjQyMUgwZ253YUtUUmhTYV9xWjRsbDRFUVVoVHM3bVFIQWVOWFFVNEtwMkpKUUkxNFlvZHNkcVh3QlBHMFJGMXJ6enBINDJXbGRhVXo4OG16RGVTU1JvR3dYRkd1aVY5ZnhxSnUtam1LWnlmdVktM3ZlczdKeW5yV3h2Mm9mdGlxTUc0U2JmeU53TFBtSXBCQVNIdVNsVWc4RG1tdlNtSUVEWUFrLVgyRm5rcFZ6bklZSE4tdw?oc=5</guid>
-<pubDate>Sun, 05 Jul 2026 23:13:33 GMT</pubDate>
 
 </item>
 <item>
@@ -280,13 +301,6 @@
 <description>Game Ready. World-leading gaming tech on the slimmest RTX laptops ever. Join NVIDIA’s Jacob Freeman for a closer look at high-performance gaming powered by the NVIDIA RTX Spark superchip. Learn more about NVIDIA RTX Spark: https://www.nvidia.com/en-us/products/rtx-spark/</description>
 </item>
 <item>
-<title>[Google News] DeepSeek Hikes API Prices 2x During Peak Hours; Goldman Sachs Says China's AI Model Price War Nearing End - finance.biggo.com</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTFB5STRRTERrT010LXp2NXFTc0dScy1nN1RWUVpSUTd2cmk1VFhmVUkzLTVrSFVSQWo2QWNzb0pMVHl2aG14dFYzSHNyM0RZQ3BGNE8wNFZabXQyMEkyZnduM3oxMU5uRE43YmR5WEZEM0Q4Ui1hWGc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTFB5STRRTERrT010LXp2NXFTc0dScy1nN1RWUVpSUTd2cmk1VFhmVUkzLTVrSFVSQWo2QWNzb0pMVHl2aG14dFYzSHNyM0RZQ3BGNE8wNFZabXQyMEkyZnduM3oxMU5uRE43YmR5WEZEM0Q4Ui1hWGc?oc=5</guid>
-<pubDate>Fri, 03 Jul 2026 15:25:00 GMT</pubDate>
-
-</item>
-<item>
 <title>[DeepMind] Google DeepMind and A24 announce first-of-its-kind research partnership</title>
 <link>https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</link>
 <guid isPermaLink="false">https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</guid>
@@ -299,13 +313,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=z_rDUFxwGmM</guid>
 <pubDate>Fri, 03 Jul 2026 14:23:29 GMT</pubDate>
 <description>​Join a fireside chat with guests Dan Mirea (Princeton University) and Eduardo Sanchez (UCL and Meta), hosted by Julia Kreutzer (Cohere Labs), to discuss a new collaboration with the IOL (International Linguistics Olympiad), where selected AI systems will be evaluated alongside human participants on</description>
-</item>
-<item>
-<title>[Google News] DeepSeek V4 To Add Peak-Hour Pricing to Its API - WinBuzzer</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlZkdllrWGVsSGlCSW9kbVZfcjhGVHoxdTdNUUlfTXY0OVZhQXQ1WFpGeWRrNGVUY01HcHo5a0tRenRHNm9wU2ZUYzFtNnAyeVVwNVZLejE4WjBVMEJSSEFnTW9fLUg4dkt3WHh3TkRmYzNUcjFBLUhoX0d4elY4RUV1OFNOd2JzbTVSTGdUZ0xjRUU?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlZkdllrWGVsSGlCSW9kbVZfcjhGVHoxdTdNUUlfTXY0OVZhQXQ1WFpGeWRrNGVUY01HcHo5a0tRenRHNm9wU2ZUYzFtNnAyeVVwNVZLejE4WjBVMEJSSEFnTW9fLUg4dkt3WHh3TkRmYzNUcjFBLUhoX0d4elY4RUV1OFNOd2JzbTVSTGdUZ0xjRUU?oc=5</guid>
-<pubDate>Fri, 03 Jul 2026 09:34:10 GMT</pubDate>
-
 </item>
 <item>
 <title>[Developer] Hardware-Rooted AI Security That Won’t Slow You Down</title>
@@ -418,13 +425,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=Q1yn6khGCBk</guid>
 <pubDate>Thu, 02 Jul 2026 12:45:26 GMT</pubDate>
 <description>Explore the future of AI as it shifts toward agentic systems and a hybrid computing model—from centralized data centers to edge devices. Discover the challenges, innovations, and applications reshaping industries like defense and beyond. Key themes: - Personal AI devices: Beyond smartphones—local se</description>
-</item>
-<item>
-<title>[YouTube] Mistral robotics and physical AI | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=qwTKCxHxakc</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=qwTKCxHxakc</guid>
-<pubDate>Thu, 02 Jul 2026 12:45:20 GMT</pubDate>
-<description>Witness the evolution of robotics with physical AI—a leap from traditional industrial robots to systems capable of human-like, adaptable tasks in diverse environments. Discover how generative AI is powering the next generation of robots. Key themes: - From factory robots to physical AI: Vision, lang</description>
 </item>
 </channel>
 </rss>
