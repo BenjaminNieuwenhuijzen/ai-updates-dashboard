@@ -5,7 +5,7 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Mon, 06 Jul 2026 21:48:29 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 23:33:38 GMT</lastBuildDate>
 <item>
 <title>[Blog] LeRobot v0.6.0: Imagine, Evaluate, Improve</title>
 <link>https://huggingface.co/blog/lerobot-release-v060</link>
@@ -14,11 +14,25 @@
 
 </item>
 <item>
+<title>[Google News] Pritzker signs landmark AI regulation bill that aims to mitigate risks - KWQC</title>
+<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2FLMUw0cmcyU1lKV2h6TF9RQlVLd1BXZzVobnRmVmkyVU1iMG9mVXZNUkVqeG9jNWlrMVp5Rnk3RkJoaGxzemJDdTRTc3lsX1dTeURuS1FuMTdBVm9lal92dlpldmMwRTJodWhFSW5RLWtib1h6WkZKRDhEWmRzRldfcWZaMzh1RW1DRXB5aThwejVEWTY3T3dnYWl4NmFqbGc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2FLMUw0cmcyU1lKV2h6TF9RQlVLd1BXZzVobnRmVmkyVU1iMG9mVXZNUkVqeG9jNWlrMVp5Rnk3RkJoaGxzemJDdTRTc3lsX1dTeURuS1FuMTdBVm9lal92dlpldmMwRTJodWhFSW5RLWtib1h6WkZKRDhEWmRzRldfcWZaMzh1RW1DRXB5aThwejVEWTY3T3dnYWl4NmFqbGc?oc=5</guid>
+<pubDate>Mon, 06 Jul 2026 22:04:00 GMT</pubDate>
+
+</item>
+<item>
 <title>[Developer] Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism</title>
 <link>https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/</link>
 <guid isPermaLink="false">https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/</guid>
 <pubDate>Mon, 06 Jul 2026 21:44:23 GMT</pubDate>
 <description>Training LLMs at massive scale brings unique infrastructure challenges, especially as jobs span thousands of GPUs and run for extended periods. The longer these...</description>
+</item>
+<item>
+<title>[Google News] Perplexity Announces $1 Million Challenge to Build a Billion-Dollar AI Startup - ascendants.in</title>
+<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOWm1ZMnlkNm1LSmpfNzVFcm8xblVnV3FqYnNaMUkzakJ4cWtINDFHcFhlYUIzeUZVYktqMlg4Z0lPWHhMQXZ1RHJMX1k4ZGJvalNsUVdoSkRmaW5aa1J6STFjVUJHNTVHcGxMNXBIWGhsWU1EM2Q2TW1GMG9TWlVhZjZ0OFpvaDVQdEgyVFZucE1vZHYwZWVsX2xB?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxOWm1ZMnlkNm1LSmpfNzVFcm8xblVnV3FqYnNaMUkzakJ4cWtINDFHcFhlYUIzeUZVYktqMlg4Z0lPWHhMQXZ1RHJMX1k4ZGJvalNsUVdoSkRmaW5aa1J6STFjVUJHNTVHcGxMNXBIWGhsWU1EM2Q2TW1GMG9TWlVhZjZ0OFpvaDVQdEgyVFZucE1vZHYwZWVsX2xB?oc=5</guid>
+<pubDate>Mon, 06 Jul 2026 21:03:27 GMT</pubDate>
+
 </item>
 <item>
 <title>[YouTube] Builders Unscripted: Ep. 5 - Derya Unutmaz</title>
@@ -70,10 +84,24 @@
 <description>Out of everything happening in your brain right now, only a tiny fraction is consciously accessible — thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside our AI model, Claude. Our experiments were inspired by a leading theory in neuroscience: the glo</description>
 </item>
 <item>
+<title>[Google News] Chinese AI usage by US firms soared after Mythos restrictions - Nikkei Asia</title>
+<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZWZFdkF4MWt5YVF5alduLVA3c0R3TkZyREdsY3lqSnZ5dEZSSmtkNElWTHJ5WnB0NnNCcG1SR0FwOWZjYmZWWVc4NmYzZ1R4aUFvRlUwdDRsdl93UlNiRXpJeE54Vm5JRTQ3NnRUcnZhbDdPU2xHYnRoWmV6ZGFhY2Vfb3FaLXJVemFXQkl1cmZGNkItQWt0WEZJd0l0dlZVTGNmS0lma2dLT2FoN0JEQ2Z5REJKVTNVOC01aVNpR2FaV2RWSEVIMQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZWZFdkF4MWt5YVF5alduLVA3c0R3TkZyREdsY3lqSnZ5dEZSSmtkNElWTHJ5WnB0NnNCcG1SR0FwOWZjYmZWWVc4NmYzZ1R4aUFvRlUwdDRsdl93UlNiRXpJeE54Vm5JRTQ3NnRUcnZhbDdPU2xHYnRoWmV6ZGFhY2Vfb3FaLXJVemFXQkl1cmZGNkItQWt0WEZJd0l0dlZVTGNmS0lma2dLT2FoN0JEQ2Z5REJKVTNVOC01aVNpR2FaV2RWSEVIMQ?oc=5</guid>
+<pubDate>Mon, 06 Jul 2026 16:30:00 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] Cursor Targets $2 Billion Raise at $50 Billion Valuation as AI Coding Race Intensifies - ascendants.in</title>
 <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXFhMnJXakhjLVAtcXdBMVFnbnZhRXBDa3lZeW51OHgyLW5xTDhweVUta2N0TGZYRGZYUnVaaEpreFhTdTcxSEh1OTRsblU5b2ZPT2QxeTNmZmpCQlA5VE92SV9fdVJVMTFaMGlwUlo4RHh2eUVQSmRzU1pDMGVHNHJRRDZiVWlXZUdfWEdzMWFkUGZ3SHN0eHhOekVFTVZxNTNncDN3?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXFhMnJXakhjLVAtcXdBMVFnbnZhRXBDa3lZeW51OHgyLW5xTDhweVUta2N0TGZYRGZYUnVaaEpreFhTdTcxSEh1OTRsblU5b2ZPT2QxeTNmZmpCQlA5VE92SV9fdVJVMTFaMGlwUlo4RHh2eUVQSmRzU1pDMGVHNHJRRDZiVWlXZUdfWEdzMWFkUGZ3SHN0eHhOekVFTVZxNTNncDN3?oc=5</guid>
 <pubDate>Mon, 06 Jul 2026 16:12:38 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Former Huawei 'Genius Youth' Publicly Slams DeepSeek Interview: Process Terminated After Being Accused of Cheating - finance.biggo.com</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1lQkdHcXhnb3RLY0JiWFY2amdSNzlIZUJmMVJselZmZTQyREtvNkhpWWhhSGVpajYtczVxUWo0UHhRYUxsbG5XeTVVN0NMNUJjUXZwTGtaNXVHakNGOTl3eXpqSTlkcHh6b09hSFpXNklQNXhsWmc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE1lQkdHcXhnb3RLY0JiWFY2amdSNzlIZUJmMVJselZmZTQyREtvNkhpWWhhSGVpajYtczVxUWo0UHhRYUxsbG5XeTVVN0NMNUJjUXZwTGtaNXVHakNGOTl3eXpqSTlkcHh6b09hSFpXNklQNXhsWmc?oc=5</guid>
+<pubDate>Mon, 06 Jul 2026 16:05:00 GMT</pubDate>
 
 </item>
 <item>
@@ -147,6 +175,13 @@
 
 </item>
 <item>
+<title>[Google News] FCA Seeks More AI Regulation as Agents Take Over Finance - PYMNTS.com</title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQeTg4cVhuR1pvelVNRWVyVFU1cFVhaDVPSzJwTFV1XzEyTXZDZmM1ZDllR1AzNUVTU0k0em9ObFd5SXlIRFIteEVZaS1RVHRYeXpFckk2RDRnX0NXakxjTHBEaU52OE9zdGpLR2ViSFJ1NW1ZUktPR21XbEtPbTJvOGNtV1A4RXI3R2Z2c05ybHB6N0UxN3ZQdnhGOEFYZEtZYnNHZlVWUmlDMWo0dVdtc19HYWs?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxQeTg4cVhuR1pvelVNRWVyVFU1cFVhaDVPSzJwTFV1XzEyTXZDZmM1ZDllR1AzNUVTU0k0em9ObFd5SXlIRFIteEVZaS1RVHRYeXpFckk2RDRnX0NXakxjTHBEaU52OE9zdGpLR2ViSFJ1NW1ZUktPR21XbEtPbTJvOGNtV1A4RXI3R2Z2c05ybHB6N0UxN3ZQdnhGOEFYZEtZYnNHZlVWUmlDMWo0dVdtc19HYWs?oc=5</guid>
+<pubDate>Mon, 06 Jul 2026 12:44:34 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] Illinois sets national standard for AI regulation with new law - MyStateline</title>
 <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNeVA3eUhnY2RzTFJKbTFSUXU0bGtQM3hwN3Q3VjJOdzMwcm15b3BnM0hEb05kUFhQZjlCbERfbHUtMnJEOGpOMVA3YzBPRnJETlkwVnJORnU3REhmY0tlWFdUM01GR0xtVUFOSHIzTTV1cHQzdlhYVDRtcnl1YTFJeDJRa3RsbmdJSE1wMkZLUWExWENodVo4QXFrcnYwTlJZOHBhUk92anBjUmp2aEZlZNIBsAFBVV95cUxNeVA3eUhnY2RzTFJKbTFSUXU0bGtQM3hwN3Q3VjJOdzMwcm15b3BnM0hEb05kUFhQZjlCbERfbHUtMnJEOGpOMVA3YzBPRnJETlkwVnJORnU3REhmY0tlWFdUM01GR0xtVUFOSHIzTTV1cHQzdlhYVDRtcnl1YTFJeDJRa3RsbmdJSE1wMkZLUWExWENodVo4QXFrcnYwTlJZOHBhUk92anBjUmp2aEZlZA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxNeVA3eUhnY2RzTFJKbTFSUXU0bGtQM3hwN3Q3VjJOdzMwcm15b3BnM0hEb05kUFhQZjlCbERfbHUtMnJEOGpOMVA3YzBPRnJETlkwVnJORnU3REhmY0tlWFdUM01GR0xtVUFOSHIzTTV1cHQzdlhYVDRtcnl1YTFJeDJRa3RsbmdJSE1wMkZLUWExWENodVo4QXFrcnYwTlJZOHBhUk92anBjUmp2aEZlZNIBsAFBVV95cUxNeVA3eUhnY2RzTFJKbTFSUXU0bGtQM3hwN3Q3VjJOdzMwcm15b3BnM0hEb05kUFhQZjlCbERfbHUtMnJEOGpOMVA3YzBPRnJETlkwVnJORnU3REhmY0tlWFdUM01GR0xtVUFOSHIzTTV1cHQzdlhYVDRtcnl1YTFJeDJRa3RsbmdJSE1wMkZLUWExWENodVo4QXFrcnYwTlJZOHBhUk92anBjUmp2aEZlZA?oc=5</guid>
@@ -168,31 +203,10 @@
 
 </item>
 <item>
-<title>[Google News] CFPs: Pax Silica Artificial Intelligence Assistance Project (US) - fundsforNGOs</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlkxeWdKcFAtVW1uVC1BUnFlX2dXLUJ1Rk52UG9BVk42ZndSWWhmekFYSngyTVNwaklTOTBrcVE4a1FRVG50RDNRLVQ1Q1cyX3BRYnlJQnZ3al9BTDdTeG05ZFM5Z0gyTnUxV2hZbUxBTmxHbHNLUjd1RzVoYjZuMUZQNU8zdER6Yy0tSXlQTEl6endkR01pRVdEWmc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlkxeWdKcFAtVW1uVC1BUnFlX2dXLUJ1Rk52UG9BVk42ZndSWWhmekFYSngyTVNwaklTOTBrcVE4a1FRVG50RDNRLVQ1Q1cyX3BRYnlJQnZ3al9BTDdTeG05ZFM5Z0gyTnUxV2hZbUxBTmxHbHNLUjd1RzVoYjZuMUZQNU8zdER6Yy0tSXlQTEl6endkR01pRVdEWmc?oc=5</guid>
-<pubDate>Mon, 06 Jul 2026 10:16:37 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] China’s web novel platforms embraced AI. Now they are fighting it - Rest of World</title>
 <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE13Q05PQTJrMXcyNXppLVhtd2RrYzJLREpsdk1JYlN6V2ZhNHAweTFmYnd6QTQtNHJaVEFXWE9JckFBNW5QamNDNTA3RGdWWjN0UGJFZ05uTkV0WktNZFE?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiXkFVX3lxTE13Q05PQTJrMXcyNXppLVhtd2RrYzJLREpsdk1JYlN6V2ZhNHAweTFmYnd6QTQtNHJaVEFXWE9JckFBNW5QamNDNTA3RGdWWjN0UGJFZ05uTkV0WktNZFE?oc=5</guid>
 <pubDate>Mon, 06 Jul 2026 10:00:48 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] How Aman Sanger Built Cursor Into a $60 Billion AI Coding Story - ascendants.in</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjRfeFdjcVdPMnpUMHlMbm54bGp3S281UW5vQU1acGNFbmlpbk5aaHRhOWNwUnNoelRnTFRWTjhweUZBR1JnZDF0Wk0zV29NWHRZOEtoakNJaloxRk4tb0NQYWlpLW9pMmxnTnB2N2JUYjA1ZkVsS3hsRlhzMVNGWHJtX0lLMWFXalhKcDFCcnpRaEU?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjRfeFdjcVdPMnpUMHlMbm54bGp3S281UW5vQU1acGNFbmlpbk5aaHRhOWNwUnNoelRnTFRWTjhweUZBR1JnZDF0Wk0zV29NWHRZOEtoakNJaloxRk4tb0NQYWlpLW9pMmxnTnB2N2JUYjA1ZkVsS3hsRlhzMVNGWHJtX0lLMWFXalhKcDFCcnpRaEU?oc=5</guid>
-<pubDate>Mon, 06 Jul 2026 09:27:29 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] SAP to Acquire German AI Startup Prior Labs in €1 Billion Bet on Business Data AI - ascendants.in</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXdVdndVTUZ2R2JNVlE0TjRmVWpUUE5uZXpFN1dQODA0SDB4ZXBPTXg4MmtYdG9XWGV1dnJmdGRjR1ZfUUhMeWRWc3RiSXZqUTVWSUNkTnFLZmlfeE1OMU83eGI3MVd2U3RhMDhGcU13V0hXMUIwQWJkcHFpeVZiRzYyblNHanJT?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXdVdndVTUZ2R2JNVlE0TjRmVWpUUE5uZXpFN1dQODA0SDB4ZXBPTXg4MmtYdG9XWGV1dnJmdGRjR1ZfUUhMeWRWc3RiSXZqUTVWSUNkTnFLZmlfeE1OMU83eGI3MVd2U3RhMDhGcU13V0hXMUIwQWJkcHFpeVZiRzYyblNHanJT?oc=5</guid>
-<pubDate>Mon, 06 Jul 2026 09:00:32 GMT</pubDate>
 
 </item>
 <item>
@@ -411,20 +425,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=hZQa78vKxZ4</guid>
 <pubDate>Thu, 02 Jul 2026 12:45:37 GMT</pubDate>
 <description>Learn how the European Patent Office and Mistral transformed patent transcription from a slow, black-box process into a production-grade, inspectable pipeline. Discover their engineering approach, results, and the future of patent processing. Key themes: - From legacy OCR to a transparent, on-premis</description>
-</item>
-<item>
-<title>[YouTube] Best practices for building autonomous AI workflows | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=lluXpzkLpZo</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=lluXpzkLpZo</guid>
-<pubDate>Thu, 02 Jul 2026 12:45:30 GMT</pubDate>
-<description>Discover how Sophia, Abanca’s autonomous AI banking agent, evolved from an informational assistant to a full-scale transactional system. The team shares their journey, architecture, and key insights for building production-grade AI. Key themes: - 3-layer system: Informational, Navigational, Transact</description>
-</item>
-<item>
-<title>[YouTube] Rethinking the architecture of agentic systems | AI Now Summit 2026</title>
-<link>https://www.youtube.com/watch?v=Q1yn6khGCBk</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=Q1yn6khGCBk</guid>
-<pubDate>Thu, 02 Jul 2026 12:45:26 GMT</pubDate>
-<description>Explore the future of AI as it shifts toward agentic systems and a hybrid computing model—from centralized data centers to edge devices. Discover the challenges, innovations, and applications reshaping industries like defense and beyond. Key themes: - Personal AI devices: Beyond smartphones—local se</description>
 </item>
 </channel>
 </rss>
