@@ -1,12 +1,12 @@
 # AI Radar
 
-A live dashboard of the latest news from the leading AI companies, aggregated from their official and community feeds into one page. AI Radar is a single static page published with GitHub Pages and refreshed by a scheduled GitHub Action.
+A live dashboard of the latest news from the leading AI companies, aggregated from their official and community feeds into one page. AI Radar is a static site published with GitHub Pages and refreshed by a scheduled GitHub Action.
 
 **Live:** https://ai-radar.eu/
 
 ## What it does
 
-AI Radar follows 12 companies (OpenAI, Anthropic, Google AI & DeepMind, Meta AI, Microsoft AI, NVIDIA, Hugging Face, xAI, Perplexity, Mistral, Cohere, DeepSeek) and brings their updates together:
+AI Radar follows 12 companies (OpenAI, Anthropic, Google AI & DeepMind, Meta AI, Microsoft AI, NVIDIA, Hugging Face, xAI, Perplexity, Mistral, Cohere, DeepSeek), plus an **Across AI** card for industry news that is not tied to a single company (policy, funding, society), fed by a Google News query and MIT Technology Review with optional hand-picked items from `curated.json`. It brings the updates together as:
 
 - **By company** grid, ordered by how active each company has recently been in the news. Drag a card by its grip handle to set your own order; it is remembered in your browser, and an **"Auto order"** button returns to the activity ranking.
 - **Timeline** view of every update in chronological order, with a "Load more" control.
@@ -23,7 +23,7 @@ A GitHub Action (`.github/workflows/build-feed.yml` running `scripts/build-feed.
 - `feed.xml` — a combined RSS feed used for the email subscription via Blogtrottr.
 - `digest.json` — the optional daily briefing (only when enabled; see below).
 
-`index.html` reads `data.json` from its own domain. If that is unreachable (for example when the file is opened locally) it falls back to fetching each feed live through public CORS proxies. Missing thumbnails and summaries are backfilled from each article's Open Graph tags during the build, cached across runs.
+`index.html` reads `data.json` from its own domain. If that is unreachable (for example when the file is opened locally) it falls back to fetching each feed live through public CORS proxies. Missing thumbnails and summaries are backfilled from each article's Open Graph tags during the build, cached across runs. Article images are downloaded, resized and committed to `img/`, so visitors' browsers make no third-party requests.
 
 ## Daily briefing (optional)
 
