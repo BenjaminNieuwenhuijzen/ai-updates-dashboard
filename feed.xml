@@ -5,12 +5,103 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Wed, 08 Jul 2026 06:39:54 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 10:31:46 GMT</lastBuildDate>
+<item>
+<title>[Agent Framework] Agent Framework’s Orchestration Patterns Reach 1.0</title>
+<link>https://devblogs.microsoft.com/agent-framework/agent-frameworks-orchestration-patterns-reach-1-0/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/agent-framework/agent-frameworks-orchestration-patterns-reach-1-0/</guid>
+<pubDate>Wed, 08 Jul 2026 10:00:52 +0000</pubDate>
+<description>Python’s agent-framework-orchestrations package is now 1.0.0. That puts Microsoft Agent Framework’s orchestration layer at 1.0 across Python and .NET. Sequential, concurrent, group chat, handoff, and magentic orchestration are now stable in both SDKs. You can pick the coordination pattern that fits </description>
+</item>
+<item>
+<title>[Google News] China’s DeepSeek reportedly developing in-house AI chip to cut Nvidia, Huawei reliance - capacityglobal.com</title>
+<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3FmWDY2ai1oNWR6TVg3bmJLaUl4NHFXNDdPV3ExMTZYcEZ4Q1VTWFlscmYwYlktNTl6Yk5iQjc3TW83bjVtX0Q1ZUNyeVAzdHNxNDhHZXJ4VWp3azdRRURfOE81VnVoR1A0TTkyWkVJMHQ4MUlCRkVINVRsTVV5Z3F5VXhxYXFZb3NteXJhX1ZkeWtiWUtla2NSOHFKdTVVanA0a3k1aHVNZTJyZVNZQ2lLRG13NzVJ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3FmWDY2ai1oNWR6TVg3bmJLaUl4NHFXNDdPV3ExMTZYcEZ4Q1VTWFlscmYwYlktNTl6Yk5iQjc3TW83bjVtX0Q1ZUNyeVAzdHNxNDhHZXJ4VWp3azdRRURfOE81VnVoR1A0TTkyWkVJMHQ4MUlCRkVINVRsTVV5Z3F5VXhxYXFZb3NteXJhX1ZkeWtiWUtla2NSOHFKdTVVanA0a3k1aHVNZTJyZVNZQ2lLRG13NzVJ?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 09:58:24 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Self-developed chips: The arithmetic problem for DeepSeek and Zhipu - odaily.news</title>
+<link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jY1h4UU9YUjVQN3RsbHlHQmZsd2JoaFlTT0JDZmZVVHhEamc4UDZ1Nzd3cldhOElzS1p0NFhYaUYyczBGOWJLT3hhYXZ3ZDA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jY1h4UU9YUjVQN3RsbHlHQmZsd2JoaFlTT0JDZmZVVHhEamc4UDZ1Nzd3cldhOElzS1p0NFhYaUYyczBGOWJLT3hhYXZ3ZDA?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 09:56:21 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek builds its own semiconductor for AI inference - TechCentral.ie</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOY0QtemtXWXBYdy1PWEpwZklaTmpGS2JHLWhyUi1QbThMcEs1cElPZnV3eGNOUHJWRTRCeDRocE1qSHBPYmFBRUxmREVhQXF5TkZIYnZCS0lPT1pJeVZKbGJqWWRvS1ptVkVVaV8wOEdYSUt6NU1rZlBCSFZvZkx0WHRrN0JXb0dDZ3c?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxOY0QtemtXWXBYdy1PWEpwZklaTmpGS2JHLWhyUi1QbThMcEs1cElPZnV3eGNOUHJWRTRCeDRocE1qSHBPYmFBRUxmREVhQXF5TkZIYnZCS0lPT1pJeVZKbGJqWWRvS1ptVkVVaV8wOEdYSUt6NU1rZlBCSFZvZkx0WHRrN0JXb0dDZ3c?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 09:47:33 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek examines in-house chip development - TahawulTech.com</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOZzFDSUM4ZE5kalh5T1BrcXZxbTE1aVc5QmhfMF9lNk5QNGR6RnZJblI2U2wwaVpJc2sta2lFM2plSzA3ZGdHTGFEWDdIc3FCUFI2M0FfSkN5Nkg5OHNaX2otUTdkNmlpd3U2ak9oN2lvM2Z2WVg2YmtoZ2pZVnd4Sk93d0JvNThCcGVrU0huSmkxc1BKa1NF?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxOZzFDSUM4ZE5kalh5T1BrcXZxbTE1aVc5QmhfMF9lNk5QNGR6RnZJblI2U2wwaVpJc2sta2lFM2plSzA3ZGdHTGFEWDdIc3FCUFI2M0FfSkN5Nkg5OHNaX2otUTdkNmlpd3U2ak9oN2lvM2Z2WVg2YmtoZ2pZVnd4Sk93d0JvNThCcGVrU0huSmkxc1BKa1NF?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 09:33:02 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek develops in-house AI chip to reduce Nvidia dependence - National Technology News</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOVWVLeGJRU1BsRjRwa21OQTB6b09Zcmw1dzFWUXRIZ0hsdzlhNFpnZmk5dk40alE5TXQ2TXd3akFfTUFlODZIdFRLVVBhUXg1b1RvQzAwWlRCbjZKaVdPWXdkTWMwMVhqMFEtaElOZHFUQXE3M0VVN2ZEeHFuY2ZaMElDSjNZUGh3RUtjM3paZ2EwMllxZ2psUWstVVhJMnc5?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxOVWVLeGJRU1BsRjRwa21OQTB6b09Zcmw1dzFWUXRIZ0hsdzlhNFpnZmk5dk40alE5TXQ2TXd3akFfTUFlODZIdFRLVVBhUXg1b1RvQzAwWlRCbjZKaVdPWXdkTWMwMVhqMFEtaElOZHFUQXE3M0VVN2ZEeHFuY2ZaMElDSjNZUGh3RUtjM3paZ2EwMllxZ2psUWstVVhJMnc5?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 08:42:33 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek develops AI inference chip to reduce reliance on Nvidia and Huawei - varindia.com</title>
+<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjFVY1BCX1J4ODVCSk9DTUY4ZjVYWTNLeEJ2dEhZMjFoS0t0WmVxcURlbGVZR3JpWVVVNzllalBPanpka0tGU0IzNHJYUE5qZWVQMnlFVUYzMGJYLWFkU0cxSXlQN2gwT0duSlBSSnBfVDVOS2dlNjVqQ0VHVlZ4TEpGc1ctOHlDZi10ZDZJV25KTlpKSnVvWGlxYTdCYktzdUhJUGhwUy0?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjFVY1BCX1J4ODVCSk9DTUY4ZjVYWTNLeEJ2dEhZMjFoS0t0WmVxcURlbGVZR3JpWVVVNzllalBPanpka0tGU0IzNHJYUE5qZWVQMnlFVUYzMGJYLWFkU0cxSXlQN2gwT0duSlBSSnBfVDVOS2dlNjVqQ0VHVlZ4TEpGc1ctOHlDZi10ZDZJV25KTlpKSnVvWGlxYTdCYktzdUhJUGhwUy0?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 08:41:17 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek Is Reportedly Building Its Own Inference Chip to Break Free From Both NVIDIA and Huawei - Wccftech</title>
+<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3dHMVFxTkVuYXZpSzRxQ3g4WWQ4cHIxcVkwaEN6RnNvOGVCX0RsMWs4Rm01eWhUUXoyTG1HdTM5emdYMHEwb2ZoVE1NdFZUMWdrVHRBN3B2MDRGMDFXMVBVWThIUWJPZnhqZDRYWk5NZ2Q3OFZHM0E0MENQN0FILU5Td1U2VHktUndLWXBDNTNMMTl6eVFqaDhnQdIBoAFBVV95cUxQeWotSE1telJlWHR5VTNneUlqNWtwcFlsNXpZdUhpeXoxRmp5M3VlVVBuMFNaZTVkOXZJbE1Hc0hpZUUwQ293cF8xQWZBeERDdFpycWZPUG5kX3pRaUFtMEh2MmZhY0hYd0pjeVpsUHlTMTF1TDhUZkVxLTFJdVhqWDVOWDd0M19BLUwtNkp0ZXBVVGx6YTFJcnF0Z3JIZXE4?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3dHMVFxTkVuYXZpSzRxQ3g4WWQ4cHIxcVkwaEN6RnNvOGVCX0RsMWs4Rm01eWhUUXoyTG1HdTM5emdYMHEwb2ZoVE1NdFZUMWdrVHRBN3B2MDRGMDFXMVBVWThIUWJPZnhqZDRYWk5NZ2Q3OFZHM0E0MENQN0FILU5Td1U2VHktUndLWXBDNTNMMTl6eVFqaDhnQdIBoAFBVV95cUxQeWotSE1telJlWHR5VTNneUlqNWtwcFlsNXpZdUhpeXoxRmp5M3VlVVBuMFNaZTVkOXZJbE1Hc0hpZUUwQ293cF8xQWZBeERDdFpycWZPUG5kX3pRaUFtMEh2MmZhY0hYd0pjeVpsUHlTMTF1TDhUZkVxLTFJdVhqWDVOWDd0M19BLUwtNkp0ZXBVVGx6YTFJcnF0Z3JIZXE4?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 08:15:06 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek Developing In-House AI Chip to Reduce Reliance on Nvidia, Huawei - Electronics For You BUSINESS</title>
+<link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNVjdFX0FkZF8xUXNUd01KNzk2RG92WmZLaEl6UVk3TTJwMHpHQ1ljbWoxVVRaM2FUWWMxX2ZhQnVGb2laVzl3SF93TWR1SnZUcGVFOVF1bEplSm53WDNWc3RkWUxod1hvVVVVeFVkcVVtU1hoemZCeFVzZzhrMU5jR1VRdW1aSWNnMHJab2VSU0QzYkhxWmJwMDNfRzVYS3JUTV8taHN0X2hsWlc3eXBSVnJ6bHB2ZEYyWHhReWJR?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxNVjdFX0FkZF8xUXNUd01KNzk2RG92WmZLaEl6UVk3TTJwMHpHQ1ljbWoxVVRaM2FUWWMxX2ZhQnVGb2laVzl3SF93TWR1SnZUcGVFOVF1bEplSm53WDNWc3RkWUxod1hvVVVVeFVkcVVtU1hoemZCeFVzZzhrMU5jR1VRdW1aSWNnMHJab2VSU0QzYkhxWmJwMDNfRzVYS3JUTV8taHN0X2hsWlc3eXBSVnJ6bHB2ZEYyWHhReWJR?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 08:09:23 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek and Zhipu AI Begin Self-Developing AI Chips — The Endgame Is No Longer Just Models - Pandaily</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5ra3RGNEhjcVYwS085QjFPQTZGNjFzQmFhdXJjdlhKUlpPeWpjRGJrbHVrendtTmlZSUxaR1dwbU90RldXRVl5THJfd0laLTBseEQyakxPbGY1cWowRmhTLTJrcDNqS3ZrMUZMUTFoNWM5YTJod2c?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE5ra3RGNEhjcVYwS085QjFPQTZGNjFzQmFhdXJjdlhKUlpPeWpjRGJrbHVrendtTmlZSUxaR1dwbU90RldXRVl5THJfd0laLTBseEQyakxPbGY1cWowRmhTLTJrcDNqS3ZrMUZMUTFoNWM5YTJod2c?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 08:06:25 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek Decides the Best Chip Is the One It Builds Itself - Technology Org</title>
+<link>https://news.google.com/rss/articles/CBMieEFVX3lxTFAzV3Bmc2pFMFZUSzNzN2owMGFTMWVVRzItclpkWml3WWt1SV9iRU5kY0VMbGt4eGctMDZjTTFJVW9zVFRDZTExV0lrRGtqRC1VUGZNdkh2bkpwR2RDblhiV1RVdjZocVJGY19CS2I5a3RwUDdvRmZhRg?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTFAzV3Bmc2pFMFZUSzNzN2owMGFTMWVVRzItclpkWml3WWt1SV9iRU5kY0VMbGt4eGctMDZjTTFJVW9zVFRDZTExV0lrRGtqRC1VUGZNdkh2bkpwR2RDblhiV1RVdjZocVJGY19CS2I5a3RwUDdvRmZhRg?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 07:28:26 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek Is Building Its Own AI Chip: Is This a Real Threat to Nvidia? - Stocks Down Under</title>
+<link>https://news.google.com/rss/articles/CBMia0FVX3lxTE8xT3NjcVlqdlY5TDQ1YmU5WG9RYm90bXZLRlNlWndNc2lvNUhvTXR3MTZjMHBYWVRVSW9jRE9fM2l5RmtnZktIckVvZXBZdWFQOHdDekVpUF9sMzVmVExKTmJ4NUJfdFZOSHMw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMia0FVX3lxTE8xT3NjcVlqdlY5TDQ1YmU5WG9RYm90bXZLRlNlWndNc2lvNUhvTXR3MTZjMHBYWVRVSW9jRE9fM2l5RmtnZktIckVvZXBZdWFQOHdDekVpUF9sMzVmVExKTmJ4NUJfdFZOSHMw?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 07:21:04 GMT</pubDate>
+
+</item>
 <item>
 <title>[Google News] After DeepSeek, Z.ai Explores Building AI Chip as GLM Demand Surges: Report - Analytics India Magazine</title>
 <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPaUptXy1wcV9wNXpnYXdxclNKc0FwdVY0WnZCYnlDZUg5bndzQ0dlamhaQkk4RzZqZU9oLTR4SEkydmJuMnplMDdtWjdwUU42Vm85VlllV2p4dmpCZ2VBN3U3WGJOY0RrLXBCcDItZF9yWC1XdmFRbVdRVnlBQWRMYVZJNFpNV1F4QklNZXhSQTN5S1VlSzdDWlNKMHoxZ0FUdGJYMG9MaEpzZkpWTVpV?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxPaUptXy1wcV9wNXpnYXdxclNKc0FwdVY0WnZCYnlDZUg5bndzQ0dlamhaQkk4RzZqZU9oLTR4SEkydmJuMnplMDdtWjdwUU42Vm85VlllV2p4dmpCZ2VBN3U3WGJOY0RrLXBCcDItZF9yWC1XdmFRbVdRVnlBQWRMYVZJNFpNV1F4QklNZXhSQTN5S1VlSzdDWlNKMHoxZ0FUdGJYMG9MaEpzZkpWTVpV?oc=5</guid>
 <pubDate>Wed, 08 Jul 2026 06:05:37 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek develops proprietary AI inference chip - Let's Data Science</title>
+<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0R5YUFSYVc0ckhHcS02WndlY1puOFJqOHdfWG5jNGszRjJFTW4wN051ak95UFdRXzZPQk1UZ1NZeEV3ZHdka21kRzRpUXZKUndOWU5DcmM1LXFaMGZjVWZyTHFrTWg1b2c4QlZoWGNtbGxFOFh5QVVqek55bFRmYmxtODl3SEo4U2tjUjlSdS1COU0?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0R5YUFSYVc0ckhHcS02WndlY1puOFJqOHdfWG5jNGszRjJFTW4wN051ak95UFdRXzZPQk1UZ1NZeEV3ZHdka21kRzRpUXZKUndOWU5DcmM1LXFaMGZjVWZyTHFrTWg1b2c4QlZoWGNtbGxFOFh5QVVqek55bFRmYmxtODl3SEo4U2tjUjlSdS1COU0?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 05:50:05 GMT</pubDate>
 
 </item>
 <item>
@@ -26,6 +117,13 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxPWU54a1AzNllfMHhtOE03MlF1NnlHSW5yOF9RUmhNaFJ5SEVNY0Z5Nks3U0NPU1N2TEI0TzA2VU1Ia19ZM0RKWEgxVExFSW1iUVJPcWhsSzFxRGFZQm1temZZRTJ0cS15TDRtV0laWldrM1YtV3ZrWW9aNDVrU19QUll6eTlrRVpubDB3eGhINENvaElBblN1U1BUVWJQTFJheFRBc19HbWFycWJ4RnhTQ1RIaDl3eWxBdFBYdnJ6cnR0ZTdSNEZJbU9XMA?oc=5</guid>
 <pubDate>Wed, 08 Jul 2026 05:18:20 GMT</pubDate>
 
+</item>
+<item>
+<title>[YouTube] OCR4 in Production</title>
+<link>https://www.youtube.com/watch?v=6QlKeIrrmzU</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=6QlKeIrrmzU</guid>
+<pubDate>Wed, 08 Jul 2026 05:07:07 GMT</pubDate>
+<description>Learn about the new feature in the OCR4 release and how can they be used inside workflows and search toolkit to get production grade indexing.</description>
 </item>
 <item>
 <title>[YouTube] Training Agents 2: Live tutorial on model distillation for training custom agents.</title>
@@ -56,6 +154,13 @@
 
 </item>
 <item>
+<title>[Google News] DeepSeek Quietly Develops Its Own AI Inference Chip, Zhipu AI Eyes Custom Silicon - finance.biggo.com</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE4wN0hYamhFVjA3eEpFU0JtOVBlOGw0c3VUWUI5UnQwVE1vb0owUm1udjlfUFA1REhsSDdCOEJxQ3ZfNHRsMnByRkFrb3g2cnRnajZsbTdqWkU1c1FrVWdkVGwwUnpsRGlGcV9OMnFZelVhQ3FZM0E?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE4wN0hYamhFVjA3eEpFU0JtOVBlOGw0c3VUWUI5UnQwVE1vb0owUm1udjlfUFA1REhsSDdCOEJxQ3ZfNHRsMnByRkFrb3g2cnRnajZsbTdqWkU1c1FrVWdkVGwwUnpsRGlGcV9OMnFZelVhQ3FZM0E?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 03:55:00 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] SAP to Acquire German AI Startup Prior Labs in €1 Billion Bet on Business Data AI - ascendants.in</title>
 <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXdVdndVTUZ2R2JNVlE0TjRmVWpUUE5uZXpFN1dQODA0SDB4ZXBPTXg4MmtYdG9XWGV1dnJmdGRjR1ZfUUhMeWRWc3RiSXZqUTVWSUNkTnFLZmlfeE1OMU83eGI3MVd2U3RhMDhGcU13V0hXMUIwQWJkcHFpeVZiRzYyblNHanJT?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXdVdndVTUZ2R2JNVlE0TjRmVWpUUE5uZXpFN1dQODA0SDB4ZXBPTXg4MmtYdG9XWGV1dnJmdGRjR1ZfUUhMeWRWc3RiSXZqUTVWSUNkTnFLZmlfeE1OMU83eGI3MVd2U3RhMDhGcU13V0hXMUIwQWJkcHFpeVZiRzYyblNHanJT?oc=5</guid>
@@ -77,10 +182,24 @@
 
 </item>
 <item>
+<title>[Google News] DeepSeek Secretly Developing Inference-Focused AI Chips: Confidential Project Launched 1 Year Ago With Classified Recruitment Process - 36 Kr</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FejV0S1Jpc3NjMGsxQkVvcVZsQndxQTZRQXoteUZIQXFzTVhXYjhxNFRDM01IamN6ZUktbmNSdWEzWkdrQ2REQ1NuNVYzS05TX1JF?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FejV0S1Jpc3NjMGsxQkVvcVZsQndxQTZRQXoteUZIQXFzTVhXYjhxNFRDM01IamN6ZUktbmNSdWEzWkdrQ2REQ1NuNVYzS05TX1JF?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 02:43:52 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] DeepSeek develops AI chips, challenging Nvidia and Huawei - IDNFinancials.com</title>
 <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOWmxsMjhScnVmcG5OcmZOei1USEJPaklwTDF6R2tzazJjWnJnTXpPUW1rVHhQd3RqVmktOERKMHZhaENUM0daU1lMamFkYzV0bzZ1ekpUQ3JESkNaSTQzNjhyOEgxNzRiTUt3VEVaMG1NQThqWUlheU5uSnQya3N2S1E1NXpUeWhIU2VvbWVla0FOYi1zaEtoMk56ZUVZdw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxOWmxsMjhScnVmcG5OcmZOei1USEJPaklwTDF6R2tzazJjWnJnTXpPUW1rVHhQd3RqVmktOERKMHZhaENUM0daU1lMamFkYzV0bzZ1ekpUQ3JESkNaSTQzNjhyOEgxNzRiTUt3VEVaMG1NQThqWUlheU5uSnQya3N2S1E1NXpUeWhIU2VvbWVla0FOYi1zaEtoMk56ZUVZdw?oc=5</guid>
 <pubDate>Wed, 08 Jul 2026 02:40:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Is DeepSeek’s Rise Making Beijing More Afraid Of Its Own AI Winners? - Yellow.com</title>
+<link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kazF0elFoZnZqazRCV3VlejN6dGNjenljQ1hYc0FlMW9IZ1RHYi1HWmsyaGMxXy1feXZSNGU5ZmlFcElXNW85VmJWNzJtZWpfLUR1LTM5U3Q4bEJsU0VNbA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kazF0elFoZnZqazRCV3VlejN6dGNjenljQ1hYc0FlMW9IZ1RHYi1HWmsyaGMxXy1feXZSNGU5ZmlFcElXNW85VmJWNzJtZWpfLUR1LTM5U3Q4bEJsU0VNbA?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 02:36:46 GMT</pubDate>
 
 </item>
 <item>
@@ -94,7 +213,7 @@
 <title>[Google News] Novel provisions in the Law on Artificial Intelligence and recommendations for further improvement - LuatVietnam</title>
 <link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxObWNITDhSNTJGVjhmeHd1cDFQamFaSUk1NEtfMTAxSExpNVlzenBtT1c4Zm9HQmE3WThveXhrTkFMTkdKLXZzZHZ6b2swdUVNN2N2WVZFcXU0cm9qa3YybkU1SnRTS0lYTFpkNUZWN2lLX2NMYlB1ckpLR1VnMTg5akxNY0JDTW0zVE5kSWUxQjVxQ3hLaEYzT3d0aXI3djh6MWxEcEd0VHh0OGw5bDNLazkzblhyTnBiZTdhUTNOcTF0Snk3eUxudVA5cGlucFhVNVBtbnY5ZmVpU3JxbWxOcDlCaFpkazdIMVdoNGJQVTZ0RGQyNjUxaTlXWQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi-wFBVV95cUxObWNITDhSNTJGVjhmeHd1cDFQamFaSUk1NEtfMTAxSExpNVlzenBtT1c4Zm9HQmE3WThveXhrTkFMTkdKLXZzZHZ6b2swdUVNN2N2WVZFcXU0cm9qa3YybkU1SnRTS0lYTFpkNUZWN2lLX2NMYlB1ckpLR1VnMTg5akxNY0JDTW0zVE5kSWUxQjVxQ3hLaEYzT3d0aXI3djh6MWxEcEd0VHh0OGw5bDNLazkzblhyTnBiZTdhUTNOcTF0Snk3eUxudVA5cGlucFhVNVBtbnY5ZmVpU3JxbWxOcDlCaFpkazdIMVdoNGJQVTZ0RGQyNjUxaTlXWQ?oc=5</guid>
-<pubDate>Wed, 08 Jul 2026 02:30:00 GMT</pubDate>
+<pubDate>Wed, 08 Jul 2026 02:30:53 GMT</pubDate>
 
 </item>
 <item>
@@ -109,6 +228,13 @@
 <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzQUJuaW9OdDhlYmM5eHp5TmxzRVI4MGIxcm9mb2ZPdGZ1RTdSSDZvN0prQWZ4Q1huNnlwZy1MeDIwUXRvLU9GaUQtMA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzQUJuaW9OdDhlYmM5eHp5TmxzRVI4MGIxcm9mb2ZPdGZ1RTdSSDZvN0prQWZ4Q1huNnlwZy1MeDIwUXRvLU9GaUQtMA?oc=5</guid>
 <pubDate>Wed, 08 Jul 2026 01:53:14 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Li Bojie Responds to DeepSeek Interview Controversy: Pine AI Remains on Track, Departure Driven by Ambition to Explore Foundation Model Limits - finance.biggo.com</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBBQktGYnEwaHAyNmFqMjJYTzlXeURCbW9fRGxqOWRha1dXQ2ZqdGxjR0JIRGR0cTJYWklJdjRING5FQ3BtdUhiR2xLWDNpRk5RczJJMjBqUTFMMENRVW90R1diU2xzLUpzdDhMSWhibEhXTGUxU2c?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTFBBQktGYnEwaHAyNmFqMjJYTzlXeURCbW9fRGxqOWRha1dXQ2ZqdGxjR0JIRGR0cTJYWklJdjRING5FQ3BtdUhiR2xLWDNpRk5RczJJMjBqUTFMMENRVW90R1diU2xzLUpzdDhMSWhibEhXTGUxU2c?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 01:51:31 GMT</pubDate>
 
 </item>
 <item>
@@ -144,6 +270,20 @@
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9idVh6NGwtc29rb0dtTUNRVVJsZmRNQTFsYjlvN1NTUTBFaTIxV1JFdFkwc3hLTjY2UmNyMzh5OWtIamlRV2p5eV9YeHVrUmZDWnRR?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9idVh6NGwtc29rb0dtTUNRVVJsZmRNQTFsYjlvN1NTUTBFaTIxV1JFdFkwc3hLTjY2UmNyMzh5OWtIamlRV2p5eV9YeHVrUmZDWnRR?oc=5</guid>
 <pubDate>Wed, 08 Jul 2026 00:22:41 GMT</pubDate>
+
+</item>
+<item>
+<title>[YouTube] MUFG aims to become AI-native with OpenAI</title>
+<link>https://www.youtube.com/watch?v=pE1ljLVY1Rg</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=pE1ljLVY1Rg</guid>
+<pubDate>Wed, 08 Jul 2026 00:02:05 GMT</pubDate>
+<description>With OpenAI, MUFG is working to become an AI-native financial group—bringing ChatGPT Enterprise to approximately 35,000 Mitsubishi UFJ Bank employees and building the foundation for secure, responsible AI adoption at scale. See how MUFG is using AI to help employees focus on higher-value customer wo</description>
+</item>
+<item>
+<title>[Google News] DeepSeek's chip effort inevitable amid AI race, market expert says - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPN1V4cjIxRGxaaXI1MU1tSDUyc2NxdnJjaVFtb2ppTm5nT3VucElaWWxpcEpJaUFvc3hvVnhCcmNKOU5zZUYyeGYzWnhhbUptR2ZaLU9XZlE5WHhqQU1sSjhXNEI2XzQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPN1V4cjIxRGxaaXI1MU1tSDUyc2NxdnJjaVFtb2ppTm5nT3VucElaWWxpcEpJaUFvc3hvVnhCcmNKOU5zZUYyeGYzWnhhbUptR2ZaLU9XZlE5WHhqQU1sSjhXNEI2XzQ?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 00:00:51 GMT</pubDate>
 
 </item>
 <item>
@@ -203,13 +343,6 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek's chip effort inevitable amid AI race, market expert says - Yahoo Finance</title>
-<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2NmM3pCSHE4N0o1cjFNUXI5ajhzenBwMnhweE1SMm9YRzNPNGQyLWpVUVVYVTVNU2dQS1BvQy15VUxtVl9fMjYxQXhkb0l2UVNZc2RHTEtnNTFhbHVXT1pUMmpPQTJCd1BhMGNOeVpmalNSVlRvTlBlaThOOC1aa1JNNDJUWkV5UEhSWA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2NmM3pCSHE4N0o1cjFNUXI5ajhzenBwMnhweE1SMm9YRzNPNGQyLWpVUVVYVTVNU2dQS1BvQy15VUxtVl9fMjYxQXhkb0l2UVNZc2RHTEtnNTFhbHVXT1pUMmpPQTJCd1BhMGNOeVpmalNSVlRvTlBlaThOOC1aa1JNNDJUWkV5UEhSWA?oc=5</guid>
-<pubDate>Tue, 07 Jul 2026 19:45:35 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] UNESCO's Caribbean AI Roadmap Wins Regional Backing - UNESCO</title>
 <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOXzJtN2dRR01CY2Q0cEM1VW94dlVPTXZsS1FwZFVZUmhZUHl4RjVkRkRvbHF0dmNIYnh2aEkwRTZlNndmZnVyTGZVOHdFNmk5OFZEMlNuSVh1cXp2c3dKc2YxdUpxQVpla21ncXFtRmhXQXFXMDVPSHZEYk0wZkhOOWNJMFRuVVRZeVd6d2Jn?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxOXzJtN2dRR01CY2Q0cEM1VW94dlVPTXZsS1FwZFVZUmhZUHl4RjVkRkRvbHF0dmNIYnh2aEkwRTZlNndmZnVyTGZVOHdFNmk5OFZEMlNuSVh1cXp2c3dKc2YxdUpxQVpla21ncXFtRmhXQXFXMDVPSHZEYk0wZkhOOWNJMFRuVVRZeVd6d2Jn?oc=5</guid>
@@ -221,13 +354,6 @@
 <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWZublBlOW1XYW10V05oNnB5X1hGS1hmS0c0bEsxektuM2phSENRS21LOTN5azRfM2J3eW1PRER2WHJTVW9WSTJMVjdEYURjZ1p5MHZ2YXY4dGs3M2lSMExmamhjN19wTXlmRFlFZkFuUmNFMzlDUHNYdmVqUFdBT3ZsRnA1ckViRXlTb1ZTdWtyMm1rbkVUQmRNRDRfazFUdnc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWZublBlOW1XYW10V05oNnB5X1hGS1hmS0c0bEsxektuM2phSENRS21LOTN5azRfM2J3eW1PRER2WHJTVW9WSTJMVjdEYURjZ1p5MHZ2YXY4dGs3M2lSMExmamhjN19wTXlmRFlFZkFuUmNFMzlDUHNYdmVqUFdBT3ZsRnA1ckViRXlTb1ZTdWtyMm1rbkVUQmRNRDRfazFUdnc?oc=5</guid>
 <pubDate>Tue, 07 Jul 2026 19:20:01 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Is DeepSeek’s Rise Making Beijing More Afraid Of Its Own AI Winners? - Yellow.com</title>
-<link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kazF0elFoZnZqazRCV3VlejN6dGNjenljQ1hYc0FlMW9IZ1RHYi1HWmsyaGMxXy1feXZSNGU5ZmlFcElXNW85VmJWNzJtZWpfLUR1LTM5U3Q4bEJsU0VNbA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kazF0elFoZnZqazRCV3VlejN6dGNjenljQ1hYc0FlMW9IZ1RHYi1HWmsyaGMxXy1feXZSNGU5ZmlFcElXNW85VmJWNzJtZWpfLUR1LTM5U3Q4bEJsU0VNbA?oc=5</guid>
-<pubDate>Tue, 07 Jul 2026 19:06:28 GMT</pubDate>
 
 </item>
 <item>
@@ -243,6 +369,13 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTliekc4QnBNd0k3U0g4RFlCdWtYWmZTWVZEN3gyUF80a0ZER3NHalNQQ3h2VjJ6cHAwRzU3X1F3VTFiTGRNdlpaRUlEVDBaU3d6aEVYM0lKdXRSb2Zad1hNbjUxRG1xVV9ib0wyOFBwQnROUUhBN2l6VmU5Q0RnZFVXUWFDNm9FNkE?oc=5</guid>
 <pubDate>Tue, 07 Jul 2026 19:04:30 GMT</pubDate>
 
+</item>
+<item>
+<title>[YouTube] An Early Look At The Dell XPS 16 Laptop Powered by NVIDIA RTX Spark</title>
+<link>https://www.youtube.com/shorts/psqiOxQ61pI</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/psqiOxQ61pI</guid>
+<pubDate>Tue, 07 Jul 2026 18:49:04 GMT</pubDate>
+<description>Masterfully crafted. Powerfully engineered. Join NVIDIA's Jacob Freeman for a closer look at the new Dell XPS 16 laptop &amp; an upcoming compact desktop powered by the NVIDIA RTX Spark superchip. Learn more: https://www.dell.com/en-us/blog/dell-and-nvidia-bring-serious-performance-to-creators/</description>
 </item>
 <item>
 <title>[Google News] DeepSeek Designing Proprietary AI Inference Chip to Cut Nvidia, Huawei Dependence - MLQ.ai</title>
@@ -273,157 +406,24 @@
 
 </item>
 <item>
-<title>[Developer] Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T</title>
-<link>https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/</guid>
-<pubDate>Tue, 07 Jul 2026 17:05:42 GMT</pubDate>
-<description>As more teams move from humanoid robot bring-up to task-specific skill development, the need for repeatable development workflows is growing. Building humanoids...</description>
-</item>
-<item>
-<title>[Developer] Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron</title>
-<link>https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/</guid>
-<pubDate>Tue, 07 Jul 2026 17:00:00 GMT</pubDate>
-<description>Industrial machinery generates more alarms than technicians can triage. For each important alarm requiring follow-up, the technician pulls historical context,...</description>
-</item>
-<item>
-<title>[Developer] Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial</title>
-<link>https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/</guid>
-<pubDate>Tue, 07 Jul 2026 17:00:00 GMT</pubDate>
-<description>Spectrum is one of the most valuable assets in wireless communications. Over the last 30 years, telecom operators in the US have spent more than $240B to...</description>
-</item>
-<item>
-<title>[Research] The power of collaboration: How we can reduce traffic congestion</title>
-<link>https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/</link>
-<guid isPermaLink="false">https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/</guid>
-<pubDate>Tue, 07 Jul 2026 16:42:08 +0000</pubDate>
+<title>[Google News] National Capacity Building Drive Introduces Artificial Intelligence for Karmayogis Framework - The420.in</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxONnVhc0NWeHNUamEzSUdZdmhNVGhOOVMwbzE0d2pEZWxXOTdFOXgxRUJUaUdRdzFSTFVocGZZcDZJbm1NMzlCSHdrZW5FaGxXVUdBOVloanhiX3FZOTJTMm1BVjBGR1JvZU94Vkx2dHAtc1pBV2pCd3I4b1BEQkg3bFFHM1JUSjVBcWc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxONnVhc0NWeHNUamEzSUdZdmhNVGhOOVMwbzE0d2pEZWxXOTdFOXgxRUJUaUdRdzFSTFVocGZZcDZJbm1NMzlCSHdrZW5FaGxXVUdBOVloanhiX3FZOTJTMm1BVjBGR1JvZU94Vkx2dHAtc1pBV2pCd3I4b1BEQkg3bFFHM1JUSjVBcWc?oc=5</guid>
+<pubDate>Tue, 07 Jul 2026 17:48:57 GMT</pubDate>
 
 </item>
 <item>
-<title>[Google News] Chinese AI startup DeepSeek develops own chip t... - Pluang</title>
-<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzhuRVJLT3d0SC10ajlIdVdpaTVqVDlfRDRYYUlwbTIxVUZoUkFRTUZvNVBwQnp1MkpfSTdmaUJTZ2JSU0xTQlR5WjhPUkpram1naXNNN2ZIekJJSko2cHJxc3VwdWtOa01zTGFfZzNwQ3ZndTZ4YnZxaktYTXdCamFGMWxRRkVqX3NHcTQ4NlQxYzJseV9PNmhES1VKSmJkdHN3YlhGVQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzhuRVJLT3d0SC10ajlIdVdpaTVqVDlfRDRYYUlwbTIxVUZoUkFRTUZvNVBwQnp1MkpfSTdmaUJTZ2JSU0xTQlR5WjhPUkpram1naXNNN2ZIekJJSko2cHJxc3VwdWtOa01zTGFfZzNwQ3ZndTZ4YnZxaktYTXdCamFGMWxRRkVqX3NHcTQ4NlQxYzJseV9PNmhES1VKSmJkdHN3YlhGVQ?oc=5</guid>
-<pubDate>Tue, 07 Jul 2026 16:41:11 GMT</pubDate>
+<title>[YouTube] How TPG Is Accelerating Investment Research with ChatGPT</title>
+<link>https://www.youtube.com/shorts/mC8nKdQbbO4</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/mC8nKdQbbO4</guid>
+<pubDate>Tue, 07 Jul 2026 17:33:50 GMT</pubDate>
 
 </item>
 <item>
-<title>[Google News] Nasdaq selloff 🚩 DeepSeek and Samsung earnings reaction sink semiconductor stocks - XTB.com</title>
-<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPeVdUcngyOE53czR6Sk1YdG82MmJZVnNnRWs0WjVLTUVjd2oweDc5UDlvZzhNLVFfd3BKdlZzU0RIN2JyXzhMWEhkMlQ1YWlSRjNuVmZhWlNuQl85RDIyNTljRW51Z2hqUFpxaHlBY09fazlrUzgyM1dPZFRidERveXBaUE1iems2aUFiZkZiQUh2V1FtR1ZIQVU5TVBtQjU4akFnQ3hlVFhmd09jS2JNZ3RZSzY5YXR1bHc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPeVdUcngyOE53czR6Sk1YdG82MmJZVnNnRWs0WjVLTUVjd2oweDc5UDlvZzhNLVFfd3BKdlZzU0RIN2JyXzhMWEhkMlQ1YWlSRjNuVmZhWlNuQl85RDIyNTljRW51Z2hqUFpxaHlBY09fazlrUzgyM1dPZFRidERveXBaUE1iems2aUFiZkZiQUh2V1FtR1ZIQVU5TVBtQjU4akFnQ3hlVFhmd09jS2JNZ3RZSzY5YXR1bHc?oc=5</guid>
-<pubDate>Tue, 07 Jul 2026 16:27:18 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeekSeek reportedly developing own AI chip to reduce reliance on Nvidia, Huawei - Yahoo Finance</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxONmJwZjNTY3plRzVqQTdJakVqZldqTjAxMjltR2tUaVdqb1MzcEd1dTJscGZzUDZiYTZFNlFHdy14ZVVLZ0x2R3I1d2xKMUxUX2ZqSHVmY3pDcDZmVlJROXkyVTczQ2ZoMlN6b0tKZEpxTksxUFZ3QzU3UFVDRXVQODJZR2tjV2kyZmx2WE1EaVRnU0toYVZIVXJsb2pUYVZkQjlv?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxONmJwZjNTY3plRzVqQTdJakVqZldqTjAxMjltR2tUaVdqb1MzcEd1dTJscGZzUDZiYTZFNlFHdy14ZVVLZ0x2R3I1d2xKMUxUX2ZqSHVmY3pDcDZmVlJROXkyVTczQ2ZoMlN6b0tKZEpxTksxUFZ3QzU3UFVDRXVQODJZR2tjV2kyZmx2WE1EaVRnU0toYVZIVXJsb2pUYVZkQjlv?oc=5</guid>
-<pubDate>Tue, 07 Jul 2026 16:19:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek eyes in-house AI chip - Mobile World Live</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNaVVGU1hTUlZyZW5vOG9KbFRITFdJdU9uS2Z0Q3RYU2h6STItM2NQN1F6YWI0c3JCRXVmbWpBYlZXLS1kd3JhX3ZYaU1uNU9XbWRfS1M0VzdxT1d1N1lScDhZLTNZMlM1LVJkZ0VzbldkQUpwNnhOYWYxUHNqcTRGZkJaQQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxNaVVGU1hTUlZyZW5vOG9KbFRITFdJdU9uS2Z0Q3RYU2h6STItM2NQN1F6YWI0c3JCRXVmbWpBYlZXLS1kd3JhX3ZYaU1uNU9XbWRfS1M0VzdxT1d1N1lScDhZLTNZMlM1LVJkZ0VzbldkQUpwNnhOYWYxUHNqcTRGZkJaQQ?oc=5</guid>
-<pubDate>Tue, 07 Jul 2026 16:13:04 GMT</pubDate>
-
-</item>
-<item>
-<title>[Cloud AI] A developer's guide to publishing agents in Gemini Enterprise and Google Cloud Marketplace</title>
-<link>https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/</guid>
-<pubDate>Tue, 07 Jul 2026 16:00:00 +0000</pubDate>
-<description>Software-as-a-service (SaaS) is evolving into Agents-as-a-service (AaaS). Instead of isolated applications, developers are creating AI agents that interoperate using standardized open protocols such as the Agent2Agent (A2A) protocol and can be orchestrated through centralized agent platforms like Ge</description>
-</item>
-<item>
-<title>[Cloud AI] Drive proactive security, prioritize risks with Google Threat Intelligence and Wiz ASM</title>
-<link>https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/</guid>
-<pubDate>Tue, 07 Jul 2026 16:00:00 +0000</pubDate>
-<description>Being more proactive continues to be a leading goal for security organizations. As AI accelerates the pace of vulnerability discovery and exploitation, organizations will rely on the personalization of their security investments to help prioritize their defenses. To help you be more proactive by mat</description>
-</item>
-<item>
-<title>[Cloud AI] 20 questions for the Agentic Enterprise (and how Agent Platform can help)</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/</guid>
-<pubDate>Tue, 07 Jul 2026 16:00:00 +0000</pubDate>
-<description>If you’re an IT leader, you might be getting a lot of questions about how to build and deploy agents. The pressure to move fast is intense, but the engineering reality is incredibly complex. Where do your teams even begin? How do you untangle a fragmented mess of disconnected tools? And as things gr</description>
-</item>
-<item>
-<title>[Cloud AI] Report: 83% of organizations need to upgrade their infrastructure to support agentic AI</title>
-<link>https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/</guid>
-<pubDate>Tue, 07 Jul 2026 16:00:00 +0000</pubDate>
-<description>For years, enterprise AI has been synonymous with conversational AI — the customer service bots and digital assistants we interact with every day. But today, the market has shifted. We’ve officially moved from moving from AI that answers through simple chats, to AI that takes action, automated workf</description>
-</item>
-<item>
-<title>[Google News] China’s DeepSeek developing its own AI chip, sources say - Taipei Times</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5PdWdHSEE1MUoxV3VHVEhhbm1XZkF2c3FHZGh4clFJOTR2OE9YYUVMdFh3enBtUW9hOW9NVzBRT3VlVnpKWDlDQkk3VDJTc2ZlSVJVaUg2aDQyZ0VMRDVhQWRJMGxkX25abXo3ZHh0WWdSbGpuQ3c?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE5PdWdHSEE1MUoxV3VHVEhhbm1XZkF2c3FHZGh4clFJOTR2OE9YYUVMdFh3enBtUW9hOW9NVzBRT3VlVnpKWDlDQkk3VDJTc2ZlSVJVaUg2aDQyZ0VMRDVhQWRJMGxkX25abXo3ZHh0WWdSbGpuQ3c?oc=5</guid>
-<pubDate>Tue, 07 Jul 2026 16:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] China's DeepSeek Developing Own AI Chip To Cut Reliance On Nvidia: Report - NDTV Profit</title>
-<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDA5bEtlSFl3TGVkc1pLb09EenF2ZWNITWt0cFdtYzlMZVFrQVQtaE42dEFKeHpTOGp3ZTBLUy1PWm1lZ3hkQUpQRmk5QVBBOGZLS0hiRWxEcHR3dDVGQWRwVVBxX2NLYXJLUFlHTWtqMU1UMnZtQThEaU82X1ktMF9Dazl6YlVrUlZsVW1OVUlpY1pLV0dBU3huTGdZcC1QdTlSd2ZMcmtXZEE3RGlRQmx6Z0tFZWZLYkHSAcIBQVVfeXFMTU5fZzQzaWVPdnJUU1ZPeEZ6UGxnZ3dDRnMtVnQ0aXVaeGpaeXB3WTdGVkQ0UTJ2UnJoUThoZkhxaWRhc0V0Rjl5VGUxT05BVWVBakxNdDA2ZmoxcEtUNnNEbDRHZTNscFEwcGFtRUtpcVFWVm1uLUY4RkJOVm9HWWR5WXhKaDNjeXZ1WXF2WWFjWm0xb2psSUtjOHhkMk9WQllZVExpSEZpOV8tNVJSSGJqOXBIUnBpbmRzVWFMUnduU1E?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDA5bEtlSFl3TGVkc1pLb09EenF2ZWNITWt0cFdtYzlMZVFrQVQtaE42dEFKeHpTOGp3ZTBLUy1PWm1lZ3hkQUpQRmk5QVBBOGZLS0hiRWxEcHR3dDVGQWRwVVBxX2NLYXJLUFlHTWtqMU1UMnZtQThEaU82X1ktMF9Dazl6YlVrUlZsVW1OVUlpY1pLV0dBU3huTGdZcC1QdTlSd2ZMcmtXZEE3RGlRQmx6Z0tFZWZLYkHSAcIBQVVfeXFMTU5fZzQzaWVPdnJUU1ZPeEZ6UGxnZ3dDRnMtVnQ0aXVaeGpaeXB3WTdGVkQ0UTJ2UnJoUThoZkhxaWRhc0V0Rjl5VGUxT05BVWVBakxNdDA2ZmoxcEtUNnNEbDRHZTNscFEwcGFtRUtpcVFWVm1uLUY4RkJOVm9HWWR5WXhKaDNjeXZ1WXF2WWFjWm0xb2psSUtjOHhkMk9WQllZVExpSEZpOV8tNVJSSGJqOXBIUnBpbmRzVWFMUnduU1E?oc=5</guid>
-<pubDate>Tue, 07 Jul 2026 15:52:12 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Nvidia stock remains under pressure on Tuesday: what's hurting the AI darling? - Invezz</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQMlYxbGN4Zm11NXZYcDhVeGQtNTZBMUo4c3FKa1czZzhtdEVQZE9mTmhNNGUwSnlJTW9RRmZLLWpCd3htVXhfODBSd1RiLTlGYlVtb2VsZzVLZjdfV1lnZFdUX2Vfb2RIVW1NYUl2WkFoSzNHb1liTlkwZWpucUxzY1ZBaXBtYVJzSVlUQ0dvOGotR01TTklTQmpBTHFnY2dJRWhrWDgydUVWRWhBOUhOX1VKSk8?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxQMlYxbGN4Zm11NXZYcDhVeGQtNTZBMUo4c3FKa1czZzhtdEVQZE9mTmhNNGUwSnlJTW9RRmZLLWpCd3htVXhfODBSd1RiLTlGYlVtb2VsZzVLZjdfV1lnZFdUX2Vfb2RIVW1NYUl2WkFoSzNHb1liTlkwZWpucUxzY1ZBaXBtYVJzSVlUQ0dvOGotR01TTklTQmpBTHFnY2dJRWhrWDgydUVWRWhBOUhOX1VKSk8?oc=5</guid>
-<pubDate>Tue, 07 Jul 2026 15:51:11 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Forbes 2026 AI 50 List | Top Artificial Intelligence Companies - Forbes</title>
-<link>https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</guid>
-<pubDate>Tue, 07 Jul 2026 15:36:52 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Norm Raises $120 Million to Expand Legal-Focused AI Offering - PYMNTS.com</title>
-<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOWDhvUTJzYTVqMEtycHR4N3pxQ0ozaHUxZ3lJbEUydG5pZTBLQkdYZnd6LVZGZzNrU2Vld0dYXzZVZDdXYzlMN3B1c3BCa3VDZEt4ajZfNTVqZzlIX0hocnJSNWlLRUpvQkQ1NjJGeEg0TXd4YXhEMnoxYTlLN1JYVDNxWmN4S1d1dHlsYUV0VlF3d1NhVFo2aWtyVTAtb0FKVkJCWk9IeFdOVTZRUWVZbE1rZFUxbVJkVlZyVXNOMA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxOWDhvUTJzYTVqMEtycHR4N3pxQ0ozaHUxZ3lJbEUydG5pZTBLQkdYZnd6LVZGZzNrU2Vld0dYXzZVZDdXYzlMN3B1c3BCa3VDZEt4ajZfNTVqZzlIX0hocnJSNWlLRUpvQkQ1NjJGeEg0TXd4YXhEMnoxYTlLN1JYVDNxWmN4S1d1dHlsYUV0VlF3d1NhVFo2aWtyVTAtb0FKVkJCWk9IeFdOVTZRUWVZbE1rZFUxbVJkVlZyVXNOMA?oc=5</guid>
-<pubDate>Tue, 07 Jul 2026 15:24:56 GMT</pubDate>
-
-</item>
-<item>
-<title>[Blog] Hugging Face Models on Foundry Managed Compute</title>
-<link>https://huggingface.co/blog/microsoft/foundry-managed-compute</link>
-<guid isPermaLink="false">https://huggingface.co/blog/microsoft/foundry-managed-compute</guid>
-<pubDate>Tue, 07 Jul 2026 15:20:06 GMT</pubDate>
-<description>A Blog post by Microsoft on Hugging Face</description>
-</item>
-<item>
-<title>[Developer] NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads</title>
-<link>https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/</guid>
-<pubDate>Tue, 07 Jul 2026 15:10:10 GMT</pubDate>
-<description>Agentic systems turn model reasoning into action through multi-step workflows that combine inference, tool use, code execution, retrieval, orchestration, and...</description>
-</item>
-<item>
-<title>[Blog] AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters</title>
-<link>https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/</guid>
-<pubDate>Tue, 07 Jul 2026 15:00:52 +0000</pubDate>
-<description>Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the too</description>
-</item>
-<item>
-<title>[Newsroom] Our Work to Fight Child Exploitation on Our Apps</title>
-<link>https://about.fb.com/news/2026/07/our-work-to-fight-child-exploitation-on-our-apps/</link>
-<guid isPermaLink="false">https://about.fb.com/news/2026/07/our-work-to-fight-child-exploitation-on-our-apps/</guid>
-<pubDate>Tue, 07 Jul 2026 14:58:49 +0000</pubDate>
-<description>Child exploitation is a horrific crime and every day, we work aggressively to fight this kind of abuse both on and off our platforms. We’re aware of recent news reports about Instagram ads in India that violated our policies against child exploitation. And we want to be clear: we take these concerns</description>
-</item>
-<item>
-<title>[Google News] Intel, Nvidia, AMD, Micron, Sandisk Plunge Up To 14% On DeepSeek's In-House Chip Threat - NDTV Profit</title>
-<link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnRkRWFheUpLeGo5bksxR3hTVlJhNGlWVV90MHZtNHpzekxBclJ4WWRhZFc5Mlo2clhLcjZZWEFzQ2oyVERSNVppcUtEbjNNR2s0NEQxblZ3VmxnTGt5UzhGRVBONHFQQ0hrNVNHWkE3d1paUFE1RmxhWGVUb0k1VTBjVVJESnd6emdvcnVVTFV4dWIyNG5CSi1TaXUySlFiZ0F2M3NqUWxpYmhZZ3dJcnpCVk5UZVl1cEd1d0c2RmphZ9IBygFBVV95cUxPanZaN1VKUlc1cVNXR3pwdjhneEVmZmRJQWhkWVBhdFdGX3AzWnBHcERXMmNtZko4S0gwVDF0a1BEdlloOFJLTldKSzFxVXNPS25ySGp6aXBZRTA5dDROUUhuLXQtZzFJR1dnNU9JZkszN3A3dUtkUW5xOWtIT0NwU0lOOWc4SF9mLVQwckUwVXhrWmdwUl9MUXl6VUljT2MtRnFDWnZuR2dLa2ZwOVNzcXZYdERqb0p2VkJrWnVQUEw3d3FjUzZFa2hB?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnRkRWFheUpLeGo5bksxR3hTVlJhNGlWVV90MHZtNHpzekxBclJ4WWRhZFc5Mlo2clhLcjZZWEFzQ2oyVERSNVppcUtEbjNNR2s0NEQxblZ3VmxnTGt5UzhGRVBONHFQQ0hrNVNHWkE3d1paUFE1RmxhWGVUb0k1VTBjVVJESnd6emdvcnVVTFV4dWIyNG5CSi1TaXUySlFiZ0F2M3NqUWxpYmhZZ3dJcnpCVk5UZVl1cEd1d0c2RmphZ9IBygFBVV95cUxPanZaN1VKUlc1cVNXR3pwdjhneEVmZmRJQWhkWVBhdFdGX3AzWnBHcERXMmNtZko4S0gwVDF0a1BEdlloOFJLTldKSzFxVXNPS25ySGp6aXBZRTA5dDROUUhuLXQtZzFJR1dnNU9JZkszN3A3dUtkUW5xOWtIT0NwU0lOOWc4SF9mLVQwckUwVXhrWmdwUl9MUXl6VUljT2MtRnFDWnZuR2dLa2ZwOVNzcXZYdERqb0p2VkJrWnVQUEw3d3FjUzZFa2hB?oc=5</guid>
-<pubDate>Tue, 07 Jul 2026 14:25:11 GMT</pubDate>
+<title>[YouTube] How TPG Is Accelerating Investment Research with ChatGPT</title>
+<link>https://www.youtube.com/watch?v=SRXJevuTnNI</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=SRXJevuTnNI</guid>
+<pubDate>Tue, 07 Jul 2026 17:15:23 GMT</pubDate>
 
 </item>
 </channel>
