@@ -5,7 +5,84 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 09 Jul 2026 18:10:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 20:05:08 GMT</lastBuildDate>
+<item>
+<title>[Google News] Artificial intelligence consortium formed to advance infrastructure development - insurance-portal.ca</title>
+<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUhWNzJNbTk3czVJZmxTSlBSaXBpcFQ3TlIyeVNvQ1hLOFlFQ3JmSHpNRThxdXdoZ3BKaTM3M0YxVHJYMXpnUlNXbUlGWVFHd3pWalN6a1BMOFNsNTdsUURxS0JnbDNDejB6bTZ3Q3oyNUdIOEEwMmdqNWYyYkRUZ0hHcThnOWdsMWpQUkdEc3duQ1UyQnp0XzhtR2pQdXUtd3Ffbi1xbmNTNnpES2hrdGV3bDBOeTg?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUhWNzJNbTk3czVJZmxTSlBSaXBpcFQ3TlIyeVNvQ1hLOFlFQ3JmSHpNRThxdXdoZ3BKaTM3M0YxVHJYMXpnUlNXbUlGWVFHd3pWalN6a1BMOFNsNTdsUURxS0JnbDNDejB6bTZ3Q3oyNUdIOEEwMmdqNWYyYkRUZ0hHcThnOWdsMWpQUkdEc3duQ1UyQnp0XzhtR2pQdXUtd3Ffbi1xbmNTNnpES2hrdGV3bDBOeTg?oc=5</guid>
+<pubDate>Thu, 09 Jul 2026 20:02:09 GMT</pubDate>
+
+</item>
+<item>
+<title>[Developer] Synthetic Data Generation for Financial AI Research with NVIDIA NeMo</title>
+<link>https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/</guid>
+<pubDate>Thu, 09 Jul 2026 19:40:37 GMT</pubDate>
+<description>Fine-tuning LLMs for financial natural language processing (NLP) is constrained by limited, imbalanced data. Real-world financial news overrepresents earnings...</description>
+</item>
+<item>
+<title>[YouTube] ChatGPT Work for Marketing Teams</title>
+<link>https://www.youtube.com/watch?v=8sUXGKDUEzI</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=8sUXGKDUEzI</guid>
+<pubDate>Thu, 09 Jul 2026 18:30:29 GMT</pubDate>
+<description>Marketing work usually starts with a lot of moving pieces: customer insights, campaign ideas, feedback, channel plans, and a deadline that is already getting closer. See how ChatGPT Work can help teams move from insight to brief to campaign-ready work https://openai.com/business/solutions/marketing/</description>
+</item>
+<item>
+<title>[YouTube] Codex for Engineering teams</title>
+<link>https://www.youtube.com/watch?v=Ga792ftrBu4</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=Ga792ftrBu4</guid>
+<pubDate>Thu, 09 Jul 2026 18:30:19 GMT</pubDate>
+<description>Codex takes engineering work from issue to tested, review-ready code—handling everything from routine fixes and tests to complex refactors and migrations, while engineers stay in control of what ships. https://openai.com/business/solutions/engineering/</description>
+</item>
+<item>
+<title>[YouTube] ChatGPT Work for Sales Teams</title>
+<link>https://www.youtube.com/watch?v=jEtR3PLaWos</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=jEtR3PLaWos</guid>
+<pubDate>Thu, 09 Jul 2026 18:30:18 GMT</pubDate>
+<description>After every customer call, momentum depends on what happens next. ChatGPT Work helps sales teams turn the conversation into follow-ups, plans, and next steps that move deals forward. https://openai.com/business/solutions/sales/</description>
+</item>
+<item>
+<title>[YouTube] ChatGPT Work for Business Operations Teams</title>
+<link>https://www.youtube.com/watch?v=M3yEJEDFaEg</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=M3yEJEDFaEg</guid>
+<pubDate>Thu, 09 Jul 2026 18:30:17 GMT</pubDate>
+<description>Business operations teams turn scattered updates, blockers, and moving pieces into plans that keep work moving. See how ChatGPT Work can help teams bring context together, clarify next steps, and turn operational complexity into action. https://openai.com/business/solutions/operations/</description>
+</item>
+<item>
+<title>[YouTube] ChatGPT Work for Finance Teams</title>
+<link>https://www.youtube.com/watch?v=RlS2dDeAfDw</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=RlS2dDeAfDw</guid>
+<pubDate>Thu, 09 Jul 2026 18:30:12 GMT</pubDate>
+<description>Finance work often starts in the spreadsheet, but ends in a room where someone needs to know what to do next. See how ChatGPT Work can help finance teams move from source data and assumptions to analysis, reporting, and decision-ready work. https://openai.com/business/solutions/finance/</description>
+</item>
+<item>
+<title>[YouTube] ChatGPT Work for Data Analytics Teams</title>
+<link>https://www.youtube.com/watch?v=l-YPBP5jTVs</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=l-YPBP5jTVs</guid>
+<pubDate>Thu, 09 Jul 2026 18:30:05 GMT</pubDate>
+<description>Most data work starts with a messy question, a few scattered files, and someone asking what it means for the business. ChatGPT Work helps teams turn that context into analysis people can actually use. https://openai.com/business/solutions/data/</description>
+</item>
+<item>
+<title>[Developer] Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance</title>
+<link>https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/</guid>
+<pubDate>Thu, 09 Jul 2026 18:17:59 GMT</pubDate>
+<description>Agentic systems often face a trade-off between accuracy and cost. The highest-performing proprietary frontier models and harnesses provide top accuracy but are...</description>
+</item>
+<item>
+<title>[YouTube] Introducing ChatGPT Work, powered by Codex and GPT-5.6</title>
+<link>https://www.youtube.com/watch?v=Wq45rvPGNHs</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=Wq45rvPGNHs</guid>
+<pubDate>Thu, 09 Jul 2026 18:17:42 GMT</pubDate>
+<description>Andrew Ambrosino, Jessica Liang, Ed Bayes, Lauren Gordon, Tejal Patwardhan, and Katy Shi with host Thibault Sottiaux introduce and demo the new ChatGPT and GPT-5.6. https://openai.com/chatgpt-work/</description>
+</item>
+<item>
+<title>[Developer] NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads</title>
+<link>https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/</guid>
+<pubDate>Thu, 09 Jul 2026 18:10:00 GMT</pubDate>
+<description>Agentic systems turn model reasoning into action through multi-step workflows that combine inference, tool use, code execution, retrieval, orchestration, and...</description>
+</item>
 <item>
 <title>[YouTube] Meet GPT-5.6</title>
 <link>https://www.youtube.com/watch?v=-MPGU2a67Ls</link>
@@ -147,6 +224,13 @@
 <description>This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also get</description>
 </item>
 <item>
+<title>[News] GPT-5.6 is now the preferred model in Microsoft 365 Copilot</title>
+<link>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</link>
+<guid isPermaLink="false">https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</guid>
+<pubDate>Thu, 09 Jul 2026 13:00:00 GMT</pubDate>
+<description>Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.</description>
+</item>
+<item>
 <title>[Google News] Google Expands Africa Investment Strategy With New AI, Cloud And Skills Initiatives - CIO Africa</title>
 <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPV19zcGh0NHFEbnRyRDczaXU2alctdXZwR21WdTdFdnVQSUhzYS1OT1JpZTlEUFpzTVRCN0hOYmNrY3NXelloS0hicHZiVzZVbU9lZTdHRU5SVzBKUks4dkxGV2s0Slp2cUFBdTZRRWhXNDBlS1J0WTJoZTFhQUZ1aUVYZ1FjUklId2FMeE02Z0ZTcGFlMExGUnpoQ2dSOTJxVjc3WG9Dcw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxPV19zcGh0NHFEbnRyRDczaXU2alctdXZwR21WdTdFdnVQSUhzYS1OT1JpZTlEUFpzTVRCN0hOYmNrY3NXelloS0hicHZiVzZVbU9lZTdHRU5SVzBKUks4dkxGV2s0Slp2cUFBdTZRRWhXNDBlS1J0WTJoZTFhQUZ1aUVYZ1FjUklId2FMeE02Z0ZTcGFlMExGUnpoQ2dSOTJxVjc3WG9Dcw?oc=5</guid>
@@ -189,7 +273,7 @@
 
 </item>
 <item>
-<title>[Google News] Hallucinations of a Prodigy: Deep Dive into the Extraordinary Mind of a Genius - 36 Kr</title>
+<title>[Google News] Hallucinations of a Prodigy: Deep Dive into the Extraordinary Mind of a Genius - 36Kr</title>
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GTTI3QlBRbS1haGU3dWg5ZTlfSGcyOElPMnNvSXpCclZvMFlTSWhxam1raUp0VnNwYV85N0N1M29NRE9DOEliUEpEc20weXBJVnIw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GTTI3QlBRbS1haGU3dWg5ZTlfSGcyOElPMnNvSXpCclZvMFlTSWhxam1raUp0VnNwYV85N0N1M29NRE9DOEliUEpEc20weXBJVnIw?oc=5</guid>
 <pubDate>Thu, 09 Jul 2026 10:34:37 GMT</pubDate>
@@ -231,7 +315,7 @@
 
 </item>
 <item>
-<title>[Google News] Liang Wenfeng's Talent Philosophy Behind Huawei "Genius Young Man" Conflict with DeepSeek - 36 Kr</title>
+<title>[Google News] Liang Wenfeng's Talent Philosophy Behind Huawei "Genius Young Man" Conflict with DeepSeek - 36Kr</title>
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZMDFwYXlyRldDMVF2ZU05M3hNNE5YcmhDWlRVa2RmUXFCVERkTm1vN21zbnF6X3ZlSl9jYTZZYWswb25yTEI0LXpWblBLbDFKUm5n?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZMDFwYXlyRldDMVF2ZU05M3hNNE5YcmhDWlRVa2RmUXFCVERkTm1vN21zbnF6X3ZlSl9jYTZZYWswb25yTEI0LXpWblBLbDFKUm5n?oc=5</guid>
 <pubDate>Thu, 09 Jul 2026 09:44:30 GMT</pubDate>
@@ -259,7 +343,7 @@
 
 </item>
 <item>
-<title>[Google News] Dialogue with DeepSeek "Challenger" LI Bojie: This Interview Is Like a Rashomon - 36 Kr</title>
+<title>[Google News] Dialogue with DeepSeek "Challenger" LI Bojie: This Interview Is Like a Rashomon - 36Kr</title>
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE14SXdOR2w2azZkWVQ3eDBkbndUVDlveUpxM0NaNFRraG8yaVVVV0VQdWxhR2Znb054RnFXd1hxeTkyeDJlMTNCa3RIZkNDYlpFWWdB?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE14SXdOR2w2azZkWVQ3eDBkbndUVDlveUpxM0NaNFRraG8yaVVVV0VQdWxhR2Znb054RnFXd1hxeTkyeDJlMTNCa3RIZkNDYlpFWWdB?oc=5</guid>
 <pubDate>Thu, 09 Jul 2026 05:44:09 GMT</pubDate>
@@ -284,13 +368,6 @@
 <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5</guid>
 <pubDate>Thu, 09 Jul 2026 02:18:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Forbes 2026 AI 50 List | Top Artificial Intelligence Companies - Forbes</title>
-<link>https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</guid>
-<pubDate>Thu, 09 Jul 2026 02:05:53 GMT</pubDate>
 
 </item>
 <item>
@@ -322,10 +399,24 @@
 
 </item>
 <item>
+<title>[News] Inviting hard questions</title>
+<link>https://www.anthropic.com/news/hard-questions</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/hard-questions</guid>
+<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+<description>We're asking the public for their hardest questions about AI, and committing to show our work as we address them.</description>
+</item>
+<item>
 <title>[Blog] Introducing Muse Spark 1.1</title>
 <link>https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</link>
 <guid isPermaLink="false">https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</guid>
 <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Google News] Modal CTO on the 100,000 Sandbox Problem - StartupHub.ai</title>
+<link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNY01yaUExbGoxVnlRcHUwNkJyWU91cFBycU1FLW5WWEdtaUNsbkMtaHlyUjhDSllzeXNLTndUU3dfVnlxQmRXRnlwTEd1bE12Qm5JTS1ZNnpPWDBOeHJGMThlMm16NG5EVE9BTGJTVmYzajVXdEhmb0huZk9YYkhHTFpkSEMyaUNfajhPLTNTb2dWNlJlbjc1SE1weURsMzN2dGJPcGp3?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxNY01yaUExbGoxVnlRcHUwNkJyWU91cFBycU1FLW5WWEdtaUNsbkMtaHlyUjhDSllzeXNLTndUU3dfVnlxQmRXRnlwTEd1bE12Qm5JTS1ZNnpPWDBOeHJGMThlMm16NG5EVE9BTGJTVmYzajVXdEhmb0huZk9YYkhHTFpkSEMyaUNfajhPLTNTb2dWNlJlbjc1SE1weURsMzN2dGJPcGp3?oc=5</guid>
+<pubDate>Wed, 08 Jul 2026 23:02:57 GMT</pubDate>
 
 </item>
 <item>
@@ -334,97 +425,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=8xqQzrLf0co</guid>
 <pubDate>Wed, 08 Jul 2026 22:51:23 GMT</pubDate>
 <description>For businesses, AI is most powerful when everyone can use it. “Having 2,700 employees, all of whom now have an enterprise ChatGPT license, has just been a giant force multiplier for the business.” -James Mackey, Bain Capital See how Bain Capital portfolio company Zelis is using ChatGPT to streamline</description>
-</item>
-<item>
-<title>[Google News] DeepSeek, Zhipu Develop AI Chips Amid U.S. Sanctions - 조선일보</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZG1ZTFAxeWJOZUprYk53czNNeXhOR1N1V1ZDUFh2dkdNTHFjalVOVmFYLTg1V0lTZEhVczR6WkxoSDA3THNmdG8yOXFDTWMxdFl1UVhwSDNlU1pqV1VLVkNaaEtsT2UwZmVncmo3dHZBWGQ3UExqUU1vdk0wektQZWJFNks4QUNJ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZG1ZTFAxeWJOZUprYk53czNNeXhOR1N1V1ZDUFh2dkdNTHFjalVOVmFYLTg1V0lTZEhVczR6WkxoSDA3THNmdG8yOXFDTWMxdFl1UVhwSDNlU1pqV1VLVkNaaEtsT2UwZmVncmo3dHZBWGQ3UExqUU1vdk0wektQZWJFNks4QUNJ?oc=5</guid>
-<pubDate>Wed, 08 Jul 2026 22:22:24 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] ChatGPT Voice: The Next Generation is Here - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPVkJLZDNRSi1mLVlITmNialdSQlFEOUdiOHd2elhtcmZ4Q0ttdTNNQkxadlNTMjBocU80YmJJVFpONmEzczZZMnN1YkJJZ3BjWEs0d3dobVZMUXlEUzhwWVNvSDBDN1o4QTI2ckhQRmpkVlFPV29lVzdHa28wNkYyZk9aR3ViSzFIRktQaVlOckZpdGxxald5dHhlSE5fUFhQajhUMUpydw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxPVkJLZDNRSi1mLVlITmNialdSQlFEOUdiOHd2elhtcmZ4Q0ttdTNNQkxadlNTMjBocU80YmJJVFpONmEzczZZMnN1YkJJZ3BjWEs0d3dobVZMUXlEUzhwWVNvSDBDN1o4QTI2ckhQRmpkVlFPV29lVzdHa28wNkYyZk9aR3ViSzFIRktQaVlOckZpdGxxald5dHhlSE5fUFhQajhUMUpydw?oc=5</guid>
-<pubDate>Wed, 08 Jul 2026 22:02:38 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek is Developing its First Own AI Chip - Mexico Business News</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPVlVERzQtTUd1U3hHNDBZMmlWUHFqMVYzbUZTSzBSdUpiMVUxcklZVHU2ZGUyblVNN1dRWlZDQ25BS2pxVkNlTnlRNzRWa19KUGtHVmNvR0pXcUNxUjZoMXVPT2h6NFNFTUNWZDYwWFJ5SXJURGpFTjg3S1lQN1hjRlQ3WjdJS3hidEZpWXhWYnk?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxPVlVERzQtTUd1U3hHNDBZMmlWUHFqMVYzbUZTSzBSdUpiMVUxcklZVHU2ZGUyblVNN1dRWlZDQ25BS2pxVkNlTnlRNzRWa19KUGtHVmNvR0pXcUNxUjZoMXVPT2h6NFNFTUNWZDYwWFJ5SXJURGpFTjg3S1lQN1hjRlQ3WjdJS3hidEZpWXhWYnk?oc=5</guid>
-<pubDate>Wed, 08 Jul 2026 21:13:39 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] The next generation of ChatGPT Voice</title>
-<link>https://www.youtube.com/watch?v=9f-Ew_lDtxc</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=9f-Ew_lDtxc</guid>
-<pubDate>Wed, 08 Jul 2026 21:13:26 GMT</pubDate>
-<description>Join Kundan Kumar, Yuchen Zhang, Ehsan Asdar, and Rithesh Kumar as they introduce and demo a new generation of voice models.</description>
-</item>
-<item>
-<title>[YouTube] NVIDIA and LangChain</title>
-<link>https://www.youtube.com/shorts/p2PcFL2FTA8</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/p2PcFL2FTA8</guid>
-<pubDate>Wed, 08 Jul 2026 21:00:19 GMT</pubDate>
-<description>Every company has specialized intelligence that sets it apart. With LangChain, we’re helping enterprises turn that knowledge into specialized agents they can customize, secure and improve over time. Learn more: https://nvda.ws/4vdM1bD</description>
-</item>
-<item>
-<title>[Newsroom (AI)] Breaking Ground on Meta’s First Data Center in Canada</title>
-<link>https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/</link>
-<guid isPermaLink="false">https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/</guid>
-<pubDate>Wed, 08 Jul 2026 19:30:30 +0000</pubDate>
-<description>We’re breaking ground on a new 1GW, AI-optimized data center in Sturgeon County, Alberta — our first data center in Canada and 33rd in our global fleet. The post Breaking Ground on Meta’s First Data Center in Canada appeared first on Meta Newsroom .</description>
-</item>
-<item>
-<title>[YouTube] The Network at the Heart of AI Factories With NVIDIA Spectrum- X Ethernet​</title>
-<link>https://www.youtube.com/watch?v=tjGVnjsvi-k</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=tjGVnjsvi-k</guid>
-<pubDate>Wed, 08 Jul 2026 17:39:39 GMT</pubDate>
-<description>In this fireside chat, Alan Weckel from 650 Group and NVIDIA’s SVP of Networking, Gilad Shainer, discuss how networking serves as the heart of modern AI factories. The conversation explores the shifting landscape of network architectures as the industry enters an 800 gig upgrade cycle and experience</description>
-</item>
-<item>
-<title>[YouTube] Image interaction with GPT-Live</title>
-<link>https://www.youtube.com/watch?v=KS4X-BPjxN8</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=KS4X-BPjxN8</guid>
-<pubDate>Wed, 08 Jul 2026 17:37:19 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] Discoverability widgets with GPT-Live</title>
-<link>https://www.youtube.com/watch?v=QUOwyLwoykU</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=QUOwyLwoykU</guid>
-<pubDate>Wed, 08 Jul 2026 17:36:34 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] Natural Conversations with GPT-Live</title>
-<link>https://www.youtube.com/watch?v=3bL6IpdgddQ</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=3bL6IpdgddQ</guid>
-<pubDate>Wed, 08 Jul 2026 17:33:32 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] Temporal awareness with GPT-Live</title>
-<link>https://www.youtube.com/watch?v=8vvWTz6N7Qg</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=8vvWTz6N7Qg</guid>
-<pubDate>Wed, 08 Jul 2026 17:33:31 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] Listening &amp; Speaking with GPT-Live</title>
-<link>https://www.youtube.com/watch?v=K-fYBO8t3-A</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=K-fYBO8t3-A</guid>
-<pubDate>Wed, 08 Jul 2026 17:33:31 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] This is the new ChatGPT Voice, powered by GPT-Live</title>
-<link>https://www.youtube.com/watch?v=EAN5Cj347PY</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=EAN5Cj347PY</guid>
-<pubDate>Wed, 08 Jul 2026 17:23:27 GMT</pubDate>
-<description>You’ll want to turn the sound on for this one. Read more here: https://openai.com/index/introducing-gpt-live/</description>
 </item>
 </channel>
 </rss>
