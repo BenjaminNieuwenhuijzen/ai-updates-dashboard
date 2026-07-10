@@ -5,7 +5,28 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Fri, 10 Jul 2026 18:02:30 GMT</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 19:53:51 GMT</lastBuildDate>
+<item>
+<title>[Developer] Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading</title>
+<link>https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/</guid>
+<pubDate>Fri, 10 Jul 2026 18:17:40 GMT</pubDate>
+<description>Large language model (LLM) training workloads increasingly run into GPU memory limits before compute is fully used. Model weights, gradients, optimizer states,...</description>
+</item>
+<item>
+<title>[Google News] At 14, Jainam Jain Is Building an AI Startup From the Burj Khalifa - ascendants.in</title>
+<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzc0MTgwOFJBUmowX0FWdFpDSXhBcXp1aUlGcFlOWGNxVnRhM1U3c2l0VU9jLU5Ea0xVN2xnRWc1UVRJaDU2dTIzQjVFQS12RXNGZm85ZzJkVndJWUUzN0JzZHZVbmhuREhTcDh1eW9qRTlnaUVHS050aHp1VG9LSHZNYzlFRHhtV3dIQlRXMA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzc0MTgwOFJBUmowX0FWdFpDSXhBcXp1aUlGcFlOWGNxVnRhM1U3c2l0VU9jLU5Ea0xVN2xnRWc1UVRJaDU2dTIzQjVFQS12RXNGZm85ZzJkVndJWUUzN0JzZHZVbmhuREhTcDh1eW9qRTlnaUVHS050aHp1VG9LSHZNYzlFRHhtV3dIQlRXMA?oc=5</guid>
+<pubDate>Fri, 10 Jul 2026 17:36:44 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Perplexity Announces $1 Million Challenge to Build a Billion-Dollar AI Startup - ascendants.in</title>
+<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOWm1ZMnlkNm1LSmpfNzVFcm8xblVnV3FqYnNaMUkzakJ4cWtINDFHcFhlYUIzeUZVYktqMlg4Z0lPWHhMQXZ1RHJMX1k4ZGJvalNsUVdoSkRmaW5aa1J6STFjVUJHNTVHcGxMNXBIWGhsWU1EM2Q2TW1GMG9TWlVhZjZ0OFpvaDVQdEgyVFZucE1vZHYwZWVsX2xB?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxOWm1ZMnlkNm1LSmpfNzVFcm8xblVnV3FqYnNaMUkzakJ4cWtINDFHcFhlYUIzeUZVYktqMlg4Z0lPWHhMQXZ1RHJMX1k4ZGJvalNsUVdoSkRmaW5aa1J6STFjVUJHNTVHcGxMNXBIWGhsWU1EM2Q2TW1GMG9TWlVhZjZ0OFpvaDVQdEgyVFZucE1vZHYwZWVsX2xB?oc=5</guid>
+<pubDate>Fri, 10 Jul 2026 16:51:04 GMT</pubDate>
+
+</item>
 <item>
 <title>[Developer] Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead</title>
 <link>https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/</link>
@@ -40,6 +61,20 @@
 <guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/</guid>
 <pubDate>Fri, 10 Jul 2026 16:00:00 +0000</pubDate>
 <description>Editor’s note: Some of the most interesting questions in AI are being asked by information theoreticians, around how to provide context to an emerging class of AI agents. A few weeks ago, we waded into those waters with a blog about the Open Knowledge Format , a specification that formalizes the LLM</description>
+</item>
+<item>
+<title>[Gemini] Here’s how to make study notebooks in the Gemini app.</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks/</guid>
+<pubDate>Fri, 10 Jul 2026 16:00:00 +0000</pubDate>
+<description>Studying for a test, but not sure where to start? Study notebooks, a new feature in the Gemini app, can help you get organized and learn more efficiently.Think of study …</description>
+</item>
+<item>
+<title>[Google News] OpenAI Reportedly Offers U.S. Government 5% Stake as Washington Pressure Builds - ascendants.in</title>
+<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOZE9WMG1SMTVmWlFuMEJKeGtCTTNKZkVpLU9rVkkyR2ctSmZVMzlWWTdxWUxTMHU3cEM5dkFLWjctR3ZiVk94RmpOb2ZBRDEtTGVKVnZEdG5xWW5SSjhoazBGeW00UG9xYlhRVFNjVEFoZDRoU0tHY01iSXVLWFRaUjNhOG9sY2xGa0lfbWJDU3Y?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxOZE9WMG1SMTVmWlFuMEJKeGtCTTNKZkVpLU9rVkkyR2ctSmZVMzlWWTdxWUxTMHU3cEM5dkFLWjctR3ZiVk94RmpOb2ZBRDEtTGVKVnZEdG5xWW5SSjhoazBGeW00UG9xYlhRVFNjVEFoZDRoU0tHY01iSXVLWFRaUjNhOG9sY2xGa0lfbWJDU3Y?oc=5</guid>
+<pubDate>Fri, 10 Jul 2026 15:53:27 GMT</pubDate>
+
 </item>
 <item>
 <title>[DeepMind video] Understanding the inner thoughts of AI</title>
@@ -119,6 +154,13 @@
 <description>How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.</description>
 </item>
 <item>
+<title>[Google News] Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
+<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</guid>
+<pubDate>Fri, 10 Jul 2026 06:56:03 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] DeepSeek’s Inference Chips Push AI Power Into the Deployment Stack - HackerNoon</title>
 <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQblRoTmdNRWJmcGtaYkNYcGNLMVBGaHYyOE9jdFNDQzljZGNMZWt2TndUREpDZTA3MFM4ZU9TNTBtdVBGNW9Qc0FOVl9nMTBLMEtmc3RjajlWWHZKSW4xZlJKRFZlMU9uMVBYTE5fcWJRZ3Rmd29aUUpjbW1WWThrQ1BKSG1xeTdIbkpIeHdXQTh2dw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikgFBVV95cUxQblRoTmdNRWJmcGtaYkNYcGNLMVBGaHYyOE9jdFNDQzljZGNMZWt2TndUREpDZTA3MFM4ZU9TNTBtdVBGNW9Qc0FOVl9nMTBLMEtmc3RjajlWWHZKSW4xZlJKRFZlMU9uMVBYTE5fcWJRZ3Rmd29aUUpjbW1WWThrQ1BKSG1xeTdIbkpIeHdXQTh2dw?oc=5</guid>
@@ -151,13 +193,6 @@
 <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPMnRQc0RVNHd2RmtaT3FodUxzMDJkV1dPWThCWmRKUzZxNklxTnhDUmtBU3g2eHEtV01XRFVlY3drcFZoWjFTRjF2QkI3UG05N09BbmUzR1RTTF9rUjB5TDRrV3lPbXJrVVdxV2ZwZ1lObmRmVC12cGloa3FlUzNFU0pmSzUyZnFHXzNiWDF4bTdELXpGOXpCMA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimAFBVV95cUxPMnRQc0RVNHd2RmtaT3FodUxzMDJkV1dPWThCWmRKUzZxNklxTnhDUmtBU3g2eHEtV01XRFVlY3drcFZoWjFTRjF2QkI3UG05N09BbmUzR1RTTF9rUjB5TDRrV3lPbXJrVVdxV2ZwZ1lObmRmVC12cGloa3FlUzNFU0pmSzUyZnFHXzNiWDF4bTdELXpGOXpCMA?oc=5</guid>
 <pubDate>Fri, 10 Jul 2026 01:22:36 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
-<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</guid>
-<pubDate>Fri, 10 Jul 2026 00:58:45 GMT</pubDate>
 
 </item>
 <item>
@@ -224,13 +259,6 @@
 <description>“ChatGPT has really been a force multiplier” Will Daney (tag), Go-To-Market Strategist at NVIDIA (tag), uses ChatGPT Work to: 🤖 Automate repeatable workflows ⏱️ Eliminate manual analysis 📈 Turn customer data into actionable insights “You build the building block yourself, and then it can scale to </description>
 </item>
 <item>
-<title>[Google News] Artificial Intelligence raises $100 million in funding for itself - Zamin.uz</title>
-<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHdyQ1JYTkZqWUtDWXlWWTVHUThUSF9Vd1lOdDdaSUlUaUdxT0w2YlJVUXJaYlFPVUlSUGtJQ0ItcXZ3ZkhMT3JkVWRpMUV2bnN4T0NHSGtQR2lhenZIY3NSZmlQQWl4c0xFYkxwbENUdGxaYWJodGMzNHZiVG1TbXJCZVp2Tmgzd1ZuR0NsX0pSU3kyYjNhcG45T2RLWnRGTUNhYXFzeHVkdGs?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHdyQ1JYTkZqWUtDWXlWWTVHUThUSF9Vd1lOdDdaSUlUaUdxT0w2YlJVUXJaYlFPVUlSUGtJQ0ItcXZ3ZkhMT3JkVWRpMUV2bnN4T0NHSGtQR2lhenZIY3NSZmlQQWl4c0xFYkxwbENUdGxaYWJodGMzNHZiVG1TbXJCZVp2Tmgzd1ZuR0NsX0pSU3kyYjNhcG45T2RLWnRGTUNhYXFzeHVkdGs?oc=5</guid>
-<pubDate>Thu, 09 Jul 2026 22:27:01 GMT</pubDate>
-
-</item>
-<item>
 <title>[YouTube] ChatGPT Work | Zapier: Seven Figures in Monthly Pipeline</title>
 <link>https://www.youtube.com/shorts/md5t5Nu44A4</link>
 <guid isPermaLink="false">https://www.youtube.com/shorts/md5t5Nu44A4</guid>
@@ -242,13 +270,6 @@
 <link>https://www.youtube.com/watch?v=sqXsMDOxP0Y</link>
 <guid isPermaLink="false">https://www.youtube.com/watch?v=sqXsMDOxP0Y</guid>
 <pubDate>Thu, 09 Jul 2026 21:19:10 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Nigerian startup bets on artificial intelligence to transform football prediction - Business News Nigeria</title>
-<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPd040VExMdkdSeEJKR2UtVzRDMUI2ZTFSZVFoYUhPQVU0TXk0WFFuRDlySVFtYkw2aUJyOTFZLTVJN2hxYjlnZW5DZTNoR3RUUlF4U01mem5YTWxlSmh2T0RRMnpXTkJuWk12R0hKTzJld1RKY19pZHA5NmRWWjlwU2VIUXdzS0ZaQi1DVXB6VDBwRExGLUc0UW9HY1pJNGY0VTFJTlhqWFF0TEZiQkk5R21LWXp6Y2FTV0E?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPd040VExMdkdSeEJKR2UtVzRDMUI2ZTFSZVFoYUhPQVU0TXk0WFFuRDlySVFtYkw2aUJyOTFZLTVJN2hxYjlnZW5DZTNoR3RUUlF4U01mem5YTWxlSmh2T0RRMnpXTkJuWk12R0hKTzJld1RKY19pZHA5NmRWWjlwU2VIUXdzS0ZaQi1DVXB6VDBwRExGLUc0UW9HY1pJNGY0VTFJTlhqWFF0TEZiQkk5R21LWXp6Y2FTV0E?oc=5</guid>
-<pubDate>Thu, 09 Jul 2026 21:01:30 GMT</pubDate>
 
 </item>
 <item>
@@ -264,13 +285,6 @@
 <guid isPermaLink="false">https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/</guid>
 <pubDate>Thu, 09 Jul 2026 20:22:28 +0000</pubDate>
 <description>The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the </description>
-</item>
-<item>
-<title>[Google News] Family Cereal Business Runs on GPT-5.6 - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOUFkyWWJLNDZ3dV9iY3loZHhBVTZ5Q2wzSUp2QlNxT2xFTXVta1luekNxdzRDWEpvODNfMllhTWlhcHZLbk5uSU5YUjN1VzV2b2oxbXlaaXZTT1ZaOXVsbEZMLWE5RmNTWkNGcm01MTVhTGhJbmNwb3Itc21DN2p5RWJhQTZrT3UyM1RVWTR0R1E4cWdnaU1Da2JZakxyNFV4NGtR?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxOUFkyWWJLNDZ3dV9iY3loZHhBVTZ5Q2wzSUp2QlNxT2xFTXVta1luekNxdzRDWEpvODNfMllhTWlhcHZLbk5uSU5YUjN1VzV2b2oxbXlaaXZTT1ZaOXVsbEZMLWE5RmNTWkNGcm01MTVhTGhJbmNwb3Itc21DN2p5RWJhQTZrT3UyM1RVWTR0R1E4cWdnaU1Da2JZakxyNFV4NGtR?oc=5</guid>
-<pubDate>Thu, 09 Jul 2026 20:22:26 GMT</pubDate>
-
 </item>
 <item>
 <title>[YouTube] Meet a mathematician solving previously unsolvable math problems with GPT-5.6</title>
@@ -411,20 +425,6 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXdSM2EydVpxb2xuU1BwRVh2WmViZTk3SGFfb2FSRnN0U1pLc0xuLURURWQ1Z0lWNEJJeVkzWmlSZ2hqcDF1MGRBZjVWbmQxOFRqMjVITHN0NnpvWmhhMV96N0Y2cVZKUnBIdmtGXzRkQmJENUhBZVNobXE2bVJ0U21menpjbWlJWHdUVzllLUhrelk5OEkwZElGNlEyV2dCNFpN?oc=5</guid>
 <pubDate>Thu, 09 Jul 2026 13:15:02 GMT</pubDate>
 
-</item>
-<item>
-<title>[Blog] GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server</title>
-<link>https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/</guid>
-<pubDate>Thu, 09 Jul 2026 13:00:55 +0000</pubDate>
-<description>This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also get</description>
-</item>
-<item>
-<title>[News] GPT-5.6 is now the preferred model in Microsoft 365 Copilot</title>
-<link>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</link>
-<guid isPermaLink="false">https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</guid>
-<pubDate>Thu, 09 Jul 2026 13:00:00 GMT</pubDate>
-<description>Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.</description>
 </item>
 </channel>
 </rss>
