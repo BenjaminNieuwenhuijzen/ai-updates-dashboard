@@ -5,7 +5,14 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Sat, 11 Jul 2026 17:17:03 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 19:33:05 GMT</lastBuildDate>
+<item>
+<title>[Google News] Apple sues OpenAI, alleging theft of AI trade secrets - jawlah.co</title>
+<link>https://news.google.com/rss/articles/CBMiP0FVX3lxTE5hYVZYMmV4SXBSbGlSSjdMTFhWNVpVeEtnRDNrWWRsR1dWZ0Y3Um91VzQwRy1wX2hNWWxwQ1VFUQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiP0FVX3lxTE5hYVZYMmV4SXBSbGlSSjdMTFhWNVpVeEtnRDNrWWRsR1dWZ0Y3Um91VzQwRy1wX2hNWWxwQ1VFUQ?oc=5</guid>
+<pubDate>Sat, 11 Jul 2026 15:03:07 GMT</pubDate>
+
+</item>
 <item>
 <title>[Google News] Perplexity Announces $1 Million Challenge to Build a Billion-Dollar AI Startup - ascendants.in</title>
 <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOWm1ZMnlkNm1LSmpfNzVFcm8xblVnV3FqYnNaMUkzakJ4cWtINDFHcFhlYUIzeUZVYktqMlg4Z0lPWHhMQXZ1RHJMX1k4ZGJvalNsUVdoSkRmaW5aa1J6STFjVUJHNTVHcGxMNXBIWGhsWU1EM2Q2TW1GMG9TWlVhZjZ0OFpvaDVQdEgyVFZucE1vZHYwZWVsX2xB?oc=5</link>
@@ -28,7 +35,7 @@
 
 </item>
 <item>
-<title>[Google News] Child Safety Requirements for Artificial Intelligence in our schools - Davis Vanguard</title>
+<title>[Google News] Child Safety Requirements for Artificial Intelligence in Our Schools - Davis Vanguard</title>
 <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBua3dkNlk2YTJ1T0VKRHRZRURYRDUyMFRUVHZsT2xvZW5TUEs0a0d6eHpGOTdMam00ZmhsdF8wdWZXN0Y5SEJnYS1ZMDg0UGUwS1p2OTdLV2R0NDBkc182elFZekx5WkdnYlFnWlR3?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMibkFVX3lxTFBua3dkNlk2YTJ1T0VKRHRZRURYRDUyMFRUVHZsT2xvZW5TUEs0a0d6eHpGOTdMam00ZmhsdF8wdWZXN0Y5SEJnYS1ZMDg0UGUwS1p2OTdLV2R0NDBkc182elFZekx5WkdnYlFnWlR3?oc=5</guid>
 <pubDate>Sat, 11 Jul 2026 11:05:00 GMT</pubDate>
@@ -166,13 +173,6 @@
 <guid isPermaLink="false">https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/</guid>
 <pubDate>Fri, 10 Jul 2026 18:17:40 GMT</pubDate>
 <description>Large language model (LLM) training workloads increasingly run into GPU memory limits before compute is fully used. Model weights, gradients, optimizer states,...</description>
-</item>
-<item>
-<title>[Google News] At 14, Jainam Jain Is Building an AI Startup From the Burj Khalifa - ascendants.in</title>
-<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzc0MTgwOFJBUmowX0FWdFpDSXhBcXp1aUlGcFlOWGNxVnRhM1U3c2l0VU9jLU5Ea0xVN2xnRWc1UVRJaDU2dTIzQjVFQS12RXNGZm85ZzJkVndJWUUzN0JzZHZVbmhuREhTcDh1eW9qRTlnaUVHS050aHp1VG9LSHZNYzlFRHhtV3dIQlRXMA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzc0MTgwOFJBUmowX0FWdFpDSXhBcXp1aUlGcFlOWGNxVnRhM1U3c2l0VU9jLU5Ea0xVN2xnRWc1UVRJaDU2dTIzQjVFQS12RXNGZm85ZzJkVndJWUUzN0JzZHZVbmhuREhTcDh1eW9qRTlnaUVHS050aHp1VG9LSHZNYzlFRHhtV3dIQlRXMA?oc=5</guid>
-<pubDate>Fri, 10 Jul 2026 17:36:44 GMT</pubDate>
-
 </item>
 <item>
 <title>[Developer] Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead</title>
