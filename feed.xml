@@ -5,7 +5,7 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Sun, 12 Jul 2026 03:58:42 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 06:47:11 GMT</lastBuildDate>
 <item>
 <title>[Google News] Pranjali Awasthi’s ₹100 Crore AI Journey: How a Teenage Coder Built Delv.AI - ascendants.in</title>
 <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQaGpwZ2FKbXhPSUdtWk93VTh6QU9hOGEwa2NDYUhnakM3YUhlOWhjWUZiSkFIdjc1NGJyQWhzNDFscTJQSU0tdUtzWTJBSFlrdTkydktwS1lOWEhmLURYUEFHcDN0M3NVZTVMdU42ZWxaVzZSeVlmWW5FNTJVTmFuVDZaRXRCdHJRb2c?oc=5</link>
@@ -42,10 +42,10 @@
 
 </item>
 <item>
-<title>[Google News] OpenAI Reportedly Offers U.S. Government 5% Stake as Washington Pressure Builds - ascendants.in</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOZE9WMG1SMTVmWlFuMEJKeGtCTTNKZkVpLU9rVkkyR2ctSmZVMzlWWTdxWUxTMHU3cEM5dkFLWjctR3ZiVk94RmpOb2ZBRDEtTGVKVnZEdG5xWW5SSjhoazBGeW00UG9xYlhRVFNjVEFoZDRoU0tHY01iSXVLWFRaUjNhOG9sY2xGa0lfbWJDU3Y?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxOZE9WMG1SMTVmWlFuMEJKeGtCTTNKZkVpLU9rVkkyR2ctSmZVMzlWWTdxWUxTMHU3cEM5dkFLWjctR3ZiVk94RmpOb2ZBRDEtTGVKVnZEdG5xWW5SSjhoazBGeW00UG9xYlhRVFNjVEFoZDRoU0tHY01iSXVLWFRaUjNhOG9sY2xGa0lfbWJDU3Y?oc=5</guid>
-<pubDate>Sat, 11 Jul 2026 21:13:25 GMT</pubDate>
+<title>[Google News] TNG AI Chess: AI Explains Chess Like a Human Trainer - StartupHub.ai</title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPdGJyOG1BWjFZVlNpNVZlLXV6ZGNyUEF0V3Mzd19CQ1RGMDlhSS1LWXpXS2o0aVdreThwcFpYOEs1bGhlempvY1lDa0txTU9NM2dIZjIxMlZMZmRFdE5yODlSWWozRVRPc2hTNmVDcld3VWRWTjlsZVViTC0taTBiLUFvOUN3YmZyal9UU3hYQmZwaFZCbEhrcVZORnotWXgzTFVfNEVsRXlkRzNqZlNINkJ2VWk?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxPdGJyOG1BWjFZVlNpNVZlLXV6ZGNyUEF0V3Mzd19CQ1RGMDlhSS1LWXpXS2o0aVdreThwcFpYOEs1bGhlempvY1lDa0txTU9NM2dIZjIxMlZMZmRFdE5yODlSWWozRVRPc2hTNmVDcld3VWRWTjlsZVViTC0taTBiLUFvOUN3YmZyal9UU3hYQmZwaFZCbEhrcVZORnotWXgzTFVfNEVsRXlkRzNqZlNINkJ2VWk?oc=5</guid>
+<pubDate>Sat, 11 Jul 2026 19:06:01 GMT</pubDate>
 
 </item>
 <item>
@@ -364,6 +364,13 @@
 <description>Molecular dynamics (MD) simulations are among the most demanding workloads in computational science. Using them, researchers can observe atomic behavior in...</description>
 </item>
 <item>
+<title>[Azure] Frontier models and production agents: Advancing Microsoft Foundry for the agentic era</title>
+<link>https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/</link>
+<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/</guid>
+<pubDate>Thu, 09 Jul 2026 17:00:00 +0000</pubDate>
+<description>Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post Frontier models and production agents: Advancing Microsoft Foundry for the agentic era appeared first on Microsoft Azure Blog .</description>
+</item>
+<item>
 <title>[Research] Aurora 1.5: Extending open foundation models for weather and Earth-system applications</title>
 <link>https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/</link>
 <guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/</guid>
@@ -376,6 +383,13 @@
 <guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/</guid>
 <pubDate>Thu, 09 Jul 2026 16:00:00 +0000</pubDate>
 <description>Many of the most challenging and valuable problems in the world are related to optimization. Now, AI is now making these problems tractable. If you've ever tried to design a microchip, plan a delivery network, or optimize a training architecture for a large AI model , you know how hard it is to find</description>
+</item>
+<item>
+<title>[Google News] DeepSeek Turns Cheap AI Into A Problem For OpenAI And Anthropic - Yellow.com</title>
+<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE91c1R4SXVhZGFqcVl3V2tacFI0dGlaNEluZUhsSnZScS1NRUVMdUp4eEtZSHlaa0RqNW9SWXRSdnQwUnI1VkhxVkhOWDBvaXVjeTdOMTV5enFYR0ZYZVZvZF9HYkVBMWFHY2c?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiakFVX3lxTE91c1R4SXVhZGFqcVl3V2tacFI0dGlaNEluZUhsSnZScS1NRUVMdUp4eEtZSHlaa0RqNW9SWXRSdnQwUnI1VkhxVkhOWDBvaXVjeTdOMTV5enFYR0ZYZVZvZF9HYkVBMWFHY2c?oc=5</guid>
+<pubDate>Thu, 09 Jul 2026 15:20:27 GMT</pubDate>
+
 </item>
 <item>
 <title>[YouTube] Introducing versioned prompts and skills in Studio</title>
@@ -411,20 +425,6 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxNM3JlM3Y5Q0trX0tMSHNoQm8yUDFGYmVfa1hMbkhBbTNQU2FLNG1SRVkxN1E5OHNOdjZCVENxMHFKWDVMbnBDb0ZwalBuMUFEaHM0VW4wbnltUjhZTVI3a21oT3BmaDRyQUpURnNLVVFQWWh3RjJDQmNrS1RLOWx4SUw2MW1EYk5ScHZYUkJaLXFUUHFNd3B4aHZCVEpkUQ?oc=5</guid>
 <pubDate>Thu, 09 Jul 2026 13:15:02 GMT</pubDate>
 
-</item>
-<item>
-<title>[Blog] GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server</title>
-<link>https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/</guid>
-<pubDate>Thu, 09 Jul 2026 13:00:55 +0000</pubDate>
-<description>This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also get</description>
-</item>
-<item>
-<title>[News] GPT-5.6 is now the preferred model in Microsoft 365 Copilot</title>
-<link>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</link>
-<guid isPermaLink="false">https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</guid>
-<pubDate>Thu, 09 Jul 2026 13:00:00 GMT</pubDate>
-<description>Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.</description>
 </item>
 </channel>
 </rss>
