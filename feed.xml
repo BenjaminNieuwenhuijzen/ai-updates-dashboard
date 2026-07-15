@@ -5,7 +5,49 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Wed, 15 Jul 2026 21:16:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 23:13:47 GMT</lastBuildDate>
+<item>
+<title>[Blog] NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI</title>
+<link>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</guid>
+<pubDate>Wed, 15 Jul 2026 23:00:54 +0000</pubDate>
+<description>General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today introduced the T3000 and T2000, new modu</description>
+</item>
+<item>
+<title>[Newsroom] Japan’s Enterprises and Startups Build Industry-Specialized AI With NVIDIA Nemotron Open Models</title>
+<link>https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models</link>
+<guid isPermaLink="false">https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models</guid>
+<pubDate>Wed, 15 Jul 2026 23:00:00 GMT</pubDate>
+<description>News Summary: Institution of Science Tokyo, SoftBank Corp.'s SB Intuitions and Stockmark are adopting NVIDIA Nemotron to build locally developed AI models designed to serve Japanese users, ...</description>
+</item>
+<item>
+<title>[Developer] Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills</title>
+<link>https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/</guid>
+<pubDate>Wed, 15 Jul 2026 23:00:00 GMT</pubDate>
+<description>Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking...</description>
+</item>
+<item>
+<title>[YouTube] Schedule tasks with ChatGPT</title>
+<link>https://www.youtube.com/watch?v=CToxp125mhc</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=CToxp125mhc</guid>
+<pubDate>Wed, 15 Jul 2026 22:50:17 GMT</pubDate>
+<description>See how you can use ChatGPT to automate tasks and create workflows for yourself, then schedule them to run when you need them. Review the results, keep recurring work moving, and share useful workflows with your team. Learn more: https://learn.chatgpt.com/ Chapters: 00:00 Scheduled tasks in ChatGPT </description>
+</item>
+<item>
+<title>[Developer] Develop Lightweight USD Runtimes Faster with AI Agents</title>
+<link>https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/</guid>
+<pubDate>Wed, 15 Jul 2026 21:57:23 GMT</pubDate>
+<description>OpenUSD is an open, extensible framework that provides a common scene description language for physical AI. It enables teams to bring CAD data, simulation...</description>
+</item>
+<item>
+<title>[Google News] Nunn Introduces Bipartisan Bill to Put Artificial Intelligence to Work on Iowa Farms - Congressman Zach Nunn (.gov)</title>
+<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbnI1SGJnZnhCWkVVTE00QU1aRHRBMFlJUmZBMzF2bFVBdWFWeDY2ZEhoMlJUaDVweEdNVmh4aFB4a1ZtSk9ZaE9sREhLeWlvcDJPdVE0QlNyeXlWbHZfMVl5Z0F6NWxSTEFYWXMyVUUxc00yT2RINVczU3VrdFVEMXV5M1YwOGk0QXJOTFo2TUtJTGVZd3lESlVTVGRuQWg4RzVGTGdnQ2p2a0h0cWFBTWV1V3Z6MzhmS2hr?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbnI1SGJnZnhCWkVVTE00QU1aRHRBMFlJUmZBMzF2bFVBdWFWeDY2ZEhoMlJUaDVweEdNVmh4aFB4a1ZtSk9ZaE9sREhLeWlvcDJPdVE0QlNyeXlWbHZfMVl5Z0F6NWxSTEFYWXMyVUUxc00yT2RINVczU3VrdFVEMXV5M1YwOGk0QXJOTFo2TUtJTGVZd3lESlVTVGRuQWg4RzVGTGdnQ2p2a0h0cWFBTWV1V3Z6MzhmS2hr?oc=5</guid>
+<pubDate>Wed, 15 Jul 2026 20:15:45 GMT</pubDate>
+
+</item>
 <item>
 <title>[Google News] Anthropic eyes October IPO, may list before OpenAI and DeepSeek - Crypto Briefing</title>
 <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkVGOVVJeUdKeFVCUktMaFVib2ZfazVZTWFrZl9UdHRnek9PYnFGMWZyV3ZobWtYNEVqNGhWbmk1U2VnV3BmelRrUFdfS0FNblUwVmVhQWdINXdiYzIxOC1qVGloR3BIQUpnY0p5NE5hTVZrVEpETlVtUHFHMngxMFR1djZsZU9BMEFxMEVuNGtmOFRT?oc=5</link>
@@ -32,20 +74,6 @@
 <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWdhUE9VbUM3NDVhQ1F5eFVNYkF0RjIxRnR3T3pPMlNxdXZUdGN4SnV0bVQxekRjVjlrMHVWdjRCUnNZdXJ3NnFFa3JiSU54MGlETTh0SEt6UjdDdFVReDNOZXFPOFRseXFDc29pVlNKZi1qV1BkNHhwckFyUFJBRg?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWdhUE9VbUM3NDVhQ1F5eFVNYkF0RjIxRnR3T3pPMlNxdXZUdGN4SnV0bVQxekRjVjlrMHVWdjRCUnNZdXJ3NnFFa3JiSU54MGlETTh0SEt6UjdDdFVReDNOZXFPOFRseXFDc29pVlNKZi1qV1BkNHhwckFyUFJBRg?oc=5</guid>
 <pubDate>Wed, 15 Jul 2026 19:27:51 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Thinking Machines has released Inkling, the new leading U.S. open weights model - LinkedIn</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQUy1rSk1iaXhfMkt4TWpRR1RmdWJrNEdDaW15ODNYanNQeFZQRGsyM1lYMnROMWRYWGVidUprMXE2M0d1T2hKOWgycG03Y1YwLURpdl94NlhKTGpjeEhteElBcjg4bldORHY3S2E5SkZEdm1vNVVVU2dFSlNCTmloN1NXTERDMXNnbkNnTHdrTEg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxQUy1rSk1iaXhfMkt4TWpRR1RmdWJrNEdDaW15ODNYanNQeFZQRGsyM1lYMnROMWRYWGVidUprMXE2M0d1T2hKOWgycG03Y1YwLURpdl94NlhKTGpjeEhteElBcjg4bldORHY3S2E5SkZEdm1vNVVVU2dFSlNCTmloN1NXTERDMXNnbkNnTHdrTEg?oc=5</guid>
-<pubDate>Wed, 15 Jul 2026 18:40:54 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Anthropic Reportedly Taking New Steps Toward Mega-IPO In Race With OpenAI, DeepSeek - Investor's Business Daily</title>
-<link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1zbHNOWF9iaC1RcFFOd2UwaTFocEplQWQwMjIwQklXYlBxc2pOSUpzcUtqLUdDaENKdXctTXhoOG50NkI2YzE4Y2FEU3JtS3RubnhtWVZWQzJNZm1CbE1QbVNQN0N3cWZQQW9wcV9pV2ctbjVwZ25SN2NPSQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMie0FVX3lxTE1zbHNOWF9iaC1RcFFOd2UwaTFocEplQWQwMjIwQklXYlBxc2pOSUpzcUtqLUdDaENKdXctTXhoOG50NkI2YzE4Y2FEU3JtS3RubnhtWVZWQzJNZm1CbE1QbVNQN0N3cWZQQW9wcV9pV2ctbjVwZ25SN2NPSQ?oc=5</guid>
-<pubDate>Wed, 15 Jul 2026 18:14:00 GMT</pubDate>
 
 </item>
 <item>
@@ -133,10 +161,10 @@
 
 </item>
 <item>
-<title>[Google News] Artificial Intelligence in the Western Balkans: innovation is moving faster than regulation - t.co</title>
-<link>https://news.google.com/rss/articles/CBMiO0FVX3lxTFBUeWZCTS1mczZTclc5OFVGY1VlRkE1QkRQVktWT0ZVNUxucTE3bEI5UUdyU0dJeEpIbzdz?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiO0FVX3lxTFBUeWZCTS1mczZTclc5OFVGY1VlRkE1QkRQVktWT0ZVNUxucTE3bEI5UUdyU0dJeEpIbzdz?oc=5</guid>
-<pubDate>Wed, 15 Jul 2026 16:59:04 GMT</pubDate>
+<title>[Google News] Pranjali Awasthi’s ₹100 Crore AI Journey: How a Teenage Coder Built Delv.AI - ascendants.in</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQaGpwZ2FKbXhPSUdtWk93VTh6QU9hOGEwa2NDYUhnakM3YUhlOWhjWUZiSkFIdjc1NGJyQWhzNDFscTJQSU0tdUtzWTJBSFlrdTkydktwS1lOWEhmLURYUEFHcDN0M3NVZTVMdU42ZWxaVzZSeVlmWW5FNTJVTmFuVDZaRXRCdHJRb2c?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxQaGpwZ2FKbXhPSUdtWk93VTh6QU9hOGEwa2NDYUhnakM3YUhlOWhjWUZiSkFIdjc1NGJyQWhzNDFscTJQSU0tdUtzWTJBSFlrdTkydktwS1lOWEhmLURYUEFHcDN0M3NVZTVMdU42ZWxaVzZSeVlmWW5FNTJVTmFuVDZaRXRCdHJRb2c?oc=5</guid>
+<pubDate>Wed, 15 Jul 2026 16:41:48 GMT</pubDate>
 
 </item>
 <item>
@@ -165,6 +193,13 @@
 <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQZjVmM0FUb0JfTUhTMjl4bE1oRXhPY1VZSndreVBHYkxxel9Vbm14eGlIcXB0clNnODFBTGgzcHRfQkZxZE5vMEFmNlYyc0JnWjBjcDVmYWVNTmlwZWdXcXZOc3NFbm9GUFZYcDNtcU45RjBCakdrMzNTM0NsbEI0NU0xaGtvNmhvclRxY00zc3lTLXdUdU9WdmVBVTNnQTJxZGswMUtB?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxQZjVmM0FUb0JfTUhTMjl4bE1oRXhPY1VZSndreVBHYkxxel9Vbm14eGlIcXB0clNnODFBTGgzcHRfQkZxZE5vMEFmNlYyc0JnWjBjcDVmYWVNTmlwZWdXcXZOc3NFbm9GUFZYcDNtcU45RjBCakdrMzNTM0NsbEI0NU0xaGtvNmhvclRxY00zc3lTLXdUdU9WdmVBVTNnQTJxZGswMUtB?oc=5</guid>
 <pubDate>Wed, 15 Jul 2026 15:50:32 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek Revenue Nears $500 Million as Chinese AI Startup Eyes IPO - PYMNTS.com</title>
+<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZjA5aVlOVENxREYyam1ONW9DWjluSko0ZjVqc2xpTHh5dmpOTDJvb3A4MEVhUDdTczFnMDE5d0dkZ2V2MXNUUmpiMUsyazA1T3RJc05KcUJURFpUTXRGRHJkN3JUczdRYU9VZzJXTkEzYndNaVJ2TWdFOWVVTjFqMEYwc19uUUhhdGJQTUF3M3Y0YkgtdnZrUmRVVm1QOG5PZUNYSWFHdTZ1Uk1ydTdWenRXX1VSRzFhdXViZkNNVFY?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZjA5aVlOVENxREYyam1ONW9DWjluSko0ZjVqc2xpTHh5dmpOTDJvb3A4MEVhUDdTczFnMDE5d0dkZ2V2MXNUUmpiMUsyazA1T3RJc05KcUJURFpUTXRGRHJkN3JUczdRYU9VZzJXTkEzYndNaVJ2TWdFOWVVTjFqMEYwc19uUUhhdGJQTUF3M3Y0YkgtdnZrUmRVVm1QOG5PZUNYSWFHdTZ1Uk1ydTdWenRXX1VSRzFhdXViZkNNVFY?oc=5</guid>
+<pubDate>Wed, 15 Jul 2026 15:49:36 GMT</pubDate>
 
 </item>
 <item>
@@ -238,6 +273,13 @@
 
 </item>
 <item>
+<title>[Google News] China’s DeepSeek prepares for 2027 mainland IPO, aims for $71 billion valuation in new funding round - Harici</title>
+<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnVBUXJqU1QxWXFIVU5xa2QyOF9KWGJvYkhPUExzaXZFWHBsUVNiVkN2YVJkRTZaN2cwRVkyd3lkT2p2LXVfcDlXY3JKM0RycVlJX0dKZ29HUnJ2QXJoRkEwd3pUczJsczRKZ1llS2Mzb25XbWlpY21tcWNRVUdvQ2MzSHpnMXdwWFFVYkFDbjZTNjZWVEtXZnYyODhIODlndHhHMEdwSjdJVFhtUTAxWS1mN1ZyYjdOVUFpdzhHQjHSAcABQVVfeXFMTU51QVFyalNUMVlxSFVOcWtkMjhfSlhib2JIT1BMc2l2RVhwbFFTYlZDdmFSZEU2WjdnMEVZMnd5ZE9qdi11X3A5V2NySjNEcnFZSV9HSmdvR1JydkFyaEZBMHd6VHMybHM0SmdZZUtjM29uV21paWNtbXFjUVVHb0NjM0h6ZzF3cFhRVWJBQ242UzY2VlRLV2Z2Mjg4SDg5Z3R4RzBHcEo3SVRYbVEwMVktZjdWcmI3TlVBaXc4R0Ix?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnVBUXJqU1QxWXFIVU5xa2QyOF9KWGJvYkhPUExzaXZFWHBsUVNiVkN2YVJkRTZaN2cwRVkyd3lkT2p2LXVfcDlXY3JKM0RycVlJX0dKZ29HUnJ2QXJoRkEwd3pUczJsczRKZ1llS2Mzb25XbWlpY21tcWNRVUdvQ2MzSHpnMXdwWFFVYkFDbjZTNjZWVEtXZnYyODhIODlndHhHMEdwSjdJVFhtUTAxWS1mN1ZyYjdOVUFpdzhHQjHSAcABQVVfeXFMTU51QVFyalNUMVlxSFVOcWtkMjhfSlhib2JIT1BMc2l2RVhwbFFTYlZDdmFSZEU2WjdnMEVZMnd5ZE9qdi11X3A5V2NySjNEcnFZSV9HSmdvR1JydkFyaEZBMHd6VHMybHM0SmdZZUtjM29uV21paWNtbXFjUVVHb0NjM0h6ZzF3cFhRVWJBQ242UzY2VlRLV2Z2Mjg4SDg5Z3R4RzBHcEo3SVRYbVEwMVktZjdWcmI3TlVBaXc4R0Ix?oc=5</guid>
+<pubDate>Wed, 15 Jul 2026 11:40:39 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] DeepSeek Valuation Soars to $71 Billion, Launches New Funding Round a Month After Last, Eyes A-Share IPO This Year - finance.biggo.com</title>
 <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE0xT0t1N3Y0MWhGYUhvcTgzSGZhUDkxNFUyZXNWaDBIN3RiX3N2RWtudmg5TGlNcWp3elgwM0VTRk5MdWVfeW5RZzU0a3cySXFGazJYemUtcFozcDI1RU5sWVYzU3hWRHNqLWRuX0phZWRsRFIwT2c?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE0xT0t1N3Y0MWhGYUhvcTgzSGZhUDkxNFUyZXNWaDBIN3RiX3N2RWtudmg5TGlNcWp3elgwM0VTRk5MdWVfeW5RZzU0a3cySXFGazJYemUtcFozcDI1RU5sWVYzU3hWRHNqLWRuX0phZWRsRFIwT2c?oc=5</guid>
@@ -252,7 +294,7 @@
 
 </item>
 <item>
-<title>[Google News] Meta: Did AI Target Disabled Workers for Layoffs? - Brandsynario</title>
+<title>[Google News] Ex-Meta Employees Allege Company Used AI to Target Disabled Workers - Brandsynario</title>
 <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE16MGRFbjQ2T09uTWVUSm40OWFQbHN2cld0WDZuRGo1c3p0VWJKT1NMRU9PQkcxRFVfZGIxWFVFaGJtOWNmRzI1WFh5eTVhVzNZLVdDbHg4a2hMcm91VUJramdNX2NoR3ZpSlRkVG9VSmloVlk0anNoRjJUSEJTQQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE16MGRFbjQ2T09uTWVUSm40OWFQbHN2cld0WDZuRGo1c3p0VWJKT1NMRU9PQkcxRFVfZGIxWFVFaGJtOWNmRzI1WFh5eTVhVzNZLVdDbHg4a2hMcm91VUJramdNX2NoR3ZpSlRkVG9VSmloVlk0anNoRjJUSEJTQQ?oc=5</guid>
 <pubDate>Wed, 15 Jul 2026 11:05:51 GMT</pubDate>
@@ -312,13 +354,6 @@
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Rc1BvTWVqc29HZ1h4RUxzVmI1cElSRTNpSm9OWUg4NU15a1dzdzFfQnNqaHd1ZUVnWjk1UW5CM1A3Rkk4U2FXaktHcE1oVjBmTWQ4?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Rc1BvTWVqc29HZ1h4RUxzVmI1cElSRTNpSm9OWUg4NU15a1dzdzFfQnNqaHd1ZUVnWjk1UW5CM1A3Rkk4U2FXaktHcE1oVjBmTWQ4?oc=5</guid>
 <pubDate>Wed, 15 Jul 2026 10:35:03 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Data centres face new regulation as government pivots on AI - afr.com</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNZkk3OEpGN29rSTV3dkM5ZVFmcUVmN1B2OEtGbjhCSWNUenJvSG00clcyaU0wRTVESTFSVWxfV2hicDl4dG93QTMzSWZlUEZiTVh4NDhXR3duYWZKelBhQnVvSlE1TTJ4VnNaNU1xU1NCYVBmWkNGLUVSTnZSX3FkT0llYjk5alhXeW9hQ3hWYThucG43UkdZRnRoZ1JHcWpWMU1RaDhtVWFXWnRJOFE?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxNZkk3OEpGN29rSTV3dkM5ZVFmcUVmN1B2OEtGbjhCSWNUenJvSG00clcyaU0wRTVESTFSVWxfV2hicDl4dG93QTMzSWZlUEZiTVh4NDhXR3duYWZKelBhQnVvSlE1TTJ4VnNaNU1xU1NCYVBmWkNGLUVSTnZSX3FkT0llYjk5alhXeW9hQ3hWYThucG43UkdZRnRoZ1JHcWpWMU1RaDhtVWFXWnRJOFE?oc=5</guid>
-<pubDate>Wed, 15 Jul 2026 10:22:00 GMT</pubDate>
 
 </item>
 <item>
@@ -389,41 +424,6 @@
 <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE4zVTJCbEtGXzl4cE5yVFZfTHNQalZjWnNrUG8wX3YtUFYtTmRDX3RudWhrVDNTeEt4Z3R6bDhpWjlVdDVZbGRNcUdfd1ZrOXlUOXZ1aDFzVWk4YWlaanpNU3g5bkJydWlBQVpSUnpzS0g3SS15NU5meFI4Yw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMie0FVX3lxTE4zVTJCbEtGXzl4cE5yVFZfTHNQalZjWnNrUG8wX3YtUFYtTmRDX3RudWhrVDNTeEt4Z3R6bDhpWjlVdDVZbGRNcUdfd1ZrOXlUOXZ1aDFzVWk4YWlaanpNU3g5bkJydWlBQVpSUnpzS0g3SS15NU5meFI4Yw?oc=5</guid>
 <pubDate>Wed, 15 Jul 2026 07:42:49 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Chinese Hackers Embed Claude Code and DeepSeek in AI-Powered Government Cyberattacks - CyberSecurityNews</title>
-<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yWWd2MmNZZkVoeTJNbTZOb0FET2kxUl9qbHQ1SndKd3J2d0kyZkF6SDdWUWkwSkF0Z0szSGl6Vk9wNjg5M3ZuVjVqeGtsUTNRbVBQOERwWUY0bnBxclpOV2FHQ2ZpdXF10gGzAkFVX3lxTE1BLTdPME9OcmRUdGxWS0lPNEY3UnZ4NWE2OGVoOFM0T2xrQlp6RnYydFJDV3EzMVlkOF9MczFrYzlNSVF3TXlON19CblpSTzN2bTZ5c1FacUJqOXZucGtyT001aDBnWktMT2xEZUtXLXZhXzRWSkRBVXFYdnNwRU5JcU1xX2twMHc1b0JHSC0xZ2lFU28zSTRHb2xhM0FNVVBhNDJMb2hHYWoxZUJ6bWF6b2Z6cWY4YnlqVnY5RGh5Tkptb0NncjJheW5ja2x6U3dzSWZlQUJwU0YxVU5SZWVUYjZxdnR2Tl83YW1sQ09sMTR5bnlCYzZtcVQteHlUN3BSRUh4NS1Oc3NBUnhsdzc2VkdnLUVKU1ZOdnhzdlU1QkJZektqaEJmQVozM2V6RDZydG8?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yWWd2MmNZZkVoeTJNbTZOb0FET2kxUl9qbHQ1SndKd3J2d0kyZkF6SDdWUWkwSkF0Z0szSGl6Vk9wNjg5M3ZuVjVqeGtsUTNRbVBQOERwWUY0bnBxclpOV2FHQ2ZpdXF10gGzAkFVX3lxTE1BLTdPME9OcmRUdGxWS0lPNEY3UnZ4NWE2OGVoOFM0T2xrQlp6RnYydFJDV3EzMVlkOF9MczFrYzlNSVF3TXlON19CblpSTzN2bTZ5c1FacUJqOXZucGtyT001aDBnWktMT2xEZUtXLXZhXzRWSkRBVXFYdnNwRU5JcU1xX2twMHc1b0JHSC0xZ2lFU28zSTRHb2xhM0FNVVBhNDJMb2hHYWoxZUJ6bWF6b2Z6cWY4YnlqVnY5RGh5Tkptb0NncjJheW5ja2x6U3dzSWZlQUJwU0YxVU5SZWVUYjZxdnR2Tl83YW1sQ09sMTR5bnlCYzZtcVQteHlUN3BSRUh4NS1Oc3NBUnhsdzc2VkdnLUVKU1ZOdnhzdlU1QkJZektqaEJmQVozM2V6RDZydG8?oc=5</guid>
-<pubDate>Wed, 15 Jul 2026 07:33:47 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek Raises Funds for AI Infrastructure - 조선일보</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR21aWGlVYmhHSU1Pb2Vic3dpd1AyUTF1a2xJdXR3VG5OMFlzM0lWMEtTSWg4dWVvLVpScGdQeHl4eXhoSm1vSEluR3pBZF93OEJRM3JZT1l1amtCR1Zvc1J4M2lSSTRQMDVmT19uUnluRTZLQmtBV04zN3BpUl9pUjgwRG03V1ht?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR21aWGlVYmhHSU1Pb2Vic3dpd1AyUTF1a2xJdXR3VG5OMFlzM0lWMEtTSWg4dWVvLVpScGdQeHl4eXhoSm1vSEluR3pBZF93OEJRM3JZT1l1amtCR1Zvc1J4M2lSSTRQMDVmT19uUnluRTZLQmtBV04zN3BpUl9pUjgwRG03V1ht?oc=5</guid>
-<pubDate>Wed, 15 Jul 2026 07:33:07 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek Is Preparing to IPO at US$71 Billion. Here’s Why You Can’t Buy It. - Stocks Down Under</title>
-<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wX2FzYlVrN0lGTzgwR01ycks2TTlnTjVvcVAtUm9Udmo1ZnREMXVQNUwxNmZDVjlZM3N5cFJ3ZnhxemVHNmxCSWo1NVZYbHhaWjdXS0t5OS1VOGxXZEZMMUpB?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wX2FzYlVrN0lGTzgwR01ycks2TTlnTjVvcVAtUm9Udmo1ZnREMXVQNUwxNmZDVjlZM3N5cFJ3ZnhxemVHNmxCSWo1NVZYbHhaWjdXS0t5OS1VOGxXZEZMMUpB?oc=5</guid>
-<pubDate>Wed, 15 Jul 2026 07:16:39 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Perplexity Announces $1 Million Challenge to Build a Billion-Dollar AI Startup - ascendants.in</title>
-<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOWm1ZMnlkNm1LSmpfNzVFcm8xblVnV3FqYnNaMUkzakJ4cWtINDFHcFhlYUIzeUZVYktqMlg4Z0lPWHhMQXZ1RHJMX1k4ZGJvalNsUVdoSkRmaW5aa1J6STFjVUJHNTVHcGxMNXBIWGhsWU1EM2Q2TW1GMG9TWlVhZjZ0OFpvaDVQdEgyVFZucE1vZHYwZWVsX2xB?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxOWm1ZMnlkNm1LSmpfNzVFcm8xblVnV3FqYnNaMUkzakJ4cWtINDFHcFhlYUIzeUZVYktqMlg4Z0lPWHhMQXZ1RHJMX1k4ZGJvalNsUVdoSkRmaW5aa1J6STFjVUJHNTVHcGxMNXBIWGhsWU1EM2Q2TW1GMG9TWlVhZjZ0OFpvaDVQdEgyVFZucE1vZHYwZWVsX2xB?oc=5</guid>
-<pubDate>Wed, 15 Jul 2026 07:09:45 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] From scrappy minnow to tech whale: Deepseek unveils second big funding round to fund break-neck expansion - Proactive financial news</title>
-<link>https://news.google.com/rss/articles/CBMihgJBVV95cUxObTNOX191cG5iRk5wUmNQcUZpbTVySm1xbkp4ZG5vUVJxeHZzMXliVi1PblFVa0EwZWdXVDB0b1p1TDctcHJaSHp2emhVOUxoU2xjeE53U1EyX0d4MXhZVlRJVjZfbDdRWGFfQTBFdThxNVFZRU9Ub0pnSFJSdVJlUm55d0wxVHZUOHVwd3FCcEJKeFZFMV9NWnN1bnFxN0NUazMxX1J2azdKTlJQZ25HSTJqcjNuM1BLRnJKc2lsZnpzRU5GYmdlc1lDSHZQWUJoZEhIZW5Td0xnRGl6QklwVEhWdkQya1RrbjNsSkJXTU80cVFBSHpDRzAzQjgwQkdwRnpwZDRB?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgJBVV95cUxObTNOX191cG5iRk5wUmNQcUZpbTVySm1xbkp4ZG5vUVJxeHZzMXliVi1PblFVa0EwZWdXVDB0b1p1TDctcHJaSHp2emhVOUxoU2xjeE53U1EyX0d4MXhZVlRJVjZfbDdRWGFfQTBFdThxNVFZRU9Ub0pnSFJSdVJlUm55d0wxVHZUOHVwd3FCcEJKeFZFMV9NWnN1bnFxN0NUazMxX1J2azdKTlJQZ25HSTJqcjNuM1BLRnJKc2lsZnpzRU5GYmdlc1lDSHZQWUJoZEhIZW5Td0xnRGl6QklwVEhWdkQya1RrbjNsSkJXTU80cVFBSHpDRzAzQjgwQkdwRnpwZDRB?oc=5</guid>
-<pubDate>Wed, 15 Jul 2026 07:04:00 GMT</pubDate>
 
 </item>
 </channel>
