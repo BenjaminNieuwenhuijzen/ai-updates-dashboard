@@ -5,12 +5,47 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Wed, 22 Jul 2026 14:23:16 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 17:42:41 GMT</lastBuildDate>
 <item>
-<title>[Google News] AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips - The Indian Express</title>
-<link>https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX1Z2bFUzejNFQVZvU0cyZC1udzdSai1nTDg1d3AtSlRVcjQ1RnNIQkJoUmpDdXhpOWp3c1JKZ1dnRDI5SWdzQi13amJMMi02c3Z5bFFHWXllN1JtV1R6TTFKSXVsMGVrdHZQa3NYb2RDVUtvdmV6RzZMMWJKUnpEYUtMaXFoRTdvNE9UQ1dXWm5odUk4Z2RNazlYZ0hOUDZSXzVXbnd4X1F2dmd2VThyakx5Ylh4engtbGVrTjk1Rmd1Q2RvTUFJODRDT1NIbWJNTF9HbHBoMkNLT0hfX0NWT3U5N0tEQmVLRC1fOUtzdHLSAfcBQVVfeXFMUFhDVWxHZ3dxQllrLWdDLVVpUGk0cG10cVhkTzFUQWROSXBSc3JrSFNJQjA3TlVNY2h2U05yaWMxaFhUOWxNRzBMTzFVNjhJRlFBRG16Z0t2MHFGRlc3b2doR0NzbDBJYzRia0YzQjhNbHFkTC03VVRib2lrSFBWVXh5VUI0T2p3VUVEcE9VbkxUY2I3X1drTTFyZmhfTTNiaUxkTjUxdFNDbEw0UUJKTjI0QUtaRDhwUjZTemZMcTFDR0NmWEk4Y2phYWtxa2JEdVFqUDNhT2psY2d4dmFwMXk4bkJOX2RJX21rY01YQlZNLXZLY1d3aw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX1Z2bFUzejNFQVZvU0cyZC1udzdSai1nTDg1d3AtSlRVcjQ1RnNIQkJoUmpDdXhpOWp3c1JKZ1dnRDI5SWdzQi13amJMMi02c3Z5bFFHWXllN1JtV1R6TTFKSXVsMGVrdHZQa3NYb2RDVUtvdmV6RzZMMWJKUnpEYUtMaXFoRTdvNE9UQ1dXWm5odUk4Z2RNazlYZ0hOUDZSXzVXbnd4X1F2dmd2VThyakx5Ylh4engtbGVrTjk1Rmd1Q2RvTUFJODRDT1NIbWJNTF9HbHBoMkNLT0hfX0NWT3U5N0tEQmVLRC1fOUtzdHLSAfcBQVVfeXFMUFhDVWxHZ3dxQllrLWdDLVVpUGk0cG10cVhkTzFUQWROSXBSc3JrSFNJQjA3TlVNY2h2U05yaWMxaFhUOWxNRzBMTzFVNjhJRlFBRG16Z0t2MHFGRlc3b2doR0NzbDBJYzRia0YzQjhNbHFkTC03VVRib2lrSFBWVXh5VUI0T2p3VUVEcE9VbkxUY2I3X1drTTFyZmhfTTNiaUxkTjUxdFNDbEw0UUJKTjI0QUtaRDhwUjZTemZMcTFDR0NmWEk4Y2phYWtxa2JEdVFqUDNhT2psY2d4dmFwMXk4bkJOX2RJX21rY01YQlZNLXZLY1d3aw?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 14:03:09 GMT</pubDate>
+<title>[Developer] Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++</title>
+<link>https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/</guid>
+<pubDate>Wed, 22 Jul 2026 16:35:04 GMT</pubDate>
+<description>A TensorRT engine build can take seconds to many minutes. Large strongly typed models, deep tactic search, and a cold timing cache on a brand-new GPU SKU can...</description>
+</item>
+<item>
+<title>[Google News] Town council sends artificial intelligence policy to committee for further discussion - Claresholm Local Press</title>
+<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUDQ4aFFLb3Z4S1lycEVMazlyQzU3bXJpR1ZNUUNQeDZfc1psdlQ3bm1ZN2t5eGZrQWZrX0lJcVdiUTBQVXZJTFQ3Uy02NkJCUTB4RnROSnpLdlBvVWRDSTQ3Ukx0aW1BWmZqQjA0Tnd3cVVyQWtqZlFSdDhGbHN3TXNWb3E2bW9DUjVBNVBfbWlNNEVUN1k2b0xTLWxHd240cGpaTHc0NWljc2Y2MVRQM2RjakxOdTlSNTdRUEZVbVc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUDQ4aFFLb3Z4S1lycEVMazlyQzU3bXJpR1ZNUUNQeDZfc1psdlQ3bm1ZN2t5eGZrQWZrX0lJcVdiUTBQVXZJTFQ3Uy02NkJCUTB4RnROSnpLdlBvVWRDSTQ3Ukx0aW1BWmZqQjA0Tnd3cVVyQWtqZlFSdDhGbHN3TXNWb3E2bW9DUjVBNVBfbWlNNEVUN1k2b0xTLWxHd240cGpaTHc0NWljc2Y2MVRQM2RjakxOdTlSNTdRUEZVbVc?oc=5</guid>
+<pubDate>Wed, 22 Jul 2026 16:23:35 GMT</pubDate>
+
+</item>
+<item>
+<title>[Gemini] Here’s how to ask Gemini Live for help with anything you see.</title>
+<link>https://blog.google/products-and-platforms/products/gemini/gemini-live-camera-how-to/</link>
+<guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-live-camera-how-to/</guid>
+<pubDate>Wed, 22 Jul 2026 16:00:00 +0000</pubDate>
+<description>Have you ever struggled to describe something you’re looking at? Whether it’s a complex manual, a blinking error code, or a unique object, sometimes you just need an exp…</description>
+</item>
+<item>
+<title>[Google News] At 14, Jainam Jain Is Building an AI Startup From the Burj Khalifa - ascendants.in</title>
+<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzc0MTgwOFJBUmowX0FWdFpDSXhBcXp1aUlGcFlOWGNxVnRhM1U3c2l0VU9jLU5Ea0xVN2xnRWc1UVRJaDU2dTIzQjVFQS12RXNGZm85ZzJkVndJWUUzN0JzZHZVbmhuREhTcDh1eW9qRTlnaUVHS050aHp1VG9LSHZNYzlFRHhtV3dIQlRXMA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzc0MTgwOFJBUmowX0FWdFpDSXhBcXp1aUlGcFlOWGNxVnRhM1U3c2l0VU9jLU5Ea0xVN2xnRWc1UVRJaDU2dTIzQjVFQS12RXNGZm85ZzJkVndJWUUzN0JzZHZVbmhuREhTcDh1eW9qRTlnaUVHS050aHp1VG9LSHZNYzlFRHhtV3dIQlRXMA?oc=5</guid>
+<pubDate>Wed, 22 Jul 2026 15:30:22 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Anthropic Gives $40 Million to AI Regulation Group - PYMNTS.com</title>
+<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmVGMVBsZ0RHS3A2bmpTcDZGbXlGODFqR29WNDY3SW1sbWpmQXFmQjlxS1d5TEdPM0lNREpJczJVS1VrTWJKaW53cWFCNVpSU05QVmYxdDAzQXBtN01tM0wxWW1KVTZXU1dWZnVjdFNCNWlHdG5VQzgzTERjY2VnTU5vb1VudVZCZ2xWaUtzdnFDMzBBTzI1d3BlNWhXUGQ1NVhPR0pxWjdvSjQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmVGMVBsZ0RHS3A2bmpTcDZGbXlGODFqR29WNDY3SW1sbWpmQXFmQjlxS1d5TEdPM0lNREpJczJVS1VrTWJKaW53cWFCNVpSU05QVmYxdDAzQXBtN01tM0wxWW1KVTZXU1dWZnVjdFNCNWlHdG5VQzgzTERjY2VnTU5vb1VudVZCZ2xWaUtzdnFDMzBBTzI1d3BlNWhXUGQ1NVhPR0pxWjdvSjQ?oc=5</guid>
+<pubDate>Wed, 22 Jul 2026 14:42:33 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Maharashtra announces AI Policy 2026 to boost industry, governance and public services - News On AIR</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5</guid>
+<pubDate>Wed, 22 Jul 2026 14:20:16 GMT</pubDate>
 
 </item>
 <item>
@@ -70,10 +105,38 @@
 
 </item>
 <item>
+<title>[Google News] OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup - NBC News</title>
+<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHhPdV9LUXlBaDlRWkxIay1RMkxOaDRpYllraUFyaXhHMHpXeUM3T1oxZTlGRWJUZmF3M2ptQm9uLWpfVmdtM29vSkhrX3diMEtKdE11ckNRM2x2NXdGS014Q0htT1VNU2hnZ25BXzB1ZldGeTFvd2RXajljUlU0RmJURnoyT284bWlKS3JXZTNZcEstYkNjcUNxd2Q1UG43RHFrd29VUTZTWmRNUEg2ZWpfTXhLY3hyczBuTA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHhPdV9LUXlBaDlRWkxIay1RMkxOaDRpYllraUFyaXhHMHpXeUM3T1oxZTlGRWJUZmF3M2ptQm9uLWpfVmdtM29vSkhrX3diMEtKdE11ckNRM2x2NXdGS014Q0htT1VNU2hnZ25BXzB1ZldGeTFvd2RXajljUlU0RmJURnoyT284bWlKS3JXZTNZcEstYkNjcUNxd2Q1UG43RHFrd29VUTZTWmRNUEg2ZWpfTXhLY3hyczBuTA?oc=5</guid>
+<pubDate>Wed, 22 Jul 2026 12:37:00 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] Chinese open-weight AI models are capturing enterprise workloads, and U.S. compliance teams need a plan - MarketScale</title>
 <link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxOa2V0U2lSYl9FMmMxQjgtZURmZEdHamR6Vm5NVDJWY1lwR1U3Tk5VUXE1Y09GNXdQUzhfYUxFUUlMWExFb0ZPU3hoNUcyRjcySDlYeWI5eGFfclJvZnJCckpfWXAyaW55bDRuV21UUVk5Zk9SejhMOUZWWlZSSnZEOEN3WnloX0hFdG9MNFhVeGZFQnZrcV83dFJDaDJpbWNlaS1IZUxYUktoRVU0LXNwQ21PX3Q2Q0haSE1Yd1dPVHlPMi0xT3FIOXMyT204YU9Mc1dlMmFwWUlfVHd5UVJSYTdFaFNYWEtyeUlLdWpBUE9PWV95UXc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi9gFBVV95cUxOa2V0U2lSYl9FMmMxQjgtZURmZEdHamR6Vm5NVDJWY1lwR1U3Tk5VUXE1Y09GNXdQUzhfYUxFUUlMWExFb0ZPU3hoNUcyRjcySDlYeWI5eGFfclJvZnJCckpfWXAyaW55bDRuV21UUVk5Zk9SejhMOUZWWlZSSnZEOEN3WnloX0hFdG9MNFhVeGZFQnZrcV83dFJDaDJpbWNlaS1IZUxYUktoRVU0LXNwQ21PX3Q2Q0haSE1Yd1dPVHlPMi0xT3FIOXMyT204YU9Mc1dlMmFwWUlfVHd5UVJSYTdFaFNYWEtyeUlLdWpBUE9PWV95UXc?oc=5</guid>
 <pubDate>Wed, 22 Jul 2026 12:23:31 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Artificial Intelligence Drastically Reduces Capital Requirements for Global Tech Founders - streamlinefeed.co.ke</title>
+<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHl6RlVmaTJTbE9heV9jcEU3OGVxWlE4OXMxX0JEcklwNzZOSmpraFZIVkR5TGtjU25GajNvelFtd0FGSkJhODNzNHRjU0lsSmstNXI0U2JRRF81OWZTSENKa0NWdGhIMU5lbUgzTHY4WFNCVVc4REU0SUREV0ViaElTWXMtVXo0RTZoa2YwNktfaDhvSWR4NUFkOHZONHFEbjN2eDNFVHlIZ3Q0aS1aRTM3bGRTcVZDWjhSN1ctZm0?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHl6RlVmaTJTbE9heV9jcEU3OGVxWlE4OXMxX0JEcklwNzZOSmpraFZIVkR5TGtjU25GajNvelFtd0FGSkJhODNzNHRjU0lsSmstNXI0U2JRRF81OWZTSENKa0NWdGhIMU5lbUgzTHY4WFNCVVc4REU0SUREV0ViaElTWXMtVXo0RTZoa2YwNktfaDhvSWR4NUFkOHZONHFEbjN2eDNFVHlIZ3Q0aS1aRTM3bGRTcVZDWjhSN1ctZm0?oc=5</guid>
+<pubDate>Wed, 22 Jul 2026 12:11:16 GMT</pubDate>
+
+</item>
+<item>
+<title>[News] Advancing the next era of national science</title>
+<link>https://openai.com/index/advancing-the-next-era-of-national-science</link>
+<guid isPermaLink="false">https://openai.com/index/advancing-the-next-era-of-national-science</guid>
+<pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
+<description>OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.</description>
+</item>
+<item>
+<title>[Google News] Up to 46% of U.S. AI Usage Now Runs on Chinese Models — And Most Businesses Have No Idea - EIN News</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNMm5TVkpfNzNQX2ZKYUVzMXRxY1JrUkRWel9LenNONXFlNWhfcDJYWEc5ZWhlaXl5X3JpbExWd21sck14VkhjVm9iVXhCLUl6LUNOZ1QycDlqWDZhMExxY1RMZjZpcDZFVTN1RVQxa0plNDZCUGlSTmxxdkFpTnoycDdLTDRwN2w5bXJLVy1uSkJFcVhIU3hiM2VwajFhZjdfaG1TVzM3Mk5ZSjVLWk1udkRmeVZHWFpxVFpzeUpxdWtLRldn?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxNMm5TVkpfNzNQX2ZKYUVzMXRxY1JrUkRWel9LenNONXFlNWhfcDJYWEc5ZWhlaXl5X3JpbExWd21sck14VkhjVm9iVXhCLUl6LUNOZ1QycDlqWDZhMExxY1RMZjZpcDZFVTN1RVQxa0plNDZCUGlSTmxxdkFpTnoycDdLTDRwN2w5bXJLVy1uSkJFcVhIU3hiM2VwajFhZjdfaG1TVzM3Mk5ZSjVLWk1udkRmeVZHWFpxVFpzeUpxdWtLRldn?oc=5</guid>
+<pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
 
 </item>
 <item>
@@ -126,20 +189,6 @@
 
 </item>
 <item>
-<title>[Google News] Tencent’s HY3 Model Matches DeepSeek V4 Pro for Free - Geeky Gadgets</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE9GMXlXQkwyckNVcHRjbVlLWEQxSVFMMjVVUWxsZ3Q1VXlBZUg5SjQ2SThPTU4tTjBjSVg1XzNoa20zMUMwdDcxd3ZxekN3eUVvMkI5cUI5aXd6UTFLTkx2bUdPVTlxUXBzb2k3bg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMibEFVX3lxTE9GMXlXQkwyckNVcHRjbVlLWEQxSVFMMjVVUWxsZ3Q1VXlBZUg5SjQ2SThPTU4tTjBjSVg1XzNoa20zMUMwdDcxd3ZxekN3eUVvMkI5cUI5aXd6UTFLTkx2bUdPVTlxUXBzb2k3bg?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 10:51:05 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Pranjali Awasthi’s ₹100 Crore AI Journey: How a Teenage Coder Built Delv.AI - ascendants.in</title>
-<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQaGpwZ2FKbXhPSUdtWk93VTh6QU9hOGEwa2NDYUhnakM3YUhlOWhjWUZiSkFIdjc1NGJyQWhzNDFscTJQSU0tdUtzWTJBSFlrdTkydktwS1lOWEhmLURYUEFHcDN0M3NVZTVMdU42ZWxaVzZSeVlmWW5FNTJVTmFuVDZaRXRCdHJRb2c?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxQaGpwZ2FKbXhPSUdtWk93VTh6QU9hOGEwa2NDYUhnakM3YUhlOWhjWUZiSkFIdjc1NGJyQWhzNDFscTJQSU0tdUtzWTJBSFlrdTkydktwS1lOWEhmLURYUEFHcDN0M3NVZTVMdU42ZWxaVzZSeVlmWW5FNTJVTmFuVDZaRXRCdHJRb2c?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 10:28:32 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] The U.S. wants to contain China’s AI. Silicon Valley keeps using it - Rest of World</title>
 <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE82YnE1WFBaYnFfZVBrZnpwTkFlTWdnb1U4U21RWWpWREhFSVY4R1ZOclMxSXJBb3NuWmFBNkU4OGNEa3BWT2VQZGI0X2JRSlNkTGxtVXBKdW0xRzROeVpzUHI3T0JiN05CTm1JS2RzRUtNcEI4?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMidEFVX3lxTE82YnE1WFBaYnFfZVBrZnpwTkFlTWdnb1U4U21RWWpWREhFSVY4R1ZOclMxSXJBb3NuWmFBNkU4OGNEa3BWT2VQZGI0X2JRSlNkTGxtVXBKdW0xRzROeVpzUHI3T0JiN05CTm1JS2RzRUtNcEI4?oc=5</guid>
@@ -175,13 +224,6 @@
 
 </item>
 <item>
-<title>[Google News] Who Is Kanishka Narayan? Meet the UK’s First Minister for Artificial Intelligence - Adda247</title>
-<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVRMb2czTVlsdE9TQWRpN3dBbWQ4RU5pdXFoSlBFc3NQSjFyb2lMQ1hLSW9RQ09DcTVpRVpiMG1FVWt4SzVUU3FVS2xGYUtMOW83aFFYMkMxLU8zOGRUT0F2TkR1WDdfVWo5ekhmU0YwYmVCcnd1R0FlZGU4SW5KcVhVM0xKdW9JekJsT3F3UUNQOXpDNm5rRDZRYTRyeHd4NGNWSEJOMzEzUDIyWWF2UV9LZWc2QQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVRMb2czTVlsdE9TQWRpN3dBbWQ4RU5pdXFoSlBFc3NQSjFyb2lMQ1hLSW9RQ09DcTVpRVpiMG1FVWt4SzVUU3FVS2xGYUtMOW83aFFYMkMxLU8zOGRUT0F2TkR1WDdfVWo5ekhmU0YwYmVCcnd1R0FlZGU4SW5KcVhVM0xKdW9JekJsT3F3UUNQOXpDNm5rRDZRYTRyeHd4NGNWSEJOMzEzUDIyWWF2UV9LZWc2QQ?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 06:35:03 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] OpenAI: Artificial intelligence models went out of control during testing, causing an "unprecedented incident" - vijesti.me</title>
 <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWXZlY19mUzMzdnl3QThvXy05SnVxQ0hiQ2EtWHhkekNYZ1plQjBaU3lNWG42WUZ3VnFxdHVQVUNzY0UyQjQ4cjRTNEh5ZmdBeVZQUzB1bExtMTIxUDBOYTU4aXluOXJRd1FmSUJrYnVuLXBoYzllTmNrd2FDbklTd21JRko2Qjd1ajNSeU5tUmRVN0E5WkdtRWVYdGlJTl9DUGtZY1hJb2pTcUNZUGRNN2JLcW95eEhRUThPUENOZ1Blc0V0NUpNam1SN0dPdmFPbDRKbWVrLTJWNDhhT3ZmU3A3dGs3RnE0Z3pR0gHrAUFVX3lxTE5ZdmVjX2ZTMzN2eXdBOG9fLTlKdXFDSGJDYS1YeGR6Q1hnWmVCMFpTeU1YbjZZRndWcXF0dVBVQ3NjRTJCNDhyNFM0SHlmZ0F5VlBTMHVsTG0xMjFQME5hNThpeW45clF3UWZJQmtidW4tcGhjOWVOY2t3YUNuSVN3bUlGSjZCN3VqM1J5Tm1SZFU3QTlaR21FZVh0aUlOX0NQa1ljWElvalNxQ1lQZE03Yktxb3l4SFFROE9QQ05nUGVzRXQ1Sk1qbVI3R092YU9sNEptZWstMlY0OGFPdmZTcDd0azdGcTRnelE?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWXZlY19mUzMzdnl3QThvXy05SnVxQ0hiQ2EtWHhkekNYZ1plQjBaU3lNWG42WUZ3VnFxdHVQVUNzY0UyQjQ4cjRTNEh5ZmdBeVZQUzB1bExtMTIxUDBOYTU4aXluOXJRd1FmSUJrYnVuLXBoYzllTmNrd2FDbklTd21JRko2Qjd1ajNSeU5tUmRVN0E5WkdtRWVYdGlJTl9DUGtZY1hJb2pTcUNZUGRNN2JLcW95eEhRUThPUENOZ1Blc0V0NUpNam1SN0dPdmFPbDRKbWVrLTJWNDhhT3ZmU3A3dGs3RnE0Z3pR0gHrAUFVX3lxTE5ZdmVjX2ZTMzN2eXdBOG9fLTlKdXFDSGJDYS1YeGR6Q1hnWmVCMFpTeU1YbjZZRndWcXF0dVBVQ3NjRTJCNDhyNFM0SHlmZ0F5VlBTMHVsTG0xMjFQME5hNThpeW45clF3UWZJQmtidW4tcGhjOWVOY2t3YUNuSVN3bUlGSjZCN3VqM1J5Tm1SZFU3QTlaR21FZVh0aUlOX0NQa1ljWElvalNxQ1lQZE03Yktxb3l4SFFROE9QQ05nUGVzRXQ1Sk1qbVI3R092YU9sNEptZWstMlY0OGFPdmZTcDd0azdGcTRnelE?oc=5</guid>
@@ -199,7 +241,7 @@
 <title>[Google News] CFAs: Artificial Intelligence for American Competitiveness and Economic Security (US) - fundsforNGOs</title>
 <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFFRYk9yb2V3TVgxN25UVmlHbnNnMzh1TEJqTXlJQXMzRWNRY0NEazQteDBVaXBRdHQ5LUtIMVdCR29tdUFtQ042U3lERnNaZXpROXBudVNVbXdETy1KZk91VUNfTlJpbGxuMG5EcTg5YnIxQ3o2bTBBb0diNm44U2tsbThOd1d4MkpNUkttYkltMHZOZkN1T1dlX0tCcGhjdl9laEF6aWVBcDJpRUlSdk9ldHdXcTBQTUNfRGxncGRnVm_SAcgBQVVfeXFMUEhkUV9lRGx4d21yNUUwRk81X2ZKUmZfVDBVWGtubHlLVXVqVmZLUzIzd01KNUJEckNuM3BLalVJc0xhS3F0blhnTEEwbk1lM0k4bU02Zy1qSGNGTTQ2d0p2cUdQeHdLZF9iZGc1LURtUzdZeHdibGlPOGtzYzhBRWNlNjNIdzRxWTNYM2FfeEpzaGpmVWQ0SGtqS3d3ZEFyLVY0UjgwRFZOSTdhdmV4bGM3Q1gyU0tHN0ZNZkNtSldGaWhmWWx6SzE?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFFRYk9yb2V3TVgxN25UVmlHbnNnMzh1TEJqTXlJQXMzRWNRY0NEazQteDBVaXBRdHQ5LUtIMVdCR29tdUFtQ042U3lERnNaZXpROXBudVNVbXdETy1KZk91VUNfTlJpbGxuMG5EcTg5YnIxQ3o2bTBBb0diNm44U2tsbThOd1d4MkpNUkttYkltMHZOZkN1T1dlX0tCcGhjdl9laEF6aWVBcDJpRUlSdk9ldHdXcTBQTUNfRGxncGRnVm_SAcgBQVVfeXFMUEhkUV9lRGx4d21yNUUwRk81X2ZKUmZfVDBVWGtubHlLVXVqVmZLUzIzd01KNUJEckNuM3BLalVJc0xhS3F0blhnTEEwbk1lM0k4bU02Zy1qSGNGTTQ2d0p2cUdQeHdLZF9iZGc1LURtUzdZeHdibGlPOGtzYzhBRWNlNjNIdzRxWTNYM2FfeEpzaGpmVWQ0SGtqS3d3ZEFyLVY0UjgwRFZOSTdhdmV4bGM3Q1gyU0tHN0ZNZkNtSldGaWhmWWx6SzE?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 04:45:07 GMT</pubDate>
+<pubDate>Wed, 22 Jul 2026 04:46:23 GMT</pubDate>
 
 </item>
 <item>
@@ -207,13 +249,6 @@
 <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPcS1uVnlJcm5xM0RjN2pJeFFPaFVId0Z4djJzWFQ2RDhGaHJaNXpjWXB6YnkwTHQ5WVIyWW5uOEtMUXhTVW5IN3JXQ3VKRl9neEoxb3lfR1RRR3laNUxQTTVOeVRnUnlCcTFfZEtkN29lNk9Pak9fM25kRDZKbVlHZ0J5dGpEY1BrdFJ0Q2p4WXk1eXlGZ0VGRHZITkRpSHQ4enc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxPcS1uVnlJcm5xM0RjN2pJeFFPaFVId0Z4djJzWFQ2RDhGaHJaNXpjWXB6YnkwTHQ5WVIyWW5uOEtMUXhTVW5IN3JXQ3VKRl9neEoxb3lfR1RRR3laNUxQTTVOeVRnUnlCcTFfZEtkN29lNk9Pak9fM25kRDZKbVlHZ0J5dGpEY1BrdFJ0Q2p4WXk1eXlGZ0VGRHZITkRpSHQ4enc?oc=5</guid>
 <pubDate>Wed, 22 Jul 2026 04:42:18 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] ‘AI could raise Sub-Saharan Africa’s economy by 4% in 10 years’ - The Guardian Nigeria News</title>
-<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkFBZndFN1JEbUxmOVoxMzMyVGNuLWtSRWZhWDRVeWVXbmdNWG9yanVUeHpDR09kZUk4MFVBcG90STk0VFhPUlk5ZWw3NjEzNWt6czJnTUFSWnJsdDhrcHpoN1ZDODlsWXFnMzZXQ19ONWxNWGZTelBtMTZZdldKSmVMdS1SSVE2TUtvZFA1VS0zX2VPLWNPdkQ2RlFMMDA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkFBZndFN1JEbUxmOVoxMzMyVGNuLWtSRWZhWDRVeWVXbmdNWG9yanVUeHpDR09kZUk4MFVBcG90STk0VFhPUlk5ZWw3NjEzNWt6czJnTUFSWnJsdDhrcHpoN1ZDODlsWXFnMzZXQ19ONWxNWGZTelBtMTZZdldKSmVMdS1SSVE2TUtvZFA1VS0zX2VPLWNPdkQ2RlFMMDA?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 04:12:00 GMT</pubDate>
 
 </item>
 <item>
@@ -252,13 +287,6 @@
 
 </item>
 <item>
-<title>[Google News] Texarkana Arkansas Board of Directors approves new artificial intelligence policy - Ashley County Ledger</title>
-<link>https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTVBiLTF3bmZjVFdaSXYtUWdKcHZKazVhSUJkcndqU1ZHekxvNjdaeElxdU1sM3NQaDQ5WlNNdVNiWm1OUUZZQXhFa2JTZmV2c0xQU0s2OE5wUS1IU1h1UmdJdlE2Vlg0UXFhQ0NkOVJQaUZvemR0TEUtWnBzV0gtZXAyOXhKeDdpbWVtYVhYbkhSUkRTLVQzc3FYcXlmRTc0RDY0RTlSQUZPYlV5c25VajJaYkd0VGtaeldHZjgtcTZWSDFTN08yN1AzUU9NYkY4UlNIVnZ3emJhMWhCcDl0RXhzaTRtd21KazQ5RExXUmp4OTBPOUcwZlNYZHdpUHBOM1FEWVBQSEM?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTVBiLTF3bmZjVFdaSXYtUWdKcHZKazVhSUJkcndqU1ZHekxvNjdaeElxdU1sM3NQaDQ5WlNNdVNiWm1OUUZZQXhFa2JTZmV2c0xQU0s2OE5wUS1IU1h1UmdJdlE2Vlg0UXFhQ0NkOVJQaUZvemR0TEUtWnBzV0gtZXAyOXhKeDdpbWVtYVhYbkhSUkRTLVQzc3FYcXlmRTc0RDY0RTlSQUZPYlV5c25VajJaYkd0VGtaeldHZjgtcTZWSDFTN08yN1AzUU9NYkY4UlNIVnZ3emJhMWhCcDl0RXhzaTRtd21KazQ5RExXUmp4OTBPOUcwZlNYZHdpUHBOM1FEWVBQSEM?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 00:04:00 GMT</pubDate>
-
-</item>
-<item>
 <title>[Cloud AI] Why AI apps fail in production (And how Google solved it)</title>
 <link>https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/</guid>
@@ -271,13 +299,6 @@
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/wistron-manufacturing-texas/</guid>
 <pubDate>Tue, 21 Jul 2026 22:35:45 +0000</pubDate>
 <description>The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In f</description>
-</item>
-<item>
-<title>[Google News] Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges - WSJ</title>
-<link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnpBamFXTmpXX1ROMHBmYjJFOEJuMEtfb0NmZ3MzUTNNWjhEVDctbXNyb0ZMejI4NUR1TFA5am5FNzBXbFkxRFd1RFdoWUI2U0NuUnpHWDJHV3N6Q05tMHNUQVVUNTBoLXFJOTZGQW5CTXozMlNZQWM2WnNNQUNWdXpVQWJfMjNOWnBsdW5vbi1GSTFqcW95bjlZRlFPMlZZcDdZRGVEeGxRb2RKQ21NcTdURFNhcDdSV20yS1puY1U2dw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnpBamFXTmpXX1ROMHBmYjJFOEJuMEtfb0NmZ3MzUTNNWjhEVDctbXNyb0ZMejI4NUR1TFA5am5FNzBXbFkxRFd1RFdoWUI2U0NuUnpHWDJHV3N6Q05tMHNUQVVUNTBoLXFJOTZGQW5CTXozMlNZQWM2WnNNQUNWdXpVQWJfMjNOWnBsdW5vbi1GSTFqcW95bjlZRlFPMlZZcDdZRGVEeGxRb2RKQ21NcTdURFNhcDdSV20yS1puY1U2dw?oc=5</guid>
-<pubDate>Tue, 21 Jul 2026 22:00:00 GMT</pubDate>
-
 </item>
 <item>
 <title>[Google News] What If Kimi K3 Reignites Chinese Tech Like DeepSeek in 2025? - marketscreener.com</title>
@@ -343,6 +364,13 @@
 
 </item>
 <item>
+<title>[Google News] First-Ever Measured Vera Rubin NVL72 Silicon Performance Stats | CoreWeave Blog - CoreWeave</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQZkM0RHF3azJPMWw2YTBCOHNJTUh5MkNtcU9PaVJSZ1FVSGpOa0Jmc0dpX3BBbEZ6NFF4MUdmaXRwVl9mbXBjMFdLeVN2RzRCbVc1aTltVFJydFJfOEVDUmE1NFNkWUV1cWpaMUhCdjhEQnNGakdFWWhRdGxJZGdyV0RZSmVOZ0tTWmk5Z19IcnQtNGMwZ2VVSUhzemk1V0NhU0F4VzZmVnozOVZ2Ti1heA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQZkM0RHF3azJPMWw2YTBCOHNJTUh5MkNtcU9PaVJSZ1FVSGpOa0Jmc0dpX3BBbEZ6NFF4MUdmaXRwVl9mbXBjMFdLeVN2RzRCbVc1aTltVFJydFJfOEVDUmE1NFNkWUV1cWpaMUhCdjhEQnNGakdFWWhRdGxJZGdyV0RZSmVOZ0tTWmk5Z19IcnQtNGMwZ2VVSUhzemk1V0NhU0F4VzZmVnozOVZ2Ti1heA?oc=5</guid>
+<pubDate>Tue, 21 Jul 2026 15:13:14 GMT</pubDate>
+
+</item>
+<item>
 <title>[YouTube] Mistral and Microsoft Expand Global Strategic Partnership to Give Enterprises AI They Can Control</title>
 <link>https://www.youtube.com/watch?v=xr4VUV-7rN0</link>
 <guid isPermaLink="false">https://www.youtube.com/watch?v=xr4VUV-7rN0</guid>
@@ -397,34 +425,6 @@
 <guid isPermaLink="false">https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/</guid>
 <pubDate>Tue, 21 Jul 2026 15:00:00 GMT</pubDate>
 <description>Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token...</description>
-</item>
-<item>
-<title>[Google News] Another ‘DeepSeek moment’? What China’s Kimi K3 means for the global AI industry - South China Morning Post</title>
-<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFFzY2x5cTY2ai0yVTdBX25yMFRySmpsR3VTSGx5bWFfRnhsc0ZTQnZKSEpXbkQtWDgwLWpCTlEyTVFTR0kzVXJkQXlLSzdhUDdfNWlzdDBSc0RDUE9HUTEtOFVpcFp0X3d3Qms2U29CdEtnaE5FSFpNOWVqaFd0YUY0ZHpJdWlpNVVFWHZyZ3dxRVpvSm9iWDNiSDluaHY3QzJDUnVFSjhHRXJzMkVfc3FrS3ZoVTdLRlZz0gG7AUFVX3lxTFAtMXB4cVY5ZS1PSFotVEtBOXpyZGRwbVFhV3F4c3c1bklqa1lYOFZHNG9VRU5hd2NMZEw2d1lNaVplVTh0RUh0R2E3d1lybDZtZmNvdXdJQzB4aHN3MkZmUHR5eHJXSXd4bHBraEJhWUFqU281V25OckpqMjN3UVhHX2g4YmRFcGFfVlRUY0lsWXo4RlVMQWhiYkFHZVVKRDRaVzlfSmc2N3FMYmc0T3REa1pGZVNNQnFjeHc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFFzY2x5cTY2ai0yVTdBX25yMFRySmpsR3VTSGx5bWFfRnhsc0ZTQnZKSEpXbkQtWDgwLWpCTlEyTVFTR0kzVXJkQXlLSzdhUDdfNWlzdDBSc0RDUE9HUTEtOFVpcFp0X3d3Qms2U29CdEtnaE5FSFpNOWVqaFd0YUY0ZHpJdWlpNVVFWHZyZ3dxRVpvSm9iWDNiSDluaHY3QzJDUnVFSjhHRXJzMkVfc3FrS3ZoVTdLRlZz0gG7AUFVX3lxTFAtMXB4cVY5ZS1PSFotVEtBOXpyZGRwbVFhV3F4c3c1bklqa1lYOFZHNG9VRU5hd2NMZEw2d1lNaVplVTh0RUh0R2E3d1lybDZtZmNvdXdJQzB4aHN3MkZmUHR5eHJXSXd4bHBraEJhWUFqU281V25OckpqMjN3UVhHX2g4YmRFcGFfVlRUY0lsWXo4RlVMQWhiYkFHZVVKRDRaVzlfSmc2N3FMYmc0T3REa1pGZVNNQnFjeHc?oc=5</guid>
-<pubDate>Tue, 21 Jul 2026 14:24:30 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Will China’s new AI model Kimi K3 create another DeepSeek moment? - South China Morning Post</title>
-<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPdldmSmlzdURQc2RBVnI5ODhEb3pFQXRCbkVZWlhiTnE4OHBFWmF3U0tFci0zbEhlQWZBeG5HbEJwTWVndG5rUEdFUDh1dXFMeFdUUUxOOE9GdUJwdF80enlUSFE1YkI1V1dvVlNIUnlXQlIyaW1FazNMYTIwcEQtOXVUMGE5NEVxX3NEVHYyZGkyVkVXOGFvY1ROaTh4NjUzWHVDN0swNA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxPdldmSmlzdURQc2RBVnI5ODhEb3pFQXRCbkVZWlhiTnE4OHBFWmF3U0tFci0zbEhlQWZBeG5HbEJwTWVndG5rUEdFUDh1dXFMeFdUUUxOOE9GdUJwdF80enlUSFE1YkI1V1dvVlNIUnlXQlIyaW1FazNMYTIwcEQtOXVUMGE5NEVxX3NEVHYyZGkyVkVXOGFvY1ROaTh4NjUzWHVDN0swNA?oc=5</guid>
-<pubDate>Tue, 21 Jul 2026 10:46:03 GMT</pubDate>
-
-</item>
-<item>
-<title>[MIT Tech Review] Advancing next-gen AI with materials science innovation</title>
-<link>https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/</link>
-<guid isPermaLink="false">https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/</guid>
-<pubDate>Tue, 21 Jul 2026 10:37:34 +0000</pubDate>
-<description>The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI </description>
-</item>
-<item>
-<title>[Google News] Deepseek 2.0 moment did not arrive: chip stocks stabilize, US stock market awaits earnings season - odaily.news</title>
-<link>https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0N19WdU9BeWZERWFkaVM5Q1hEUTNLUlF6NkI2WFlNbjlfUnppMWM2VjM1bnVINjg4UFQ5VmJ3Ym5od2R0aURYN0hOTklrbUxS?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0N19WdU9BeWZERWFkaVM5Q1hEUTNLUlF6NkI2WFlNbjlfUnppMWM2VjM1bnVINjg4UFQ5VmJ3Ym5od2R0aURYN0hOTklrbUxS?oc=5</guid>
-<pubDate>Tue, 21 Jul 2026 09:46:39 GMT</pubDate>
-
 </item>
 </channel>
 </rss>
