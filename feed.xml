@@ -5,7 +5,49 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 23 Jul 2026 17:47:57 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 19:48:20 GMT</lastBuildDate>
+<item>
+<title>[YouTube] Now it won’t take you 10 years to get tickets</title>
+<link>https://www.youtube.com/shorts/oikd-FocWrI</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/oikd-FocWrI</guid>
+<pubDate>Thu, 23 Jul 2026 18:58:16 GMT</pubDate>
+<description>Check out ChatGPT Work today: https://openai.com/chatgpt-work/</description>
+</item>
+<item>
+<title>[YouTube] Powering Agentic AI with AI-Ready Data Platforms That Turn Data Into Intelligence</title>
+<link>https://www.youtube.com/watch?v=TY2EilHUR1c</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=TY2EilHUR1c</guid>
+<pubDate>Thu, 23 Jul 2026 18:43:29 GMT</pubDate>
+<description>In this NVIDIA GTC Taipei session, NVIDIA VP of Storage Technology Jason Hardy shares how we are working with leading partners to build a new class of AI-native data platforms that tightly integrate accelerated compute, high-performance storage, intelligent data services, and built-in security into </description>
+</item>
+<item>
+<title>[Developer] Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72</title>
+<link>https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/</guid>
+<pubDate>Thu, 23 Jul 2026 18:30:00 GMT</pubDate>
+<description>Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token...</description>
+</item>
+<item>
+<title>[Developer] Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI</title>
+<link>https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/</guid>
+<pubDate>Thu, 23 Jul 2026 18:15:00 GMT</pubDate>
+<description>What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale....</description>
+</item>
+<item>
+<title>[Agent Framework] Move Agent Orchestration/Workflows out of Code with Agent Framework Declarative Workflows 1.0</title>
+<link>https://devblogs.microsoft.com/agent-framework/move-agent-orchestration-workflows-out-of-code-with-agent-framework-declarative-workflows-1-0/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/agent-framework/move-agent-orchestration-workflows-out-of-code-with-agent-framework-declarative-workflows-1-0/</guid>
+<pubDate>Thu, 23 Jul 2026 18:13:24 +0000</pubDate>
+<description>Most multi-agent apps wire every flow in application code: the sequence of steps, branching, and handoffs between agents all live inside the program, making the orchestration harder to review, version, and change. Declarative workflows make that orchestration explicit. In YAML, you define how agents</description>
+</item>
+<item>
+<title>[Developer] NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI</title>
+<link>https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/</guid>
+<pubDate>Thu, 23 Jul 2026 18:00:00 GMT</pubDate>
+<description>Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with...</description>
+</item>
 <item>
 <title>[YouTube] Health in ChatGPT is coming to U.S. users</title>
 <link>https://www.youtube.com/watch?v=lR58Dge8jE8</link>
@@ -56,9 +98,9 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek CEO Believes NVIDIA Is Now "Digging Its Own Grave" Even As 1 NVIDIA GB300 GPU Equals 4 Huawei Acend 950 GPUs - Wccftech</title>
-<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMWFHUEhobGFJclBDbVVMX1BwQ29GN3oteHJpcFg0OGxIMGlwdkw5V29RVXowUTh2RHd0X2hpdzRPemRfeFZaZnZlVFpNaENnbWpCb3IwUzhOQTFpMlUzT2M2Y0x1dTVJREs3Umc3MUJsblBkRmhUaXdQX3RSZVlhbVJxNi1MTjZtSm1oSkYzQ2VHOHFZMmRjNFlTQjFHSTBDOFZqSGpSOTRrQk9mRU43OFEtMEc0S3QwZ2E0bnhaTS12Rl9RUk11ak5wTC15QUFBUDFj?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMWFHUEhobGFJclBDbVVMX1BwQ29GN3oteHJpcFg0OGxIMGlwdkw5V29RVXowUTh2RHd0X2hpdzRPemRfeFZaZnZlVFpNaENnbWpCb3IwUzhOQTFpMlUzT2M2Y0x1dTVJREs3Umc3MUJsblBkRmhUaXdQX3RSZVlhbVJxNi1MTjZtSm1oSkYzQ2VHOHFZMmRjNFlTQjFHSTBDOFZqSGpSOTRrQk9mRU43OFEtMEc0S3QwZ2E0bnhaTS12Rl9RUk11ak5wTC15QUFBUDFj?oc=5</guid>
+<title>[Google News] DeepSeek CEO Believes NVIDIA Is Now “Digging Its Own Grave” Even As 1 NVIDIA GB300 GPU Equals 4 Huawei Acend 950 GPUs - Wccftech</title>
+<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMWFHUEhobGFJclBDbVVMX1BwQ29GN3oteHJpcFg0OGxIMGlwdkw5V29RVXowUTh2RHd0X2hpdzRPemRfeFZaZnZlVFpNaENnbWpCb3IwUzhOQTFpMlUzT2M2Y0x1dTVJREs3Umc3MUJsblBkRmhUaXdQX3RSZVlhbVJxNi1MTjZtSm1oSkYzQ2VHOHFZMmRjNFlTQjFHSTBDOFZqSGpSOTRrQk9mRU43OFEtMEc0S3QwZ2E0bnhaTS12Rl9RUk11ak5wTC15QUFBUDFj0gHYAUFVX3lxTE9xWkhiWHVqelV5M1RHVHA2VjFmOE1EYXFUZ1ZseUc3M3FMT21GMjdrUXltdUM5SjdLNVdvTGI5dmVSMGZULVdkT1V1YjNYTExrMzgwSmdUdHNsN0l0ajJFcE12ZXZ6MFhkTkpybUNnT0Q0Z3BqdG1YMzZJUnBFRmFMUUUwMVo5bGJQNTIxYVdzTmJnQjFMMmVoRDFqNFp6Z2VmVnV0LURRZ0V4VHp2YVdFXzBwMjctbTZYVkc2eXQ0aEJ0WVJvbXRDYUtjbXg4YVVFcVlGY01KSA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMWFHUEhobGFJclBDbVVMX1BwQ29GN3oteHJpcFg0OGxIMGlwdkw5V29RVXowUTh2RHd0X2hpdzRPemRfeFZaZnZlVFpNaENnbWpCb3IwUzhOQTFpMlUzT2M2Y0x1dTVJREs3Umc3MUJsblBkRmhUaXdQX3RSZVlhbVJxNi1MTjZtSm1oSkYzQ2VHOHFZMmRjNFlTQjFHSTBDOFZqSGpSOTRrQk9mRU43OFEtMEc0S3QwZ2E0bnhaTS12Rl9RUk11ak5wTC15QUFBUDFj0gHYAUFVX3lxTE9xWkhiWHVqelV5M1RHVHA2VjFmOE1EYXFUZ1ZseUc3M3FMT21GMjdrUXltdUM5SjdLNVdvTGI5dmVSMGZULVdkT1V1YjNYTExrMzgwSmdUdHNsN0l0ajJFcE12ZXZ6MFhkTkpybUNnT0Q0Z3BqdG1YMzZJUnBFRmFMUUUwMVo5bGJQNTIxYVdzTmJnQjFMMmVoRDFqNFp6Z2VmVnV0LURRZ0V4VHp2YVdFXzBwMjctbTZYVkc2eXQ0aEJ0WVJvbXRDYUtjbXg4YVVFcVlGY01KSA?oc=5</guid>
 <pubDate>Thu, 23 Jul 2026 15:06:50 GMT</pubDate>
 
 </item>
@@ -383,48 +425,6 @@
 <guid isPermaLink="false">https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/</guid>
 <pubDate>Wed, 22 Jul 2026 18:40:21 +0000</pubDate>
 
-</item>
-<item>
-<title>[Developer] Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++</title>
-<link>https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/</guid>
-<pubDate>Wed, 22 Jul 2026 16:35:04 GMT</pubDate>
-<description>A TensorRT engine build can take seconds to many minutes. Large strongly typed models, deep tactic search, and a cold timing cache on a brand-new GPU SKU can...</description>
-</item>
-<item>
-<title>[Gemini] Here’s how to ask Gemini Live for help with anything you see.</title>
-<link>https://blog.google/products-and-platforms/products/gemini/gemini-live-camera-how-to/</link>
-<guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-live-camera-how-to/</guid>
-<pubDate>Wed, 22 Jul 2026 16:00:00 +0000</pubDate>
-<description>Have you ever struggled to describe something you’re looking at? Whether it’s a complex manual, a blinking error code, or a unique object, sometimes you just need an exp…</description>
-</item>
-<item>
-<title>[DeepMind] Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission</title>
-<link>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</guid>
-<pubDate>Wed, 22 Jul 2026 13:38:54 +0000</pubDate>
-<description>Google commits $40M in AI tokens and credits for the Genesis Mission</description>
-</item>
-<item>
-<title>[Newsroom] New WhatsApp Features Keep Up With the Way You Actually Live</title>
-<link>https://about.fb.com/news/2026/07/new-whatsapp-features-keep-up-with-the-way-you-actually-live/</link>
-<guid isPermaLink="false">https://about.fb.com/news/2026/07/new-whatsapp-features-keep-up-with-the-way-you-actually-live/</guid>
-<pubDate>Wed, 22 Jul 2026 13:30:41 +0000</pubDate>
-<description>We’ve introduced new features that make it easier for you to make WhatsApp part of your life. The post New WhatsApp Features Keep Up With the Way You Actually Live appeared first on Meta Newsroom .</description>
-</item>
-<item>
-<title>[YouTube] Training Agents 3: Reinforcement Learning</title>
-<link>https://www.youtube.com/watch?v=ztdTed5egrM</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=ztdTed5egrM</guid>
-<pubDate>Wed, 22 Jul 2026 13:04:13 GMT</pubDate>
-<description>Training Agents, Session 3: from a fine-tuned baseline to reinforcement learning with GRPO. In this live session, we'll move past imitation and start training on outcomes. We'll take the model from the earlier sessions and run Group Relative Policy Optimization: sample multiple completions per promp</description>
-</item>
-<item>
-<title>[Blog] NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework</title>
-<link>https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</guid>
-<pubDate>Wed, 22 Jul 2026 13:00:11 +0000</pubDate>
-<description>Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on s</description>
 </item>
 </channel>
 </rss>
