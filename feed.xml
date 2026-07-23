@@ -5,7 +5,70 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 23 Jul 2026 14:33:49 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 17:47:57 GMT</lastBuildDate>
+<item>
+<title>[YouTube] Health in ChatGPT is coming to U.S. users</title>
+<link>https://www.youtube.com/watch?v=lR58Dge8jE8</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=lR58Dge8jE8</guid>
+<pubDate>Thu, 23 Jul 2026 17:03:29 GMT</pubDate>
+<description>Health in ChatGPT is starting to roll out to U.S. users. You can securely connect Apple Health and supported medical records to understand your information in context, track what has changed, and have more informed conversations. We built this experience based on feedback from early testers and phys</description>
+</item>
+<item>
+<title>[Developer] Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit</title>
+<link>https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/</guid>
+<pubDate>Thu, 23 Jul 2026 16:07:03 GMT</pubDate>
+<description>NVIDIA OptiX ray tracing engine is an application framework for achieving optimal ray tracing performance on the GPU. Applications using OptiX can fail in ways...</description>
+</item>
+<item>
+<title>[YouTube] An Early Look At The MSI Prestige N16 Flip AI+ &amp; EdgeMesa N AI+ Powered by NVIDIA RTX Spark</title>
+<link>https://www.youtube.com/shorts/4ADWW93ebjo</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/4ADWW93ebjo</guid>
+<pubDate>Thu, 23 Jul 2026 16:00:39 GMT</pubDate>
+<description>Brilliantly versatile. Seamlessly integrated. Join NVIDIA's Jacob Freeman for a closer look at the new MSI Prestige N16 Flip AI+ laptop &amp; the ultra-compact EdgeMesa N AI+ desktop powered by the NVIDIA RTX Spark superchip. Learn more: https://www.nvidia.com/en-us/products/rtx-spark/</description>
+</item>
+<item>
+<title>[Cloud AI] The Blueprint: How Voicify makes AI-enabled ordering a delight for customers</title>
+<link>https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/</guid>
+<pubDate>Thu, 23 Jul 2026 16:00:00 +0000</pubDate>
+<description>Welcome to The Blueprint, a new feature where we highlight how Google Cloud customers are tackling unique and common challenges across industries using the latest AI and cloud technologies. We hope to inspire others looking to innovate in their work . Founded in 2018, Voicify reimagines the traditio</description>
+</item>
+<item>
+<title>[Developer] Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes</title>
+<link>https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/</guid>
+<pubDate>Thu, 23 Jul 2026 16:00:00 GMT</pubDate>
+<description>Customization is what enables developers to take a general model and tailor it to use cases, domains, languages, and more. However, customization comes with a...</description>
+</item>
+<item>
+<title>[Google News] Liang Wenfeng's 30,000-Word Closed-Door Meeting Transcript Goes Viral: AI's Richest Man Bets on "Restraint" for AGI, Says NVIDIA's Moat Is Crumbling Fast - finance.biggo.com</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9TQ0xZNmpROWRLbkIzOXF6bWstcW5vbXNJZXVBV2tuNXBEOTNBYk1ZUlU2eGxYVnJDRFdGWFRTdmlhd2dKVlN0S0RuY1ZCTHA0YVRCYzBFUjRFOElYSW8yZEZpQVp1SWxZQWxlRUZJenF5S0VfR0E?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE9TQ0xZNmpROWRLbkIzOXF6bWstcW5vbXNJZXVBV2tuNXBEOTNBYk1ZUlU2eGxYVnJDRFdGWFRTdmlhd2dKVlN0S0RuY1ZCTHA0YVRCYzBFUjRFOElYSW8yZEZpQVp1SWxZQWxlRUZJenF5S0VfR0E?oc=5</guid>
+<pubDate>Thu, 23 Jul 2026 15:55:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek’s Liang Wenfeng Breaks His Silence - oodaloop.com</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOWUlpekVfSjBxV0hBN09NV1kwek1feTZ5MFB6QkgwV20tMWhLQVRlNERiSDVKNFVfZDhUcEFjZUc5c1FzbllwV25pUWdsbEx2YmFULU5vaElTNWZ6MTZYbDJWWEQwYm5OZ2U5NXZ5bjZFc3V3MHd3QUpqSUdSSzBhR2RpQzFONHNjc3c?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxOWUlpekVfSjBxV0hBN09NV1kwek1feTZ5MFB6QkgwV20tMWhLQVRlNERiSDVKNFVfZDhUcEFjZUc5c1FzbllwV25pUWdsbEx2YmFULU5vaElTNWZ6MTZYbDJWWEQwYm5OZ2U5NXZ5bjZFc3V3MHd3QUpqSUdSSzBhR2RpQzFONHNjc3c?oc=5</guid>
+<pubDate>Thu, 23 Jul 2026 15:41:47 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek CEO Believes NVIDIA Is Now "Digging Its Own Grave" Even As 1 NVIDIA GB300 GPU Equals 4 Huawei Acend 950 GPUs - Wccftech</title>
+<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMWFHUEhobGFJclBDbVVMX1BwQ29GN3oteHJpcFg0OGxIMGlwdkw5V29RVXowUTh2RHd0X2hpdzRPemRfeFZaZnZlVFpNaENnbWpCb3IwUzhOQTFpMlUzT2M2Y0x1dTVJREs3Umc3MUJsblBkRmhUaXdQX3RSZVlhbVJxNi1MTjZtSm1oSkYzQ2VHOHFZMmRjNFlTQjFHSTBDOFZqSGpSOTRrQk9mRU43OFEtMEc0S3QwZ2E0bnhaTS12Rl9RUk11ak5wTC15QUFBUDFj?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMWFHUEhobGFJclBDbVVMX1BwQ29GN3oteHJpcFg0OGxIMGlwdkw5V29RVXowUTh2RHd0X2hpdzRPemRfeFZaZnZlVFpNaENnbWpCb3IwUzhOQTFpMlUzT2M2Y0x1dTVJREs3Umc3MUJsblBkRmhUaXdQX3RSZVlhbVJxNi1MTjZtSm1oSkYzQ2VHOHFZMmRjNFlTQjFHSTBDOFZqSGpSOTRrQk9mRU43OFEtMEc0S3QwZ2E0bnhaTS12Rl9RUk11ak5wTC15QUFBUDFj?oc=5</guid>
+<pubDate>Thu, 23 Jul 2026 15:06:50 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Artificial intelligence regulation must not leave older adults behind - Policy Options</title>
+<link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tSXllS3MxYUk1QlY5cHBIa1BPYzFuQ0YyekI5cXBXamJ2Um0xU0pMLTVyZDVyTHNfRzlxY0Nub2RWWVJxNE9TNkxrdWZuN1BvM0VJdW9zQUxrTWZQRFBfaS00N2ZBZw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tSXllS3MxYUk1QlY5cHBIa1BPYzFuQ0YyekI5cXBXamJ2Um0xU0pMLTVyZDVyTHNfRzlxY0Nub2RWWVJxNE9TNkxrdWZuN1BvM0VJdW9zQUxrTWZQRFBfaS00N2ZBZw?oc=5</guid>
+<pubDate>Thu, 23 Jul 2026 14:48:45 GMT</pubDate>
+
+</item>
 <item>
 <title>[YouTube] Work with docs, sheets, and slides in ChatGPT</title>
 <link>https://www.youtube.com/watch?v=E3dDr_QtBuo</link>
@@ -39,6 +102,13 @@
 <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNUl8wYmFmOXR5UWRDQngwbmJpZlFZXzJINnZxem96LW9wSmdpTlREdldIRDRPS2twbURGdjRMNVQ0WUF3VkdHTUFhRUNEdjdaZHlvSE5rb1UxMzlRcGpKWlRoM3cxeWx4eklRTThXX2UzVXBWdEdoTmsydXJ2N0h3Ng?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAFBVV95cUxNUl8wYmFmOXR5UWRDQngwbmJpZlFZXzJINnZxem96LW9wSmdpTlREdldIRDRPS2twbURGdjRMNVQ0WUF3VkdHTUFhRUNEdjdaZHlvSE5rb1UxMzlRcGpKWlRoM3cxeWx4eklRTThXX2UzVXBWdEdoTmsydXJ2N0h3Ng?oc=5</guid>
 <pubDate>Thu, 23 Jul 2026 11:34:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek Founder Says China’s Biggest AI Gap With US Is Computing Resources - 一财全球Yicai Global</title>
+<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSVIwa2VFMkdEakpLVzFyb19mWWp4WW5yM1Uxc3dFSWRvNjdkb2pBY0ZiR1NfQnF6ZWpRUFg2TXRRTm5UeXdOdTh1THpReG9RMmpiQ0lXWmw1U2dVeWk3MjhpcUlENnNueVlycjhPa3lyQjh6OFFXbFVKYy1rNEpRazRCZzhRZkRTcEtrc1RRU2M3UHZrSWhwSnFNb1l4Q3cxdGRMZHdKREpPZDdvWjUwWkNFQWRSQ3BMOVJN?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSVIwa2VFMkdEakpLVzFyb19mWWp4WW5yM1Uxc3dFSWRvNjdkb2pBY0ZiR1NfQnF6ZWpRUFg2TXRRTm5UeXdOdTh1THpReG9RMmpiQ0lXWmw1U2dVeWk3MjhpcUlENnNueVlycjhPa3lyQjh6OFFXbFVKYy1rNEpRazRCZzhRZkRTcEtrc1RRU2M3UHZrSWhwSnFNb1l4Q3cxdGRMZHdKREpPZDdvWjUwWkNFQWRSQ3BMOVJN?oc=5</guid>
+<pubDate>Thu, 23 Jul 2026 11:30:03 GMT</pubDate>
 
 </item>
 <item>
@@ -182,6 +252,13 @@
 
 </item>
 <item>
+<title>[News] Launching Health in ChatGPT</title>
+<link>https://openai.com/index/health-in-chatgpt</link>
+<guid isPermaLink="false">https://openai.com/index/health-in-chatgpt</guid>
+<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+<description>Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.</description>
+</item>
+<item>
 <title>[Blog] Bringing Nunchaku 4-bit Diffusion Inference to Diffusers</title>
 <link>https://huggingface.co/blog/nunchaku-diffusers</link>
 <guid isPermaLink="false">https://huggingface.co/blog/nunchaku-diffusers</guid>
@@ -196,17 +273,17 @@
 
 </item>
 <item>
-<title>[Google News] Florida Pastor Sues OpenAI After ChatGPT’s Medical Advice Delayed Emergency Treatment - The Eastern Herald</title>
-<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDdxcHZnajAxZHdYbHp6bnhSSkNLZ3F2NHlCMjRKOW1nN212Yk9xRjQ3TFlLNXRzblpWVlhKV0E2R3M4TGV0RS1ReU9OTVp4Y3VPZGtDNll0dGFlM3dZNzhTMmVEZFVTTVNmUTNaWkJzYUltRE54eExQUW8xU1RoOTliTFZfYl9BeW1tQ1lDVTZxLVNm?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDdxcHZnajAxZHdYbHp6bnhSSkNLZ3F2NHlCMjRKOW1nN212Yk9xRjQ3TFlLNXRzblpWVlhKV0E2R3M4TGV0RS1ReU9OTVp4Y3VPZGtDNll0dGFlM3dZNzhTMmVEZFVTTVNmUTNaWkJzYUltRE54eExQUW8xU1RoOTliTFZfYl9BeW1tQ1lDVTZxLVNm?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 23:05:07 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] $5 billion in federal research funding announced for artificial-intelligence projects - AL.com</title>
 <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOdjRzQ3dYWFRKZG1DU3JUSTAtTjNmLVVCNlNHb3diYWVSNzgxVGhVLU4xZUR3Q3EwRHoxSzhqYmFJbWgwNno0OHd6eWdWVzZCazBOU2pzR2lmVk5QaG1VUWNtSVFMYV9FdUdpX2hnRVdyOTVBU3paTjMzUTRpblpMSWZJVzBsQUItVVo0NTRGMmVNcTI2eF9Jb1p5eENOZ180eFI4ZE9Gem1HNlplVVFJNUNjYWRhNXhocG1rUGVB0gHSAUFVX3lxTFA5MTZjaDBFRG1MTHBET0VPeVg1bEU5WHBiSmZ4T0VKY1cwRkFRMXF6d0tsYnZLQ29XWm5qZTEyLWJ4dEtrU013MkphVW4zaTRQbUIwX2dkcTZWSkpWZnl4Y2xBRDVjdVp6S3JlMVRqTGRURzY4QThLXzhBWmFHcDVBTVZqZEhfYVVkNkpIYy1Ub2c1em5WeTMyTzRlTEtlcU40NXF4Vk0zZTdGUE93RnNTM3pudGl1X2JsRmtfVUF1VTFSdVVnWUpRYXdPX3I1Wkd3QQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxOdjRzQ3dYWFRKZG1DU3JUSTAtTjNmLVVCNlNHb3diYWVSNzgxVGhVLU4xZUR3Q3EwRHoxSzhqYmFJbWgwNno0OHd6eWdWVzZCazBOU2pzR2lmVk5QaG1VUWNtSVFMYV9FdUdpX2hnRVdyOTVBU3paTjMzUTRpblpMSWZJVzBsQUItVVo0NTRGMmVNcTI2eF9Jb1p5eENOZ180eFI4ZE9Gem1HNlplVVFJNUNjYWRhNXhocG1rUGVB0gHSAUFVX3lxTFA5MTZjaDBFRG1MTHBET0VPeVg1bEU5WHBiSmZ4T0VKY1cwRkFRMXF6d0tsYnZLQ29XWm5qZTEyLWJ4dEtrU013MkphVW4zaTRQbUIwX2dkcTZWSkpWZnl4Y2xBRDVjdVp6S3JlMVRqTGRURzY4QThLXzhBWmFHcDVBTVZqZEhfYVVkNkpIYy1Ub2c1em5WeTMyTzRlTEtlcU40NXF4Vk0zZTdGUE93RnNTM3pudGl1X2JsRmtfVUF1VTFSdVVnWUpRYXdPX3I1Wkd3QQ?oc=5</guid>
 <pubDate>Wed, 22 Jul 2026 23:01:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Trump’s Plan for Science: More Money for A.I., Less for Universities - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFlQOUZJSHdCb20wMDFzNWZBemlfTVlhdzdJTWQzZldDREJVMklsS3BWN2RITy1sME9XRHNVdUZuRjNwSE9RQXR3SkQwU255LWZIX0xsckhyd3hJeFBjaDdZdWk5M3RYU0xHdmdqMk1reThRR2R2VVBTX2hEU0c2emg4UVNsTnh1VG5ZU1J2Wkl2eExHcXFQUGpOVWl0UHM?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFlQOUZJSHdCb20wMDFzNWZBemlfTVlhdzdJTWQzZldDREJVMklsS3BWN2RITy1sME9XRHNVdUZuRjNwSE9RQXR3SkQwU255LWZIX0xsckhyd3hJeFBjaDdZdWk5M3RYU0xHdmdqMk1reThRR2R2VVBTX2hEU0c2emg4UVNsTnh1VG5ZU1J2Wkl2eExHcXFQUGpOVWl0UHM?oc=5</guid>
+<pubDate>Wed, 22 Jul 2026 22:19:39 GMT</pubDate>
 
 </item>
 <item>
@@ -266,6 +343,13 @@
 
 </item>
 <item>
+<title>[Google News] OpenAI Says AI Hacked Hugging Face During Model Testing - LAmag</title>
+<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNUDZMdXpKNWJGTFVSQ0dvby1wREN3cU5fY2lyeHRqdkpzb2s2d2hreEJYLWVIMnB6R3BaNWZNYjNxV3FyNDN3ak9MVlVxMmpTbE1qTFR4cjZHY0gzTlFZZWxKanRqb1ZQc3A1QS1pWFgxdU9ReE9BTTBiaW5kd2s4MDFvbkNRT201bUQ3ai1HRmNxZWZPTDVMTENfMmNQbTA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxNUDZMdXpKNWJGTFVSQ0dvby1wREN3cU5fY2lyeHRqdkpzb2s2d2hreEJYLWVIMnB6R3BaNWZNYjNxV3FyNDN3ak9MVlVxMmpTbE1qTFR4cjZHY0gzTlFZZWxKanRqb1ZQc3A1QS1pWFgxdU9ReE9BTTBiaW5kd2s4MDFvbkNRT201bUQ3ai1HRmNxZWZPTDVMTENfMmNQbTA?oc=5</guid>
+<pubDate>Wed, 22 Jul 2026 20:11:48 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] Buc-ee's faces backlash after allegedly using AI to generate typo-filled art - San Antonio Express-News</title>
 <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2hHbW54UTZKcG5NSVdxY0Q2eGpBZGZyamR3ZEtOMWNQaVM1aUk0WERRQlNDTm01NDlzTTJDX2tJLXp6YTVUSEpGRzY3RUlMSUtZS0p6MlJNVTJUejk0YUktVzAxb1FtOE9sVS1xeXNqV1BVRGhFVWhJSXRRTHdpWWh4NE9qZGw1dElVdlpYRm5TU0pDbDF0TW9LUHhZRk42anJUbVhpQQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2hHbW54UTZKcG5NSVdxY0Q2eGpBZGZyamR3ZEtOMWNQaVM1aUk0WERRQlNDTm01NDlzTTJDX2tJLXp6YTVUSEpGRzY3RUlMSUtZS0p6MlJNVTJUejk0YUktVzAxb1FtOE9sVS1xeXNqV1BVRGhFVWhJSXRRTHdpWWh4NE9qZGw1dElVdlpYRm5TU0pDbDF0TW9LUHhZRk42anJUbVhpQQ?oc=5</guid>
@@ -278,13 +362,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=ZAVVfZ_mwnw</guid>
 <pubDate>Wed, 22 Jul 2026 20:03:52 GMT</pubDate>
 <description>NVIDIA founder and CEO Jensen Huang joined Wistron Chairman Simon Lin in Fort Worth, Texas to discuss how AI infrastructure is reshaping U.S. advanced manufacturing. Wistron's first U.S. manufacturing facility is producing the NVIDIA GB300 Grace Blackwell Ultra Superchip and will produce the NVIDIA </description>
-</item>
-<item>
-<title>[Google News] OpenAI Says AI Hacked Hugging Face During Model Testing - LAmag</title>
-<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNUDZMdXpKNWJGTFVSQ0dvby1wREN3cU5fY2lyeHRqdkpzb2s2d2hreEJYLWVIMnB6R3BaNWZNYjNxV3FyNDN3ak9MVlVxMmpTbE1qTFR4cjZHY0gzTlFZZWxKanRqb1ZQc3A1QS1pWFgxdU9ReE9BTTBiaW5kd2s4MDFvbkNRT201bUQ3ai1HRmNxZWZPTDVMTENfMmNQbTA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxNUDZMdXpKNWJGTFVSQ0dvby1wREN3cU5fY2lyeHRqdkpzb2s2d2hreEJYLWVIMnB6R3BaNWZNYjNxV3FyNDN3ak9MVlVxMmpTbE1qTFR4cjZHY0gzTlFZZWxKanRqb1ZQc3A1QS1pWFgxdU9ReE9BTTBiaW5kd2s4MDFvbkNRT201bUQ3ai1HRmNxZWZPTDVMTENfMmNQbTA?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 20:03:29 GMT</pubDate>
-
 </item>
 <item>
 <title>[Google News] OpenAI AI Models Breach Sandbox, Hack Hugging Face - StartupHub.ai</title>
@@ -308,25 +385,11 @@
 
 </item>
 <item>
-<title>[Google News] Brevard Public Schools Discusses Possible New Artificial Intelligence Policy Ahead of School Year - Space Coast Daily</title>
-<link>https://news.google.com/rss/articles/CBMizwFBVV95cUxPQldpQkZuM2lSczdISEtma0VqZDdabmZmTGVlREhDRDFURWZ2TjBydDAzNUd2RzI3TmoxYTN4R1NQSEtrYmI4cktvLUVjcXNRTXFWZmFKZTBPZG1uUUJjbEFYb2YyNWtxcEZEZWJCRW8tWGNFbEQyWXhJeVZHdXA2TTZmY3pkQ3hUZjdtRU5WbUp5VkZyVlc0N3NCUi12d2tyLV9ETkdMTXFoVC1SX3JiZFhKVHR3Y2h4aVdpcDN0am0tZHUzMXE2WGtrWEMyU2c?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxPQldpQkZuM2lSczdISEtma0VqZDdabmZmTGVlREhDRDFURWZ2TjBydDAzNUd2RzI3TmoxYTN4R1NQSEtrYmI4cktvLUVjcXNRTXFWZmFKZTBPZG1uUUJjbEFYb2YyNWtxcEZEZWJCRW8tWGNFbEQyWXhJeVZHdXA2TTZmY3pkQ3hUZjdtRU5WbUp5VkZyVlc0N3NCUi12d2tyLV9ETkdMTXFoVC1SX3JiZFhKVHR3Y2h4aVdpcDN0am0tZHUzMXE2WGtrWEMyU2c?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 18:26:11 GMT</pubDate>
-
-</item>
-<item>
 <title>[Developer] Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++</title>
 <link>https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/</link>
 <guid isPermaLink="false">https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/</guid>
 <pubDate>Wed, 22 Jul 2026 16:35:04 GMT</pubDate>
 <description>A TensorRT engine build can take seconds to many minutes. Large strongly typed models, deep tactic search, and a cold timing cache on a brand-new GPU SKU can...</description>
-</item>
-<item>
-<title>[Google News] Chinese open-weight AI models are capturing enterprise workloads, and U.S. compliance teams need a plan - MarketScale</title>
-<link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxOa2V0U2lSYl9FMmMxQjgtZURmZEdHamR6Vm5NVDJWY1lwR1U3Tk5VUXE1Y09GNXdQUzhfYUxFUUlMWExFb0ZPU3hoNUcyRjcySDlYeWI5eGFfclJvZnJCckpfWXAyaW55bDRuV21UUVk5Zk9SejhMOUZWWlZSSnZEOEN3WnloX0hFdG9MNFhVeGZFQnZrcV83dFJDaDJpbWNlaS1IZUxYUktoRVU0LXNwQ21PX3Q2Q0haSE1Yd1dPVHlPMi0xT3FIOXMyT204YU9Mc1dlMmFwWUlfVHd5UVJSYTdFaFNYWEtyeUlLdWpBUE9PWV95UXc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi9gFBVV95cUxOa2V0U2lSYl9FMmMxQjgtZURmZEdHamR6Vm5NVDJWY1lwR1U3Tk5VUXE1Y09GNXdQUzhfYUxFUUlMWExFb0ZPU3hoNUcyRjcySDlYeWI5eGFfclJvZnJCckpfWXAyaW55bDRuV21UUVk5Zk9SejhMOUZWWlZSSnZEOEN3WnloX0hFdG9MNFhVeGZFQnZrcV83dFJDaDJpbWNlaS1IZUxYUktoRVU0LXNwQ21PX3Q2Q0haSE1Yd1dPVHlPMi0xT3FIOXMyT204YU9Mc1dlMmFwWUlfVHd5UVJSYTdFaFNYWEtyeUlLdWpBUE9PWV95UXc?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 16:15:44 GMT</pubDate>
-
 </item>
 <item>
 <title>[Gemini] Here’s how to ask Gemini Live for help with anything you see.</title>
@@ -362,69 +425,6 @@
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</guid>
 <pubDate>Wed, 22 Jul 2026 13:00:11 +0000</pubDate>
 <description>Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on s</description>
-</item>
-<item>
-<title>[News] Building AI infrastructure with the Effingham County community</title>
-<link>https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</link>
-<guid isPermaLink="false">https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</guid>
-<pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
-<description>OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.</description>
-</item>
-<item>
-<title>[News] How news organizations are using AI to advance their vital missions</title>
-<link>https://openai.com/index/how-news-organizations-are-using-ai</link>
-<guid isPermaLink="false">https://openai.com/index/how-news-organizations-are-using-ai</guid>
-<pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
-<description>News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.</description>
-</item>
-<item>
-<title>[Google AI] 3 Google updates from Galaxy Unpacked 2026</title>
-<link>https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/</link>
-<guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/</guid>
-<pubDate>Wed, 22 Jul 2026 13:00:00 +0000</pubDate>
-<description>We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.</description>
-</item>
-<item>
-<title>[Google News] Watch out: your chats with DeepSeek may end up on Google search - Cybernews</title>
-<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ050OFRFU1JNZWQwXzVpTFZ2eGsxS2ZPMWs3UkdRLWQ0QzVjcFJFOFlIV19WS1pYcC1pOUJicGgzT0s5eXRGbkNhNTFJQzBuTlowUnJaeldRaVlSc09lS0ZwVzhUZ0RxNjNnSkVvR3F1MkF5YjcyRW52MmZVeG5zSA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ050OFRFU1JNZWQwXzVpTFZ2eGsxS2ZPMWs3UkdRLWQ0QzVjcFJFOFlIV19WS1pYcC1pOUJicGgzT0s5eXRGbkNhNTFJQzBuTlowUnJaeldRaVlSc09lS0ZwVzhUZ0RxNjNnSkVvR3F1MkF5YjcyRW52MmZVeG5zSA?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 12:41:37 GMT</pubDate>
-
-</item>
-<item>
-<title>[News] Advancing the next era of national science</title>
-<link>https://openai.com/index/advancing-the-next-era-of-national-science</link>
-<guid isPermaLink="false">https://openai.com/index/advancing-the-next-era-of-national-science</guid>
-<pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-<description>OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.</description>
-</item>
-<item>
-<title>[Google News] $1,000 invested in Nvidia stock at DeepSeek-R1 launch is now worth - Finbold</title>
-<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQWTM0T01qQjJwZlBVTk5ucEJRMzhLSXJRNUtWbTBfMEc3WGtka3lRelZQblR3d29DSng2Y0lHUjlQbmN6V3lIUFVRSVdETlJ1dDlEYWI4Z3dVUDJLdXZ4b2dXVng4S2k3Wm1TNk5YVmI4ZURDUjVzcndaRTJwY1d1Skpaa3NCQ2Y0NzdmdlJR?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxQWTM0T01qQjJwZlBVTk5ucEJRMzhLSXJRNUtWbTBfMEc3WGtka3lRelZQblR3d29DSng2Y0lHUjlQbmN6V3lIUFVRSVdETlJ1dDlEYWI4Z3dVUDJLdXZ4b2dXVng4S2k3Wm1TNk5YVmI4ZURDUjVzcndaRTJwY1d1Skpaa3NCQ2Y0NzdmdlJR?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 11:32:04 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] China Is Recruiting for the AI Race. America Must Respond. - The National Interest</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTE5Z1I0a1M0eExURWs0aHlCQlhHOVFnMUZyU1ZRcG0wUHNZVXRuTklNNlBJeDNVTlF5OFlUOXlldXo4dlpEMnBNX0k5UUo2azJlemVaWHdEcm9zbFdfbVpMQWlSLXlMQVpWXzVrOXJGOXBhV1pTa2wzc0tVTDdnQmFYeFFzRUFjMzg2QlZnOGZoU0x2WUtaQWRlVXd3UC1q?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTE5Z1I0a1M0eExURWs0aHlCQlhHOVFnMUZyU1ZRcG0wUHNZVXRuTklNNlBJeDNVTlF5OFlUOXlldXo4dlpEMnBNX0k5UUo2azJlemVaWHdEcm9zbFdfbVpMQWlSLXlMQVpWXzVrOXJGOXBhV1pTa2wzc0tVTDdnQmFYeFFzRUFjMzg2QlZnOGZoU0x2WUtaQWRlVXd3UC1q?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 11:17:46 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Led By DeepSeek, 10 Frontier Labs Rush Onto The Crunchbase Unicorn Board In June - Crunchbase News</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1V3Z2RJVFFWNWhyNUJpMTFpNDZiNlRxVjdZWThVd2xPRDRmNTgwRS1rWGtqYV9KamdQRTVuUXZiSzhHbG44emxvbTl3VVFPOWFIV0Y3QUVBZWRDMFRHSHRYYzZidkJJR1NPS2xHMlZMOFAzcUFpM0U2UjBqeHdPTkxJM0dIZWNNTnhGREIwWWZ2NUtqb2V6VVBlYXVSUQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1V3Z2RJVFFWNWhyNUJpMTFpNDZiNlRxVjdZWThVd2xPRDRmNTgwRS1rWGtqYV9KamdQRTVuUXZiSzhHbG44emxvbTl3VVFPOWFIV0Y3QUVBZWRDMFRHSHRYYzZidkJJR1NPS2xHMlZMOFAzcUFpM0U2UjBqeHdPTkxJM0dIZWNNTnhGREIwWWZ2NUtqb2V6VVBlYXVSUQ?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 11:00:54 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Google Indexes Some User Dialogues from DeepSeek - ForkLog</title>
-<link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5lSUFwWm80NmVsc3BNZnVNMUZHZlVrbGQwNUFpSEVWVU9mTm80V1NoSjdBUVRTb0hRVzkxUnh4VTZmdFFmT1R0M0U5ODczT0h6cUNBX3ZKMnN1NkpXNkoxR0RxRk5YQnJZbGZsc2lqM3ZKOFN1anV3M2RET1c?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMifEFVX3lxTE5lSUFwWm80NmVsc3BNZnVNMUZHZlVrbGQwNUFpSEVWVU9mTm80V1NoSjdBUVRTb0hRVzkxUnh4VTZmdFFmT1R0M0U5ODczT0h6cUNBX3ZKMnN1NkpXNkoxR0RxRk5YQnJZbGZsc2lqM3ZKOFN1anV3M2RET1c?oc=5</guid>
-<pubDate>Wed, 22 Jul 2026 11:00:00 GMT</pubDate>
-
 </item>
 </channel>
 </rss>
