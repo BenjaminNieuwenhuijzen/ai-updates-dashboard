@@ -5,7 +5,70 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Wed, 29 Jul 2026 14:32:34 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 17:40:29 GMT</lastBuildDate>
+<item>
+<title>[YouTube] We're giving 100,000 academic researchers free access to our frontier models</title>
+<link>https://www.youtube.com/watch?v=MLehRytu9Zo</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=MLehRytu9Zo</guid>
+<pubDate>Wed, 29 Jul 2026 17:23:02 GMT</pubDate>
+<description>We’re giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10,000 researchers and expanding to 100,000 through 2027. ChatGPT for Academic researchers is built to accelerate discovery across disciplines. We believe the benefits of frontier AI should not be</description>
+</item>
+<item>
+<title>[Developer] How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails</title>
+<link>https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/</guid>
+<pubDate>Wed, 29 Jul 2026 16:46:45 GMT</pubDate>
+<description>Deploying an AI coding assistant in a regulated, sovereign, or source-sensitive environment, often comes with challenges. Three common issues are: the source...</description>
+</item>
+<item>
+<title>[DeepMind] We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control</title>
+<link>https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/</guid>
+<pubDate>Wed, 29 Jul 2026 16:02:10 +0000</pubDate>
+<description>Our newest music generation model, Lyria 3.5, delivers significant advancements across musicality, lyrics, and vocal quality, empowering you to craft richer tracks. We’r…</description>
+</item>
+<item>
+<title>[Cloud AI] What’s new in Gemini Enterprise Agent Platform</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/</guid>
+<pubDate>Wed, 29 Jul 2026 16:00:00 +0000</pubDate>
+<description>Since we launched Gemini Enterprise Agent Platform a few months ago, we’ve seen inspiring progress from businesses and builders alike. To stir up development, we’ve also shared 13 demos that can walk you through the versatility and power of Agent Platform, and 20 questions you can ask your teams abo</description>
+</item>
+<item>
+<title>[Cloud AI] Automate your agent development lifecycle using any coding agent</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/</guid>
+<pubDate>Wed, 29 Jul 2026 16:00:00 +0000</pubDate>
+<description>Welcome to our latest Gemini Enterprise Agent Platform deep dive, a practical walkthrough where we’ll teach you how to build real-world, production-ready agents starting from step 1. If you haven’t already, tune into our livestream to guide you through the entire agentic lifecycle and read more in o</description>
+</item>
+<item>
+<title>[Google News] A market vet warns that Washington's moves to blunt AI competition from China are largely 'toothless' - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVozQUlJUVBnTDU5ODNyQWRoOHJhSjEzUWJJQjFHUmoxQjZHV004OWQ4a01CbFh5aEQtWU11YVQ0SjJDZlQ0OFJxRTdQeHlrcXpUSXF0dm8yakxXNC1hbjJnaU04TWtCZ19sd3BHcVVYRGRhQk1LdTl3REF3bzctSkQ2N3NhTWFVNFdkdVh2X0RiZVhERTU2MHFxSTZ6WHg4b0c3bWcydXBfS0dFUnE5QU9OOG8?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVozQUlJUVBnTDU5ODNyQWRoOHJhSjEzUWJJQjFHUmoxQjZHV004OWQ4a01CbFh5aEQtWU11YVQ0SjJDZlQ0OFJxRTdQeHlrcXpUSXF0dm8yakxXNC1hbjJnaU04TWtCZ19sd3BHcVVYRGRhQk1LdTl3REF3bzctSkQ2N3NhTWFVNFdkdVh2X0RiZVhERTU2MHFxSTZ6WHg4b0c3bWcydXBfS0dFUnE5QU9OOG8?oc=5</guid>
+<pubDate>Wed, 29 Jul 2026 15:46:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Those who build artificial intelligence have just asked for help from the US government, as 1,224 employees from the largest companies in the sector signed a document admitting the risk of losing control of their own creation. - CPG Click Oil and Gas</title>
+<link>https://news.google.com/rss/articles/CBMikAJBVV95cUxNUUVJem9mNWZwb0ZKQlNNLWFudTZ4blZqSHhjNEYwMDRGM2dueHZFTVpEZFNldUNqYnJvWGJNUWJ2dDh4cTFQTWVvbjMxN1NYb3BXTldPbGs5SEtDb1JNNV81R0VlaG5ITGpvVnl1N3hYWWc2VGFlTGlESzlyZkNZSXNrR0kxRFZJc2JORzdpcGVkME9nd2F2ckV3MUdNRE13RFlRc2UzYVNIX2U0LXNwWnBvMWczTkhNN3lxMThpSGJGOS1UMUE4R1VSb3A3amw0NjFFeVBSdnU5WXkzRU1mbWdZS0ROM0FTRzFybFBrUy0tUXR2V3kzMUFfM2R6VmxLUlZSc1c5eGFLLWl1ZHJ5TA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAJBVV95cUxNUUVJem9mNWZwb0ZKQlNNLWFudTZ4blZqSHhjNEYwMDRGM2dueHZFTVpEZFNldUNqYnJvWGJNUWJ2dDh4cTFQTWVvbjMxN1NYb3BXTldPbGs5SEtDb1JNNV81R0VlaG5ITGpvVnl1N3hYWWc2VGFlTGlESzlyZkNZSXNrR0kxRFZJc2JORzdpcGVkME9nd2F2ckV3MUdNRE13RFlRc2UzYVNIX2U0LXNwWnBvMWczTkhNN3lxMThpSGJGOS1UMUE4R1VSb3A3amw0NjFFeVBSdnU5WXkzRU1mbWdZS0ROM0FTRzFybFBrUy0tUXR2V3kzMUFfM2R6VmxLUlZSc1c5eGFLLWl1ZHJ5TA?oc=5</guid>
+<pubDate>Wed, 29 Jul 2026 15:21:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[Gemini] Gemini for macOS adds new natural language capabilities</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/</guid>
+<pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
+<description>A look at how the Gemini app for macOS now lets you speak naturally to get clean transcriptions, edits, and summaries just using your voice.</description>
+</item>
+<item>
+<title>[Google News] At 14, Jainam Jain Is Building an AI Startup From the Burj Khalifa - ascendants.in</title>
+<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzc0MTgwOFJBUmowX0FWdFpDSXhBcXp1aUlGcFlOWGNxVnRhM1U3c2l0VU9jLU5Ea0xVN2xnRWc1UVRJaDU2dTIzQjVFQS12RXNGZm85ZzJkVndJWUUzN0JzZHZVbmhuREhTcDh1eW9qRTlnaUVHS050aHp1VG9LSHZNYzlFRHhtV3dIQlRXMA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzc0MTgwOFJBUmowX0FWdFpDSXhBcXp1aUlGcFlOWGNxVnRhM1U3c2l0VU9jLU5Ea0xVN2xnRWc1UVRJaDU2dTIzQjVFQS12RXNGZm85ZzJkVndJWUUzN0JzZHZVbmhuREhTcDh1eW9qRTlnaUVHS050aHp1VG9LSHZNYzlFRHhtV3dIQlRXMA?oc=5</guid>
+<pubDate>Wed, 29 Jul 2026 14:09:46 GMT</pubDate>
+
+</item>
 <item>
 <title>[Google News] Exclusive / Censorship in Chinese AI models can be undone, new research shows - Semafor</title>
 <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2wwNVdZWldVbi1yS2lvQ3NkMFNJQXFfb0M0QTFXem1KQjIxZkw4dU5Ib0lXZTVla1B3Wmt5MXU1cHU3U1BRVjl3RV9KOXB0V0tsLVJOZTVQWjlhZFRVYU1jUVZyWDgxSjlwdDhvdmZCYVo0SlZOVmxYallCekhPai1ZbGhkTHo4TW81ZGRZUlY3bEo5c2NnNFgxSnBWYzZzTk0tQktINWZwX2c?oc=5</link>
@@ -61,6 +124,13 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE40a1lKcnl5eDVzRlZPOU5EcTVnRlFSR1d0MWlOaG5FZ2ZZWUJnZ3pHaWJleHpfTkZfOW1SOEtqUVV1XzJqbldKTGI2cFlFSU1KOTdkX0tWV1lZZXB5Mm1SN292bEJrWVItYUwtOHpVa0lPZTl1RkNPcS1zMVA1T0U?oc=5</guid>
 <pubDate>Wed, 29 Jul 2026 10:46:12 GMT</pubDate>
 
+</item>
+<item>
+<title>[News] Accelerating scientific discovery with ChatGPT for Academic Researchers</title>
+<link>https://openai.com/index/chatgpt-for-academic-researchers</link>
+<guid isPermaLink="false">https://openai.com/index/chatgpt-for-academic-researchers</guid>
+<pubDate>Wed, 29 Jul 2026 10:00:00 GMT</pubDate>
+<description>OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.</description>
 </item>
 <item>
 <title>[Google News] Perplexity Announces $1 Million Challenge to Build a Billion-Dollar AI Startup - ascendants.in</title>
@@ -133,31 +203,10 @@
 
 </item>
 <item>
-<title>[Google News] At 14, Jainam Jain Is Building an AI Startup From the Burj Khalifa - ascendants.in</title>
-<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzc0MTgwOFJBUmowX0FWdFpDSXhBcXp1aUlGcFlOWGNxVnRhM1U3c2l0VU9jLU5Ea0xVN2xnRWc1UVRJaDU2dTIzQjVFQS12RXNGZm85ZzJkVndJWUUzN0JzZHZVbmhuREhTcDh1eW9qRTlnaUVHS050aHp1VG9LSHZNYzlFRHhtV3dIQlRXMA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzc0MTgwOFJBUmowX0FWdFpDSXhBcXp1aUlGcFlOWGNxVnRhM1U3c2l0VU9jLU5Ea0xVN2xnRWc1UVRJaDU2dTIzQjVFQS12RXNGZm85ZzJkVndJWUUzN0JzZHZVbmhuREhTcDh1eW9qRTlnaUVHS050aHp1VG9LSHZNYzlFRHhtV3dIQlRXMA?oc=5</guid>
-<pubDate>Wed, 29 Jul 2026 03:35:30 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Troy Police Department gets state grant, residents question partial AI program funding - NEWS10 ABC</title>
-<link>https://news.google.com/rss/articles/CBMi_gFBVV95cUxQT3E0M0hGdS1lSTRmOWlpcTlfbnVuaGNsV3NYYjl6UE90X2ZRQ2ZZczFGb0RzRmd2cV9tQmFtSndaaGRIOFljZm85VmNuNGVTVVltNmUzSS12blBzRXhyeF9pdDV5cWxPeEI4RXoyZ0FjZ196TEFuWUdVSExrWnBSRXRFaEk5TEtKYWI4eDZqMXJYejAxZGthNGFBZk9tMzMwajZ6UG51N3ZqRFpfNmRGYUpodF9wSFRPS19zUl9WZjRSU1E0clB1SXR0UzFjbTBpQUJCdTJ5SHFfZVJmTkJuOWVJR25sOG5HNF9FVGgyaS15d3lrTGJwLUI5bE1SQdIBgwJBVV95cUxPMjdlQzBkY2JBZkFYT05XUVBFYTdYVFhsZUswbjd3VWF1MkVCTFZWT0c1cFBlSTVMZS1GRk41d2lFX2IwNnlOZG9aQ1JmLWZxdUNJTGYwZXVKYnZsd3NjUzRjN0xMU3k5ZjJVYzhreFVXMk0ybVEzbHhuQzdkeTZ0eFUzZkxKQkdPWW5tblpNazFxR2YtX2I4b0xWUlhQeUVLbU16S09nNFRYVlgzYTJQNzN3TzJtNmZ5TC1jZ29uNWJqRXdqbEpkWmc0cHFRN1NjN0o0c0dCT2puaWRIN2JtUlpyTTNXNXlROUE3ZnRUY29IZDFubjVfb19lVEMzQmpIbEJV?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi_gFBVV95cUxQT3E0M0hGdS1lSTRmOWlpcTlfbnVuaGNsV3NYYjl6UE90X2ZRQ2ZZczFGb0RzRmd2cV9tQmFtSndaaGRIOFljZm85VmNuNGVTVVltNmUzSS12blBzRXhyeF9pdDV5cWxPeEI4RXoyZ0FjZ196TEFuWUdVSExrWnBSRXRFaEk5TEtKYWI4eDZqMXJYejAxZGthNGFBZk9tMzMwajZ6UG51N3ZqRFpfNmRGYUpodF9wSFRPS19zUl9WZjRSU1E0clB1SXR0UzFjbTBpQUJCdTJ5SHFfZVJmTkJuOWVJR25sOG5HNF9FVGgyaS15d3lrTGJwLUI5bE1SQdIBgwJBVV95cUxPMjdlQzBkY2JBZkFYT05XUVBFYTdYVFhsZUswbjd3VWF1MkVCTFZWT0c1cFBlSTVMZS1GRk41d2lFX2IwNnlOZG9aQ1JmLWZxdUNJTGYwZXVKYnZsd3NjUzRjN0xMU3k5ZjJVYzhreFVXMk0ybVEzbHhuQzdkeTZ0eFUzZkxKQkdPWW5tblpNazFxR2YtX2I4b0xWUlhQeUVLbU16S09nNFRYVlgzYTJQNzN3TzJtNmZ5TC1jZ29uNWJqRXdqbEpkWmc0cHFRN1NjN0o0c0dCT2puaWRIN2JtUlpyTTNXNXlROUE3ZnRUY29IZDFubjVfb19lVEMzQmpIbEJV?oc=5</guid>
-<pubDate>Wed, 29 Jul 2026 03:08:09 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] Presidential policy chief does not consider demand for AI, semiconductors as temporary despite market volatility - Korea JoongAng Daily</title>
 <link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeTN4a1g2bkJTR0dTRkxGSFQzeDJWSktxV3d6OFhJVDdYQi10cGwzN05vTFo3SzdNR2VudVBvcVlaMnZjekdta0t6NzlUMHk4Sm1TdDBITldFYmQ2Mk9RRFh1TDB0YXNjLUotM0xEcXQ1TzYydzk1QmVRbWRXdkRRMFRkcGxOaVE5TEE2T1Q3aXhqclZiQ3pISXBSZlg3THpLOGQ3RFIxbEVVWnlTcE9WN2dEcTZFWVBmdkhBcUhZbXU4RGVuaTVNaVNoQVpiajA1TzRPSVlBQVF1V1lnanUyei1XNldwbzZuY2tINUtobVZ3bXZmODBaaE9MOA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeTN4a1g2bkJTR0dTRkxGSFQzeDJWSktxV3d6OFhJVDdYQi10cGwzN05vTFo3SzdNR2VudVBvcVlaMnZjekdta0t6NzlUMHk4Sm1TdDBITldFYmQ2Mk9RRFh1TDB0YXNjLUotM0xEcXQ1TzYydzk1QmVRbWRXdkRRMFRkcGxOaVE5TEE2T1Q3aXhqclZiQ3pISXBSZlg3THpLOGQ3RFIxbEVVWnlTcE9WN2dEcTZFWVBmdkhBcUhZbXU4RGVuaTVNaVNoQVpiajA1TzRPSVlBQVF1V1lnanUyei1XNldwbzZuY2tINUtobVZ3bXZmODBaaE9MOA?oc=5</guid>
 <pubDate>Wed, 29 Jul 2026 02:54:02 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Kimi K3: DeepSeek 2.0, or is this Time Different? - TradingView</title>
-<link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEFQbHY5eE1fXzRfZkg0Z2FqSkpPbDhEZkItUnBXM1FIMVhVLUdzSFd0VlJUR1JYR1lYNGx1T1M2RnJzZnVuMnhrRGhEVUc5OXBGLW9ZODNhSUNtWkhrQ1JQcG1HdmtLdmZUbm5vOFp1dVczT25iOEhjX3FkejZzQXNia2hNdnpEdkVaa1hBdGRNVUFtYUdtWS1JelN0ckp5WnhYMg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEFQbHY5eE1fXzRfZkg0Z2FqSkpPbDhEZkItUnBXM1FIMVhVLUdzSFd0VlJUR1JYR1lYNGx1T1M2RnJzZnVuMnhrRGhEVUc5OXBGLW9ZODNhSUNtWkhrQ1JQcG1HdmtLdmZUbm5vOFp1dVczT25iOEhjX3FkejZzQXNia2hNdnpEdkVaa1hBdGRNVUFtYUdtWS1JelN0ckp5WnhYMg?oc=5</guid>
-<pubDate>Wed, 29 Jul 2026 01:24:00 GMT</pubDate>
 
 </item>
 <item>
@@ -201,13 +250,6 @@
 <guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/</guid>
 <pubDate>Tue, 28 Jul 2026 17:30:00 +0000</pubDate>
 <description>Increasing the adoption of generative AI across the enterprise requires you to do more than deploy a generic chatbot with a custom wrapper. Interacting with business-critical databases demands absolute trust, strict governance, and deep grounding in enterprise semantics. Over the last year, Conversa</description>
-</item>
-<item>
-<title>[Google News] DeepSeek Harness internal testing screenshots leaked, first batch of users required to sign a confidentiality agreement - ChainCatcher</title>
-<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LSmp0c3RFbUR1cVl0Nk5oVlZiX3dUVVB5TVlEa2R5Tm85QmZWUEFySGFGbWdlYVJhYmlaWGprMC03Vm5aV3V1aTc4eTMzUHNFOTFDYnZnZmtmN1U?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LSmp0c3RFbUR1cVl0Nk5oVlZiX3dUVVB5TVlEa2R5Tm85QmZWUEFySGFGbWdlYVJhYmlaWGprMC03Vm5aV3V1aTc4eTMzUHNFOTFDYnZnZmtmN1U?oc=5</guid>
-<pubDate>Tue, 28 Jul 2026 17:06:30 GMT</pubDate>
-
 </item>
 <item>
 <title>[News] Scientific computing in the age of agentic AI</title>
@@ -383,48 +425,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=rpQPBCDv5Pc</guid>
 <pubDate>Tue, 28 Jul 2026 05:24:51 GMT</pubDate>
 <description>BharatGen, a leading model builder under the IndiaAI Mission, is collaborating with NVIDIA to build India’s foundational AI infrastructure using a fully open model approach. By combining Indian datasets with the NVIDIA accelerated computing platform and Nemotron libraries, BharatGen is training mult</description>
-</item>
-<item>
-<title>[Google News] Will China’s DUV Trigger Another DeepSeek Moment for US Chip Stocks? - KuCoin</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQOWJFV2xOU3dkNE5sc01xRlowa2ZGQWN5U1JWOXJoRm9LbDA1cDVhZXBqYUVXOTg2NUNHTm1TWGtLbnMtNXNjZWVKZlphVzdzUDdLMUJwdTM0ZWh0bkJTdHhwcGJaOGhmeFI3QUpHODhnUHBERmlkaWZFcEJIRWZDaktnZE8ta0pEaXRJNXlUbE4wRGlrcEZzOA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimAFBVV95cUxQOWJFV2xOU3dkNE5sc01xRlowa2ZGQWN5U1JWOXJoRm9LbDA1cDVhZXBqYUVXOTg2NUNHTm1TWGtLbnMtNXNjZWVKZlphVzdzUDdLMUJwdTM0ZWh0bkJTdHhwcGJaOGhmeFI3QUpHODhnUHBERmlkaWZFcEJIRWZDaktnZE8ta0pEaXRJNXlUbE4wRGlrcEZzOA?oc=5</guid>
-<pubDate>Tue, 28 Jul 2026 05:12:12 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek Founder’s Hedge Funds Are Among Big Winners of CXMT IPO - Bloomberg</title>
-<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNdTVZeHNOdXN1cjJ3d1FFcjNjc08yU0RQRzFfYy1maFVSQVRiRmRtcjZJSzVJUS1CNHdaekJPclNVUUFOTjBhV3dGX0xyWE1HZEcxanNwXzM1dlN6R2pEUEQ1SmV1ZDZ5OWQ5clpiV0NQN2RRN05MbUZjLWlUeTRuemxfcDRBV3Yxa0pCRHFRMWFsSndlbXJYdHJ0aWc0Um1OdnRqTWRuX2ppMTBBUUZvTzFQM0pBZw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxNdTVZeHNOdXN1cjJ3d1FFcjNjc08yU0RQRzFfYy1maFVSQVRiRmRtcjZJSzVJUS1CNHdaekJPclNVUUFOTjBhV3dGX0xyWE1HZEcxanNwXzM1dlN6R2pEUEQ1SmV1ZDZ5OWQ5clpiV0NQN2RRN05MbUZjLWlUeTRuemxfcDRBV3Yxa0pCRHFRMWFsSndlbXJYdHJ0aWc0Um1OdnRqTWRuX2ppMTBBUUZvTzFQM0pBZw?oc=5</guid>
-<pubDate>Tue, 28 Jul 2026 00:51:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Research] Discovering cryptographic weaknesses with Claude</title>
-<link>https://www.anthropic.com/research/discovering-cryptographic-weaknesses</link>
-<guid isPermaLink="false">https://www.anthropic.com/research/discovering-cryptographic-weaknesses</guid>
-<pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-<description>Anthropic researchers find weaknesses in cryptographic algorithms with Claude Mythos Preview</description>
-</item>
-<item>
-<title>[Google News] Closer Than They Appear. China’s AI Founders, Robots &amp; Talent. ARD #127 - AI: Reset to Zero</title>
-<link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5GMlVXUVJrenhBeFozb1V1MWNheEdvR3FoTkZMQjYxMWp0OTZBbDhmUnAtTmgyWHYtS0FYVWlTcS1CSGZwYVJfSEJCWEwtWklFVkhlakQxUTQ4T0ZsUkR5aVN1R202ajMxa2tOczVpRjItYWtjY0g5ek1B?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiekFVX3lxTE5GMlVXUVJrenhBeFozb1V1MWNheEdvR3FoTkZMQjYxMWp0OTZBbDhmUnAtTmgyWHYtS0FYVWlTcS1CSGZwYVJfSEJCWEwtWklFVkhlakQxUTQ4T0ZsUkR5aVN1R202ajMxa2tOczVpRjItYWtjY0g5ek1B?oc=5</guid>
-<pubDate>Mon, 27 Jul 2026 20:02:05 GMT</pubDate>
-
-</item>
-<item>
-<title>[MIT Tech Review] OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.</title>
-<link>https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/</link>
-<guid isPermaLink="false">https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/</guid>
-<pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
-<description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was</description>
-</item>
-<item>
-<title>[YouTube] ML Summer School 2026 - ML Math with Katrina Lawrence</title>
-<link>https://www.youtube.com/watch?v=YLdT7tF049E</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=YLdT7tF049E</guid>
-<pubDate>Mon, 27 Jul 2026 17:34:31 GMT</pubDate>
-<description>This math refresher will leave you confident to take on machine learning problems! We will build your mathematical foundation and cover the following concepts: derivatives, vector calculus, and linear algebra. Learning these concepts will allow you to understand the math upon which many algorithms a</description>
 </item>
 </channel>
 </rss>
