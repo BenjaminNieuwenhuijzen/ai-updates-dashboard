@@ -5,7 +5,28 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Wed, 29 Jul 2026 17:40:29 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 19:44:43 GMT</lastBuildDate>
+<item>
+<title>[YouTube] Hugging Face Journal Club: Kimi K3</title>
+<link>https://www.youtube.com/watch?v=MW8-kqd2SD8</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=MW8-kqd2SD8</guid>
+<pubDate>Wed, 29 Jul 2026 18:31:00 GMT</pubDate>
+<description>The Hugging Face research team discusses the Kimi K3 tech report: https://huggingface.co/papers/2607.24653</description>
+</item>
+<item>
+<title>[YouTube] ML Summer School 2026 - Building the First Agentic Model for Edge Devices with Maxime Labonne</title>
+<link>https://www.youtube.com/watch?v=Vn5ObtR2SVA</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=Vn5ObtR2SVA</guid>
+<pubDate>Wed, 29 Jul 2026 18:28:31 GMT</pubDate>
+<description>The current generation of agentic models is mostly cloud-based, raising concerns about cost, privacy, latency, and offline connectivity. However, high-volume tasks don't require agentic coding capabilities or deep, specialized knowledge. In this talk, we'll break down how to post-train frontier edge</description>
+</item>
+<item>
+<title>[Google News] ChatPlayground gives you GPT, Claude, and more, and it’s only $79 for life (Reg. $619) - 9to5Toys</title>
+<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1mS1Y1OEpxalR2ZHFQUEdzLXdpS1lUc1pkLWppclZ3MzV4Y0I3Z19YcVFxaGdRTzVsZWVLRVdGWm5HWG9JNG84ajhycHV3Y3BIY0JzZ1RXWUd6VjloSTVWeHFJUkRKOXVRcEFOTG1B?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMibkFVX3lxTE1mS1Y1OEpxalR2ZHFQUEdzLXdpS1lUc1pkLWppclZ3MzV4Y0I3Z19YcVFxaGdRTzVsZWVLRVdGWm5HWG9JNG84ajhycHV3Y3BIY0JzZ1RXWUd6VjloSTVWeHFJUkRKOXVRcEFOTG1B?oc=5</guid>
+<pubDate>Wed, 29 Jul 2026 17:43:00 GMT</pubDate>
+
+</item>
 <item>
 <title>[YouTube] We're giving 100,000 academic researchers free access to our frontier models</title>
 <link>https://www.youtube.com/watch?v=MLehRytu9Zo</link>
@@ -28,13 +49,6 @@
 <description>Our newest music generation model, Lyria 3.5, delivers significant advancements across musicality, lyrics, and vocal quality, empowering you to craft richer tracks. We’r…</description>
 </item>
 <item>
-<title>[Cloud AI] What’s new in Gemini Enterprise Agent Platform</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/</guid>
-<pubDate>Wed, 29 Jul 2026 16:00:00 +0000</pubDate>
-<description>Since we launched Gemini Enterprise Agent Platform a few months ago, we’ve seen inspiring progress from businesses and builders alike. To stir up development, we’ve also shared 13 demos that can walk you through the versatility and power of Agent Platform, and 20 questions you can ask your teams abo</description>
-</item>
-<item>
 <title>[Cloud AI] Automate your agent development lifecycle using any coding agent</title>
 <link>https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/</guid>
@@ -42,10 +56,17 @@
 <description>Welcome to our latest Gemini Enterprise Agent Platform deep dive, a practical walkthrough where we’ll teach you how to build real-world, production-ready agents starting from step 1. If you haven’t already, tune into our livestream to guide you through the entire agentic lifecycle and read more in o</description>
 </item>
 <item>
+<title>[Cloud AI] What’s new in Gemini Enterprise Agent Platform</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/</guid>
+<pubDate>Wed, 29 Jul 2026 16:00:00 +0000</pubDate>
+<description>Since we launched Gemini Enterprise Agent Platform a few months ago, we’ve seen inspiring progress from businesses and builders alike. To stir up development, we’ve also shared 13 demos that can walk you through the versatility and power of Agent Platform, and 20 questions you can ask your teams abo</description>
+</item>
+<item>
 <title>[Google News] A market vet warns that Washington's moves to blunt AI competition from China are largely 'toothless' - Business Insider</title>
 <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVozQUlJUVBnTDU5ODNyQWRoOHJhSjEzUWJJQjFHUmoxQjZHV004OWQ4a01CbFh5aEQtWU11YVQ0SjJDZlQ0OFJxRTdQeHlrcXpUSXF0dm8yakxXNC1hbjJnaU04TWtCZ19sd3BHcVVYRGRhQk1LdTl3REF3bzctSkQ2N3NhTWFVNFdkdVh2X0RiZVhERTU2MHFxSTZ6WHg4b0c3bWcydXBfS0dFUnE5QU9OOG8?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVozQUlJUVBnTDU5ODNyQWRoOHJhSjEzUWJJQjFHUmoxQjZHV004OWQ4a01CbFh5aEQtWU11YVQ0SjJDZlQ0OFJxRTdQeHlrcXpUSXF0dm8yakxXNC1hbjJnaU04TWtCZ19sd3BHcVVYRGRhQk1LdTl3REF3bzctSkQ2N3NhTWFVNFdkdVh2X0RiZVhERTU2MHFxSTZ6WHg4b0c3bWcydXBfS0dFUnE5QU9OOG8?oc=5</guid>
-<pubDate>Wed, 29 Jul 2026 15:46:00 GMT</pubDate>
+<pubDate>Wed, 29 Jul 2026 15:47:48 GMT</pubDate>
 
 </item>
 <item>
@@ -404,27 +425,6 @@
 <guid isPermaLink="false">https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/</guid>
 <pubDate>Tue, 28 Jul 2026 09:18:57 +0000</pubDate>
 <description>Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w</description>
-</item>
-<item>
-<title>[Agent Framework] Discover Agent Skills from MCP servers in .NET</title>
-<link>https://devblogs.microsoft.com/agent-framework/discover-agent-skills-from-mcp-servers-in-net/</link>
-<guid isPermaLink="false">https://devblogs.microsoft.com/agent-framework/discover-agent-skills-from-mcp-servers-in-net/</guid>
-<pubDate>Tue, 28 Jul 2026 09:01:13 +0000</pubDate>
-<description>Your agents can now discover and load Agent Skills directly from a Model Context Protocol (MCP) server. Instead of shipping every skill inside your application or copying skill folders into each deployment, you point an agent at an MCP server and it pulls the skills it needs on demand. A central tea</description>
-</item>
-<item>
-<title>[Google News] Earthquake in the AI ​​sector: DeepSeek suspends its $71 billion funding round - صوت الإمارات</title>
-<link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxONHgxdHpLSjBWZy1wSFU3OHRPUHNHdGVxSEZTY3V2MHVXaHRtRmQ3azBkQmRwZFk4Vk5uNVA3dkJUeXFGMmNBRUl2Q2haNFNidC03Rkt3ck1xdjVfTzhlSkQ3MWVmVzdUREJLZWxwNlRySHVfeU5tWGRCNHhhSjJEMVR2X1BOUWpOSmtzSXJlZTJsRlBWWEtfRWNybzZ5MWJRWWNFc3FReXJoNXFqajVwdVFEeGVuR202dkZkMWdXOEh4TC10MVV6NjZnbHk1SmREUDR4Tw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxONHgxdHpLSjBWZy1wSFU3OHRPUHNHdGVxSEZTY3V2MHVXaHRtRmQ3azBkQmRwZFk4Vk5uNVA3dkJUeXFGMmNBRUl2Q2haNFNidC03Rkt3ck1xdjVfTzhlSkQ3MWVmVzdUREJLZWxwNlRySHVfeU5tWGRCNHhhSjJEMVR2X1BOUWpOSmtzSXJlZTJsRlBWWEtfRWNybzZ5MWJRWWNFc3FReXJoNXFqajVwdVFEeGVuR202dkZkMWdXOEh4TC10MVV6NjZnbHk1SmREUDR4Tw?oc=5</guid>
-<pubDate>Tue, 28 Jul 2026 07:46:38 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] How BharatGen is building India AI with NVIDIA Nemotron</title>
-<link>https://www.youtube.com/watch?v=rpQPBCDv5Pc</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=rpQPBCDv5Pc</guid>
-<pubDate>Tue, 28 Jul 2026 05:24:51 GMT</pubDate>
-<description>BharatGen, a leading model builder under the IndiaAI Mission, is collaborating with NVIDIA to build India’s foundational AI infrastructure using a fully open model approach. By combining Indian datasets with the NVIDIA accelerated computing platform and Nemotron libraries, BharatGen is training mult</description>
 </item>
 </channel>
 </rss>
