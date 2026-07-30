@@ -5,7 +5,14 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 30 Jul 2026 21:33:43 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 23:19:36 GMT</lastBuildDate>
+<item>
+<title>[Developer] Run High-Performance Core Math at Scale with NVIDIA nvmath-python</title>
+<link>https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/</guid>
+<pubDate>Thu, 30 Jul 2026 22:43:04 GMT</pubDate>
+<description>NVIDIA nvmath-python is a library designed to bridge the gap between the Python scientific community and NVIDIA CUDA-X math libraries. It gives Python users...</description>
+</item>
 <item>
 <title>[Developer] Four Ways to Deploy More Secure AI Agents</title>
 <link>https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/</link>
@@ -28,18 +35,18 @@
 
 </item>
 <item>
+<title>[Google News] Maharashtra announces AI Policy 2026 to boost industry, governance and public services - News On AIR</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5</guid>
+<pubDate>Thu, 30 Jul 2026 20:21:54 GMT</pubDate>
+
+</item>
+<item>
 <title>[Gemini] Gemini Spark now integrates with Chrome</title>
 <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/</link>
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/</guid>
 <pubDate>Thu, 30 Jul 2026 20:00:00 +0000</pubDate>
 <description>An overview of the latest Gemini Spark updates, including new Chrome web browsing capabilities.</description>
-</item>
-<item>
-<title>[Google News] Simile Raises $200 Million for AI Digital Twin Service - PYMNTS.com</title>
-<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOcUFXNTlZTF9IbnluVmQ5U2FuOXNWZHlSdmcxQ1lNNFIzeW1Db2dKVjBTT2F4MjJ1bW1tZ1UwMGhHODVhaUYwZnB0Rmt1emJ6bEJ0eXhlNUlSZUNfVDV1djlzcWxiRnplZVFLUnBQc3V1T0EwUzJtU2lOZ3JxckNDUXluOEhRVWMtYUVHY0s2M0FiU29PSXJiWDY3UUd1NHh3Y1I3akt1SjJOSGtWUGJPN2pVWm1LQQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxOcUFXNTlZTF9IbnluVmQ5U2FuOXNWZHlSdmcxQ1lNNFIzeW1Db2dKVjBTT2F4MjJ1bW1tZ1UwMGhHODVhaUYwZnB0Rmt1emJ6bEJ0eXhlNUlSZUNfVDV1djlzcWxiRnplZVFLUnBQc3V1T0EwUzJtU2lOZ3JxckNDUXluOEhRVWMtYUVHY0s2M0FiU29PSXJiWDY3UUd1NHh3Y1I3akt1SjJOSGtWUGJPN2pVWm1LQQ?oc=5</guid>
-<pubDate>Thu, 30 Jul 2026 19:48:23 GMT</pubDate>
-
 </item>
 <item>
 <title>[Google News] DeepSeek is developing a massive AI data centre in Inner Mongolia - AFR</title>
@@ -49,7 +56,7 @@
 
 </item>
 <item>
-<title>[Google News] Deepseek Is Developing AI Data Center In Inner Mongolia To Add One Gigawatt Worth Of Compute - Bloomberg News - TradingView</title>
+<title>[Google News] Deepseek Is Developing AI Data Center In Inner Mongolia To Add One Gigawatt Worth Of Compute - Bloomberg News - tradingview.com</title>
 <link>https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVWQ5S3JPOGxVcS1VbjgyVGNNMXUycTNVUFFsbmNWd1k4RENWSUF1RUNvVi1vak9ZbVJXbmptM2xaM0JaQXBVYWdJRjJtSmQ1SnRQYV9PMTJjQ2NZV3V1YzFiaHpRSEZWRDExNDFwWEVJYVJqbFlaSzViS2F4X3YwUzVuY2VrX3liQlR0cFh4OUpfNjNXLVhYZU5DM0dzakFTZWo2TXh2Ukk1UEd1MlBoZjNXQWJ6Q2JmY21obWVVVTlDZ1JDdHNYVDl6QUVteUI1S090T2VJSDRndDdrUy1XYkliNS1VcDUtY3Vid2ZMOTdFSFpJQ3RpRmdSTElKNW9aQkI4LURvMS0?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVWQ5S3JPOGxVcS1VbjgyVGNNMXUycTNVUFFsbmNWd1k4RENWSUF1RUNvVi1vak9ZbVJXbmptM2xaM0JaQXBVYWdJRjJtSmQ1SnRQYV9PMTJjQ2NZV3V1YzFiaHpRSEZWRDExNDFwWEVJYVJqbFlaSzViS2F4X3YwUzVuY2VrX3liQlR0cFh4OUpfNjNXLVhYZU5DM0dzakFTZWo2TXh2Ukk1UEd1MlBoZjNXQWJ6Q2JmY21obWVVVTlDZ1JDdHNYVDl6QUVteUI1S090T2VJSDRndDdrUy1XYkliNS1VcDUtY3Vid2ZMOTdFSFpJQ3RpRmdSTElKNW9aQkI4LURvMS0?oc=5</guid>
 <pubDate>Thu, 30 Jul 2026 18:46:58 GMT</pubDate>
@@ -63,7 +70,7 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek Is Developing Massive AI Data Center in Inner Mongolia - Bloomberg.com</title>
+<title>[Google News] DeepSeek Is Developing Massive AI Data Center in Inner Mongolia - Bloomberg</title>
 <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGhkc3BHTHFxbGdJNFV1WndQa1NqaEJYRmNiODUxZU1OenhVY2VKM0FDb2hJSUhMa1lmZm1CZ0JOVkx4WTJKbHZsZ3JZUVFnUTdINUxlYktKTHBIRlhsQ2gtVWtUSU1ONXRhMExPdGt4QzhfQzdzUk5QZzRPZ0JMRFBsSE5LbnB5Y2FhendyNTZ6T3hRSEdDRDNua0hsOVp3Wmw1MzQ5bWFCa2pVQUFGVVh2X0o?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGhkc3BHTHFxbGdJNFV1WndQa1NqaEJYRmNiODUxZU1OenhVY2VKM0FDb2hJSUhMa1lmZm1CZ0JOVkx4WTJKbHZsZ3JZUVFnUTdINUxlYktKTHBIRlhsQ2gtVWtUSU1ONXRhMExPdGt4QzhfQzdzUk5QZzRPZ0JMRFBsSE5LbnB5Y2FhendyNTZ6T3hRSEdDRDNua0hsOVp3Wmw1MzQ5bWFCa2pVQUFGVVh2X0o?oc=5</guid>
 <pubDate>Thu, 30 Jul 2026 18:30:47 GMT</pubDate>
@@ -203,7 +210,7 @@
 <description>Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When it’s time to switch from studying to gaming, members can jump into Halo: Campaign E</description>
 </item>
 <item>
-<title>[Google News] AI cloud provider Nscale to buy software startup Anyscale - Reuters</title>
+<title>[Google News] AI cloud provider Nscale to buy software startup Anyscale - reuters.com</title>
 <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHY5cV9sSlo2MzhWbnZ5dFhKN0FVY05iYUlsUHFyY0x1NEY0enFFTmRhTTAyVC1xWUdjVGdTQ0oyWGljMzZvV1lVNzFhdlpEWmdYUEFHLUV4b1VxOVlhTm5hVVV5Unhfam9IR2hTUFVTcllkYnFieHBwUDN6VTRXOTd0MGRvSGhWZVZhM1BrOUpoVENxUFBfMmFjelZIZ1By?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHY5cV9sSlo2MzhWbnZ5dFhKN0FVY05iYUlsUHFyY0x1NEY0enFFTmRhTTAyVC1xWUdjVGdTQ0oyWGljMzZvV1lVNzFhdlpEWmdYUEFHLUV4b1VxOVlhTm5hVVV5Unhfam9IR2hTUFVTcllkYnFieHBwUDN6VTRXOTd0MGRvSGhWZVZhM1BrOUpoVENxUFBfMmFjelZIZ1By?oc=5</guid>
 <pubDate>Thu, 30 Jul 2026 12:51:20 GMT</pubDate>
@@ -259,7 +266,7 @@
 
 </item>
 <item>
-<title>[Google News] ASPI launches Artificial Intelligence and Security Program - Australian Strategic Policy Institute</title>
+<title>[Google News] ASPI launches Artificial Intelligence and Security Program - aspi.org.au</title>
 <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQVGFSUEtLc2UtRmxpelFteUY5dHhGOS1wUm5MNGIzMElkZTg3NVZGN1JiS3VDWUowQmkwM3laSUFOMnBBTVdHWk5nMzNfaVJrLWpFMW10MGdmblN0Rk5UZFBTOW05MWtCb1pYZ3FSRVpPTDFtd2dvdnFaZWlCS2hOclBMTDQtQ1NITXBHU2NvQjQ0dw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikgFBVV95cUxQVGFSUEtLc2UtRmxpelFteUY5dHhGOS1wUm5MNGIzMElkZTg3NVZGN1JiS3VDWUowQmkwM3laSUFOMnBBTVdHWk5nMzNfaVJrLWpFMW10MGdmblN0Rk5UZFBTOW05MWtCb1pYZ3FSRVpPTDFtd2dvdnFaZWlCS2hOclBMTDQtQ1NITXBHU2NvQjQ0dw?oc=5</guid>
 <pubDate>Thu, 30 Jul 2026 06:59:24 GMT</pubDate>
@@ -417,13 +424,6 @@
 <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOVjh2VVN2a3IwM080X1lGMTNrclh1SGstTHUwSkpfV3NLTlhEN19rX2ZuM2dZM3JTa1lXYUJ0OGM3bXFCUjVpekV0N3dIelRHN3RWZGhyMlc0VUdLY1MwMGw3VzhGSDEtaWVmMkExZUNUSHh0eVlMa3NHR0s2VVdxMDg1SjBiZFBOMml6WE9iWkVycjlwWVA2aEFibElnTDdmcXc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxOVjh2VVN2a3IwM080X1lGMTNrclh1SGstTHUwSkpfV3NLTlhEN19rX2ZuM2dZM3JTa1lXYUJ0OGM3bXFCUjVpekV0N3dIelRHN3RWZGhyMlc0VUdLY1MwMGw3VzhGSDEtaWVmMkExZUNUSHh0eVlMa3NHR0s2VVdxMDg1SjBiZFBOMml6WE9iWkVycjlwWVA2aEFibElnTDdmcXc?oc=5</guid>
 <pubDate>Wed, 29 Jul 2026 08:05:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Presidential policy chief does not consider demand for AI, semiconductors as temporary despite market volatility - koreajoongangdaily.com</title>
-<link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeTN4a1g2bkJTR0dTRkxGSFQzeDJWSktxV3d6OFhJVDdYQi10cGwzN05vTFo3SzdNR2VudVBvcVlaMnZjekdta0t6NzlUMHk4Sm1TdDBITldFYmQ2Mk9RRFh1TDB0YXNjLUotM0xEcXQ1TzYydzk1QmVRbWRXdkRRMFRkcGxOaVE5TEE2T1Q3aXhqclZiQ3pISXBSZlg3THpLOGQ3RFIxbEVVWnlTcE9WN2dEcTZFWVBmdkhBcUhZbXU4RGVuaTVNaVNoQVpiajA1TzRPSVlBQVF1V1lnanUyei1XNldwbzZuY2tINUtobVZ3bXZmODBaaE9MOA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeTN4a1g2bkJTR0dTRkxGSFQzeDJWSktxV3d6OFhJVDdYQi10cGwzN05vTFo3SzdNR2VudVBvcVlaMnZjekdta0t6NzlUMHk4Sm1TdDBITldFYmQ2Mk9RRFh1TDB0YXNjLUotM0xEcXQ1TzYydzk1QmVRbWRXdkRRMFRkcGxOaVE5TEE2T1Q3aXhqclZiQ3pISXBSZlg3THpLOGQ3RFIxbEVVWnlTcE9WN2dEcTZFWVBmdkhBcUhZbXU4RGVuaTVNaVNoQVpiajA1TzRPSVlBQVF1V1lnanUyei1XNldwbzZuY2tINUtobVZ3bXZmODBaaE9MOA?oc=5</guid>
-<pubDate>Wed, 29 Jul 2026 02:54:02 GMT</pubDate>
 
 </item>
 </channel>
