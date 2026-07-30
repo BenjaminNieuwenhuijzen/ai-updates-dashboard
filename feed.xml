@@ -5,7 +5,42 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 30 Jul 2026 19:53:30 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 21:33:43 GMT</lastBuildDate>
+<item>
+<title>[Developer] Four Ways to Deploy More Secure AI Agents</title>
+<link>https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/</guid>
+<pubDate>Thu, 30 Jul 2026 21:09:59 GMT</pubDate>
+<description>Knowledge workers are increasingly integrating AI agents into their workflows. Agents that function as "digital coworkers" offer clear benefits. For example,...</description>
+</item>
+<item>
+<title>[YouTube] Physical AI is here—the next wave of AI and the foundation of the next industrial revolution.</title>
+<link>https://www.youtube.com/shorts/TrYsSM_d3TE</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/TrYsSM_d3TE</guid>
+<pubDate>Thu, 30 Jul 2026 21:02:00 GMT</pubDate>
+<description>Physical AI is here—the next wave of AI and the foundation of the next industrial revolution. NVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to develop physical AI in virtual worlds, Isaac and Newton where robots learn skills in physics-simulated</description>
+</item>
+<item>
+<title>[Research] Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence</title>
+<link>https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/</link>
+<guid isPermaLink="false">https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/</guid>
+<pubDate>Thu, 30 Jul 2026 20:36:36 +0000</pubDate>
+
+</item>
+<item>
+<title>[Gemini] Gemini Spark now integrates with Chrome</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/</guid>
+<pubDate>Thu, 30 Jul 2026 20:00:00 +0000</pubDate>
+<description>An overview of the latest Gemini Spark updates, including new Chrome web browsing capabilities.</description>
+</item>
+<item>
+<title>[Google News] Simile Raises $200 Million for AI Digital Twin Service - PYMNTS.com</title>
+<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOcUFXNTlZTF9IbnluVmQ5U2FuOXNWZHlSdmcxQ1lNNFIzeW1Db2dKVjBTT2F4MjJ1bW1tZ1UwMGhHODVhaUYwZnB0Rmt1emJ6bEJ0eXhlNUlSZUNfVDV1djlzcWxiRnplZVFLUnBQc3V1T0EwUzJtU2lOZ3JxckNDUXluOEhRVWMtYUVHY0s2M0FiU29PSXJiWDY3UUd1NHh3Y1I3akt1SjJOSGtWUGJPN2pVWm1LQQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxOcUFXNTlZTF9IbnluVmQ5U2FuOXNWZHlSdmcxQ1lNNFIzeW1Db2dKVjBTT2F4MjJ1bW1tZ1UwMGhHODVhaUYwZnB0Rmt1emJ6bEJ0eXhlNUlSZUNfVDV1djlzcWxiRnplZVFLUnBQc3V1T0EwUzJtU2lOZ3JxckNDUXluOEhRVWMtYUVHY0s2M0FiU29PSXJiWDY3UUd1NHh3Y1I3akt1SjJOSGtWUGJPN2pVWm1LQQ?oc=5</guid>
+<pubDate>Thu, 30 Jul 2026 19:48:23 GMT</pubDate>
+
+</item>
 <item>
 <title>[Google News] DeepSeek is developing a massive AI data centre in Inner Mongolia - AFR</title>
 <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjlZdm53RUMyek9mRTFic2p2MC1GUVpVQWZ0ZlVwRVlkb3dOY3FSaldMUUFKOEpvZ1RUcnlJMDgxSS1oTS1RZXR6a3NxUGxvd2V4eENGdWJrNW5XS2ZtY2pmanF4dnJpUkJsR0U5ZE5MWEVSM2RxMi1tVmtmRnIteWJCRTlyRU5RN0hoaXJPcnZrSHRIQ3I3QS1OVkFpSUNWbjJiRVJlS2FYN1lyS191azhR?oc=5</link>
@@ -14,10 +49,17 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek plans one gigawatt AI data center in Inner Mongolia - Bloomberg - Investing.com Nigeria</title>
-<link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPdnZVYXU1Ulc3T2tuS1hLa1B5bUxOMkZRQlFadG45bWc1YzZSdTJtOU44Z3R6QmttS3FWSGxGRlpOd0t1QWJGZU9rMmNqVmFNS1NBTlhpOS0zSnJOeUc5amFmMnltZ0oxMFRYaVRsRlJmU0R0bTd1NmJ0eFRyMUNBLTNuVjBBSmI3OFRKX050dXpBbXJMUFdvU19HcmhvUzZjWUlTeFI1R3lFYlhuZFo5YUF5cmpaY0tIdHNRUXRTaW9Od2ROelBDaFozY0Q?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxPdnZVYXU1Ulc3T2tuS1hLa1B5bUxOMkZRQlFadG45bWc1YzZSdTJtOU44Z3R6QmttS3FWSGxGRlpOd0t1QWJGZU9rMmNqVmFNS1NBTlhpOS0zSnJOeUc5amFmMnltZ0oxMFRYaVRsRlJmU0R0bTd1NmJ0eFRyMUNBLTNuVjBBSmI3OFRKX050dXpBbXJMUFdvU19HcmhvUzZjWUlTeFI1R3lFYlhuZFo5YUF5cmpaY0tIdHNRUXRTaW9Od2ROelBDaFozY0Q?oc=5</guid>
-<pubDate>Thu, 30 Jul 2026 18:43:04 GMT</pubDate>
+<title>[Google News] Deepseek Is Developing AI Data Center In Inner Mongolia To Add One Gigawatt Worth Of Compute - Bloomberg News - TradingView</title>
+<link>https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVWQ5S3JPOGxVcS1VbjgyVGNNMXUycTNVUFFsbmNWd1k4RENWSUF1RUNvVi1vak9ZbVJXbmptM2xaM0JaQXBVYWdJRjJtSmQ1SnRQYV9PMTJjQ2NZV3V1YzFiaHpRSEZWRDExNDFwWEVJYVJqbFlaSzViS2F4X3YwUzVuY2VrX3liQlR0cFh4OUpfNjNXLVhYZU5DM0dzakFTZWo2TXh2Ukk1UEd1MlBoZjNXQWJ6Q2JmY21obWVVVTlDZ1JDdHNYVDl6QUVteUI1S090T2VJSDRndDdrUy1XYkliNS1VcDUtY3Vid2ZMOTdFSFpJQ3RpRmdSTElKNW9aQkI4LURvMS0?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVWQ5S3JPOGxVcS1VbjgyVGNNMXUycTNVUFFsbmNWd1k4RENWSUF1RUNvVi1vak9ZbVJXbmptM2xaM0JaQXBVYWdJRjJtSmQ1SnRQYV9PMTJjQ2NZV3V1YzFiaHpRSEZWRDExNDFwWEVJYVJqbFlaSzViS2F4X3YwUzVuY2VrX3liQlR0cFh4OUpfNjNXLVhYZU5DM0dzakFTZWo2TXh2Ukk1UEd1MlBoZjNXQWJ6Q2JmY21obWVVVTlDZ1JDdHNYVDl6QUVteUI1S090T2VJSDRndDdrUy1XYkliNS1VcDUtY3Vid2ZMOTdFSFpJQ3RpRmdSTElKNW9aQkI4LURvMS0?oc=5</guid>
+<pubDate>Thu, 30 Jul 2026 18:46:58 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek plans one gigawatt AI data center in Inner Mongolia - Bloomberg - Investing.com</title>
+<link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPTTFwY0dWVFBQSmtTUlNTUkVEcUxJRjhxM0RjaUdpOEpBTWtLV3pBOEpCQlJ1WVRDM2JWOHpYOHUtcDMzWngxdEllMS1vVVhaV3lKWFFaZE1YYURfRkpoUTczQlFaT3p3UGRtemlzNTNUUENYS1FnV3ltWWpRSU5OUk1zZlNiVENobmFRbFZFeXJGWlUxUWdMYmRqMjlOV2Z1blJRUjRpbDdvb2x4NHo1QzdlLUU2NjdQWnhVYnREWUJabWFFQWhpcS1DbThHQQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxPTTFwY0dWVFBQSmtTUlNTUkVEcUxJRjhxM0RjaUdpOEpBTWtLV3pBOEpCQlJ1WVRDM2JWOHpYOHUtcDMzWngxdEllMS1vVVhaV3lKWFFaZE1YYURfRkpoUTczQlFaT3p3UGRtemlzNTNUUENYS1FnV3ltWWpRSU5OUk1zZlNiVENobmFRbFZFeXJGWlUxUWdMYmRqMjlOV2Z1blJRUjRpbDdvb2x4NHo1QzdlLUU2NjdQWnhVYnREWUJabWFFQWhpcS1DbThHQQ?oc=5</guid>
+<pubDate>Thu, 30 Jul 2026 18:37:23 GMT</pubDate>
 
 </item>
 <item>
@@ -273,13 +315,6 @@
 
 </item>
 <item>
-<title>[Google News] Forbes 2026 AI 50 List | Top Artificial Intelligence Companies - Forbes</title>
-<link>https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</guid>
-<pubDate>Thu, 30 Jul 2026 02:08:53 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] Yang Zhilin Finally Catches Up with Liang Wenfeng: The Long-Awaited Milestone - 36 Kr</title>
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tLVNuTmpjbmpDWGxfdVZhWF8xRGlVd0s4S2plU2lKNjhRTjFBZUpGUkN2OF95am9pUE1XaWc2cVhWNU9zb1g3TFp5b2RCV0MweTNj?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tLVNuTmpjbmpDWGxfdVZhWF8xRGlVd0s4S2plU2lKNjhRTjFBZUpGUkN2OF95am9pUE1XaWc2cVhWNU9zb1g3TFp5b2RCV0MweTNj?oc=5</guid>
@@ -385,46 +420,11 @@
 
 </item>
 <item>
-<title>[Google News] Presidential policy chief does not consider demand for AI, semiconductors as temporary despite market volatility - Korea JoongAng Daily</title>
+<title>[Google News] Presidential policy chief does not consider demand for AI, semiconductors as temporary despite market volatility - koreajoongangdaily.com</title>
 <link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeTN4a1g2bkJTR0dTRkxGSFQzeDJWSktxV3d6OFhJVDdYQi10cGwzN05vTFo3SzdNR2VudVBvcVlaMnZjekdta0t6NzlUMHk4Sm1TdDBITldFYmQ2Mk9RRFh1TDB0YXNjLUotM0xEcXQ1TzYydzk1QmVRbWRXdkRRMFRkcGxOaVE5TEE2T1Q3aXhqclZiQ3pISXBSZlg3THpLOGQ3RFIxbEVVWnlTcE9WN2dEcTZFWVBmdkhBcUhZbXU4RGVuaTVNaVNoQVpiajA1TzRPSVlBQVF1V1lnanUyei1XNldwbzZuY2tINUtobVZ3bXZmODBaaE9MOA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeTN4a1g2bkJTR0dTRkxGSFQzeDJWSktxV3d6OFhJVDdYQi10cGwzN05vTFo3SzdNR2VudVBvcVlaMnZjekdta0t6NzlUMHk4Sm1TdDBITldFYmQ2Mk9RRFh1TDB0YXNjLUotM0xEcXQ1TzYydzk1QmVRbWRXdkRRMFRkcGxOaVE5TEE2T1Q3aXhqclZiQ3pISXBSZlg3THpLOGQ3RFIxbEVVWnlTcE9WN2dEcTZFWVBmdkhBcUhZbXU4RGVuaTVNaVNoQVpiajA1TzRPSVlBQVF1V1lnanUyei1XNldwbzZuY2tINUtobVZ3bXZmODBaaE9MOA?oc=5</guid>
 <pubDate>Wed, 29 Jul 2026 02:54:02 GMT</pubDate>
 
-</item>
-<item>
-<title>[Google News] Kimi K3: DeepSeek 2.0, or is this Time Different? - Zacks Investment Research</title>
-<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOUllLRUNMTzM5OENiQWNOeTFMRjFzZTJveWd5UDRRbEV1Z2tSLWNlVDBoRnJhX1luX3FjUGhFYk5jemltRUYxbmNUang3SHB6YXU4elNhTVR2T0RBVG03LUQ3TzNDMDZaV1kzSjVES1Z0MEVwT0UzZXNVNEZQbHdzdE91UlBieEhINDZQZlZtQQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxOUllLRUNMTzM5OENiQWNOeTFMRjFzZTJveWd5UDRRbEV1Z2tSLWNlVDBoRnJhX1luX3FjUGhFYk5jemltRUYxbmNUang3SHB6YXU4elNhTVR2T0RBVG03LUQ3TzNDMDZaV1kzSjVES1Z0MEVwT0UzZXNVNEZQbHdzdE91UlBieEhINDZQZlZtQQ?oc=5</guid>
-<pubDate>Wed, 29 Jul 2026 00:45:47 GMT</pubDate>
-
-</item>
-<item>
-<title>[News] How GPT-5.6 fuses frontier intelligence with frontier efficiency</title>
-<link>https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</link>
-<guid isPermaLink="false">https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</guid>
-<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-<description>GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.</description>
-</item>
-<item>
-<title>[YouTube] Introducing gpt-transcribe and gpt-live-transcribe</title>
-<link>https://www.youtube.com/watch?v=WeP9VUf1OoE</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=WeP9VUf1OoE</guid>
-<pubDate>Tue, 28 Jul 2026 21:49:18 GMT</pubDate>
-<description>Meet gpt-transcribe and gpt-live-transcribe, two new models for batch and live transcription. See how they handle custom vocabulary, background noise, multilingual speech, and common transcription challenges like accents, names, short answers, and numbers. Chapters: 00:00 Introducing gpt-transcribe </description>
-</item>
-<item>
-<title>[YouTube] GTC SJ 2026: The AI Native Digital Health Stack A Developer's Guide to 2026</title>
-<link>https://www.youtube.com/watch?v=iWsKSxyfRIA</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=iWsKSxyfRIA</guid>
-<pubDate>Tue, 28 Jul 2026 21:00:23 GMT</pubDate>
-<description>The digital health stack is undergoing a fundamental shift, moving from siloed data and manual processes to an AI‑native, interoperable future. Developers learn how to rebuild the digital health stack using AI‑native, interoperable architectures powered by generative reasoning and advanced speech mo</description>
-</item>
-<item>
-<title>[Developer] Developing Healthcare Robotics with GPU-Native Medical Physics Simulation</title>
-<link>https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/</guid>
-<pubDate>Tue, 28 Jul 2026 20:49:21 GMT</pubDate>
-<description>Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation....</description>
 </item>
 </channel>
 </rss>
