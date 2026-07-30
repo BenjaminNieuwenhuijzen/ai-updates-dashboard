@@ -5,7 +5,119 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 30 Jul 2026 14:33:39 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 17:49:58 GMT</lastBuildDate>
+<item>
+<title>[Agent Framework] Building agent teams with Agent Framework, GitHub Copilot CLI and Squad</title>
+<link>https://devblogs.microsoft.com/agent-framework/building-agent-teams-with-agent-framework-github-copilot-cli-and-squad/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/agent-framework/building-agent-teams-with-agent-framework-github-copilot-cli-and-squad/</guid>
+<pubDate>Thu, 30 Jul 2026 17:18:53 +0000</pubDate>
+<description>Microsoft Agent Framework supports creating agents that use the GitHub Copilot SDK as their backend. GitHub Copilot agents provide access to powerful coding-oriented AI capabilities, including shell command execution, file operations, URL fetching, Model Context Protocol (MCP) server integration, an</description>
+</item>
+<item>
+<title>[Research] Echoverse: Deep, evolving environments for computer-use agents</title>
+<link>https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/</link>
+<guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/</guid>
+<pubDate>Thu, 30 Jul 2026 17:00:00 +0000</pubDate>
+<description>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve. The post Echoverse: Deep, evolving environ</description>
+</item>
+<item>
+<title>[Cloud AI] Do more with less: How GKE can reduce your cost per agent by 75%</title>
+<link>https://cloud.google.com/blog/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/</guid>
+<pubDate>Thu, 30 Jul 2026 16:00:00 +0000</pubDate>
+<description>In today’s agentic era, modern cloud applications are evolving from a set of passive tools to fleets of autonomous digital workers that reason, plan, and take action across a wide range of tasks. For platform engineering teams designing these environments, the simplest approach is often to deploy an</description>
+</item>
+<item>
+<title>[Research] EvoLib: Turning experience into evolving knowledge</title>
+<link>https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/</link>
+<guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/</guid>
+<pubDate>Thu, 30 Jul 2026 16:00:00 +0000</pubDate>
+<description>LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. The post EvoLib: Turning experience into evolving knowledge appeared first on Microsoft Research</description>
+</item>
+<item>
+<title>[Developer] NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure</title>
+<link>https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/</guid>
+<pubDate>Thu, 30 Jul 2026 16:00:00 GMT</pubDate>
+<description>Two AI computing clusters built from identical NVIDIA H100, GB200 NVL72, or GB300 NVL72 systems can deliver materially different training throughput. We...</description>
+</item>
+<item>
+<title>[Blog] GPU Management: Why Idle GPUs Are the New Grounded Aircraft</title>
+<link>https://huggingface.co/blog/Dharma-AI/gpu-management</link>
+<guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/gpu-management</guid>
+<pubDate>Thu, 30 Jul 2026 15:09:09 GMT</pubDate>
+
+</item>
+<item>
+<title>[DeepMind] Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration</title>
+<link>https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/</guid>
+<pubDate>Thu, 30 Jul 2026 15:00:59 +0000</pubDate>
+<description>Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.</description>
+</item>
+<item>
+<title>[Gemini] Introducing Gemini Robotics ER 2</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/</guid>
+<pubDate>Thu, 30 Jul 2026 15:00:00 +0000</pubDate>
+<description>Gemini Robotics ER 2 is a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.</description>
+</item>
+<item>
+<title>[DeepMind video] Robots working together with Gemini Robotics 2</title>
+<link>https://www.youtube.com/watch?v=fo9WirRIaVs</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=fo9WirRIaVs</guid>
+<pubDate>Thu, 30 Jul 2026 14:58:16 GMT</pubDate>
+<description>Introducing multi-robot collaboration. This enables different types of robots to communicate and work together to solve complex workflows a single robot could not do alone. Learn more about Gemini Robotics 2: https://deepmind.google/gemini-robotics ___ Subscribe to our channel https://www.youtube.co</description>
+</item>
+<item>
+<title>[DeepMind video] Tasks that require whole-body control with Gemini Robotics 2</title>
+<link>https://www.youtube.com/watch?v=nBftSI5mmHA</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=nBftSI5mmHA</guid>
+<pubDate>Thu, 30 Jul 2026 14:58:12 GMT</pubDate>
+
+</item>
+<item>
+<title>[DeepMind video] Tough dexterity tasks with Gemini Robotics 2</title>
+<link>https://www.youtube.com/watch?v=wYVHxw2-DP4</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=wYVHxw2-DP4</guid>
+<pubDate>Thu, 30 Jul 2026 14:58:10 GMT</pubDate>
+<description>To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical dexterity across different end effectors, whether a robot is using hands or grippers, enabling robots to be more useful than ever before. Learn more about Gemini Robotics 2: htt</description>
+</item>
+<item>
+<title>[DeepMind video] Intelligent whole-body control with Gemini Robotics 2</title>
+<link>https://www.youtube.com/watch?v=9MNLEAzA59o</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=9MNLEAzA59o</guid>
+<pubDate>Thu, 30 Jul 2026 14:58:07 GMT</pubDate>
+
+</item>
+<item>
+<title>[DeepMind video] Multi-robot collaboration with Gemini Robotics 2</title>
+<link>https://www.youtube.com/watch?v=CiTPDm7PKW0</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=CiTPDm7PKW0</guid>
+<pubDate>Thu, 30 Jul 2026 14:58:03 GMT</pubDate>
+<description>Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems. Learn more about Gemini for Robotics 2: https://deepmind.google/gemini-robotics ___ Subscribe to our channel https://www.youtube.com/@googledeepmind Find us on X https://twitter.co</description>
+</item>
+<item>
+<title>[DeepMind video] Advanced dexterity with Gemini Robotics 2</title>
+<link>https://www.youtube.com/watch?v=O9-650iHAls</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=O9-650iHAls</guid>
+<pubDate>Thu, 30 Jul 2026 14:57:59 GMT</pubDate>
+<description>To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical dexterity across different end effectors, whether a robot is using hands or grippers, enabling robots to be more useful than ever before. Learn more: https://deepmind.google/gem</description>
+</item>
+<item>
+<title>[DeepMind video] Gemini Robotics 2 brings whole body intelligence to robots</title>
+<link>https://www.youtube.com/watch?v=4lSQnrMC6nY</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=4lSQnrMC6nY</guid>
+<pubDate>Thu, 30 Jul 2026 14:57:57 GMT</pubDate>
+<description>For decades, we’ve dreamed of robots that can seamlessly step into our world and lend a hand. Now, that vision takes a significant stride forward. Most robots are pre-programmed or teleoperated for narrow, repetitive task sequences. They lack the ability to truly learn for themselves or adapt to unp</description>
+</item>
+<item>
+<title>[Google News] UN Women Call for Applications for the Free Young Feminist AI School 2026 to Empower Youth Through Artificial Intelligence - Global South Opportunities</title>
+<link>https://news.google.com/rss/articles/CBMickFVX3lxTE1BWTFOeDJ0bWdzSFBTSWtiazJTMkJUcFBiSnJEWUx6UVAzTzl2ZnQyWTJCcThwS1FxUk5uZ1huMmNpNUtudHpRZXBuNlJ1ejR4dmg3QWRqdTQyN0twRW5RVF9yUVU0bjktMnRKR0x6bC1xQQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMickFVX3lxTE1BWTFOeDJ0bWdzSFBTSWtiazJTMkJUcFBiSnJEWUx6UVAzTzl2ZnQyWTJCcThwS1FxUk5uZ1huMmNpNUtudHpRZXBuNlJ1ejR4dmg3QWRqdTQyN0twRW5RVF9yUVU0bjktMnRKR0x6bC1xQQ?oc=5</guid>
+<pubDate>Thu, 30 Jul 2026 13:12:57 GMT</pubDate>
+
+</item>
 <item>
 <title>[Blog] Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW</title>
 <link>https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/</link>
@@ -18,6 +130,13 @@
 <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHY5cV9sSlo2MzhWbnZ5dFhKN0FVY05iYUlsUHFyY0x1NEY0enFFTmRhTTAyVC1xWUdjVGdTQ0oyWGljMzZvV1lVNzFhdlpEWmdYUEFHLUV4b1VxOVlhTm5hVVV5Unhfam9IR2hTUFVTcllkYnFieHBwUDN6VTRXOTd0MGRvSGhWZVZhM1BrOUpoVENxUFBfMmFjelZIZ1By?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHY5cV9sSlo2MzhWbnZ5dFhKN0FVY05iYUlsUHFyY0x1NEY0enFFTmRhTTAyVC1xWUdjVGdTQ0oyWGljMzZvV1lVNzFhdlpEWmdYUEFHLUV4b1VxOVlhTm5hVVV5Unhfam9IR2hTUFVTcllkYnFieHBwUDN6VTRXOTd0MGRvSGhWZVZhM1BrOUpoVENxUFBfMmFjelZIZ1By?oc=5</guid>
 <pubDate>Thu, 30 Jul 2026 12:51:20 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] On artificial intelligence: In Minnesota bipartisan majorities agree on proposals for regulation - Southwest Voices</title>
+<link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxObDB3WERNb1dEZG1hS0hSQnlHMVlqd29lOFgtY1hRR0ZZMzM4OUNQWFRZTmljS19mTkhFWWhmRWx5Q3NiMm1KWHZySzNpOTdSTURiS05QSnktbEtTMUVwLU1CaEJxNTJ1OHdic2pmVHJIRUdQekVJM25wN290NE1TOVEzTXJ6MmgtaUNrc1dtckZIekRDWEtlVEYzcG52OHN3OTE4R0FaY0U5dUVTb21Ici01eFFWRjFmRzlSMmZHOVFkY0NTcFRjb3pPNEdFaWJ4a0hEendXSkE1RGc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2wFBVV95cUxObDB3WERNb1dEZG1hS0hSQnlHMVlqd29lOFgtY1hRR0ZZMzM4OUNQWFRZTmljS19mTkhFWWhmRWx5Q3NiMm1KWHZySzNpOTdSTURiS05QSnktbEtTMUVwLU1CaEJxNTJ1OHdic2pmVHJIRUdQekVJM25wN290NE1TOVEzTXJ6MmgtaUNrc1dtckZIekRDWEtlVEYzcG52OHN3OTE4R0FaY0U5dUVTb21Ici01eFFWRjFmRzlSMmZHOVFkY0NTcFRjb3pPNEdFaWJ4a0hEendXSkE1RGc?oc=5</guid>
+<pubDate>Thu, 30 Jul 2026 12:51:00 GMT</pubDate>
 
 </item>
 <item>
@@ -56,11 +175,11 @@
 
 </item>
 <item>
-<title>[Google News] What Chinese AI model Kimi’s success says about the next phase of US-China AI race - The Indian Express</title>
-<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOai1pRzRqMi05b2hJWHNmZVhUcXNqc3huR2hfVHkxbEU1ZzBHUUpEMkg3Ymc2SGxIeUxYa1hkQWpBYURYeTY0YWVLMGFEREc0aF9Peld6MV9FQ3lCNWw4Vm9GczJMZFZNcjhHMEJkVHo3aGRUdlRkNFdfLW5BX0k4RWNBTWw2azBHVzZxR2lLQWlaeXZRTnIyaFV2ZEc4RXNnWWNteXVjcHcxRm9Ha0RQZG1UZXJfV3FsZHfSAcABQVVfeXFMTmlIUjhkSEthM0dMVFZYbUlicHR1Z3hYQVEzZUo3Q2F3eTZxbVlad2ZQMU5IVG1MeU03clVibGZsMW01MUlWMFN5WWhkQjI2RW04cTIwTnJvd0JPNnZ6a2stVlpwWnFYazltUTllUWcxVjRtM05JZmFaYWw0NURqSWIxM3ZJb3dEOUlIMGJkT3F5OHRnWXJjQkFaYzJ6eDE5NzZGLVlTN3VGdG84RlFTVHNJQmZrdlNrWjFEYWJYWmYw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxOai1pRzRqMi05b2hJWHNmZVhUcXNqc3huR2hfVHkxbEU1ZzBHUUpEMkg3Ymc2SGxIeUxYa1hkQWpBYURYeTY0YWVLMGFEREc0aF9Peld6MV9FQ3lCNWw4Vm9GczJMZFZNcjhHMEJkVHo3aGRUdlRkNFdfLW5BX0k4RWNBTWw2azBHVzZxR2lLQWlaeXZRTnIyaFV2ZEc4RXNnWWNteXVjcHcxRm9Ha0RQZG1UZXJfV3FsZHfSAcABQVVfeXFMTmlIUjhkSEthM0dMVFZYbUlicHR1Z3hYQVEzZUo3Q2F3eTZxbVlad2ZQMU5IVG1MeU03clVibGZsMW01MUlWMFN5WWhkQjI2RW04cTIwTnJvd0JPNnZ6a2stVlpwWnFYazltUTllUWcxVjRtM05JZmFaYWw0NURqSWIxM3ZJb3dEOUlIMGJkT3F5OHRnWXJjQkFaYzJ6eDE5NzZGLVlTN3VGdG84RlFTVHNJQmZrdlNrWjFEYWJYWmYw?oc=5</guid>
-<pubDate>Thu, 30 Jul 2026 09:25:00 GMT</pubDate>
-
+<title>[News] Advancing the price-performance frontier with GPT-5.6</title>
+<link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
+<guid isPermaLink="false">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
+<pubDate>Thu, 30 Jul 2026 10:00:00 GMT</pubDate>
+<description>Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.</description>
 </item>
 <item>
 <title>[Google News] AI Office of Ireland established under the AI Regulation Bill 2026, Paul Byrne appointed as CEO - Department of Enterprise, Tourism and Employment</title>
@@ -113,9 +232,16 @@
 </item>
 <item>
 <title>[Google News] OpenAI CEO Sam Altman meets with lawmakers as Trump weighs AI controls - National Desk</title>
-<link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ3NfMnFjNU1WV21WNEFlZWIyYlJZZVlhQXJHSmxfX0ljeXdJbzZpSm5JUjJnT0xsZU9sQk5oeGlCVkJITEZrak5QU2d0OXFOeTZ2RUtaQVhiVkRiNlJFdGI0WlZqdW5SMnUwUzMyeEpobXdqcGtEUDN6N0t5MlVvX1hMVXNqT0hCVENwNGJJYWNPd0xmYWoyb3o5NUlVSVB3M1VYc3Vnc0VWUDF4aEwwbUdkdEtJLXZjQWFVWWhSX0ZvcUdhdE11dURlNEw5Z1oxSlZldnlPRVFGRTRJblN1Mzh3Y1o?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ3NfMnFjNU1WV21WNEFlZWIyYlJZZVlhQXJHSmxfX0ljeXdJbzZpSm5JUjJnT0xsZU9sQk5oeGlCVkJITEZrak5QU2d0OXFOeTZ2RUtaQVhiVkRiNlJFdGI0WlZqdW5SMnUwUzMyeEpobXdqcGtEUDN6N0t5MlVvX1hMVXNqT0hCVENwNGJJYWNPd0xmYWoyb3o5NUlVSVB3M1VYc3Vnc0VWUDF4aEwwbUdkdEtJLXZjQWFVWWhSX0ZvcUdhdE11dURlNEw5Z1oxSlZldnlPRVFGRTRJblN1Mzh3Y1o?oc=5</guid>
+<link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdmlObFo2MmxiWGZLYVBjcno3dk1wdkZEOEJCMm02SWdkUktwVTJpa3BYdi1iV1BLSEpnS3pNZDhoZl8xeXc0Z2piemxzTHg5amctVDlaQWVkeU1LY3JLYVQwUWMtVkg4N2ZaNDRObnRkdHdtckk5STVzY3lEMEREemUta3g4VUp5cHRZd1NGMWxWVHpGU1dvR2NTX1A0bHlzOUVPdEtKeXd1bjZTblJISGhZeEFnd2NPN0pXdmdhS0lLMGR5RlFJckxhLUoyZXE3R2I2Rm1SQlBMbzF6OGdVRHpVOXp3OW9BRk5hU2l1VVZTQVFl?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdmlObFo2MmxiWGZLYVBjcno3dk1wdkZEOEJCMm02SWdkUktwVTJpa3BYdi1iV1BLSEpnS3pNZDhoZl8xeXc0Z2piemxzTHg5amctVDlaQWVkeU1LY3JLYVQwUWMtVkg4N2ZaNDRObnRkdHdtckk5STVzY3lEMEREemUta3g4VUp5cHRZd1NGMWxWVHpGU1dvR2NTX1A0bHlzOUVPdEtKeXd1bjZTblJISGhZeEFnd2NPN0pXdmdhS0lLMGR5RlFJckxhLUoyZXE3R2I2Rm1SQlBMbzF6OGdVRHpVOXp3OW9BRk5hU2l1VVZTQVFl?oc=5</guid>
 <pubDate>Thu, 30 Jul 2026 02:24:56 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Forbes 2026 AI 50 List | Top Artificial Intelligence Companies - Forbes</title>
+<link>https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</guid>
+<pubDate>Thu, 30 Jul 2026 02:08:53 GMT</pubDate>
 
 </item>
 <item>
@@ -126,31 +252,10 @@
 
 </item>
 <item>
-<title>[Google News] Netomi Secures $110 Million in Series C to Expand AI-Driven Customer Support - ascendants.in</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE40a1lKcnl5eDVzRlZPOU5EcTVnRlFSR1d0MWlOaG5FZ2ZZWUJnZ3pHaWJleHpfTkZfOW1SOEtqUVV1XzJqbldKTGI2cFlFSU1KOTdkX0tWV1lZZXB5Mm1SN292bEJrWVItYUwtOHpVa0lPZTl1RkNPcS1zMVA1T0U?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE40a1lKcnl5eDVzRlZPOU5EcTVnRlFSR1d0MWlOaG5FZ2ZZWUJnZ3pHaWJleHpfTkZfOW1SOEtqUVV1XzJqbldKTGI2cFlFSU1KOTdkX0tWV1lZZXB5Mm1SN292bEJrWVItYUwtOHpVa0lPZTl1RkNPcS1zMVA1T0U?oc=5</guid>
-<pubDate>Thu, 30 Jul 2026 01:30:56 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] UN Women Call for Applications for the Free Young Feminist AI School 2026 to Empower Youth Through Artificial Intelligence - Global South Opportunities</title>
-<link>https://news.google.com/rss/articles/CBMickFVX3lxTE1BWTFOeDJ0bWdzSFBTSWtiazJTMkJUcFBiSnJEWUx6UVAzTzl2ZnQyWTJCcThwS1FxUk5uZ1huMmNpNUtudHpRZXBuNlJ1ejR4dmg3QWRqdTQyN0twRW5RVF9yUVU0bjktMnRKR0x6bC1xQQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMickFVX3lxTE1BWTFOeDJ0bWdzSFBTSWtiazJTMkJUcFBiSnJEWUx6UVAzTzl2ZnQyWTJCcThwS1FxUk5uZ1huMmNpNUtudHpRZXBuNlJ1ejR4dmg3QWRqdTQyN0twRW5RVF9yUVU0bjktMnRKR0x6bC1xQQ?oc=5</guid>
-<pubDate>Thu, 30 Jul 2026 01:17:23 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] Yang Zhilin Finally Catches Up with Liang Wenfeng: The Long-Awaited Milestone - 36 Kr</title>
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tLVNuTmpjbmpDWGxfdVZhWF8xRGlVd0s4S2plU2lKNjhRTjFBZUpGUkN2OF95am9pUE1XaWc2cVhWNU9zb1g3TFp5b2RCV0MweTNj?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tLVNuTmpjbmpDWGxfdVZhWF8xRGlVd0s4S2plU2lKNjhRTjFBZUpGUkN2OF95am9pUE1XaWc2cVhWNU9zb1g3TFp5b2RCV0MweTNj?oc=5</guid>
 <pubDate>Thu, 30 Jul 2026 00:30:14 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Forbes 2026 AI 50 List | Top Artificial Intelligence Companies - Forbes</title>
-<link>https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</guid>
-<pubDate>Wed, 29 Jul 2026 23:05:13 GMT</pubDate>
 
 </item>
 <item>
@@ -224,13 +329,6 @@
 <description>Since we launched Gemini Enterprise Agent Platform a few months ago, we’ve seen inspiring progress from businesses and builders alike. To stir up development, we’ve also shared 13 demos that can walk you through the versatility and power of Agent Platform, and 20 questions you can ask your teams abo</description>
 </item>
 <item>
-<title>[Google News] A market vet warns that Washington's moves to blunt AI competition from China are largely 'toothless' - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVozQUlJUVBnTDU5ODNyQWRoOHJhSjEzUWJJQjFHUmoxQjZHV004OWQ4a01CbFh5aEQtWU11YVQ0SjJDZlQ0OFJxRTdQeHlrcXpUSXF0dm8yakxXNC1hbjJnaU04TWtCZ19sd3BHcVVYRGRhQk1LdTl3REF3bzctSkQ2N3NhTWFVNFdkdVh2X0RiZVhERTU2MHFxSTZ6WHg4b0c3bWcydXBfS0dFUnE5QU9OOG8?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVozQUlJUVBnTDU5ODNyQWRoOHJhSjEzUWJJQjFHUmoxQjZHV004OWQ4a01CbFh5aEQtWU11YVQ0SjJDZlQ0OFJxRTdQeHlrcXpUSXF0dm8yakxXNC1hbjJnaU04TWtCZ19sd3BHcVVYRGRhQk1LdTl3REF3bzctSkQ2N3NhTWFVNFdkdVh2X0RiZVhERTU2MHFxSTZ6WHg4b0c3bWcydXBfS0dFUnE5QU9OOG8?oc=5</guid>
-<pubDate>Wed, 29 Jul 2026 15:46:00 GMT</pubDate>
-
-</item>
-<item>
 <title>[News] How enabling two settings tripled our scores on the ARC-AGI-3 benchmark</title>
 <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</link>
 <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</guid>
@@ -273,10 +371,17 @@
 
 </item>
 <item>
-<title>[Google News] Presidential policy chief does not consider demand for AI, semiconductors as temporary despite market volatility - koreajoongangdaily.com</title>
+<title>[Google News] Presidential policy chief does not consider demand for AI, semiconductors as temporary despite market volatility - Korea JoongAng Daily</title>
 <link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeTN4a1g2bkJTR0dTRkxGSFQzeDJWSktxV3d6OFhJVDdYQi10cGwzN05vTFo3SzdNR2VudVBvcVlaMnZjekdta0t6NzlUMHk4Sm1TdDBITldFYmQ2Mk9RRFh1TDB0YXNjLUotM0xEcXQ1TzYydzk1QmVRbWRXdkRRMFRkcGxOaVE5TEE2T1Q3aXhqclZiQ3pISXBSZlg3THpLOGQ3RFIxbEVVWnlTcE9WN2dEcTZFWVBmdkhBcUhZbXU4RGVuaTVNaVNoQVpiajA1TzRPSVlBQVF1V1lnanUyei1XNldwbzZuY2tINUtobVZ3bXZmODBaaE9MOA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeTN4a1g2bkJTR0dTRkxGSFQzeDJWSktxV3d6OFhJVDdYQi10cGwzN05vTFo3SzdNR2VudVBvcVlaMnZjekdta0t6NzlUMHk4Sm1TdDBITldFYmQ2Mk9RRFh1TDB0YXNjLUotM0xEcXQ1TzYydzk1QmVRbWRXdkRRMFRkcGxOaVE5TEE2T1Q3aXhqclZiQ3pISXBSZlg3THpLOGQ3RFIxbEVVWnlTcE9WN2dEcTZFWVBmdkhBcUhZbXU4RGVuaTVNaVNoQVpiajA1TzRPSVlBQVF1V1lnanUyei1XNldwbzZuY2tINUtobVZ3bXZmODBaaE9MOA?oc=5</guid>
 <pubDate>Wed, 29 Jul 2026 02:54:02 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Kimi K3: DeepSeek 2.0, or is this Time Different? - TradingView</title>
+<link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEFQbHY5eE1fXzRfZkg0Z2FqSkpPbDhEZkItUnBXM1FIMVhVLUdzSFd0VlJUR1JYR1lYNGx1T1M2RnJzZnVuMnhrRGhEVUc5OXBGLW9ZODNhSUNtWkhrQ1JQcG1HdmtLdmZUbm5vOFp1dVczT25iOEhjX3FkejZzQXNia2hNdnpEdkVaa1hBdGRNVUFtYUdtWS1JelN0ckp5WnhYMg?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEFQbHY5eE1fXzRfZkg0Z2FqSkpPbDhEZkItUnBXM1FIMVhVLUdzSFd0VlJUR1JYR1lYNGx1T1M2RnJzZnVuMnhrRGhEVUc5OXBGLW9ZODNhSUNtWkhrQ1JQcG1HdmtLdmZUbm5vOFp1dVczT25iOEhjX3FkejZzQXNia2hNdnpEdkVaa1hBdGRNVUFtYUdtWS1JelN0ckp5WnhYMg?oc=5</guid>
+<pubDate>Wed, 29 Jul 2026 01:24:00 GMT</pubDate>
 
 </item>
 <item>
@@ -320,111 +425,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=Jsey8KhmZP0</guid>
 <pubDate>Tue, 28 Jul 2026 19:34:41 GMT</pubDate>
 <description>​Death or the Rebirth of Language as the Interface to Intelligence? ​NLP has changed dramatically in the LLM era. Many classic NLP tasks summarization, translation, extraction, classification, question answering have been absorbed into general-purpose language models, making it feel like “NLP” as we</description>
-</item>
-<item>
-<title>[Cloud AI] Bringing Conversational Analytics to your entire data ecosystem</title>
-<link>https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/</guid>
-<pubDate>Tue, 28 Jul 2026 17:30:00 +0000</pubDate>
-<description>Increasing the adoption of generative AI across the enterprise requires you to do more than deploy a generic chatbot with a custom wrapper. Interacting with business-critical databases demands absolute trust, strict governance, and deep grounding in enterprise semantics. Over the last year, Conversa</description>
-</item>
-<item>
-<title>[News] Scientific computing in the age of agentic AI</title>
-<link>https://openai.com/index/scientific-computing-agentic-ai</link>
-<guid isPermaLink="false">https://openai.com/index/scientific-computing-agentic-ai</guid>
-<pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
-<description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
-</item>
-<item>
-<title>[YouTube] Training Agents 3: Reinforcement Learning</title>
-<link>https://www.youtube.com/watch?v=ztdTed5egrM</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=ztdTed5egrM</guid>
-<pubDate>Tue, 28 Jul 2026 16:41:53 GMT</pubDate>
-<description>Training Agents, Session 3: from a fine-tuned baseline to reinforcement learning with GRPO. In this live session, we'll move past imitation and start training on outcomes. We'll take the model from the earlier sessions and run Group Relative Policy Optimization: sample multiple completions per promp</description>
-</item>
-<item>
-<title>[Blog] The OlmoEarth Platform: Geospatial inference at planetary scale</title>
-<link>https://huggingface.co/blog/allenai/olmoearth-infrastructure</link>
-<guid isPermaLink="false">https://huggingface.co/blog/allenai/olmoearth-infrastructure</guid>
-<pubDate>Tue, 28 Jul 2026 16:27:42 GMT</pubDate>
-
-</item>
-<item>
-<title>[Gemini] How Gemini Flash agents are helping a Michigan dairy farmer</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/</guid>
-<pubDate>Tue, 28 Jul 2026 16:15:00 +0000</pubDate>
-<description>See how Paul Windemuller, a Michigan dairy farmer, is changing the way he works by using AI agents built with Gemini 3.6 Flash.</description>
-</item>
-<item>
-<title>[Google AI] Gemini API Managed Agents: 3.6 Flash, hooks, and more</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</guid>
-<pubDate>Tue, 28 Jul 2026 16:00:00 +0000</pubDate>
-<description>We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.</description>
-</item>
-<item>
-<title>[Cloud AI] Best Buy scales AI workloads and secures access with Workforce Identity Federation</title>
-<link>https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/</guid>
-<pubDate>Tue, 28 Jul 2026 16:00:00 +0000</pubDate>
-<description>As Best Buy expanded its use of Google Cloud for advanced analytics and AI, its technology teams faced two significant scaling challenges: Mitigating risk and managing administrative friction when syncing thousands of backend users from Microsoft Entra ID. The retailer solved both problems and paved</description>
-</item>
-<item>
-<title>[Blog] LFM2.5-Encoders for Fast Long-Context Inference on CPU</title>
-<link>https://huggingface.co/blog/LiquidAI/lfm2-5-encoders</link>
-<guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm2-5-encoders</guid>
-<pubDate>Tue, 28 Jul 2026 15:01:45 GMT</pubDate>
-<description>A Blog post by Liquid AI on Hugging Face</description>
-</item>
-<item>
-<title>[Blog] Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson</title>
-<link>https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/</guid>
-<pubDate>Tue, 28 Jul 2026 15:00:19 +0000</pubDate>
-<description>As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how t</description>
-</item>
-<item>
-<title>[YouTube] ChatGPT Work for Sales: Revenue Intelligence for Sales Leaders</title>
-<link>https://www.youtube.com/watch?v=g-g6E-qtCjA</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=g-g6E-qtCjA</guid>
-<pubDate>Tue, 28 Jul 2026 14:25:26 GMT</pubDate>
-<description>See how sales teams ChatGPT Work to bring customer conversations, sales activity, and market signals into one weekly report. Spot customer objections, competitive risks, and new opportunities sooner so revenue leaders know where to act. Learn how ChatGPT Work can help your sales team: https://openai</description>
-</item>
-<item>
-<title>[YouTube] ChatGPT Work for Sales: Account Research and Customer Outreach</title>
-<link>https://www.youtube.com/watch?v=5DbZAMGZ5oM</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=5DbZAMGZ5oM</guid>
-<pubDate>Tue, 28 Jul 2026 14:23:31 GMT</pubDate>
-<description>See how sales teams ChatGPT Work to turn customer updates into account research, meeting prep, and sales follow-up. Help sellers automate the right next step while staying in control of every customer message. Learn how ChatGPT Work can help your sales team: https://openai.com/business/solutions/sal</description>
-</item>
-<item>
-<title>[YouTube] ChatGPT Work for Sales: Account Planning and Meeting Prep</title>
-<link>https://www.youtube.com/watch?v=hjXi7b01s2c</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=hjXi7b01s2c</guid>
-<pubDate>Tue, 28 Jul 2026 14:20:18 GMT</pubDate>
-<description>See how sales teams use ChatGPT Work to help sellers plan their day, prepare for customer meetings, and create the materials they need. Give every seller the context to show up prepared and focus on advising your customers. Learn how ChatGPT Work can help your sales team: https://openai.com/business</description>
-</item>
-<item>
-<title>[YouTube] ChatGPT Work for Sales: Pipeline and Forecast Intelligence</title>
-<link>https://www.youtube.com/watch?v=q9TPE7pKkIo</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=q9TPE7pKkIo</guid>
-<pubDate>Tue, 28 Jul 2026 14:16:53 GMT</pubDate>
-<description>See how sales teams use ChatGPT Work to spot sales pipeline risks, identify the deals that need attention, and recommend what to do next. Spend less time sorting through data and more time moving the right deals forward. Learn how ChatGPT Work can help your sales team: https://openai.com/business/so</description>
-</item>
-<item>
-<title>[Google News] Is China’s lithography machine entering its DeepSeek era? Is the U.S. stock market about to face selling pressure again? - odaily.news</title>
-<link>https://news.google.com/rss/articles/CBMiUEFVX3lxTE15b0tlb2plYTRQVDFMNjJfV1oyWGdSZ2luZHNfYlhYTEttZjI5Z1FMbTM2eFhFWTBwUFdwRlR5VGM5MkhCNGQ5OUZFejZwV0JH?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUEFVX3lxTE15b0tlb2plYTRQVDFMNjJfV1oyWGdSZ2luZHNfYlhYTEttZjI5Z1FMbTM2eFhFWTBwUFdwRlR5VGM5MkhCNGQ5OUZFejZwV0JH?oc=5</guid>
-<pubDate>Tue, 28 Jul 2026 14:13:45 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] SOXX: China's DUV Push May Be A DeepSeek 2.0 Moment (NASDAQ:SOXX) - Seeking Alpha</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnEzWVQxLWdtdm5yTlJSa1dqTlJrVmN5elBDVnNBS19mMVp3Mmw2NU9lMjdPR01FNWNGUHU4V3ZQaDhuTEtUZHRxWTRKY3MtbUtBelFwbUhFLVgycDJ3aU4xOTRNY3RMRXdYMGhXcU9ta3RKNDRTQWFyZGk0aldVWEp2RU03N3VLMFlob0VkSm8?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnEzWVQxLWdtdm5yTlJSa1dqTlJrVmN5elBDVnNBS19mMVp3Mmw2NU9lMjdPR01FNWNGUHU4V3ZQaDhuTEtUZHRxWTRKY3MtbUtBelFwbUhFLVgycDJ3aU4xOTRNY3RMRXdYMGhXcU9ta3RKNDRTQWFyZGk0aldVWEp2RU03N3VLMFlob0VkSm8?oc=5</guid>
-<pubDate>Tue, 28 Jul 2026 14:06:33 GMT</pubDate>
-
 </item>
 </channel>
 </rss>
