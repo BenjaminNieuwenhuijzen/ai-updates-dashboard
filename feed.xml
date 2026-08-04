@@ -5,7 +5,35 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 04 Aug 2026 18:05:19 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 19:57:35 GMT</lastBuildDate>
+<item>
+<title>[YouTube] Why AI Agents Need More Than One Model</title>
+<link>https://www.youtube.com/watch?v=Np0afRWtdp8</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=Np0afRWtdp8</guid>
+<pubDate>Tue, 04 Aug 2026 19:00:10 GMT</pubDate>
+<description>AI agents are built with many models, each bringing different strengths to the work. This explainer shows how powerful models can plan complex workflows while specialized models search enterprise data, call tools, review code, and validate results efficiently. See how frontier and open models work t</description>
+</item>
+<item>
+<title>[Agent Framework] Build Production-Ready Agents with the GitHub Copilot Harness and Agent Framework</title>
+<link>https://devblogs.microsoft.com/agent-framework/build-production-ready-agents-with-the-github-copilot-harness-and-agent-framework/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/agent-framework/build-production-ready-agents-with-the-github-copilot-harness-and-agent-framework/</guid>
+<pubDate>Tue, 04 Aug 2026 18:25:35 +0000</pubDate>
+<description>Developers increasingly want to build agents that can reason about code, modify files, execute commands, interact with developer tools, and work across entire repositories. While GitHub Copilot already provides a powerful coding harness for these scenarios, developers often need additional capabilit</description>
+</item>
+<item>
+<title>[YouTube] Managing Computer credits | Perplexity Academy</title>
+<link>https://www.youtube.com/watch?v=mE2grYGrJw0</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=mE2grYGrJw0</guid>
+<pubDate>Tue, 04 Aug 2026 18:16:23 GMT</pubDate>
+<description>Perplexity Computer credits are how organizations pay for agentic work — and how admins keep spend predictable. Standard Perplexity searches never consume credits; they're included in your subscription. Credits apply only to Computer: building dashboards and websites, running deep analysis across fi</description>
+</item>
+<item>
+<title>[YouTube] Meet Birding Pal</title>
+<link>https://www.youtube.com/watch?v=r64krUavXJU</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=r64krUavXJU</guid>
+<pubDate>Tue, 04 Aug 2026 17:43:45 GMT</pubDate>
+<description>Your new birdwatching buddy is here. Make your own: https://github.com/openai/birdingpal</description>
+</item>
 <item>
 <title>[Newsroom] NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US</title>
 <link>https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program</link>
@@ -14,10 +42,10 @@
 <description>NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education.</description>
 </item>
 <item>
-<title>[Google News] Anthropic names global affairs chief to tackle AI policy as Trump tensions persist - Yahoo News UK</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmJEeXhuZmZMd25PX0NnQ3hISnlNNkY4enNiREZMMVRadFJQYUs4M25EaVFiSUFNazhKZjJPYzBDOGFjZTZNZS16M2tFOTlGNG0wWF9YQjlaTm5pR013blFJUUV6ODM1LWtSVXcyY0lZM1RMVkZpRGluV2V0QW9OdGFhVQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmJEeXhuZmZMd25PX0NnQ3hISnlNNkY4enNiREZMMVRadFJQYUs4M25EaVFiSUFNazhKZjJPYzBDOGFjZTZNZS16M2tFOTlGNG0wWF9YQjlaTm5pR013blFJUUV6ODM1LWtSVXcyY0lZM1RMVkZpRGluV2V0QW9OdGFhVQ?oc=5</guid>
-<pubDate>Tue, 04 Aug 2026 16:56:06 GMT</pubDate>
+<title>[Google News] Red Hat, NVIDIA, IBM back project turning AI policy into code - AI News</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTV6RlRRSkZCczdURXZjREluSTd2dmJ0OUdteThOVWZ0emlVcTBmQkQ0QTdFTE5DSDVnenFSZG54NEE4WGMxa1EzbXllRHYySmR3RGRVZkREbXFXWHpxaXJRZFpadE4tX3Voa0JfdkxKQTlrNXpTVWZDOVduaTREV2dJUDNONmdoNGJnbU5qLVBFbTh2ODdMY2lqSWtteGZQUWVPdl8tMWtRMVVGcmc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTV6RlRRSkZCczdURXZjREluSTd2dmJ0OUdteThOVWZ0emlVcTBmQkQ0QTdFTE5DSDVnenFSZG54NEE4WGMxa1EzbXllRHYySmR3RGRVZkREbXFXWHpxaXJRZFpadE4tX3Voa0JfdkxKQTlrNXpTVWZDOVduaTREV2dJUDNONmdoNGJnbU5qLVBFbTh2ODdMY2lqSWtteGZQUWVPdl8tMWtRMVVGcmc?oc=5</guid>
+<pubDate>Tue, 04 Aug 2026 17:29:24 GMT</pubDate>
 
 </item>
 <item>
@@ -61,6 +89,13 @@
 <guid isPermaLink="false">https://www.youtube.com/shorts/nHX8cIZTJp0</guid>
 <pubDate>Tue, 04 Aug 2026 15:39:25 GMT</pubDate>
 <description>Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles. Built for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving decisions and automated reasoning labels. We built it, so you can build on it.</description>
+</item>
+<item>
+<title>[Google News] Artificial intelligence that jumped the fence - Korea JoongAng Daily</title>
+<link>https://news.google.com/rss/articles/CBMingFBVV95cUxOYmJXN252dGhCa0g5R0dEbC1sbU1rYlZWVWotVWY0d3h1TWNMYktvaktCTEx6TG9NS0prVUtER3FRTGlUMUhHcnJOdHpjT1VMblBYcjVtYktiZFBxMVhDVUdkX2lZQ2tVemVSYm02SGxMR083QjR1N3BrVTMwd3Y4d2pWVFVnZ3d5enBGZmdnUjBXOWIwLU5QNktvZWVpdw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxOYmJXN252dGhCa0g5R0dEbC1sbU1rYlZWVWotVWY0d3h1TWNMYktvaktCTEx6TG9NS0prVUtER3FRTGlUMUhHcnJOdHpjT1VMblBYcjVtYktiZFBxMVhDVUdkX2lZQ2tVemVSYm02SGxMR083QjR1N3BrVTMwd3Y4d2pWVFVnZ3d5enBGZmdnUjBXOWIwLU5QNktvZWVpdw?oc=5</guid>
+<pubDate>Tue, 04 Aug 2026 15:04:36 GMT</pubDate>
+
 </item>
 <item>
 <title>[Blog] NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use</title>
@@ -119,17 +154,17 @@
 <description>A Blog post by Liquid AI on Hugging Face</description>
 </item>
 <item>
+<title>[Google News] America’s Cosmic Bet on AI - foreignpolicy.com</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3VkV3FuN1BRS3lUbWE4Nk1wVnNSUVZKcEJUWVhzS25KZTBLaEpHeTJCRVJlczFNNF9IekZTQlZxam40R2hBMFB0dkU1QUhEWUxxU2tkMGI1WmR5N1ZwT2pnb0FkYW5jOHNJc3d4RUVzSFRuSHRXdmpzdHB2bUlVak40azJNREpDVG9HcnZuYk8xRzJLNEF2MU1hbEcxV0daWVVveVFXSlJ6RWI2SnZXTHVuUnBSNHM3SmlmcnZRNkpEWGw2?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3VkV3FuN1BRS3lUbWE4Nk1wVnNSUVZKcEJUWVhzS25KZTBLaEpHeTJCRVJlczFNNF9IekZTQlZxam40R2hBMFB0dkU1QUhEWUxxU2tkMGI1WmR5N1ZwT2pnb0FkYW5jOHNJc3d4RUVzSFRuSHRXdmpzdHB2bUlVak40azJNREpDVG9HcnZuYk8xRzJLNEF2MU1hbEcxV0daWVVveVFXSlJ6RWI2SnZXTHVuUnBSNHM3SmlmcnZRNkpEWGw2?oc=5</guid>
+<pubDate>Tue, 04 Aug 2026 13:56:46 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] Chinese life sciences AI model GeneLLM emerges as the 'Biological DeepSeek' - KuCoin</title>
 <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkZOVkItWmktZld0NTNLYlZNODNmWDh3Zzc5YldBMXdQaEkwZ2ZqUVpQNVZJeXZDRjZIaXNiVGFndldVdGxZWm1HZmtKbWZQaDRrQXNXbktMa01LQ181RlF5UVpxUkpwTklSMG1Td2tIM280Yi14c01oRk85c2R0Z0F1Qk80U2tjRnQtaG1jNDBBZVRLdHllYXc1RVhzVE9QNVEzRQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkZOVkItWmktZld0NTNLYlZNODNmWDh3Zzc5YldBMXdQaEkwZ2ZqUVpQNVZJeXZDRjZIaXNiVGFndldVdGxZWm1HZmtKbWZQaDRrQXNXbktMa01LQ181RlF5UVpxUkpwTklSMG1Td2tIM280Yi14c01oRk85c2R0Z0F1Qk80U2tjRnQtaG1jNDBBZVRLdHllYXc1RVhzVE9QNVEzRQ?oc=5</guid>
 <pubDate>Tue, 04 Aug 2026 13:56:13 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] America’s Cosmic Bet on AI - Foreign Policy</title>
-<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3VkV3FuN1BRS3lUbWE4Nk1wVnNSUVZKcEJUWVhzS25KZTBLaEpHeTJCRVJlczFNNF9IekZTQlZxam40R2hBMFB0dkU1QUhEWUxxU2tkMGI1WmR5N1ZwT2pnb0FkYW5jOHNJc3d4RUVzSFRuSHRXdmpzdHB2bUlVak40azJNREpDVG9HcnZuYk8xRzJLNEF2MU1hbEcxV0daWVVveVFXSlJ6RWI2SnZXTHVuUnBSNHM3SmlmcnZRNkpEWGw2?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3VkV3FuN1BRS3lUbWE4Nk1wVnNSUVZKcEJUWVhzS25KZTBLaEpHeTJCRVJlczFNNF9IekZTQlZxam40R2hBMFB0dkU1QUhEWUxxU2tkMGI1WmR5N1ZwT2pnb0FkYW5jOHNJc3d4RUVzSFRuSHRXdmpzdHB2bUlVak40azJNREpDVG9HcnZuYk8xRzJLNEF2MU1hbEcxV0daWVVveVFXSlJ6RWI2SnZXTHVuUnBSNHM3SmlmcnZRNkpEWGw2?oc=5</guid>
-<pubDate>Tue, 04 Aug 2026 13:55:38 GMT</pubDate>
 
 </item>
 <item>
@@ -159,6 +194,13 @@
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/</guid>
 <pubDate>Tue, 04 Aug 2026 13:00:00 +0000</pubDate>
 <description>Here are Google’s latest AI updates from July 2026</description>
+</item>
+<item>
+<title>[Google News] Obsidian Security raises funding at $1.1 billion valuation on AI security demand - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmdoY3dVd3hoSmZIbU1RajM2TVByN2s2bkpWSUV5b3N0OE02QzdEZDJwMnRLYURkcUtZZjlvVGJqWHNhb2lZQzJaUXJJcEhFbWhnMGtlSU1ELUR2NGc5aHVIRE9yQ0FUN2xPSExfb2JTeHJQaHdOV1FGb1YtM0l3dFlCS1ZhdEtlZHpVdjlxNS1NT2JMMDRUMlB2NGJ3bVhQTENsRzhndXExUm1INzEwMU1PSTZHb0FyVHdz?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmdoY3dVd3hoSmZIbU1RajM2TVByN2s2bkpWSUV5b3N0OE02QzdEZDJwMnRLYURkcUtZZjlvVGJqWHNhb2lZQzJaUXJJcEhFbWhnMGtlSU1ELUR2NGc5aHVIRE9yQ0FUN2xPSExfb2JTeHJQaHdOV1FGb1YtM0l3dFlCS1ZhdEtlZHpVdjlxNS1NT2JMMDRUMlB2NGJ3bVhQTENsRzhndXExUm1INzEwMU1PSTZHb0FyVHdz?oc=5</guid>
+<pubDate>Tue, 04 Aug 2026 12:11:43 GMT</pubDate>
+
 </item>
 <item>
 <title>[News] Introducing Shieldstral.</title>
@@ -217,10 +259,10 @@
 
 </item>
 <item>
-<title>[Google News] China’s AI blitz creates ‘death zone’ for rival U.S. model makers - The Japan Times</title>
-<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3pSM3ZvSlJfb0R2a1FXYWhIX2dYaVFoYXg5Qk1DeF9aVkZ0SjNTa0gtRDRXZUV2a09CQ1gzWVBuYTU4SkptdUh2TXdHMm5qUHFWbWl1UTRmNlgzN21wUUFtYkltanFfWGJhRlVYRzVJU3NhdGEtMHpocFkwUlJ4dkNxdXM?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3pSM3ZvSlJfb0R2a1FXYWhIX2dYaVFoYXg5Qk1DeF9aVkZ0SjNTa0gtRDRXZUV2a09CQ1gzWVBuYTU4SkptdUh2TXdHMm5qUHFWbWl1UTRmNlgzN21wUUFtYkltanFfWGJhRlVYRzVJU3NhdGEtMHpocFkwUlJ4dkNxdXM?oc=5</guid>
-<pubDate>Tue, 04 Aug 2026 07:26:00 GMT</pubDate>
+<title>[Google News] There is a time gap of native multimodality between Kimi K3 and DeepSeek V4. - 36Kr</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MaWlUQ0JJNjZBNFZuZW5tb1VxTGpnRnZaTWhobGs0MjZmS1ZZMzdqM0dxWWRkck95cmhmU2w1eThqbzZ5T1h0R3hRS1lvbG1yUVdj?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MaWlUQ0JJNjZBNFZuZW5tb1VxTGpnRnZaTWhobGs0MjZmS1ZZMzdqM0dxWWRkck95cmhmU2w1eThqbzZ5T1h0R3hRS1lvbG1yUVdj?oc=5</guid>
+<pubDate>Tue, 04 Aug 2026 06:55:09 GMT</pubDate>
 
 </item>
 <item>
@@ -301,14 +343,14 @@
 
 </item>
 <item>
-<title>[Google News] Waymo CEO on AI's Real-World Challenges - StartupHub.ai</title>
+<title>[Google News] Waymo CEO on AI's Real-World Challenges - startuphub.ai</title>
 <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOSG92Ty14a1FvTFJucXBqRE02aUJqWEJDNG1OYWpRSEVnSlZ6NmdBZXVjUjBxcGQ2V2JCa3V5ZXFLSmZQNmJ0b3lUTjMxSEtyaHRDTHU4bHJhUWVkME9DT25RUXpNbXo2RGdaeHBhaF9mWktFQm5UMVhKbm9nRkNYdUNKeV9VMFowcFBLVktYbW5sWDZjSFRtSjM0dzZ3NUI0RGl6Mw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxOSG92Ty14a1FvTFJucXBqRE02aUJqWEJDNG1OYWpRSEVnSlZ6NmdBZXVjUjBxcGQ2V2JCa3V5ZXFLSmZQNmJ0b3lUTjMxSEtyaHRDTHU4bHJhUWVkME9DT25RUXpNbXo2RGdaeHBhaF9mWktFQm5UMVhKbm9nRkNYdUNKeV9VMFowcFBLVktYbW5sWDZjSFRtSjM0dzZ3NUI0RGl6Mw?oc=5</guid>
 <pubDate>Mon, 03 Aug 2026 23:08:14 GMT</pubDate>
 
 </item>
 <item>
-<title>[Google News] Amazon Steps Up Spokane Wildfire Relief - StartupHub.ai</title>
+<title>[Google News] Amazon Steps Up Spokane Wildfire Relief - startuphub.ai</title>
 <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2VxWVpCTm5WM1ZoSFVUWXF0TGVXTGljejNaY0dzUDN6aVZPQW9xN2VlQmVMb0VLSlhsX2FuYWdMeE9ycXV1UURGblZoM2Q0cl9LQTJNMHdDbW1jU2o1aE5QWFJZQmxEcWhsQ2hQT0I3YU1BUEM3NHlrMVdUSlBqRlpwTTZuLXpyVTQ5SmlCUFRQRG5CQmlvU0FCQWpNR3RUX2VWWg?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2VxWVpCTm5WM1ZoSFVUWXF0TGVXTGljejNaY0dzUDN6aVZPQW9xN2VlQmVMb0VLSlhsX2FuYWdMeE9ycXV1UURGblZoM2Q0cl9LQTJNMHdDbW1jU2o1aE5QWFJZQmxEcWhsQ2hQT0I3YU1BUEM3NHlrMVdUSlBqRlpwTTZuLXpyVTQ5SmlCUFRQRG5CQmlvU0FCQWpNR3RUX2VWWg?oc=5</guid>
 <pubDate>Mon, 03 Aug 2026 23:04:31 GMT</pubDate>
@@ -383,48 +425,6 @@
 <guid isPermaLink="false">https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/</guid>
 <pubDate>Mon, 03 Aug 2026 18:43:30 +0000</pubDate>
 <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s </description>
-</item>
-<item>
-<title>[Google News] Alibaba unveils its largest, most capable AI model yet as DeepSeek launches ultra-low-cost rival - The American Bazaar</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQdk9pNGE3LWVFSEtVVDNzZjRKWmtsZlQ5VTVNZ3p5LThXN1pDYV9Ud0JWTGtYM1VaVkNKZUpON0tidWhoNTlUeEREbURvWmNrb2VLQ1dybjhwSXM4SE01b05MUUg3SnBuSVBNSFlPZXlJTDViazEwdTA0b0MyOTNtNGdTcVlqbGRUcVhEUnFOWVZ0N3ZNdThlTXRaNVlLN1RfemFj?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQdk9pNGE3LWVFSEtVVDNzZjRKWmtsZlQ5VTVNZ3p5LThXN1pDYV9Ud0JWTGtYM1VaVkNKZUpON0tidWhoNTlUeEREbURvWmNrb2VLQ1dybjhwSXM4SE01b05MUUg3SnBuSVBNSFlPZXlJTDViazEwdTA0b0MyOTNtNGdTcVlqbGRUcVhEUnFOWVZ0N3ZNdThlTXRaNVlLN1RfemFj?oc=5</guid>
-<pubDate>Mon, 03 Aug 2026 18:20:02 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Britain says it is open to AI regulation if voluntary safeguards fall short - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMiywFBVV95cUxOUW5VRkFDZTMxWE91ZnQzVjFRUEFra0dCb1Nnek1BQU9VbWZHUGtzQURhZlN5QUhNZUEzeHg0amI5SU5qUFpJX2lkMUt3V0FILVFWWVc5NW9yOHMxSk10REtJYjM5R1MyZllpMHVQNWFWakY2eElRSl9hbVI4MEdhNFVFdms4LVRzOEZ1Z2lkSG1fOTJCWHJuZkNDbzRXeTFhblJuc2RTVHYzNzI2MWF5Sm9vWlNNQU14LW16ZFpwdXF3TUdPV2hGNTF4WQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxOUW5VRkFDZTMxWE91ZnQzVjFRUEFra0dCb1Nnek1BQU9VbWZHUGtzQURhZlN5QUhNZUEzeHg0amI5SU5qUFpJX2lkMUt3V0FILVFWWVc5NW9yOHMxSk10REtJYjM5R1MyZllpMHVQNWFWakY2eElRSl9hbVI4MEdhNFVFdms4LVRzOEZ1Z2lkSG1fOTJCWHJuZkNDbzRXeTFhblJuc2RTVHYzNzI2MWF5Sm9vWlNNQU14LW16ZFpwdXF3TUdPV2hGNTF4WQ?oc=5</guid>
-<pubDate>Mon, 03 Aug 2026 17:27:08 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] EU AI Act Transparency Rules Put Financial Institutions on Compliance Front Line - PYMNTS.com</title>
-<link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmhFOEtOMkoyTDhsdTY4MlBubkdJd1lta2xzbXRzX2N4NGZTWTlocVFlYVIwVTExWUZXa0RRQXp1VkxiRW5aYnhNSlpkU1Z0ZkFnMm95SDZtWU1Oal9WbndfTGx2SmJHNEFSdGhDWUNhVWxsX0Nsa3FNejNvQk1VTXhTYURxbnNmRzRpcUg0VUMtSWhzQnI1d2FMMFlWVnhjNzFwWGctV3J0cnpwSV9JMlBHc3QzS2lFQXdLODZ4U0Q4MDR3OVQ4VVRrNGRPdG10VEJoYw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmhFOEtOMkoyTDhsdTY4MlBubkdJd1lta2xzbXRzX2N4NGZTWTlocVFlYVIwVTExWUZXa0RRQXp1VkxiRW5aYnhNSlpkU1Z0ZkFnMm95SDZtWU1Oal9WbndfTGx2SmJHNEFSdGhDWUNhVWxsX0Nsa3FNejNvQk1VTXhTYURxbnNmRzRpcUg0VUMtSWhzQnI1d2FMMFlWVnhjNzFwWGctV3J0cnpwSV9JMlBHc3QzS2lFQXdLODZ4U0Q4MDR3OVQ4VVRrNGRPdG10VEJoYw?oc=5</guid>
-<pubDate>Mon, 03 Aug 2026 17:10:41 GMT</pubDate>
-
-</item>
-<item>
-<title>[Cloud AI] Real-world mainframe modernization with AI: A safe, scalable path from mainframe to cloud</title>
-<link>https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/</guid>
-<pubDate>Mon, 03 Aug 2026 17:00:00 +0000</pubDate>
-<description>For too long, enterprises with legacy mainframe estates have been faced with a high-stakes dilemma: continue maintaining their mainframes, essentially kicking the modernization can down the road (they know they will need to deal with it eventually), or perform a dangerous "big bang" migration with m</description>
-</item>
-<item>
-<title>[Google News] Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm - Dark Reading</title>
-<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHg5X0VzcnpwNFllMkNFTkVxZUZpOXVQZ2xfclBCMEJwQ0t2RGUtcnB5Wk16ZWtKb1E4eGd5S2FaNlR5aUI2VzFNMURoS002ZHlzTEtCY2RRbDdYbE05TVZDOFFvTHIzWnotNzVEbHhQaGRQOVVBZ0pQajFGbWp5ME5rM1B0aDR3c0JLb3pmWk5FX1BFcFhFR2UwTWcxMWlSNTNWcUlQMklvLUk?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHg5X0VzcnpwNFllMkNFTkVxZUZpOXVQZ2xfclBCMEJwQ0t2RGUtcnB5Wk16ZWtKb1E4eGd5S2FaNlR5aUI2VzFNMURoS002ZHlzTEtCY2RRbDdYbE05TVZDOFFvTHIzWnotNzVEbHhQaGRQOVVBZ0pQajFGbWp5ME5rM1B0aDR3c0JLb3pmWk5FX1BFcFhFR2UwTWcxMWlSNTNWcUlQMklvLUk?oc=5</guid>
-<pubDate>Mon, 03 Aug 2026 16:35:05 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Automated Reasoning policy refinement in Amazon Bedrock | Artificial Intelligence - Amazon Web Services (AWS)</title>
-<link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOSEdwSXhWLV9SRWZkbWpRT05GT0xWd1V4aEx3MS05aDluWVo2M0lHNE82RWxra09MNGdJZFdzMEFHdmlpLWlVTER0ZFEtR0lwRXRSVWNjX09Ycjhidk5WeE5oeUVYaHBIeGxQTzdUellfcThlQjFmMTZteGduX3VWVWZFcUdFY2REaUROaFU2V2pRbGQwakdJV2JyN0JMVDM3aGtFZA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxOSEdwSXhWLV9SRWZkbWpRT05GT0xWd1V4aEx3MS05aDluWVo2M0lHNE82RWxra09MNGdJZFdzMEFHdmlpLWlVTER0ZFEtR0lwRXRSVWNjX09Ycjhidk5WeE5oeUVYaHBIeGxQTzdUellfcThlQjFmMTZteGduX3VWVWZFcUdFY2REaUROaFU2V2pRbGQwakdJV2JyN0JMVDM3aGtFZA?oc=5</guid>
-<pubDate>Mon, 03 Aug 2026 16:30:58 GMT</pubDate>
-
 </item>
 </channel>
 </rss>
