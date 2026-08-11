@@ -5,12 +5,33 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 11 Aug 2026 17:13:48 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 19:21:43 GMT</lastBuildDate>
+<item>
+<title>[Developer] NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation</title>
+<link>https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/</guid>
+<pubDate>Tue, 11 Aug 2026 19:00:00 GMT</pubDate>
+<description>Video is a core data path across NVIDIA Jetson applications, from robotics and intelligent video analytics to industrial automation, healthcare, media...</description>
+</item>
+<item>
+<title>[Google News] Mark Zuckerberg says AI needs to be regulated globally - news3lv.com</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOUmtnbUxONUV3UXhpNnY5SFA1bEpwcXZzUjRDRGZHMlJZV29xN2owckRHY2RRSXQ3WEZfd1MxQnRHWF9EZVQ5MUc3N0wwYzlkZHBZcEppbG1fTTJxYkJ3eC0yVWpqNVdHUklMQ0ZPejZRQ3ozQXhUM0RGcDI3YTdRa0xpRDBBV3pZYnN1NGtfSm83cW1iRXNLSGpzY3VJOXBfRzVXYUUzbXlHLTNJTDF2M2d3QkpwVWlmOW8xbktkcFdyX3lL?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxOUmtnbUxONUV3UXhpNnY5SFA1bEpwcXZzUjRDRGZHMlJZV29xN2owckRHY2RRSXQ3WEZfd1MxQnRHWF9EZVQ5MUc3N0wwYzlkZHBZcEppbG1fTTJxYkJ3eC0yVWpqNVdHUklMQ0ZPejZRQ3ozQXhUM0RGcDI3YTdRa0xpRDBBV3pZYnN1NGtfSm83cW1iRXNLSGpzY3VJOXBfRzVXYUUzbXlHLTNJTDF2M2d3QkpwVWlmOW8xbktkcFdyX3lL?oc=5</guid>
+<pubDate>Tue, 11 Aug 2026 18:46:26 GMT</pubDate>
+
+</item>
+<item>
+<title>[YouTube] Hugging Face Journal Club: Direct On-Policy Distillation</title>
+<link>https://www.youtube.com/watch?v=S5wE1sjyiQY</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=S5wE1sjyiQY</guid>
+<pubDate>Tue, 11 Aug 2026 18:05:57 GMT</pubDate>
+<description>The Hugging Face research team discusses the paper "Weak-to-Strong Generalization via Direct On-Policy Distillation" which proposes a cheap way to transfer the benefits of reinforcement learning from small models to much larger ones. Instead of imitating the smaller model directly, it measures how R</description>
+</item>
 <item>
 <title>[Research] Advancing AMIE towards expert-level audio-visual clinical consultations</title>
 <link>https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/</link>
 <guid isPermaLink="false">https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/</guid>
-<pubDate>Tue, 11 Aug 2026 17:04:46 +0000</pubDate>
+<pubDate>Tue, 11 Aug 2026 17:04:00 +0000</pubDate>
 
 </item>
 <item>
@@ -33,6 +54,13 @@
 <guid isPermaLink="false">https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/</guid>
 <pubDate>Tue, 11 Aug 2026 16:00:00 +0000</pubDate>
 <description>For organizations deploying AI agents at scale, there’s often a critical divide between structured and unstructured data. While large language models (LLMs) excel at parsing text documents, emails, and PDFs, they can struggle when presented with raw enterprise databases. Meanwhile, standard natural-</description>
+</item>
+<item>
+<title>[Gemini] More than 1 billion people are using the Gemini app every month.</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/</guid>
+<pubDate>Tue, 11 Aug 2026 16:00:00 +0000</pubDate>
+<description>The Gemini app has officially surpassed 1 billion monthly users, making it the fastest-growing product in Google’s history. Here’s some data about how people are using G…</description>
 </item>
 <item>
 <title>[Research] Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement</title>
@@ -77,7 +105,7 @@
 
 </item>
 <item>
-<title>[Google News] XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools - Reuters</title>
+<title>[Google News] XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools - reuters.com</title>
 <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPay11LURqNzhrelJLRnd1WWVEZldIR0c5eC11VjBRdmtLS1BILWY4c0xQdlpKR3ZNSzYybmVMWW4wWFA1a3BTZDBSRkRsMm1WaTdzdzFObFJxTHRELWtMZzVuSzFKYUtZaWdCTEFCbHpPTjYyR3lRV2tRRWxCTzNVTk9sT2xBSUtCc1FJSUZDbnRZdUpCekVlTWZveHZSQ0NuVG1FUnpMTjRId0FiSU81T25DSlZiTXJjbE9xZg?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPay11LURqNzhrelJLRnd1WWVEZldIR0c5eC11VjBRdmtLS1BILWY4c0xQdlpKR3ZNSzYybmVMWW4wWFA1a3BTZDBSRkRsMm1WaTdzdzFObFJxTHRELWtMZzVuSzFKYUtZaWdCTEFCbHpPTjYyR3lRV2tRRWxCTzNVTk9sT2xBSUtCc1FJSUZDbnRZdUpCekVlTWZveHZSQ0NuVG1FUnpMTjRId0FiSU81T25DSlZiTXJjbE9xZg?oc=5</guid>
 <pubDate>Tue, 11 Aug 2026 13:19:43 GMT</pubDate>
@@ -126,18 +154,18 @@
 
 </item>
 <item>
-<title>[Google News] Claude will apply invisible watermarks to AI text and images - The Verge</title>
-<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVlXWHJVOVhXbkRUbmdqZzhmY1BvOWNkelROTjhVaWlycnFlQmNqQ1g2UXJzdEM5MmlPd0N6UkZpa2JmVm5veE9uZnlCMWRGY0RMY2hZVFBpc1hFQVJVZVgtNFpvbnJXUGxaWkZwdi16d2g0M3lnc1Q4SzlKb1VGX1VVVkNuZlFpYWdtaHlJRVJZRmxRbVZ1YUNEcWFZUjh6TmdLTzhZU3k0QQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVlXWHJVOVhXbkRUbmdqZzhmY1BvOWNkelROTjhVaWlycnFlQmNqQ1g2UXJzdEM5MmlPd0N6UkZpa2JmVm5veE9uZnlCMWRGY0RMY2hZVFBpc1hFQVJVZVgtNFpvbnJXUGxaWkZwdi16d2g0M3lnc1Q4SzlKb1VGX1VVVkNuZlFpYWdtaHlJRVJZRmxRbVZ1YUNEcWFZUjh6TmdLTzhZU3k0QQ?oc=5</guid>
-<pubDate>Tue, 11 Aug 2026 12:22:20 GMT</pubDate>
-
-</item>
-<item>
 <title>[News] In-region inference, open models, and new European infrastructure for sovereign AI.</title>
 <link>https://mistral.ai/news/regional-inference-open-models-new-compute/</link>
 <guid isPermaLink="false">https://mistral.ai/news/regional-inference-open-models-new-compute/</guid>
 <pubDate>Tue, 11 Aug 2026 12:00:27 GMT</pubDate>
 <description>Mistral is bringing together the inference infrastructure, open models, and long-term commitments Europe needs to control its AI future, and setting a roadmap for the world.</description>
+</item>
+<item>
+<title>[Google News] Artificial Intelligence Boom Expands Global Venture Capital Lead - n24.com.tr</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPQXFnM2J4WkJHbUF0MVZ3QTZHY2FRekRIMnozR2t1emh0VTZRNm1wYllmT2hsUm9PQXJjQmxGWjkwVXF6ODV0d1oyNWNaTVRjVEJxa25VSnlJMndqN3EwVlNLWThGTzIzeGw5elFYY0ZtaG1HWWF0SkFUX0IzVjgtRS1sX2NCVUVqZm56ZTlmemt6RDd0aUprcVg4eEVNMXJt?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxPQXFnM2J4WkJHbUF0MVZ3QTZHY2FRekRIMnozR2t1emh0VTZRNm1wYllmT2hsUm9PQXJjQmxGWjkwVXF6ODV0d1oyNWNaTVRjVEJxa25VSnlJMndqN3EwVlNLWThGTzIzeGw5elFYY0ZtaG1HWWF0SkFUX0IzVjgtRS1sX2NCVUVqZm56ZTlmemt6RDd0aUprcVg4eEVNMXJt?oc=5</guid>
+<pubDate>Tue, 11 Aug 2026 10:30:20 GMT</pubDate>
+
 </item>
 <item>
 <title>[Google News] DeepSeek V4 Flash Runs Test Suites 33X Cheaper Than Kimi K3 - Geeky Gadgets</title>
@@ -231,6 +259,13 @@
 <description>Discover how simulation-first design is radically changing how medical and healthcare robots are prototyped, tested, and built. As global healthcare systems navigate severe supply-and-demand crises, physical AI and robotics stand out as critical solutions to boost efficiency and clinical accuracy. T</description>
 </item>
 <item>
+<title>[Google News] Why SA is holding a royal commission into AI - ABC News &amp; Headlines – Australian Broadcasting Corporation</title>
+<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPcG50UVZ6bXZGOVNjYzdJNDZZdHRyRUpyOElEcEhycW9MLUh6SHp2bXpQc3JYRzhrdTJRREg2NWRrWGtnMlVPZTRUMnBEdXF5b185Y0FoTUF4NUxOd0NMSnZPZjRWdGNEd3ZrUURMTzA3X1ZLLUd6dTJoOG15UkdIaXRJWENzYndacjlTOWZPdEJDUlcwUHNNel9xOHRncWdSRExkdkJwQQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxPcG50UVZ6bXZGOVNjYzdJNDZZdHRyRUpyOElEcEhycW9MLUh6SHp2bXpQc3JYRzhrdTJRREg2NWRrWGtnMlVPZTRUMnBEdXF5b185Y0FoTUF4NUxOd0NMSnZPZjRWdGNEd3ZrUURMTzA3X1ZLLUd6dTJoOG15UkdIaXRJWENzYndacjlTOWZPdEJDUlcwUHNNel9xOHRncWdSRExkdkJwQQ?oc=5</guid>
+<pubDate>Mon, 10 Aug 2026 20:43:44 GMT</pubDate>
+
+</item>
+<item>
 <title>[Newsroom] NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital</title>
 <link>https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital</link>
 <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital</guid>
@@ -245,7 +280,7 @@
 <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising</description>
 </item>
 <item>
-<title>[Google News] Opinion: Artificial intelligence is moving fast while Alaska policy stands still - adn.com</title>
+<title>[Google News] Opinion: Artificial intelligence is moving fast while Alaska policy stands still - Anchorage Daily News</title>
 <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVNiLVVlcUhlSk1LNDVyd2ZPWE1NQnh6NWhiN3JwSWZKRHdhLXRyUE5FTHlwUGNpU0Q4NXZaNEdSS1dvRFZwZ3lWaWt3cFl3Wi10bWRROURnLWEwU3c3bE9KdkdHdE1qZnlrTUNOb1k3NDBZV0kzYWYyb3REWExUQ2s5SEozbVB4a0I0QVVqeE5CaVp1N182SmhtYmIxWGYyZTZnSEpMUGx4el9IR2tNYWdnSVZwQXVObGVqVA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVNiLVVlcUhlSk1LNDVyd2ZPWE1NQnh6NWhiN3JwSWZKRHdhLXRyUE5FTHlwUGNpU0Q4NXZaNEdSS1dvRFZwZ3lWaWt3cFl3Wi10bWRROURnLWEwU3c3bE9KdkdHdE1qZnlrTUNOb1k3NDBZV0kzYWYyb3REWExUQ2s5SEozbVB4a0I0QVVqeE5CaVp1N182SmhtYmIxWGYyZTZnSEpMUGx4el9IR2tNYWdnSVZwQXVObGVqVA?oc=5</guid>
 <pubDate>Mon, 10 Aug 2026 19:08:35 GMT</pubDate>
@@ -266,24 +301,10 @@
 
 </item>
 <item>
-<title>[Google News] BlackRock Taps Unions for AI Infrastructure Build-Out - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1VYekpXMHFrdmVjZHZ3SURRT2l2YzZDZlZyM1R2cGlqa25OZ3RhY2xpMzQ4WEJfVW00Sm9JNXZGaEZKVXhrMTVvNmtvTF9Xak5Yd2k3el9HZG9UdEFjNlY0dmNZU2g1MDJsUGs1RTFlSjRKdHBuYm1WQ05yaDhYTU80akxMRlBBS3R4T3o1UHFIelpUNzc2RVhvSGhvbVVQSHNXTi11U25vaXVvR1lMQnhZNzdIUUE?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1VYekpXMHFrdmVjZHZ3SURRT2l2YzZDZlZyM1R2cGlqa25OZ3RhY2xpMzQ4WEJfVW00Sm9JNXZGaEZKVXhrMTVvNmtvTF9Xak5Yd2k3el9HZG9UdEFjNlY0dmNZU2g1MDJsUGs1RTFlSjRKdHBuYm1WQ05yaDhYTU80akxMRlBBS3R4T3o1UHFIelpUNzc2RVhvSGhvbVVQSHNXTi11U25vaXVvR1lMQnhZNzdIUUE?oc=5</guid>
-<pubDate>Mon, 10 Aug 2026 17:16:37 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek's new coding model costs 99% less than Claude and scores within two points of it - wionews.com</title>
+<title>[Google News] DeepSeek's new coding model costs 99% less than Claude and scores within two points of it - WION</title>
 <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxOS1lUdGs5Vm1hM0IyLWRrWnBZRjVZQ1RhZmdqOHd1MkY2VTdMY0Fsa01BVTdTTHMxRmMwa3dQWjljSFg5eE5zMzFTNXRLQjZudXRMZUFsMjNpS0JrbjJULWw4cEZSN0RJOW85b00xUFRvMks4cUdjdEhEdnVLSzdUXzVRaV9TMTNsWnlybjgxWUN1MzR4cFZQRkh0dGxROUpCSEhWVk9saEJtTk9nZ215VW5mQ1dwSEJMbHVtUXRzZTZTUVBFWHA1ZGJDSW3SAdIBQVVfeXFMUG5rS1ZpdGZJVU4yNDVpSERIejBjQjlxR3lUcEtlSEJySEpfQ3ZUYkdEZkNqUkZ3VzgySGE4OWY4WDEzWi11UTRNV0l2OG9xY2tzZ0lNM3dYXy1mdHJ2QmNES21iLVNRNi11TW5UWVdCVXdjWkpHOU1YbDMxOXlHWjVyRlNDQ0xZN2lFWWJvbEhsNFA4U2ZIaUtDeXZFTHdjVUZKWDBIVkZDaHhEUG82NEZteWVZR3ZzYlJ3Vm1zdWszbW5kYmxMdzdqbUZEQ24xNXVB?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxOS1lUdGs5Vm1hM0IyLWRrWnBZRjVZQ1RhZmdqOHd1MkY2VTdMY0Fsa01BVTdTTHMxRmMwa3dQWjljSFg5eE5zMzFTNXRLQjZudXRMZUFsMjNpS0JrbjJULWw4cEZSN0RJOW85b00xUFRvMks4cUdjdEhEdnVLSzdUXzVRaV9TMTNsWnlybjgxWUN1MzR4cFZQRkh0dGxROUpCSEhWVk9saEJtTk9nZ215VW5mQ1dwSEJMbHVtUXRzZTZTUVBFWHA1ZGJDSW3SAdIBQVVfeXFMUG5rS1ZpdGZJVU4yNDVpSERIejBjQjlxR3lUcEtlSEJySEpfQ3ZUYkdEZkNqUkZ3VzgySGE4OWY4WDEzWi11UTRNV0l2OG9xY2tzZ0lNM3dYXy1mdHJ2QmNES21iLVNRNi11TW5UWVdCVXdjWkpHOU1YbDMxOXlHWjVyRlNDQ0xZN2lFWWJvbEhsNFA4U2ZIaUtDeXZFTHdjVUZKWDBIVkZDaHhEUG82NEZteWVZR3ZzYlJ3Vm1zdWszbW5kYmxMdzdqbUZEQ24xNXVB?oc=5</guid>
 <pubDate>Mon, 10 Aug 2026 17:14:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Kavak's AI Overhaul: An Agent Per Customer - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmkxbDVRczFUTVNHWTZhcV9uckh1TUl0U0JWUVYza3N2SGJvYmZMdWVqc1EwYmdEWE5LVFlta2RqLTNiNnRlRE5Tbnp2cVdPSkczdDlkdFc0RWJGWFFUUENJRUpsLXJ3blppSUVRaEVCWGZCa3BGY3M0YWxibjkxQmRIR25mWEVKSnVNVXQ0T1hRMkF0NWNza1RzdU1ZWEZpMG9yVUwxZw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmkxbDVRczFUTVNHWTZhcV9uckh1TUl0U0JWUVYza3N2SGJvYmZMdWVqc1EwYmdEWE5LVFlta2RqLTNiNnRlRE5Tbnp2cVdPSkczdDlkdFc0RWJGWFFUUENJRUpsLXJ3blppSUVRaEVCWGZCa3BGY3M0YWxibjkxQmRIR25mWEVKSnVNVXQ0T1hRMkF0NWNza1RzdU1ZWEZpMG9yVUwxZw?oc=5</guid>
-<pubDate>Mon, 10 Aug 2026 17:10:09 GMT</pubDate>
 
 </item>
 <item>
@@ -301,13 +322,6 @@
 
 </item>
 <item>
-<title>[Cloud AI] How WPP operationalizes platform and data engineering for AI marketing</title>
-<link>https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/</guid>
-<pubDate>Mon, 10 Aug 2026 16:00:00 +0000</pubDate>
-<description>Between chaotic levels of market fragmentation and economic volatility, marketing and communications agencies can no longer rely on the human intuition they’ve traditionally used to win clients and optimize their ad spend. WPP is replacing that guesswork with an AI-powered view of shifting market dy</description>
-</item>
-<item>
 <title>[Cloud AI] How Malachyte solves retail’s cold-start problem with managed real-time AI</title>
 <link>https://cloud.google.com/blog/products/data-analytics/solving-retails-cold-start-problem-malachytes-recommendation-reinvention/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/solving-retails-cold-start-problem-malachytes-recommendation-reinvention/</guid>
@@ -320,6 +334,13 @@
 <guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-forrester-wave-ai-platforms/</guid>
 <pubDate>Mon, 10 Aug 2026 16:00:00 +0000</pubDate>
 <description>At Google Cloud, we help organizations of all sizes build and operationalize complex agentic workflows with total confidence. By combining world-class AI research with an open, fully integrated AI platform, we give customers the flexibility to innovate and the foundation to deliver measurable busine</description>
+</item>
+<item>
+<title>[Cloud AI] How WPP operationalizes platform and data engineering for AI marketing</title>
+<link>https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/</guid>
+<pubDate>Mon, 10 Aug 2026 16:00:00 +0000</pubDate>
+<description>Between chaotic levels of market fragmentation and economic volatility, marketing and communications agencies can no longer rely on the human intuition they’ve traditionally used to win clients and optimize their ad spend. WPP is replacing that guesswork with an AI-powered view of shifting market dy</description>
 </item>
 <item>
 <title>[Gemini] Have more fun at the state fair with these Google tools</title>
@@ -371,7 +392,7 @@
 <description>Model ML is solving the “last-mile problem” in finance, carrying asks from research to analysis to a finished PowerPoint deck or Excel workbook with traceable sources. When Model ML tested GPT‑5.6 Sol in its Composite, the results “blew every metric out the water,” says Co-founder and CEO Chaz Engla</description>
 </item>
 <item>
-<title>[Google News] Enterprise AI costs hit yearly low driven by price wars, open-source models - scmp.com</title>
+<title>[Google News] Enterprise AI costs hit yearly low driven by price wars, open-source models - South China Morning Post</title>
 <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0RTRUs4VThRSXo0QzI0RVVWZGRIMDh3cFZWX2c1WTgwQVlxbXlRVUpOZVVjdE9OZFVLSjNHU1h0QldITUtqTmw2blU5QkpmV3JmRFBndUxvYmZxemYzajRjM1lVTkRXSDRURl9YN3lmaTNFeWNQc05YZVpvb3lTdlRKZHNLTkVPREhQTVZTS3BfdVB1ZUJvS1hYSjV2X0xqVHM5a25FWDUwVzA5OHdSeWJWdDVpbHdtcE1Qc2tOeEhfa01hTXF5Y3B5cFhKMUdYbjRrUDR1NNIB1wFBVV95cUxOTHJ0ekZtaUlCYXV2NExsVjl2VXJJVGlKSGNyS3pVa2xLUFdDNWM3SkJBWjVDdG5mRUtUZnVBODk5N1VOdDEyVnVfRWxCMnJqQWV1V2IwY2xLSkhIX2VEcDR0SUI3WXhucUt0MmFpLVE5dGpMNlZCUWJjc2JRRk85OWJVNS00LXBJRHpxSjNvQjIyNmgtdXd3Nl9tVlRmUE81dEJLbXA1dE81N0xaQlp2a1RWTnVlYWlVMldZcE1kWjVwd2trdldIZXdCbjlYQlcwVGE2UjhWMA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0RTRUs4VThRSXo0QzI0RVVWZGRIMDh3cFZWX2c1WTgwQVlxbXlRVUpOZVVjdE9OZFVLSjNHU1h0QldITUtqTmw2blU5QkpmV3JmRFBndUxvYmZxemYzajRjM1lVTkRXSDRURl9YN3lmaTNFeWNQc05YZVpvb3lTdlRKZHNLTkVPREhQTVZTS3BfdVB1ZUJvS1hYSjV2X0xqVHM5a25FWDUwVzA5OHdSeWJWdDVpbHdtcE1Qc2tOeEhfa01hTXF5Y3B5cFhKMUdYbjRrUDR1NNIB1wFBVV95cUxOTHJ0ekZtaUlCYXV2NExsVjl2VXJJVGlKSGNyS3pVa2xLUFdDNWM3SkJBWjVDdG5mRUtUZnVBODk5N1VOdDEyVnVfRWxCMnJqQWV1V2IwY2xLSkhIX2VEcDR0SUI3WXhucUt0MmFpLVE5dGpMNlZCUWJjc2JRRk85OWJVNS00LXBJRHpxSjNvQjIyNmgtdXd3Nl9tVlRmUE81dEJLbXA1dE81N0xaQlp2a1RWTnVlYWlVMldZcE1kWjVwd2trdldIZXdCbjlYQlcwVGE2UjhWMA?oc=5</guid>
 <pubDate>Mon, 10 Aug 2026 13:30:06 GMT</pubDate>
@@ -404,27 +425,6 @@
 <guid isPermaLink="false">https://openai.com/index/model-ml</guid>
 <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
 <description>Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.</description>
-</item>
-<item>
-<title>[Blog] Making Knowledge Distillation Cheap Enough to Run at Scale</title>
-<link>https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</link>
-<guid isPermaLink="false">https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</guid>
-<pubDate>Mon, 10 Aug 2026 10:05:36 GMT</pubDate>
-<description>A Blog post by Multiverse Computing on Hugging Face</description>
-</item>
-<item>
-<title>[Newsroom (AI)] The Future is for Everyone</title>
-<link>https://about.fb.com/news/2026/08/the-future-is-for-everyone/</link>
-<guid isPermaLink="false">https://about.fb.com/news/2026/08/the-future-is-for-everyone/</guid>
-<pubDate>Mon, 10 Aug 2026 10:01:23 +0000</pubDate>
-<description>A letter from Mark Zuckerberg on the path to a positive AI future. The post The Future is for Everyone appeared first on Meta Newsroom .</description>
-</item>
-<item>
-<title>[News] Expanding Daybreak as the Cyber Defense Window Narrows</title>
-<link>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</link>
-<guid isPermaLink="false">https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</guid>
-<pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
-<description>Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.</description>
 </item>
 </channel>
 </rss>
