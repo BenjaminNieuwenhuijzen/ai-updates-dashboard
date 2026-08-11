@@ -5,7 +5,28 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 11 Aug 2026 13:44:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 15:17:25 GMT</lastBuildDate>
+<item>
+<title>[Blog] Why Scaling AI Compute Performance Requires a New Power Architecture</title>
+<link>https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/</guid>
+<pubDate>Tue, 11 Aug 2026 15:00:06 +0000</pubDate>
+<description>Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU. In traditional power deli</description>
+</item>
+<item>
+<title>[Google News] Chinese AI models sweep top spots in major rankings as open source, cost advantages drive overseas adoption despite US tech restrictions: expert - Global Times</title>
+<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KQmNHNFJiSXBxY05uZU9QWGFSOG94emFJaDIzSFp3eU0zckV1eHJlYVNpUk95eTM2SEtsQUxKVXZoOFpoTHppN01wSnB2ZDNBTlQ2N1Z1SUFUNDE2aXJRLW53?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KQmNHNFJiSXBxY05uZU9QWGFSOG94emFJaDIzSFp3eU0zckV1eHJlYVNpUk95eTM2SEtsQUxKVXZoOFpoTHppN01wSnB2ZDNBTlQ2N1Z1SUFUNDE2aXJRLW53?oc=5</guid>
+<pubDate>Tue, 11 Aug 2026 14:37:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Harvey Labs: Building AI Research on a Budget - StartupHub.ai</title>
+<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZGFCcWZRX2cyaEhzakE4MWZyVThBR2tRSkdUempYcFBCRTZkZVNYcjhnXzhKUXNzdl8zSHNSN0Z3Vy1ab3RieHZtblozcF9RTTNSVkx0amxKcl9RYTNMWHRObGhjVW1JRms0YXZ0aVdNNmk2SVpzaGFJWGloXzBDOTZaTndjTGNBOEJLNnBYczRnaHkxem9mb2V2RGx4aVNIWUhUV1VRVV9jam8?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZGFCcWZRX2cyaEhzakE4MWZyVThBR2tRSkdUempYcFBCRTZkZVNYcjhnXzhKUXNzdl8zSHNSN0Z3Vy1ab3RieHZtblozcF9RTTNSVkx0amxKcl9RYTNMWHRObGhjVW1JRms0YXZ0aVdNNmk2SVpzaGFJWGloXzBDOTZaTndjTGNBOEJLNnBYczRnaHkxem9mb2V2RGx4aVNIWUhUV1VRVV9jam8?oc=5</guid>
+<pubDate>Tue, 11 Aug 2026 14:06:55 GMT</pubDate>
+
+</item>
 <item>
 <title>[Blog] Thinking of ACE? We Can Do It with Fewer Tokens</title>
 <link>https://huggingface.co/blog/ibm-research/altk-evolve-sldd</link>
@@ -70,7 +91,14 @@
 
 </item>
 <item>
-<title>[Google News] "AI Chatbot Keeps Calling Users by Nicknames"... DeepSeek Explains - 아시아경제</title>
+<title>[Google News] DeepSeek, Unitree Join Forces to Develop Robotics AI Models - thelec.net</title>
+<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QOGF6TkZXTTFpSWNNTGVQR24xTWVUazFqWldLVE5yaFpEZmloRVZ2ZjdqRm03S0ZlOV9aeHBSSXZIQjl3SERDemlOSm9rSjFMYVV5bk9YTmJEeTgwM3RrM1NpRGxhdWs?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QOGF6TkZXTTFpSWNNTGVQR24xTWVUazFqWldLVE5yaFpEZmloRVZ2ZjdqRm03S0ZlOV9aeHBSSXZIQjl3SERDemlOSm9rSjFMYVV5bk9YTmJEeTgwM3RrM1NpRGxhdWs?oc=5</guid>
+<pubDate>Tue, 11 Aug 2026 07:47:43 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] "AI Chatbot Keeps Calling Users by Nicknames"... DeepSeek Explains - asiae.co.kr</title>
 <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0d3hBMHNUbDJQcVBIaXB4VW5zTlRCZGFqRlVDdkVNOXhjTWtrMVdrb0g0b1JGQnR1bXpkcjV6Mkxpa3Y4SEQxbi15VU50d0U2R1hEMDRMek5GbE5LNi1QUmUtSFA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0d3hBMHNUbDJQcVBIaXB4VW5zTlRCZGFqRlVDdkVNOXhjTWtrMVdrb0g0b1JGQnR1bXpkcjV6Mkxpa3Y4SEQxbi15VU50d0U2R1hEMDRMek5GbE5LNi1QUmUtSFA?oc=5</guid>
 <pubDate>Tue, 11 Aug 2026 07:29:54 GMT</pubDate>
@@ -102,6 +130,13 @@
 <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOci14T09IYlo5QWtqcGZYcW5veGxGVTVBaGVVSF9SRFFUZ0JjbW5BMGRGRHBsNGtsRGZsSG9idEgwZ2E4eHJvWXk5LVZLdnl3TEtsSkk3QUoxNzI3ZXRSc0RXZTVkTjRUUmpjT19sY1MwLTJXMkE0YmNUa0lfR2p0WUlqQ2ZMV2hUM0N2OTREa1dnRU5YS1lNLW0zZEZPMkdsVm1IMEFEMA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxOci14T09IYlo5QWtqcGZYcW5veGxGVTVBaGVVSF9SRFFUZ0JjbW5BMGRGRHBsNGtsRGZsSG9idEgwZ2E4eHJvWXk5LVZLdnl3TEtsSkk3QUoxNzI3ZXRSc0RXZTVkTjRUUmpjT19sY1MwLTJXMkE0YmNUa0lfR2p0WUlqQ2ZMV2hUM0N2OTREa1dnRU5YS1lNLW0zZEZPMkdsVm1IMEFEMA?oc=5</guid>
 <pubDate>Tue, 11 Aug 2026 03:24:27 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] US, Chinese AI Giants Kick Off IPO Rivalry - 조선일보</title>
+<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPSnRDQ0JBMTI0dzNSM2hwUUloT2liOXFqSF9hTmNoWkVwVnBUN3pXNk9fSm5JSGRuN0pvNHlJVXprSV9FTno1Q3ZHQVMxZnpuakJod01ia1ZnbEc5WHhHODhJUHFDTVRxQXZESXI1bzRVR0JnaUEwUHdVMWp4NFJYcFZoODlXZnZFY3k2a0Rn?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxPSnRDQ0JBMTI0dzNSM2hwUUloT2liOXFqSF9hTmNoWkVwVnBUN3pXNk9fSm5JSGRuN0pvNHlJVXprSV9FTno1Q3ZHQVMxZnpuakJod01ia1ZnbEc5WHhHODhJUHFDTVRxQXZESXI1bzRVR0JnaUEwUHdVMWp4NFJYcFZoODlXZnZFY3k2a0Rn?oc=5</guid>
+<pubDate>Tue, 11 Aug 2026 02:52:21 GMT</pubDate>
 
 </item>
 <item>
@@ -189,13 +224,6 @@
 <description>OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.</description>
 </item>
 <item>
-<title>[Google News] Investors Bet $118B on Unitree as Its Own Filing Admits Robots Cannot Do Real Work - Tech Times</title>
-<link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQcE9VZk5PeHpvOVQ2NTFfZ2pNN2Fabi1DS0xrZ2p3X0xHT2FoVXc2NmdDTVZlZm1pTFpIX1FsaVUwaWdmbDdGWksyLWRkTHZ0Q1NzTHNEQl9EVmRrSHJSNHlnaGp6QkNNU19DVHQzRmpudXR2NkNQcnRTTUFpdk9rV3BHRExuTERwN1duS3ZEd09YUVZ5R1ZfR1BIeDRfVDBYeGE1VlgxeHZnQnVGdGtwM2V6bkp3Y1d4VmlhdVEtZUxYWnFaaG1uSGZn?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxQcE9VZk5PeHpvOVQ2NTFfZ2pNN2Fabi1DS0xrZ2p3X0xHT2FoVXc2NmdDTVZlZm1pTFpIX1FsaVUwaWdmbDdGWksyLWRkTHZ0Q1NzTHNEQl9EVmRrSHJSNHlnaGp6QkNNU19DVHQzRmpudXR2NkNQcnRTTUFpdk9rV3BHRExuTERwN1duS3ZEd09YUVZ5R1ZfR1BIeDRfVDBYeGE1VlgxeHZnQnVGdGtwM2V6bkp3Y1d4VmlhdVEtZUxYWnFaaG1uSGZn?oc=5</guid>
-<pubDate>Mon, 10 Aug 2026 16:53:32 GMT</pubDate>
-
-</item>
-<item>
 <title>[Blog] Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS</title>
 <link>https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents</link>
 <guid isPermaLink="false">https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents</guid>
@@ -229,6 +257,13 @@
 <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/state-fair-tips/</guid>
 <pubDate>Mon, 10 Aug 2026 16:00:00 +0000</pubDate>
 <description>Here are five easy ways Google tools can help you make plans, explore, and create memories at the state fair.</description>
+</item>
+<item>
+<title>[Google News] DeepSeek to get a 'significant' price hike soon - Mashable</title>
+<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1TYnlmRGFncUZmMnl4UTNuNVp2ZzdUS0I1U215ZXBRVmE5Z1UzZVVTMzBZQWZRZm5uS0I2dlpRREhqWXR6dDczYUlOclJncmJMWVc4bzA5QVdpWFYwMXBTQTJYS2V1VDZsWWc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiakFVX3lxTE1TYnlmRGFncUZmMnl4UTNuNVp2ZzdUS0I1U215ZXBRVmE5Z1UzZVVTMzBZQWZRZm5uS0I2dlpRREhqWXR6dDczYUlOclJncmJMWVc4bzA5QVdpWFYwMXBTQTJYS2V1VDZsWWc?oc=5</guid>
+<pubDate>Mon, 10 Aug 2026 15:50:32 GMT</pubDate>
+
 </item>
 <item>
 <title>[Source] How to build an AI agent: A simple guide for anyone</title>
@@ -357,7 +392,7 @@
 
 </item>
 <item>
-<title>[Google News] Royal commission announced in race to stop AI going rogue - afr.com</title>
+<title>[Google News] Royal commission announced in race to stop AI going rogue - AFR</title>
 <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPY280aUNUMUVaOGFHaTFBZUF0cTBqWEZSeHp5ZFdLNUxPekhobDdxTzVkMXNMWDZMYUdvRFBYRUNaekNOcWl5c2tQUnhCNDlwX1lpWXM4RjJlcWZfWVpzV0FqMXJVWWRnZ1FMYldSQ18wcmVpTVcwUTVtdnBKWktVdVdwN1NwTHlqb09MOGhTZ0FQbjVEbEk0WEwwSFhPNXNVS2lVaTJMSQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxPY280aUNUMUVaOGFHaTFBZUF0cTBqWEZSeHp5ZFdLNUxPekhobDdxTzVkMXNMWDZMYUdvRFBYRUNaekNOcWl5c2tQUnhCNDlwX1lpWXM4RjJlcWZfWVpzV0FqMXJVWWRnZ1FMYldSQ18wcmVpTVcwUTVtdnBKWktVdVdwN1NwTHlqb09MOGhTZ0FQbjVEbEk0WEwwSFhPNXNVS2lVaTJMSQ?oc=5</guid>
 <pubDate>Mon, 10 Aug 2026 07:27:00 GMT</pubDate>
@@ -378,13 +413,6 @@
 
 </item>
 <item>
-<title>[Google News] Good Husband: How one relationship joke became Dubai’s latest AI startup idea - Gulf Business</title>
-<link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPSzNQY0FOWlhmazBPcldMTkpiSVd0ZlBDdUFmbEFXSDMxcS1HWmlvbGFrZ0xwT2hiaWtXV0FpWEt4a1BfY0pRZndraEEwSjdyVWRnYlZvRlgwOE1qeHpGb2FGT1FLbFdoZkk5QnJqd2tDMHFBa0pqWG5vaW8yUzE0aDJEeHJjVVYxU0pyQlF0MU1WVnhDbHlSQzVCS1o0MGVpSE90alB5YTRBUlN3dk9JQWt2MWgxZjJsUWFnTXM4R0lNWnltQ1dGOFVYa2VRUQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxPSzNQY0FOWlhmazBPcldMTkpiSVd0ZlBDdUFmbEFXSDMxcS1HWmlvbGFrZ0xwT2hiaWtXV0FpWEt4a1BfY0pRZndraEEwSjdyVWRnYlZvRlgwOE1qeHpGb2FGT1FLbFdoZkk5QnJqd2tDMHFBa0pqWG5vaW8yUzE0aDJEeHJjVVYxU0pyQlF0MU1WVnhDbHlSQzVCS1o0MGVpSE90alB5YTRBUlN3dk9JQWt2MWgxZjJsUWFnTXM4R0lNWnltQ1dGOFVYa2VRUQ?oc=5</guid>
-<pubDate>Mon, 10 Aug 2026 05:15:06 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] OpenAI Acquires Software Startup Statsig For $1.1B Artificial Intelligence (AWMti5sHv0) - Mshale</title>
 <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXNGZqVWdwU2N0MFhVaWREUFJnb3R1RzBWajJMeFZNR19FVVpRNGF0TzFYcmF3bDdsODhERWw1QWh0M1RRM0JRalI1LUowY3ZFSVotY19NQmxZNGc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXNGZqVWdwU2N0MFhVaWREUFJnb3R1RzBWajJMeFZNR19FVVpRNGF0TzFYcmF3bDdsODhERWw1QWh0M1RRM0JRalI1LUowY3ZFSVotY19NQmxZNGc?oc=5</guid>
@@ -396,34 +424,6 @@
 <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9vYlN0Vl9XdnRlLVpzT0ZoeEtldG00TnoxemdPWi1NcV9pdXMwNTA5bGhiNkRpVVRYcWF4N2xXMGFCNWxUZmFtajRBbzVCQTBrUEVfcW9EMlBiMGdhaE9NdVlYQmdUTEUyRUhTYnlZOTNKMFVDMDJB?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9vYlN0Vl9XdnRlLVpzT0ZoeEtldG00TnoxemdPWi1NcV9pdXMwNTA5bGhiNkRpVVRYcWF4N2xXMGFCNWxUZmFtajRBbzVCQTBrUEVfcW9EMlBiMGdhaE9NdVlYQmdUTEUyRUhTYnlZOTNKMFVDMDJB?oc=5</guid>
 <pubDate>Mon, 10 Aug 2026 03:45:27 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek Warns Its Ultra-Cheap V4-Flash Pricing Won't Last - Startup Fortune</title>
-<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNVWM5ZVlDNnE4VWNFd2VRa1ctV0d3VkhyNUxCcF9NdXhMTjRlWE9PMTF6cTh3OFd3N0xOVFlFbnpvZm1aemZlNXBVS09MVUptWU1FOU8tT2xQY3hFX0lwZUluOVNpZUpOSW9HdFVNb0lVNmxOYmQ1a0NzWXlFWUNYRXJsNUpVZjVFUUZRcXh3?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxNVWM5ZVlDNnE4VWNFd2VRa1ctV0d3VkhyNUxCcF9NdXhMTjRlWE9PMTF6cTh3OFd3N0xOVFlFbnpvZm1aemZlNXBVS09MVUptWU1FOU8tT2xQY3hFX0lwZUluOVNpZUpOSW9HdFVNb0lVNmxOYmQ1a0NzWXlFWUNYRXJsNUpVZjVFUUZRcXh3?oc=5</guid>
-<pubDate>Mon, 10 Aug 2026 03:23:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] Prompt Caching Explained: Stop Overpaying for AI Agents</title>
-<link>https://www.youtube.com/watch?v=SkM4k4SKvCM</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=SkM4k4SKvCM</guid>
-<pubDate>Mon, 10 Aug 2026 03:15:10 GMT</pubDate>
-<description>Prompt caching can cut the input cost of long AI agent sessions dramatically—but only when your harness preserves reusable prompt prefixes. This video explains what prompt caching actually stores, why agent costs compound across turns, how provider behavior differs, and the implementation mistakes t</description>
-</item>
-<item>
-<title>[Google News] DeepSeek Price Hike &amp; Alibaba Commission Cut: Will Enterprise Clients Stay or Leave? - 36Kr</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsY1pxVHVQNkNzbGtDQXFvdVlLQ3VVOTNUMUlLSHFWTTJSaE5FZ3FCYXBJbHZ6YkpZZDZiUTZXc3h4M1lWNE40UFZtT0FUdk1RRjRJ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsY1pxVHVQNkNzbGtDQXFvdVlLQ3VVOTNUMUlLSHFWTTJSaE5FZ3FCYXBJbHZ6YkpZZDZiUTZXc3h4M1lWNE40UFZtT0FUdk1RRjRJ?oc=5</guid>
-<pubDate>Mon, 10 Aug 2026 03:04:14 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Why DeepSeek Could Charge 30x More and Still Be the Cheapest Model Around - Pandaily</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHhDMTlZOF9lVWZRbEdFdFV2SzV2QWRIbGhSREVQbl9WRF9aRm9GTElvSVJOb2tUZTgwcFdscmNLdDJZTmVjV0w1di1kSzIyM0VXcW5oS3hHTFJmOERWUzM4RGdOZk5vcTdFWV9HdkhzU3E5LTRyWl9Ea1REQm80VUFOWG9wYm5kTTFB?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHhDMTlZOF9lVWZRbEdFdFV2SzV2QWRIbGhSREVQbl9WRF9aRm9GTElvSVJOb2tUZTgwcFdscmNLdDJZTmVjV0w1di1kSzIyM0VXcW5oS3hHTFJmOERWUzM4RGdOZk5vcTdFWV9HdkhzU3E5LTRyWl9Ea1REQm80VUFOWG9wYm5kTTFB?oc=5</guid>
-<pubDate>Mon, 10 Aug 2026 02:11:57 GMT</pubDate>
 
 </item>
 </channel>
