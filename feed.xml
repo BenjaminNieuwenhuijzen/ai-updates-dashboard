@@ -5,12 +5,68 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 13 Aug 2026 15:16:02 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 17:14:01 GMT</lastBuildDate>
+<item>
+<title>[DeepMind] Introducing Gemini 3.7 Flash</title>
+<link>https://deepmind.google/blog/introducing-gemini-3-7-flash/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-gemini-3-7-flash/</guid>
+<pubDate>Thu, 13 Aug 2026 17:04:18 +0000</pubDate>
+
+</item>
+<item>
+<title>[Gemini] Introducing Gemini 3.7 Flash</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/</guid>
+<pubDate>Thu, 13 Aug 2026 17:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices - Venturebeat</title>
+<link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeVA0OGxrdGxzcGV1VUtwei1fLVFhNUE4M3BNd0lLb1hpS2xoNXlWUzJzWU1YUDM4dElQVjIwcm1qQWsxeUdoOEF6ZGEta1lEaEJLd3g4bE5ITUtqLVpZSlp3X21LZDd5T3lPelI0cHhBaEdiOTBrYkdRbV9td1c4bWVCdUlUNGNjTmx1RTI2T19QMEtyTGZPWW42Z1BQVzRPdjZ6UkNyd3hfWFdQWVU1LTMtdEtpeE84S1FzbmdOLVZmWFRrVk5aLVJsbW5nSzdrU0RIRUNR?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeVA0OGxrdGxzcGV1VUtwei1fLVFhNUE4M3BNd0lLb1hpS2xoNXlWUzJzWU1YUDM4dElQVjIwcm1qQWsxeUdoOEF6ZGEta1lEaEJLd3g4bE5ITUtqLVpZSlp3X21LZDd5T3lPelI0cHhBaEdiOTBrYkdRbV9td1c4bWVCdUlUNGNjTmx1RTI2T19QMEtyTGZPWW42Z1BQVzRPdjZ6UkNyd3hfWFdQWVU1LTMtdEtpeE84S1FzbmdOLVZmWFRrVk5aLVJsbW5nSzdrU0RIRUNR?oc=5</guid>
+<pubDate>Thu, 13 Aug 2026 16:47:55 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] China's Fierce AI Race: DeepSeek Debuts V4 Pro Model With Eye On $74 Billion Valuation - NDTV Profit</title>
+<link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNWGR6OEIyTU5tVWMwSGtETHB2WFNPbzk5WC02WmV3MHNTRXl4TUtQQk44SllKSnRoM0IyR3VZbi1NQ0tqZ2NVUGNSajQwTFd4U1pLVjV6MURjQjJVek82TEU1UElJeng4akVzX2dLVkF6MG9WV3NSZy1XcXJxY0pRRWRqbWd3NXFrejh5MEk3MWo4SXFfWmw2Q0R1S3pGZ0g0OGwzdzAtbWZweVl0cU5BUGR5RHdJLU9ER0lUZmcxX2lFcWxDdjlrS3B30gHSAUFVX3lxTE1EWlU1YlhaUlRKenZBak04WTdXNXlNWFhTRHU4bGxYekl1MEJFcUxhVzJuQS05X0thNVNuZ0gwX2VTa2F0d0hKNlg5LXBqUEFXRGhFWDIzdDhMRXBGeHZaV3BzNEFnMG54cGhWS2xmTnZIanlDY242a1ZoMnkxQTNWU0ZEamR2STUzWXZPdkppZ3JCdDN4YjEwS1AtZk5XNmowSWZiWk90UFNMeVRaa3o4TDJZY2U0LThreUNENEJlWWc4cjdPaWVnM21oZEdJX1M1UQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxNWGR6OEIyTU5tVWMwSGtETHB2WFNPbzk5WC02WmV3MHNTRXl4TUtQQk44SllKSnRoM0IyR3VZbi1NQ0tqZ2NVUGNSajQwTFd4U1pLVjV6MURjQjJVek82TEU1UElJeng4akVzX2dLVkF6MG9WV3NSZy1XcXJxY0pRRWRqbWd3NXFrejh5MEk3MWo4SXFfWmw2Q0R1S3pGZ0g0OGwzdzAtbWZweVl0cU5BUGR5RHdJLU9ER0lUZmcxX2lFcWxDdjlrS3B30gHSAUFVX3lxTE1EWlU1YlhaUlRKenZBak04WTdXNXlNWFhTRHU4bGxYekl1MEJFcUxhVzJuQS05X0thNVNuZ0gwX2VTa2F0d0hKNlg5LXBqUEFXRGhFWDIzdDhMRXBGeHZaV3BzNEFnMG54cGhWS2xmTnZIanlDY242a1ZoMnkxQTNWU0ZEamR2STUzWXZPdkppZ3JCdDN4YjEwS1AtZk5XNmowSWZiWk90UFNMeVRaa3o4TDJZY2U0LThreUNENEJlWWc4cjdPaWVnM21oZEdJX1M1UQ?oc=5</guid>
+<pubDate>Thu, 13 Aug 2026 16:38:18 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Anthropic in talks to buy AI startup Decart for $6 billion - Moneycontrol.com</title>
+<link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPeElUOER3bDlxUlotdndTV2NGV211OHptQVM2eWNXeXpaYmo1VjZXWVNwaWZmOGV1WVV4UGhia3NPNnA5aGZYWGtCZk5UaVVsSWpvT3V4UkNud2ozUjNVMkc0MDlFbVJ6bzZKOFNvejhkSHZnajBudk1lUlFNZndiQ19yMi05TmJzS2xNVzBlOUVtUTJ4N1ZsUU9uY2FIeTRITEZVU0wwcGVmMDJLVFFRYWJ0VUIwTlp3dDEwbHl5S1VmVG5IYVpTSWFMUi3SAdIBQVVfeXFMUHZIVFlWaFltOXA1d2RwRUtqZXFKV1pVV2ItU3NKQ2drMVFGWmpfRXMzaEJUWVVMMnFSeGlQU0FXREFIRURwYTNIQ3lCVi1QcFlLVDRxbDh5MmFTWUJvQzVWYnFWcXZoX0doOG82WkJ5ZWsyczVjM1FxMm9JX012NE5PQ0dBNHZfamVELTJZMVN4N0RXQzZINnNacFBUWDgxZGN3VWtKWGhxT080ZFZSMmVVOTdMVlpGVnFOZ0lObHU1dnAzZlFFM0YwSkVZQTdmb3h3?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxPeElUOER3bDlxUlotdndTV2NGV211OHptQVM2eWNXeXpaYmo1VjZXWVNwaWZmOGV1WVV4UGhia3NPNnA5aGZYWGtCZk5UaVVsSWpvT3V4UkNud2ozUjNVMkc0MDlFbVJ6bzZKOFNvejhkSHZnajBudk1lUlFNZndiQ19yMi05TmJzS2xNVzBlOUVtUTJ4N1ZsUU9uY2FIeTRITEZVU0wwcGVmMDJLVFFRYWJ0VUIwTlp3dDEwbHl5S1VmVG5IYVpTSWFMUi3SAdIBQVVfeXFMUHZIVFlWaFltOXA1d2RwRUtqZXFKV1pVV2ItU3NKQ2drMVFGWmpfRXMzaEJUWVVMMnFSeGlQU0FXREFIRURwYTNIQ3lCVi1QcFlLVDRxbDh5MmFTWUJvQzVWYnFWcXZoX0doOG82WkJ5ZWsyczVjM1FxMm9JX012NE5PQ0dBNHZfamVELTJZMVN4N0RXQzZINnNacFBUWDgxZGN3VWtKWGhxT080ZFZSMmVVOTdMVlpGVnFOZ0lObHU1dnAzZlFFM0YwSkVZQTdmb3h3?oc=5</guid>
+<pubDate>Thu, 13 Aug 2026 16:35:17 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices - the-decoder.com</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQcXFPTlh3R2RHbkdwSlR4aWtpdUxSbWl0WC1ibkJzZWhFY1Y1dzlkTkEyOWx1WVZmd3RINDRxMUtyYUhfR3VJRWgwU24ycmRHb0lvV1I2VG8ybjRwRGctcVA2MkpiRFlWUjc2bDJYWTVVcExweG54S1gtSFp5TWNZTElwa1NYbU5HVldveURNR0NBekNpRUV5RmFyb0JySkhlMXgyUWlDc3dBWEY0d0pmR2NwZUtPUU1VNFhiZzJlR0VZRFZs?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxQcXFPTlh3R2RHbkdwSlR4aWtpdUxSbWl0WC1ibkJzZWhFY1Y1dzlkTkEyOWx1WVZmd3RINDRxMUtyYUhfR3VJRWgwU24ycmRHb0lvV1I2VG8ybjRwRGctcVA2MkpiRFlWUjc2bDJYWTVVcExweG54S1gtSFp5TWNZTElwa1NYbU5HVldveURNR0NBekNpRUV5RmFyb0JySkhlMXgyUWlDc3dBWEY0d0pmR2NwZUtPUU1VNFhiZzJlR0VZRFZs?oc=5</guid>
+<pubDate>Thu, 13 Aug 2026 16:30:55 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek ships V4 Pro at $0.87 per million, one-seventh of Grok 4.6’s price - CryptoRank</title>
+<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQVzJEVlVYM3hKTlJDZmh5ZDl3NGctN3R5dndHcW1OVGhlZGxBNWZXVURHeVBGUFg2NzdlNTBHY2liVDIwU0xBQnJOTXgtMlRfbUZPMEhibkpLcWVoX2pqcFZMd0h0UW5zclNBbTVJdE11SGFNRUNobEwzWW1jdVhfdVlXT0Y?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxQVzJEVlVYM3hKTlJDZmh5ZDl3NGctN3R5dndHcW1OVGhlZGxBNWZXVURHeVBGUFg2NzdlNTBHY2liVDIwU0xBQnJOTXgtMlRfbUZPMEhibkpLcWVoX2pqcFZMd0h0UW5zclNBbTVJdE11SGFNRUNobEwzWW1jdVhfdVlXT0Y?oc=5</guid>
+<pubDate>Thu, 13 Aug 2026 16:19:18 GMT</pubDate>
+
+</item>
 <item>
 <title>[Google News] DeepSeek Officially Launches V4 Pro Model As AI Competition Intensifies - Arise News</title>
 <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWhiMVloUmEzRW1iaWNscXZ6REtWYXRQWEU3WDNiN3ZCZlVWOWpPTWFyMF9NWFBGaXM4aVlFRkZ6REhDd3JoLTgyaWRMQkItS2gyNGNWcXpxb0xHc0drNktjMzhPRG52dmF1bmRUTkhjRlMtU3lLLTN0c3J4Q2l5c3NZc3dtY28wV1NHZnRfRFRGZDM0ZUxHQQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWhiMVloUmEzRW1iaWNscXZ6REtWYXRQWEU3WDNiN3ZCZlVWOWpPTWFyMF9NWFBGaXM4aVlFRkZ6REhDd3JoLTgyaWRMQkItS2gyNGNWcXpxb0xHc0drNktjMzhPRG52dmF1bmRUTkhjRlMtU3lLLTN0c3J4Q2l5c3NZc3dtY28wV1NHZnRfRFRGZDM0ZUxHQQ?oc=5</guid>
 <pubDate>Thu, 13 Aug 2026 15:06:53 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek releases official V4 Pro model with sharply higher user prices - Nikkei Asia</title>
+<link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVnNWV1J2dkJoaGViYk84TWhrd19Hc0pEMlBodmdsMjVfZGRmMUpGdUIwMzdURXJiZmdEVy1UTzRPa2dUX0pjMWZud1pfWlp0V0gxVW1qLXpSUER5S1puR1UxWDZPWldMaGpjYm40RmNaVHA0MV9TRFNoS3VOTEMydWVZVTJ5MFg5Q2JTM3h4dTdqSWp4MEVvTnJYTUZVU3Y0WmJBTk9QNjYxLVJtX1Bud25MZV9pU0xCWUNSbzJmTTFHdnJtWllKSDN6aHF5RTJFTXVyOTln?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVnNWV1J2dkJoaGViYk84TWhrd19Hc0pEMlBodmdsMjVfZGRmMUpGdUIwMzdURXJiZmdEVy1UTzRPa2dUX0pjMWZud1pfWlp0V0gxVW1qLXpSUER5S1puR1UxWDZPWldMaGpjYm40RmNaVHA0MV9TRFNoS3VOTEMydWVZVTJ5MFg5Q2JTM3h4dTdqSWp4MEVvTnJYTUZVU3Y0WmJBTk9QNjYxLVJtX1Bud25MZV9pU0xCWUNSbzJmTTFHdnJtWllKSDN6aHF5RTJFTXVyOTln?oc=5</guid>
+<pubDate>Thu, 13 Aug 2026 15:06:00 GMT</pubDate>
 
 </item>
 <item>
@@ -91,6 +147,13 @@
 <description>Prepare for quarter-end close with a clear view of what changed and why. ChatGPT Work connects board materials in Google Drive with posted financial data in NetSuite. It flags variances, traces discrepancies to their source, shows the impact on the forecast, and prepares a close recommendation for F</description>
 </item>
 <item>
+<title>[Google News] LangChain CEO on Building Better AI Agents - StartupHub.ai</title>
+<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSldvRFpfbmxaSTU4T2N5MUNDX1BHRGhUc0M5TzVUdHB6dXFqTzVJWlhuVERUMGFzNGx0Zkd1SkpNdV81Z1BxRUhma0lWQXhSTUZnQTAwOXZiWl9EOHkxQzVMbkRQb3RBWjhJV2JndnhwVXU1OEs3eEJ1QjFPeGVYMVliRzkyN3FUWXNrRnRZZmxPY1hMczM0MDRMUU5wVnMyVW5hUndnYlA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSldvRFpfbmxaSTU4T2N5MUNDX1BHRGhUc0M5TzVUdHB6dXFqTzVJWlhuVERUMGFzNGx0Zkd1SkpNdV81Z1BxRUhma0lWQXhSTUZnQTAwOXZiWl9EOHkxQzVMbkRQb3RBWjhJV2JndnhwVXU1OEs3eEJ1QjFPeGVYMVliRzkyN3FUWXNrRnRZZmxPY1hMczM0MDRMUU5wVnMyVW5hUndnYlA?oc=5</guid>
+<pubDate>Thu, 13 Aug 2026 13:04:29 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] Call for Applications: Artificial Intelligence for American Indians (US) - fundsforNGOs</title>
 <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNUUZIWWZuWmdlMXpCN0FFNGppQzd0RDBlV05sVFNtdGwtRDk2eEI5VnNmTl9OcE53ZnRVdVhPNHNRck5qVXdYdU1aejBXX1BQcWxIQXdPbFhvbDR0Wlc3U0JZeW54cUFXYW9HX1pqSGlWWXR3QkFvTjlJakptb0dJRl83OTBadE5pY0hQT3llc1RQYUhhSEdjd29CUEw0cEZ1a1U0cjFVN256Nkk4LW1aZ1NB0gG3AUFVX3lxTE1mZEQxSUFkdk1WMFljdk9BMm5RdnRXRjFFZXVUaUFsOTRVZHZvRDdteDdjZGR4bUJFb1k2TDM2SHZKa1NVZTV1ZTVYUTgwaWNrZDJwc1ZKUW1pSy1ocUhtaGR6Yld6S2xQWXdJUVhtZ2N0UEM2Wm50TUUtQVc2SDI0NlJYOWpNQkRzM0lJbmNxWGVUcERUTFZOcUhPYXU5cG1xSmlfQ2FsT1QyWFdsZnFVVWVPaGVwdw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxNUUZIWWZuWmdlMXpCN0FFNGppQzd0RDBlV05sVFNtdGwtRDk2eEI5VnNmTl9OcE53ZnRVdVhPNHNRck5qVXdYdU1aejBXX1BQcWxIQXdPbFhvbDR0Wlc3U0JZeW54cUFXYW9HX1pqSGlWWXR3QkFvTjlJakptb0dJRl83OTBadE5pY0hQT3llc1RQYUhhSEdjd29CUEw0cEZ1a1U0cjFVN256Nkk4LW1aZ1NB0gG3AUFVX3lxTE1mZEQxSUFkdk1WMFljdk9BMm5RdnRXRjFFZXVUaUFsOTRVZHZvRDdteDdjZGR4bUJFb1k2TDM2SHZKa1NVZTV1ZTVYUTgwaWNrZDJwc1ZKUW1pSy1ocUhtaGR6Yld6S2xQWXdJUVhtZ2N0UEM2Wm50TUUtQVc2SDI0NlJYOWpNQkRzM0lJbmNxWGVUcERUTFZOcUhPYXU5cG1xSmlfQ2FsT1QyWFdsZnFVVWVPaGVwdw?oc=5</guid>
@@ -112,13 +175,6 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek releases official V4 Pro model as it steps up expansion - The Lufkin Daily News</title>
-<link>https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTFF2UVU4OTFKMXdtR3hGLUxDNkMzVmZFb2NXaHhodGw0R1pzM0hCZGhWeEVoMkstOWp4bUhndUg2NWZrR3VHTGF0aVZFSDBUSUoxV0NTZ0dIa3NNRWdrY2hVZ1Jqc0JhX1NOU0VYS1BXc3FyQi1hSFA4S3FrNExHSldrSHJyaXU4SG9BektxRE10U0hZMFQ1ZGxQN1lPa3BSM29lZWl1ZXV4RDdPNlZEMGNFZGJZNTVHUmJhSkxoalIyQlh4TFk3bGpHNE9mdHBMbmJyODhqZGtSaS1Oc3FKdTJ3dFpNR0xvS3hjdXBJMFE2OEFCcGE4?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTFF2UVU4OTFKMXdtR3hGLUxDNkMzVmZFb2NXaHhodGw0R1pzM0hCZGhWeEVoMkstOWp4bUhndUg2NWZrR3VHTGF0aVZFSDBUSUoxV0NTZ0dIa3NNRWdrY2hVZ1Jqc0JhX1NOU0VYS1BXc3FyQi1hSFA4S3FrNExHSldrSHJyaXU4SG9BektxRE10U0hZMFQ1ZGxQN1lPa3BSM29lZWl1ZXV4RDdPNlZEMGNFZGJZNTVHUmJhSkxoalIyQlh4TFk3bGpHNE9mdHBMbmJyODhqZGtSaS1Oc3FKdTJ3dFpNR0xvS3hjdXBJMFE2OEFCcGE4?oc=5</guid>
-<pubDate>Thu, 13 Aug 2026 12:56:08 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] DeepSeek Launches V4 Pro Model, Ramping Up AI Battle - Devdiscourse</title>
 <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNW5JdG1uTWdTSHVUMHpJWkgwcnBoNWNfdWVPWndVRkxmWG53ZXdWanRjMDZxeUROLXItbk5ZSXEzS3VoV1JwZkRiMHhBS1JrODIyWDN0UHRudmx5bUJHYWJZSHI2TjdTbXZ0dERsYzBFei0wRVc1aV90b0RxTkNJeDNpUnptYXNxSTdFaFlkWk9QTkNaay00TkVaem1rcmN1SmZXbHc5R21tQ2vSAbABQVVfeXFMT3Q5ay0tRWRZbDdwZDZYc2Z4TVpwVGIwcFdmcEc0bldWWW9yUFM2MkVFaUh5cmhhbXlaeVhQbTBOUjVka3k2NU9WT2FPN2VCbFpLWmVNd1ZFM3hiUmRkeVA5LTY5Zk5iU2psd281RDRxeWs1N2RDYXJQTDJoUnlXYUhMMTVKT09xdXNVUENHVmpMVThjVnBNbUhEYkI1ZTVaUUxYUDBOQ2U2WWUxbEItUmM?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNW5JdG1uTWdTSHVUMHpJWkgwcnBoNWNfdWVPWndVRkxmWG53ZXdWanRjMDZxeUROLXItbk5ZSXEzS3VoV1JwZkRiMHhBS1JrODIyWDN0UHRudmx5bUJHYWJZSHI2TjdTbXZ0dERsYzBFei0wRVc1aV90b0RxTkNJeDNpUnptYXNxSTdFaFlkWk9QTkNaay00TkVaem1rcmN1SmZXbHc5R21tQ2vSAbABQVVfeXFMT3Q5ay0tRWRZbDdwZDZYc2Z4TVpwVGIwcFdmcEc0bldWWW9yUFM2MkVFaUh5cmhhbXlaeVhQbTBOUjVka3k2NU9WT2FPN2VCbFpLWmVNd1ZFM3hiUmRkeVA5LTY5Zk5iU2psd281RDRxeWs1N2RDYXJQTDJoUnlXYUhMMTVKT09xdXNVUENHVmpMVThjVnBNbUhEYkI1ZTVaUUxYUDBOQ2U2WWUxbEItUmM?oc=5</guid>
@@ -133,13 +189,6 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek raises API pricing for its V4 models - SRN News</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE95LXV5Q09mdVVzdE1hRUZtSFNjYUViYXMxNERxUmYzbC1Bd3BlQUxyZ1FOUHJrYnhtdmVBWEJoN0RDeFVLdnJhQ3UtWXhCekZORkdBaWdFSjdsMFRkLUJOWHFjc0t4TmdaT1ktcWwwcDZDd1po?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidEFVX3lxTE95LXV5Q09mdVVzdE1hRUZtSFNjYUViYXMxNERxUmYzbC1Bd3BlQUxyZ1FOUHJrYnhtdmVBWEJoN0RDeFVLdnJhQ3UtWXhCekZORkdBaWdFSjdsMFRkLUJOWHFjc0t4TmdaT1ktcWwwcDZDd1po?oc=5</guid>
-<pubDate>Thu, 13 Aug 2026 12:34:30 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] DeepSeek to raise API prices up to 1,100% starting Monday By Investing.com - Investing.com Canada</title>
 <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPZFZqQXBvSUtQOGhsQ29aR3c5X0czb3N3b25zb3k4aS1DbEVYajlKcHNLQk05UUV0SzRZV1ZlRVZ5VzlWbV9idnlUUk5wZUlBNFdtWG5sOVM5cnBxcjRqRm5KTGtUR0xKaWx0dzBsd1BtaDhINDZ4eDFVek8ydE9lOFc0bUFrbDdoZzRSUDg4bUdZb25OWE5wUnhocGg0b012VFlmWW9jNlpzc1VmOGlnTllaWjJjMjg?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxPZFZqQXBvSUtQOGhsQ29aR3c5X0czb3N3b25zb3k4aS1DbEVYajlKcHNLQk05UUV0SzRZV1ZlRVZ5VzlWbV9idnlUUk5wZUlBNFdtWG5sOVM5cnBxcjRqRm5KTGtUR0xKaWx0dzBsd1BtaDhINDZ4eDFVek8ydE9lOFc0bUFrbDdoZzRSUDg4bUdZb25OWE5wUnhocGg0b012VFlmWW9jNlpzc1VmOGlnTllaWjJjMjg?oc=5</guid>
@@ -147,7 +196,7 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek V4 Pro 0813 Goes GA: Benchmark Claims Await Independent Proof - Tech Times</title>
+<title>[Google News] DeepSeek V4 Pro 0813 Goes GA: Benchmark Claims Await Independent Proof - techtimes.com</title>
 <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU1ZGaFBNTnlLV3pTcFc3VXJDR0VPS3BZdllIV21zMWY4dmxOWHpmZHoxekZjQXVKVmM3VTRuekt3V1E2SEx5NFNxQV9vRnpfVUthX2RKMnZMSTMtS1NlaXBlLXRnVWxYTThnS0xjUWJVcFZNNGFBenpmT3JEUWZvMXRvM1pZVUNoS2IzYUU1MFpHQktxZllZbWJSaVpNYTFacC1mTWxnMGd0cEwzRC1BQnNCQl9Qa0FFUWNGMDBfa2FLUQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU1ZGaFBNTnlLV3pTcFc3VXJDR0VPS3BZdllIV21zMWY4dmxOWHpmZHoxekZjQXVKVmM3VTRuekt3V1E2SEx5NFNxQV9vRnpfVUthX2RKMnZMSTMtS1NlaXBlLXRnVWxYTThnS0xjUWJVcFZNNGFBenpmT3JEUWZvMXRvM1pZVUNoS2IzYUU1MFpHQktxZllZbWJSaVpNYTFacC1mTWxnMGd0cEwzRC1BQnNCQl9Qa0FFUWNGMDBfa2FLUQ?oc=5</guid>
 <pubDate>Thu, 13 Aug 2026 12:26:58 GMT</pubDate>
@@ -168,6 +217,13 @@
 
 </item>
 <item>
+<title>[Google News] DeepSeek raises API pricing for its V4 models - The Star</title>
+<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjh1cUlMYm1qb3podFJ3RGhtMndrNUJteEtHU1lrOEhhOFJvZTIzUGFWeVhFWG9VMDVscW9sUWd5RlJ5STdjZFEwbnVUQWx3eDhBNVViMDIwQWppdFpSeXI3cHBYbUpzVUNPRzdRNFkzQUx3dV9Caks3LUgtZloxUk0xMjVoRnZ4bUV2Z3FTQmNJMkU4S0gtLTJFZ3R2SUU?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjh1cUlMYm1qb3podFJ3RGhtMndrNUJteEtHU1lrOEhhOFJvZTIzUGFWeVhFWG9VMDVscW9sUWd5RlJ5STdjZFEwbnVUQWx3eDhBNVViMDIwQWppdFpSeXI3cHBYbUpzVUNPRzdRNFkzQUx3dV9Caks3LUgtZloxUk0xMjVoRnZ4bUV2Z3FTQmNJMkU4S0gtLTJFZ3R2SUU?oc=5</guid>
+<pubDate>Thu, 13 Aug 2026 12:11:00 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] DeepSeek raises API pricing for its V4 models By Reuters - Investing.com</title>
 <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNQi1nT2dQSGNKc2p2TmU0dHh5MlliaUN2R3JpUHJobnBRZk5OSW1YbU5qWWZHeDEtemVDNHJCUWNkdU83bXExVnI3WjdWakdRWlRyVUttMGttRlpaTXFKM295MUFlNFUwRElLYlRMNjl4bVRpX2YwSlhDMVk5N092Vl9wMVZvenR6VWVuc0VWZTJFRVgwYUhVbnd3RWJsZw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxNQi1nT2dQSGNKc2p2TmU0dHh5MlliaUN2R3JpUHJobnBRZk5OSW1YbU5qWWZHeDEtemVDNHJCUWNkdU83bXExVnI3WjdWakdRWlRyVUttMGttRlpaTXFKM295MUFlNFUwRElLYlRMNjl4bVRpX2YwSlhDMVk5N092Vl9wMVZvenR6VWVuc0VWZTJFRVgwYUhVbnd3RWJsZw?oc=5</guid>
@@ -175,24 +231,10 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek tweaks API pricing as it launches frontier DeepSeek-V4-Pro model (DEEPSEEK:Private) - Seeking Alpha</title>
-<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOSW5OSHpYaWlGbjk4ZWZWQXo2blJkQWpiS3Iwc0RxRm9RREU1ajhfSVBxRVdtNGtqZDQwNnl4UEhYVU5zbHNVVVppWlVOcEdFVkxTd0pxUU40cC03dWxyckRlTDRFaTRGR0xmRlptWlF4UXdtNnZabWVTV3IwUS1ScFN3N1pDbGZNS0FtN28zLWwxdFhGNWd1Z3hSZ20yMG9Ld2F6VkFaVExmc0lOZ0U5UQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxOSW5OSHpYaWlGbjk4ZWZWQXo2blJkQWpiS3Iwc0RxRm9RREU1ajhfSVBxRVdtNGtqZDQwNnl4UEhYVU5zbHNVVVppWlVOcEdFVkxTd0pxUU40cC03dWxyckRlTDRFaTRGR0xmRlptWlF4UXdtNnZabWVTV3IwUS1ScFN3N1pDbGZNS0FtN28zLWwxdFhGNWd1Z3hSZ20yMG9Ld2F6VkFaVExmc0lOZ0U5UQ?oc=5</guid>
-<pubDate>Thu, 13 Aug 2026 12:09:08 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] DeepSeek raises API pricing for its V4 models - The Economic Times</title>
 <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNNHc3d2tudGpqMFRYWGkzX3V0UER4ZnFlalFwRENLWU9FaG9tb2xJbTQ0clU5bFN6cG84cloyd3lyUC1HSEhzSHQ2SElYU0tWYjd5QXlUREhsNENuQU4xTm9QbjlCRktxMU1mU05HUFB6ZUxKWW1ReGFWWnltaGtsa1E2QlVadk03aFBRWDNNc0NrOGRaMDB1U3BTWGUyXzAxMENNOWtsNXlOazB4bjh4LWxoWGNEYU5LcjcyRURNU3lyNFRJRy000gHMAUFVX3lxTE52UlBOWmlLa0UxX1R0bXlYQmxMZFFvTEFqX0NYOXNLWWFaMHEyQ19aSXotU1NYVmN5Y0VpQlhDQnk4U1dLWHAwQ0cwUkNWbDNKdkszak91ZU5LU29YdjlvdkUxZlpjLXhfdlkzV0xZd0xZZkJaS1p4bnZwem5WUG9IVjB0Mk5FOTNPVnlwTnQ1bHg0ZHcwWHBHYmVtNzFyNWlyMHcxcXFYSVkxN2F2SEZ0S2kxU3FJMjVKVEhZUVUxRDlHb0RHN3FFTXRoMg?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxNNHc3d2tudGpqMFRYWGkzX3V0UER4ZnFlalFwRENLWU9FaG9tb2xJbTQ0clU5bFN6cG84cloyd3lyUC1HSEhzSHQ2SElYU0tWYjd5QXlUREhsNENuQU4xTm9QbjlCRktxMU1mU05HUFB6ZUxKWW1ReGFWWnltaGtsa1E2QlVadk03aFBRWDNNc0NrOGRaMDB1U3BTWGUyXzAxMENNOWtsNXlOazB4bjh4LWxoWGNEYU5LcjcyRURNU3lyNFRJRy000gHMAUFVX3lxTE52UlBOWmlLa0UxX1R0bXlYQmxMZFFvTEFqX0NYOXNLWWFaMHEyQ19aSXotU1NYVmN5Y0VpQlhDQnk4U1dLWHAwQ0cwUkNWbDNKdkszak91ZU5LU29YdjlvdkUxZlpjLXhfdlkzV0xZd0xZZkJaS1p4bnZwem5WUG9IVjB0Mk5FOTNPVnlwTnQ1bHg0ZHcwWHBHYmVtNzFyNWlyMHcxcXFYSVkxN2F2SEZ0S2kxU3FJMjVKVEhZUVUxRDlHb0RHN3FFTXRoMg?oc=5</guid>
 <pubDate>Thu, 13 Aug 2026 12:06:25 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek raises API pricing for its V4 models - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0VIYlk0czVDRGdnTGVvU2oyMlpoazd4TGE1RkhIRTlVdUxiWlRGMFBzd1N0c0ZFb1lJanpLTUU5WVZnT0JCUC1ITVJ1RlhlWENDTjlpT2RMRC1xMXRJbU1kZ1FOb2JGcHU0cXlXdGlQVDdXT2dKQUZ6dEF3VG5Pd0J0ZmtCWDlldWtubkpXUVhHS3c?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0VIYlk0czVDRGdnTGVvU2oyMlpoazd4TGE1RkhIRTlVdUxiWlRGMFBzd1N0c0ZFb1lJanpLTUU5WVZnT0JCUC1ITVJ1RlhlWENDTjlpT2RMRC1xMXRJbU1kZ1FOb2JGcHU0cXlXdGlQVDdXT2dKQUZ6dEF3VG5Pd0J0ZmtCWDlldWtubkpXUVhHS3c?oc=5</guid>
-<pubDate>Thu, 13 Aug 2026 11:57:43 GMT</pubDate>
 
 </item>
 <item>
@@ -252,6 +294,13 @@
 
 </item>
 <item>
+<title>[News] Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</title>
+<link>https://openai.com/index/previewing-ultrafast</link>
+<guid isPermaLink="false">https://openai.com/index/previewing-ultrafast</guid>
+<pubDate>Thu, 13 Aug 2026 10:00:00 GMT</pubDate>
+<description>Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.</description>
+</item>
+<item>
 <title>[Google News] DeepSeek, Grok 4.6 unveil same-day moves; AAPL in talks to license news for Siri | Daily News Recap - Longbridge</title>
 <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1Y3JrVWt1MEZseldRUnBEZ1ZLYUNmTDdfSWxUNDI0cmd4T0ZwRjZlTE8xanp3bmNQZ3h0ZGpicl9NU05pZ0F3andldWd0Y2dPb1JKUjhtMA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1Y3JrVWt1MEZseldRUnBEZ1ZLYUNmTDdfSWxUNDI0cmd4T0ZwRjZlTE8xanp3bmNQZ3h0ZGpicl9NU05pZ0F3andldWd0Y2dPb1JKUjhtMA?oc=5</guid>
@@ -259,7 +308,7 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek to get a 'significant' price hike soon - mashable.com</title>
+<title>[Google News] DeepSeek to get a 'significant' price hike soon - Mashable</title>
 <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1TYnlmRGFncUZmMnl4UTNuNVp2ZzdUS0I1U215ZXBRVmE5Z1UzZVVTMzBZQWZRZm5uS0I2dlpRREhqWXR6dDczYUlOclJncmJMWVc4bzA5QVdpWFYwMXBTQTJYS2V1VDZsWWc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiakFVX3lxTE1TYnlmRGFncUZmMnl4UTNuNVp2ZzdUS0I1U215ZXBRVmE5Z1UzZVVTMzBZQWZRZm5uS0I2dlpRREhqWXR6dDczYUlOclJncmJMWVc4bzA5QVdpWFYwMXBTQTJYS2V1VDZsWWc?oc=5</guid>
 <pubDate>Thu, 13 Aug 2026 09:32:24 GMT</pubDate>
@@ -278,6 +327,13 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxNYW9iclY5REZ0V25CelZSejJZcEFpeGxzSmxiakg5elpfOFFKdFZWdVBJT0dpaG4wbmI2WTZvbmU4NmwtQmVWaFc2VEd6cVBqN19DYXlidTJJZjllM2pFaGxHdldxVzBUc2JldDJGWllYNlpLb243cXVJRGpFcEIwdVdFamI1V1RVOS1zeVE2VmZiUEpaTEF5bUdSRQ?oc=5</guid>
 <pubDate>Thu, 13 Aug 2026 09:05:00 GMT</pubDate>
 
+</item>
+<item>
+<title>[News] OpenAI appoints Dali Rajic as Chief Revenue Officer</title>
+<link>https://openai.com/index/dali-rajic-chief-revenue-officer</link>
+<guid isPermaLink="false">https://openai.com/index/dali-rajic-chief-revenue-officer</guid>
+<pubDate>Thu, 13 Aug 2026 09:00:00 GMT</pubDate>
+<description>OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.</description>
 </item>
 <item>
 <title>[MIT Tech Review] How kids feel about AI, in their own words</title>
@@ -308,28 +364,7 @@
 <description>ChatGPT Work turns your team’s notes, drafts, and ideas into finished work—while you stay in control. See how ChatGPT Work brings together launch results, recap notes, and a Slack thread to build an exec-friendly launch deck you can circulate with leadership. Learn more about ChatGPT Work: https://o</description>
 </item>
 <item>
-<title>[Google News] DeepSeek’s flagship AI model update underwhelms – except in cybersecurity - South China Morning Post</title>
-<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1hCb3pST191TjItOVFxZi1vMzhfMm9QZjEyQ2VfbGk0NzhjRWdhT2pub3p5bmM1VDdwZ1ZQYXVMSk9Kc0tZUHlGcnFhSE1ZVmdRclRwM0hITHFGbkFnZUgxMUVoTjVoWTEyTnhHRmc2TUpMc2RGRU9DYTRSZ1FWdVVEczhsY2tpcThUSHNsckZyeVhZQnNMSFcyaGUzMU9PMWhQN28wMkFTRXRFYzdmMWhwck5vX2dWdnQ0N1N0c0VyY00z0gHEAUFVX3lxTFA5SGNMa2U2SzhpUFF3WU5rZmhFNjZHMFJfTUNIT2wzWlhzMVNGNTRralpYVWV0bzVZUnFXZW1Gbm1NYlZaWjZ1YW94UHgwd3hxQmFGWjZ4NndscC1KVjJkaFJnZjNiLU9SeW9yRUFhQzAzamZkQkR6UXVKcWxYSzFVb1RtTGd2NE1CWjROVkpiR0JmNkk4aTVnZ1hEMS1YUllCcHlzUnNfeUZqWjdIblRSU3dxcGNuZExfdmIwdzlRRW9JMEs?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1hCb3pST191TjItOVFxZi1vMzhfMm9QZjEyQ2VfbGk0NzhjRWdhT2pub3p5bmM1VDdwZ1ZQYXVMSk9Kc0tZUHlGcnFhSE1ZVmdRclRwM0hITHFGbkFnZUgxMUVoTjVoWTEyTnhHRmc2TUpMc2RGRU9DYTRSZ1FWdVVEczhsY2tpcThUSHNsckZyeVhZQnNMSFcyaGUzMU9PMWhQN28wMkFTRXRFYzdmMWhwck5vX2dWdnQ0N1N0c0VyY00z0gHEAUFVX3lxTFA5SGNMa2U2SzhpUFF3WU5rZmhFNjZHMFJfTUNIT2wzWlhzMVNGNTRralpYVWV0bzVZUnFXZW1Gbm1NYlZaWjZ1YW94UHgwd3hxQmFGWjZ4NndscC1KVjJkaFJnZjNiLU9SeW9yRUFhQzAzamZkQkR6UXVKcWxYSzFVb1RtTGd2NE1CWjROVkpiR0JmNkk4aTVnZ1hEMS1YUllCcHlzUnNfeUZqWjdIblRSU3dxcGNuZExfdmIwdzlRRW9JMEs?oc=5</guid>
-<pubDate>Thu, 13 Aug 2026 08:00:32 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Chinese AI startup DeepSeek quietly released 'DeepSeek V4 Pro 0813'. - GIGAZINE</title>
-<link>https://news.google.com/rss/articles/CBMicEFVX3lxTE5Od3FPS0haRENIUFQzRXo4d2lKVjNoZkxrYU9SNFFLWFFWNk9lRVF0czdvSGNMRTkyWE1rTGF0RXhBV3lxeFpmTU41V285dUlTZ05rNnBETU5RZk0zc2ZMMnJYZWxOQ0NqUUk4akJQOEI?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMicEFVX3lxTE5Od3FPS0haRENIUFQzRXo4d2lKVjNoZkxrYU9SNFFLWFFWNk9lRVF0czdvSGNMRTkyWE1rTGF0RXhBV3lxeFpmTU41V285dUlTZ05rNnBETU5RZk0zc2ZMMnJYZWxOQ0NqUUk4akJQOEI?oc=5</guid>
-<pubDate>Thu, 13 Aug 2026 06:25:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] China’s DeepSeek launches V4 Pro model, on par with Anthropic’s Claude Fable 5 - Global Times</title>
-<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LYlpSY18wMlhCT0F5VmRUQTVTR09BMk1JVC1CM0FXSUhidnFpQm1NSUJuT3ZmX3VIY1AtbG1fSmY5cmd5RUxkVXd3TmhlVlJWVHFPa1VCNFk5UldBT0JwemxR?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LYlpSY18wMlhCT0F5VmRUQTVTR09BMk1JVC1CM0FXSUhidnFpQm1NSUJuT3ZmX3VIY1AtbG1fSmY5cmd5RUxkVXd3TmhlVlJWVHFPa1VCNFk5UldBT0JwemxR?oc=5</guid>
-<pubDate>Thu, 13 Aug 2026 06:13:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] AI Risk and Regulation: How Aardvark Therapeutics’ Use of Artificial Intelligence Could Expose It to Compliance, Cybersecurity, and Competitiveness Challenges - TipRanks</title>
+<title>[Google News] AI Risk and Regulation: How Aardvark Therapeutics’ Use of Artificial Intelligence Could Expose It to Compliance, Cybersecurity, and Competitiveness Challenges - tipranks.com</title>
 <link>https://news.google.com/rss/articles/CBMirwJBVV95cUxPZWt6WmdhY0VLTExCQTZ0WTNWdmN5SUVFSW9BWkR5a2pHTlpWZGlnaVM2UDV4V1NfOFZ0RF9Od3p5dVhxcXA3Y0ZvaEFIcnFXY19FZjJHemlkOFNtQjc5R1lxUzBRc1NlRWxfdXNCaFd1bk1tdlZrSTQwbVlKa0p1TFpWZG5sbm1qeHdWaUhhdmM5YU5ybkJESk1IWlVweFppM0RxRFhXVnY5N1hoS2NMMGxSZHNIREhaYUJHanBka29CbW42bGNfWmo0SzVhSGZON2w0VnNkczJjLUpHZVk1OEVPaGNnTVVxNUtCM0toZ19HOFNjR09YdlBxVzZmVTZvTlFjamx2S2x3WjYwNWMzTFM5X0k0LTNkUzM0WWRRYi1BZVJLUnJCanM2Um5vQUE?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwJBVV95cUxPZWt6WmdhY0VLTExCQTZ0WTNWdmN5SUVFSW9BWkR5a2pHTlpWZGlnaVM2UDV4V1NfOFZ0RF9Od3p5dVhxcXA3Y0ZvaEFIcnFXY19FZjJHemlkOFNtQjc5R1lxUzBRc1NlRWxfdXNCaFd1bk1tdlZrSTQwbVlKa0p1TFpWZG5sbm1qeHdWaUhhdmM5YU5ybkJESk1IWlVweFppM0RxRFhXVnY5N1hoS2NMMGxSZHNIREhaYUJHanBka29CbW42bGNfWmo0SzVhSGZON2w0VnNkczJjLUpHZVk1OEVPaGNnTVVxNUtCM0toZ19HOFNjR09YdlBxVzZmVTZvTlFjamx2S2x3WjYwNWMzTFM5X0k0LTNkUzM0WWRRYi1BZVJLUnJCanM2Um5vQUE?oc=5</guid>
 <pubDate>Thu, 13 Aug 2026 06:09:12 GMT</pubDate>
@@ -389,41 +424,6 @@
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QbjNnNTlFN2JMcmZVLTA0YVBsY29lWENFd21lS2NSaERnbTVxMVpqbHU2WE11TldWbk4yeW9ESkNNNko5RDVyTDB0YVZ2aS02TVRn?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QbjNnNTlFN2JMcmZVLTA0YVBsY29lWENFd21lS2NSaERnbTVxMVpqbHU2WE11TldWbk4yeW9ESkNNNko5RDVyTDB0YVZ2aS02TVRn?oc=5</guid>
 <pubDate>Thu, 13 Aug 2026 02:31:21 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] China's DeepSeek upgrades its V4 Pro model - China Daily</title>
-<link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1NQ2FsMU5heFota05IRmpFb21QNzFFNkZkQ3dXNTMyYUZzcUFfRWZTaTI2VDBHMW53VFJON2ptb3ctR21zT0lackhMMDNoWFVseXFrTkljOVE5eGphUmYxc3NadGE4SUxWVFo5bmhNdzZuNFoyUmdzWURjc2Y2QQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE1NQ2FsMU5heFota05IRmpFb21QNzFFNkZkQ3dXNTMyYUZzcUFfRWZTaTI2VDBHMW53VFJON2ptb3ctR21zT0lackhMMDNoWFVseXFrTkljOVE5eGphUmYxc3NadGE4SUxWVFo5bmhNdzZuNFoyUmdzWURjc2Y2QQ?oc=5</guid>
-<pubDate>Thu, 13 Aug 2026 02:29:05 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Deepseek V4 Pro has been released. Apart from its multimodal capabilities, it meets all my expectations for the model. - 36Kr</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE05RV91bFN1VWROT2psZTBxVWc1TmxqY29QMG1VRVJnbm90cEpRUmRqTjB0Rm5STXI3RVdkR2N2Yjl3NWswT1p0RFk4Y1FXZFZ4VjhF?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE05RV91bFN1VWROT2psZTBxVWc1TmxqY29QMG1VRVJnbm90cEpRUmRqTjB0Rm5STXI3RVdkR2N2Yjl3NWswT1p0RFk4Y1FXZFZ4VjhF?oc=5</guid>
-<pubDate>Thu, 13 Aug 2026 02:01:17 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek V4 Pro Launches with Agent Performance Approaching Claude 3 Opus at a Fraction of the Cost - KuCoin</title>
-<link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFIzWVdVaDVIZXdDdGkxUEtZQUt4dmZUYWdtaHUwSjZMOEVFeXdtUmhkYjVvbWtXdFRIQVpBLVh6VmZjYzhySm9OTE9DMllUMW5CUFJIc01GRjRYdWlYRWlxWFZkLTFaUjB4WE9HaV91dEtvdUhTSVdFVGU5UUlSRTc0S1Zwd0RZTk5YQTlqLUtUMFA3Rm9qd0dMVG1hTG95QUdySnh0WmFoRHo4Vlh5TGxDSm9CMzJRdTlFYTRB?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFIzWVdVaDVIZXdDdGkxUEtZQUt4dmZUYWdtaHUwSjZMOEVFeXdtUmhkYjVvbWtXdFRIQVpBLVh6VmZjYzhySm9OTE9DMllUMW5CUFJIc01GRjRYdWlYRWlxWFZkLTFaUjB4WE9HaV91dEtvdUhTSVdFVGU5UUlSRTc0S1Zwd0RZTk5YQTlqLUtUMFA3Rm9qd0dMVG1hTG95QUdySnh0WmFoRHo4Vlh5TGxDSm9CMzJRdTlFYTRB?oc=5</guid>
-<pubDate>Thu, 13 Aug 2026 01:38:42 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] K‑Talk Morning Briefing | DeepSeek V4 Pro Official API Launched; Tencent Significantly Increases Computing Power Procurement in Q3 - Moomoo</title>
-<link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQenJzSUQwWFZkOFhQSDRIWTBLMU94YXVEcWt0bzFGZi1NanY2M2hSalczQUtMQ1VZZ0Zic1hUVlR1MEkySi12TXRpZHI2eDg3OTJvd21HMVI0WW1QUUl4ODlIM19DQzlrODdhaE92SHR6SkVhanMzcDJqWW4xMVpHNUVGdjNIWHBlM3dydkw1NzE0VmVfZXdIeGFNRTBGcU5FOXJodkpn?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxQenJzSUQwWFZkOFhQSDRIWTBLMU94YXVEcWt0bzFGZi1NanY2M2hSalczQUtMQ1VZZ0Zic1hUVlR1MEkySi12TXRpZHI2eDg3OTJvd21HMVI0WW1QUUl4ODlIM19DQzlrODdhaE92SHR6SkVhanMzcDJqWW4xMVpHNUVGdjNIWHBlM3dydkw1NzE0VmVfZXdIeGFNRTBGcU5FOXJodkpn?oc=5</guid>
-<pubDate>Thu, 13 Aug 2026 00:27:34 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek V4 Pro and Grok 4.6 Launch Same Day, Igniting All-Out Price War Among Frontier AI Models - finance.biggo.com</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9LYzZacVVaSDdUeEJ3UXh3Q1hzci1RNGdzVkROTFdqWTdDcl84eTJlaW9HaTdPMjhFRlJ5dTd6YlZMVGJMRV9INkpxNGVoOEt4UzJnV2JmbWpKYVRwU2tfM0U4dFkyZkJBRklfTGY0ODJDMkpCYWc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE9LYzZacVVaSDdUeEJ3UXh3Q1hzci1RNGdzVkROTFdqWTdDcl84eTJlaW9HaTdPMjhFRlJ5dTd6YlZMVGJMRV9INkpxNGVoOEt4UzJnV2JmbWpKYVRwU2tfM0U4dFkyZkJBRklfTGY0ODJDMkpCYWc?oc=5</guid>
-<pubDate>Thu, 13 Aug 2026 00:25:00 GMT</pubDate>
 
 </item>
 </channel>
