@@ -5,9 +5,30 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Fri, 14 Aug 2026 20:47:02 GMT</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 22:42:45 GMT</lastBuildDate>
 <item>
-<title>[Google News] DeepSeek's innovative harness treats everything as a plug-in - theregister.com</title>
+<title>[YouTube] Baifeng Shi - Watching 10 Billion Pixels at Once with AutoGaze</title>
+<link>https://www.youtube.com/watch?v=U1GEcZR-I-4</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=U1GEcZR-I-4</guid>
+<pubDate>Fri, 14 Aug 2026 22:07:47 GMT</pubDate>
+<description>​Multi-modal large language models (MLLMs) have advanced general-purpose video understanding but struggle with long, high-resolution videos -- they process every pixel equally in their vision transformers (ViTs) or LLMs despite significant spatiotemporal redundancy. We introduce AutoGaze, a lightwei</description>
+</item>
+<item>
+<title>[Google News] Pondero Brief: Anthropic buys 20 years of compute from a bitcoin miner - Buttondown</title>
+<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPXzJXc3RZOV9oUHZyRloxbW5EVV9CRXVoMEpvRmFrRC1MX2JINnFPRGY4UHczZ05DSzNUb3JoS2h5RWFnSmVJb1pFRXRkUkZ6ZXl2amdEMjAzR3kxZUM1aEZZMEtNcFpHVXhhSGxUM1AwRG12ZmI4V3hkMkZMWldycG96ekJpRnlLSS0yR3Q3RUc3NGQ2?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxPXzJXc3RZOV9oUHZyRloxbW5EVV9CRXVoMEpvRmFrRC1MX2JINnFPRGY4UHczZ05DSzNUb3JoS2h5RWFnSmVJb1pFRXRkUkZ6ZXl2amdEMjAzR3kxZUM1aEZZMEtNcFpHVXhhSGxUM1AwRG12ZmI4V3hkMkZMWldycG96ekJpRnlLSS0yR3Q3RUc3NGQ2?oc=5</guid>
+<pubDate>Fri, 14 Aug 2026 22:03:41 GMT</pubDate>
+
+</item>
+<item>
+<title>[YouTube] Oliver Sieberling - Dynamic Short Convolutions Improve Transformers</title>
+<link>https://www.youtube.com/watch?v=DnlXx8DXR5I</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=DnlXx8DXR5I</guid>
+<pubDate>Fri, 14 Aug 2026 21:22:12 GMT</pubDate>
+<description>​This talk introduces dynamic short convolutions as a scalable neural network primitive for improving Transformer-based language models. In contrast to static short convolutions, dynamic short convolutions use input-dependent filters, which allows them to adaptively aggregate local context. I will d</description>
+</item>
+<item>
+<title>[Google News] DeepSeek's innovative harness treats everything as a plug-in - The Register</title>
 <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkNqNmFRc1NrYzRHSVdGMUU2Y3AzMWptWWY3V3FDbnNTU0lzaTNyZlJuYmhFNDFjay1BbWc1UmZ4LXA4VGMzYlJUX0o0SFo0YzlrbHMwLVdzRXVQTEVXNjhOaThkekJSX0U4UVNDMXZ1M3hHMDA3MlBZczQ5U1BZWnlEVy1kN191aUdZRkdVeFF1M2Fyb2hfY1RydFlXSmFlZHFKWmFyWUZ6TTY5RHRZNFVVYU9Sb1k?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkNqNmFRc1NrYzRHSVdGMUU2Y3AzMWptWWY3V3FDbnNTU0lzaTNyZlJuYmhFNDFjay1BbWc1UmZ4LXA4VGMzYlJUX0o0SFo0YzlrbHMwLVdzRXVQTEVXNjhOaThkekJSX0U4UVNDMXZ1M3hHMDA3MlBZczQ5U1BZWnlEVy1kN191aUdZRkdVeFF1M2Fyb2hfY1RydFlXSmFlZHFKWmFyWUZ6TTY5RHRZNFVVYU9Sb1k?oc=5</guid>
 <pubDate>Fri, 14 Aug 2026 20:25:56 GMT</pubDate>
@@ -28,7 +49,7 @@
 
 </item>
 <item>
-<title>[Google News] Maharashtra announces AI Policy 2026 to boost industry, governance and public services - News On AIR</title>
+<title>[Google News] Maharashtra announces AI Policy 2026 to boost industry, governance and public services - Newsonair</title>
 <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5</guid>
 <pubDate>Fri, 14 Aug 2026 18:09:42 GMT</pubDate>
@@ -91,7 +112,7 @@
 
 </item>
 <item>
-<title>[Google News] Deepseek Launches New Model at Prices up to 14 Times Higher - تسنیم</title>
+<title>[Google News] Deepseek Launches New Model at Prices up to 14 Times Higher - tasnimnews.ir</title>
 <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHdwbDUyaGhMc0hNVlVBejg0Zk1DMUt5ckJObDhTLVZIQWhCNWt1cHlQQUdONjhxcmt0Y1lvQUhVY0NpalBNaGtBaFcwS2ppa0FsYXYyVHBWOHRKcEY2cmFnSzFIUy1lUGhydHdzTzB4dXY3d1NLNWpxM3BIcHBFZWpxUHNyS2FKakw5cU1qVVpybVNrY3dFdFZEeUpCYlBza2JndndBblAxejQwMC1vMXJB0gG3AUFVX3lxTE1Ib0NBNFFfYkQxV01ubnJkVHpwMk5NMlAwR0J6ZFl0V2FGbmFhNnRnX3pxcFp0SlN3RmlsX0NXel9qUnNhb0FUSVZ6RW13WXdoMjAwNlpnOERneGE0dmpGS2czTDlxc1dzUXJYN3M1SjNrQmw1UWd4YklzcG1mdnNHR1J3ZjRmMkhXNTNDQ3JqaDY1NVNoUzhEWU50UVBIdnBhQ1hjM1Z6b1hjUWZ5Z1Y4eV9BZnFLcw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHdwbDUyaGhMc0hNVlVBejg0Zk1DMUt5ckJObDhTLVZIQWhCNWt1cHlQQUdONjhxcmt0Y1lvQUhVY0NpalBNaGtBaFcwS2ppa0FsYXYyVHBWOHRKcEY2cmFnSzFIUy1lUGhydHdzTzB4dXY3d1NLNWpxM3BIcHBFZWpxUHNyS2FKakw5cU1qVVpybVNrY3dFdFZEeUpCYlBza2JndndBblAxejQwMC1vMXJB0gG3AUFVX3lxTE1Ib0NBNFFfYkQxV01ubnJkVHpwMk5NMlAwR0J6ZFl0V2FGbmFhNnRnX3pxcFp0SlN3RmlsX0NXel9qUnNhb0FUSVZ6RW13WXdoMjAwNlpnOERneGE0dmpGS2czTDlxc1dzUXJYN3M1SjNrQmw1UWd4YklzcG1mdnNHR1J3ZjRmMkhXNTNDQ3JqaDY1NVNoUzhEWU50UVBIdnBhQ1hjM1Z6b1hjUWZ5Z1Y4eV9BZnFLcw?oc=5</guid>
 <pubDate>Fri, 14 Aug 2026 12:08:22 GMT</pubDate>
@@ -140,21 +161,21 @@
 
 </item>
 <item>
-<title>[Google News] All the latest in AI ‘music’ - The Verge</title>
+<title>[Google News] All the latest in AI ‘music’ - theverge.com</title>
 <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXl2XzVuUmRDck92VFVjRTNRSkthcnZiakEzMnY0T01qMHpmMGduS2ZaUHJiOVFETy12SHBGelNCZlpRN2twVFJRaDM1ZzROWGJkcHhUNUFJUWU1Z1Y4bFBQRzIyeU1EVjdieDhNWXNPdUZaR0Y4VlVZTHJqcFdfU0NXVF9kUWF4NzBIMjNpbHRXQUE?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXl2XzVuUmRDck92VFVjRTNRSkthcnZiakEzMnY0T01qMHpmMGduS2ZaUHJiOVFETy12SHBGelNCZlpRN2twVFJRaDM1ZzROWGJkcHhUNUFJUWU1Z1Y4bFBQRzIyeU1EVjdieDhNWXNPdUZaR0Y4VlVZTHJqcFdfU0NXVF9kUWF4NzBIMjNpbHRXQUE?oc=5</guid>
 <pubDate>Fri, 14 Aug 2026 09:23:10 GMT</pubDate>
 
 </item>
 <item>
-<title>[Google News] DeepSeek Raises API Prices Up to 12-Fold as China's AI Firms Chase Profit - en.sedaily.com</title>
+<title>[Google News] DeepSeek Raises API Prices Up to 12-Fold as China's AI Firms Chase Profit - Seoul Economic Daily</title>
 <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWm85ZGFHalZmVW9Cc0hVNEkzbFQ1LUJBQU1jRDBELUFwVzMzOGhvTGpybzVYTE05TjcyN3VuNU0ydTlfbFZMNllRY1l3eGR6UFJDU0xiNDA0b1hGU2ZGamJqUGZ1eDlVSm9pYTJtanF6YU9MQkpLRTNwa2Z4cHBzQjNSSXdkdjRhQXhBbjRyTVFzWFJqeEIwQ19Gb3JVaTNiR1RuUkpiYWdGT1E?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWm85ZGFHalZmVW9Cc0hVNEkzbFQ1LUJBQU1jRDBELUFwVzMzOGhvTGpybzVYTE05TjcyN3VuNU0ydTlfbFZMNllRY1l3eGR6UFJDU0xiNDA0b1hGU2ZGamJqUGZ1eDlVSm9pYTJtanF6YU9MQkpLRTNwa2Z4cHBzQjNSSXdkdjRhQXhBbjRyTVFzWFJqeEIwQ19Gb3JVaTNiR1RuUkpiYWdGT1E?oc=5</guid>
 <pubDate>Fri, 14 Aug 2026 09:21:17 GMT</pubDate>
 
 </item>
 <item>
-<title>[Google News] DeepSeek V4 Pro launches as US-China open AI model race intensifies - Tech Wire Asia</title>
+<title>[Google News] DeepSeek V4 Pro launches as US-China open AI model race intensifies - techwireasia.com</title>
 <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPVUg5RjFfWXA3R1BhYy1nTXBIQmRwQy1qZWhJMEVRQnd6cXFKSVMzcWw0d2l5SlVSMjE4bVM4WEYxdlhVdzI1bldnME5nR3BuRXVqOFVIbnhUaUt6a0ZjSFNCZWFqUDRQWEhReUZDcS1WWGNmX2FNeWVuYVBld1Z1dlRpRQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxPVUg5RjFfWXA3R1BhYy1nTXBIQmRwQy1qZWhJMEVRQnd6cXFKSVMzcWw0d2l5SlVSMjE4bVM4WEYxdlhVdzI1bldnME5nR3BuRXVqOFVIbnhUaUt6a0ZjSFNCZWFqUDRQWEhReUZDcS1WWGNmX2FNeWVuYVBld1Z1dlRpRQ?oc=5</guid>
 <pubDate>Fri, 14 Aug 2026 09:01:24 GMT</pubDate>
@@ -175,10 +196,17 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek Puts A Premium Price On V4 Pro - finimize.com</title>
+<title>[Google News] DeepSeek Puts A Premium Price On V4 Pro - Finimize</title>
 <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE4xa3c1akhfSFBScUFiemExWlJQenFmUzVJWFNJRk1BWGNXcVFwTnNvelIxTnY1a1JyY3h6Q01iT1NsY183SGJLZHN5TkZQWHo2SzJLNThVRS02TXIyT3lUMDMzZE95QzRSNnI5MkZnUEFBTUhNWVVz?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE4xa3c1akhfSFBScUFiemExWlJQenFmUzVJWFNJRk1BWGNXcVFwTnNvelIxTnY1a1JyY3h6Q01iT1NsY183SGJLZHN5TkZQWHo2SzJLNThVRS02TXIyT3lUMDMzZE95QzRSNnI5MkZnUEFBTUhNWVVz?oc=5</guid>
 <pubDate>Fri, 14 Aug 2026 07:46:27 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Forbes 2026 AI 50 List | Top Artificial Intelligence Companies - Forbes</title>
+<link>https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</guid>
+<pubDate>Fri, 14 Aug 2026 06:59:58 GMT</pubDate>
 
 </item>
 <item>
@@ -231,24 +259,10 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek Just Open-Sourced Its Answer to Claude Code — And Developers Noticed Fast - Binance</title>
-<link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwN3dNeGlCTHNldVFWLVl5bFVvVXRGOFRCZWhUSVdOSWhWbjR5dnhRZUJYUGF5RmtBZFRjaFhTd1FFRm4zekE0bmVaa0d5YUVQeWZlcUJoMnVaM2lHa3E2bV9LZDY?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwN3dNeGlCTHNldVFWLVl5bFVvVXRGOFRCZWhUSVdOSWhWbjR5dnhRZUJYUGF5RmtBZFRjaFhTd1FFRm4zekE0bmVaa0d5YUVQeWZlcUJoMnVaM2lHa3E2bV9LZDY?oc=5</guid>
-<pubDate>Fri, 14 Aug 2026 05:08:57 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] DeepSeek to introduce peak and off-peak pricing for its API - TechNode</title>
 <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUtLc09IUWgtMzd6aDlkSktlZ050emdqOTVVRXp1TTI5TURJdGNJWFBLdEZkOU1JZGtTYVVlNzY5YWxPRHZsWFF2Zkg2MDRaOERMRml0RmNQNW1sWHhTc01YSTVNSDczR3UtcXlUa2NfUHpCTXpuc25fdWFRQjktRWV5YlVIWDI3NHJ0ZWpEcTRIeFlRMGpv?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUtLc09IUWgtMzd6aDlkSktlZ050emdqOTVVRXp1TTI5TURJdGNJWFBLdEZkOU1JZGtTYVVlNzY5YWxPRHZsWFF2Zkg2MDRaOERMRml0RmNQNW1sWHhTc01YSTVNSDczR3UtcXlUa2NfUHpCTXpuc25fdWFRQjktRWV5YlVIWDI3NHJ0ZWpEcTRIeFlRMGpv?oc=5</guid>
 <pubDate>Fri, 14 Aug 2026 05:07:11 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek publishes paper on self-evolving AI framework Cordis - KuCoin</title>
-<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOajBvR0FXamIybWU2Sy0tbkh6SE5hOHZ0WkJpYkcxNnVBVHMwZjljam5HREctZG1Td1J1LWpqNjBKWHJ1UUZvZ3NPaTlvNTRYaThlNnVoNVdkM0RBWDFhMWdLX1JJVHVuRGtKUkZhT2pscHk5QWhvd01FdUREakJTeExocVZSR1dldFhMQjVRVVJzaExUQTBtcGVidw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxOajBvR0FXamIybWU2Sy0tbkh6SE5hOHZ0WkJpYkcxNnVBVHMwZjljam5HREctZG1Td1J1LWpqNjBKWHJ1UUZvZ3NPaTlvNTRYaThlNnVoNVdkM0RBWDFhMWdLX1JJVHVuRGtKUkZhT2pscHk5QWhvd01FdUREakJTeExocVZSR1dldFhMQjVRVVJzaExUQTBtcGVidw?oc=5</guid>
-<pubDate>Fri, 14 Aug 2026 05:05:08 GMT</pubDate>
 
 </item>
 <item>
@@ -270,13 +284,6 @@
 <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNQUE2cGstdVBLbkxIby1yQko0WUxLS0p1VFlROTRranlpYjdGcnlTZ2FRbTNEWFZicFA5TFV3MUZKU3NoTHB6WTh5NHRESzV5aU9scGpwMkFYQ2RaRkh1dzZlODBrWlQ2UFdDRjJXSUJ3VVdCZUVqaTZnTldFZklpYUw3aV96SE4xaDlYYnczMkJ5NW1IampOWV9LS0swdUtSZmU0NklJTmxUTXBEVmVCWV9kMXZ0RDhTWTR0WUhMRjUtZ0VrVERiaXZFZmpjSDQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxNQUE2cGstdVBLbkxIby1yQko0WUxLS0p1VFlROTRranlpYjdGcnlTZ2FRbTNEWFZicFA5TFV3MUZKU3NoTHB6WTh5NHRESzV5aU9scGpwMkFYQ2RaRkh1dzZlODBrWlQ2UFdDRjJXSUJ3VVdCZUVqaTZnTldFZklpYUw3aV96SE4xaDlYYnczMkJ5NW1IampOWV9LS0swdUtSZmU0NklJTmxUTXBEVmVCWV9kMXZ0RDhTWTR0WUhMRjUtZ0VrVERiaXZFZmpjSDQ?oc=5</guid>
 <pubDate>Fri, 14 Aug 2026 04:00:10 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Forbes 2026 AI 50 List | Top Artificial Intelligence Companies - Forbes</title>
-<link>https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</guid>
-<pubDate>Fri, 14 Aug 2026 03:59:17 GMT</pubDate>
 
 </item>
 <item>
@@ -329,16 +336,16 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek Harness Hands-On: Four Work Modes, 'Model + Harness = Agent', and the Most Ambitious Agent Open Source of the Year - Pandaily</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxNUEN2ZE9KZE10TDE3aUlYT2FMcHg5UnFCVGtKQkZjLUNKejRmcHl5dXpRYWZNY2E4X3FnV3dRLVJSMG9ILVNmTFZzSUlkODhaMnI5bXBOdUdCTGtXNGhEdHV0d1JiUWdIWGFNSnprNGY3QUJidUlNQzFOSGdMQXFZcmRRbTllbjh4c1htUUNjOEJ6LUt6NjdHc0ExSWRzUQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxNUEN2ZE9KZE10TDE3aUlYT2FMcHg5UnFCVGtKQkZjLUNKejRmcHl5dXpRYWZNY2E4X3FnV3dRLVJSMG9ILVNmTFZzSUlkODhaMnI5bXBOdUdCTGtXNGhEdHV0d1JiUWdIWGFNSnprNGY3QUJidUlNQzFOSGdMQXFZcmRRbTllbjh4c1htUUNjOEJ6LUt6NjdHc0ExSWRzUQ?oc=5</guid>
+<title>[Google News] DeepSeek's 'Black Whale' Surfaces: Harness Developer Preview Open-Sourced Under MIT — Everything Is a Plugin - Pandaily</title>
+<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPaUhoa3FrYWJYbzdWRHE0NXlzYk1OLWFwQ044V192cEVrODJsWldsdHlzRTBpQzNmU2QtSG8xZW5MaEdPOXo0dXhmYXZtemc4WjRTaF9qb1VCZDZxMDhqVTJPWDE2UGZZWTI1aDU0OVRkV2ZlU2ppUkdpWjJtT0xYdWZkbGRTQTAwMWJtQ2xjNS1aalcyZ1RSeGNCQmJWMHc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxPaUhoa3FrYWJYbzdWRHE0NXlzYk1OLWFwQ044V192cEVrODJsWldsdHlzRTBpQzNmU2QtSG8xZW5MaEdPOXo0dXhmYXZtemc4WjRTaF9qb1VCZDZxMDhqVTJPWDE2UGZZWTI1aDU0OVRkV2ZlU2ppUkdpWjJtT0xYdWZkbGRTQTAwMWJtQ2xjNS1aalcyZ1RSeGNCQmJWMHc?oc=5</guid>
 <pubDate>Fri, 14 Aug 2026 02:11:36 GMT</pubDate>
 
 </item>
 <item>
-<title>[Google News] DeepSeek's 'Black Whale' Surfaces: Harness Developer Preview Open-Sourced Under MIT — Everything Is a Plugin - Pandaily</title>
-<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPaUhoa3FrYWJYbzdWRHE0NXlzYk1OLWFwQ044V192cEVrODJsWldsdHlzRTBpQzNmU2QtSG8xZW5MaEdPOXo0dXhmYXZtemc4WjRTaF9qb1VCZDZxMDhqVTJPWDE2UGZZWTI1aDU0OVRkV2ZlU2ppUkdpWjJtT0xYdWZkbGRTQTAwMWJtQ2xjNS1aalcyZ1RSeGNCQmJWMHc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxPaUhoa3FrYWJYbzdWRHE0NXlzYk1OLWFwQ044V192cEVrODJsWldsdHlzRTBpQzNmU2QtSG8xZW5MaEdPOXo0dXhmYXZtemc4WjRTaF9qb1VCZDZxMDhqVTJPWDE2UGZZWTI1aDU0OVRkV2ZlU2ppUkdpWjJtT0xYdWZkbGRTQTAwMWJtQ2xjNS1aalcyZ1RSeGNCQmJWMHc?oc=5</guid>
+<title>[Google News] DeepSeek Harness Hands-On: Four Work Modes, 'Model + Harness = Agent', and the Most Ambitious Agent Open Source of the Year - Pandaily</title>
+<link>https://news.google.com/rss/articles/CBMingFBVV95cUxNUEN2ZE9KZE10TDE3aUlYT2FMcHg5UnFCVGtKQkZjLUNKejRmcHl5dXpRYWZNY2E4X3FnV3dRLVJSMG9ILVNmTFZzSUlkODhaMnI5bXBOdUdCTGtXNGhEdHV0d1JiUWdIWGFNSnprNGY3QUJidUlNQzFOSGdMQXFZcmRRbTllbjh4c1htUUNjOEJ6LUt6NjdHc0ExSWRzUQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxNUEN2ZE9KZE10TDE3aUlYT2FMcHg5UnFCVGtKQkZjLUNKejRmcHl5dXpRYWZNY2E4X3FnV3dRLVJSMG9ILVNmTFZzSUlkODhaMnI5bXBOdUdCTGtXNGhEdHV0d1JiUWdIWGFNSnprNGY3QUJidUlNQzFOSGdMQXFZcmRRbTllbjh4c1htUUNjOEJ6LUt6NjdHc0ExSWRzUQ?oc=5</guid>
 <pubDate>Fri, 14 Aug 2026 02:11:36 GMT</pubDate>
 
 </item>
@@ -417,13 +424,6 @@
 <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPNm1KaWVXLVEweFlvX3BxbGIyZmZxaXd3cS1MUHBiTGRUaFRhYXdqTEYtZE1XYU4wRDlWb1BsanNCUGVSYWg3Z2NvR3FFUkFieVlZWmhTUDFoR2tUT2VaaDNfaGVJYmN1azBWT3hyM052VVNQUEdjaVZZZWtWUV9UT0xVR214eUs4UkRtNldRazhvZw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikgFBVV95cUxPNm1KaWVXLVEweFlvX3BxbGIyZmZxaXd3cS1MUHBiTGRUaFRhYXdqTEYtZE1XYU4wRDlWb1BsanNCUGVSYWg3Z2NvR3FFUkFieVlZWmhTUDFoR2tUT2VaaDNfaGVJYmN1azBWT3hyM052VVNQUEdjaVZZZWtWUV9UT0xVR214eUs4UkRtNldRazhvZw?oc=5</guid>
 <pubDate>Thu, 13 Aug 2026 23:13:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] AI Looms Over Software: A "SaaSpocalypse" Risk? - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGlrdGVVa2Izd1hna1NsNzd1Vkl6UzhBWXpOcFRMNW15Ni1zcjM4U3ZyUHlzWklMeFhfYWFUN1AtNXZmVlJuUml5Sm5OMGw4b0FpV29DNWVfUEsza0dkLVhiQy1vZHpiUVVKWEtGVkVQYmJ4UnFHMWc5RDZDQlRsWTJJYmltWnY2RGNkWnpaYzJOeXRfRW5oWGFmRlRUNjZYZWFRQkJVdHRiZw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGlrdGVVa2Izd1hna1NsNzd1Vkl6UzhBWXpOcFRMNW15Ni1zcjM4U3ZyUHlzWklMeFhfYWFUN1AtNXZmVlJuUml5Sm5OMGw4b0FpV29DNWVfUEsza0dkLVhiQy1vZHpiUVVKWEtGVkVQYmJ4UnFHMWc5RDZDQlRsWTJJYmltWnY2RGNkWnpaYzJOeXRfRW5oWGFmRlRUNjZYZWFRQkJVdHRiZw?oc=5</guid>
-<pubDate>Thu, 13 Aug 2026 23:08:10 GMT</pubDate>
 
 </item>
 </channel>
