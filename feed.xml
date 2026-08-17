@@ -5,12 +5,33 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Mon, 17 Aug 2026 10:49:36 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 13:07:15 GMT</lastBuildDate>
 <item>
-<title>[Google News] At Beijing AI-themed bar, DeepSeek tokens come with the pints - SRN News</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxONGZCRUx1bEFlVWRzUFFicFJsdXVCMDBEQldBN2RlcDU1VmgyenRHOE1qNTVlQmRnT2M1UHpKRUZFQnlQbUgycHZJY0tjX3VHWmdkcnFKX3hwdTJHeGRPZDlZbElacml0V01Ca0g3d1ZEQXlBQnVNVFhoclY0elpoUmhlUnExYldx?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAFBVV95cUxONGZCRUx1bEFlVWRzUFFicFJsdXVCMDBEQldBN2RlcDU1VmgyenRHOE1qNTVlQmRnT2M1UHpKRUZFQnlQbUgycHZJY0tjX3VHWmdkcnFKX3hwdTJHeGRPZDlZbElacml0V01Ca0g3d1ZEQXlBQnVNVFhoclY0elpoUmhlUnExYldx?oc=5</guid>
-<pubDate>Mon, 17 Aug 2026 10:13:51 GMT</pubDate>
+<title>[Blog] Securing the Infrastructure of Intelligence</title>
+<link>https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/</guid>
+<pubDate>Mon, 17 Aug 2026 12:34:51 +0000</pubDate>
+<description>AI factories are the defining infrastructure of the AI era—where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory, a</description>
+</item>
+<item>
+<title>[Newsroom] NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute</title>
+<link>https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute</link>
+<guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute</guid>
+<pubDate>Mon, 17 Aug 2026 12:33:00 GMT</pubDate>
+<description>NVIDIA announced that it has secured land, power and shell (LPS) capacity through a partnership with SB Energy at the PORTS-Pike Technology Campus in Pike County, Ohio, to host NVIDIA compute...</description>
+</item>
+<item>
+<title>[Google News] DeepSeek V4 Pro Fully Tested Best Open Source AI Model? - Geeky Gadgets</title>
+<link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BZmtXSjc2VlQyUlB4RmJCbThRZU54c19DOFJ6NkRDVjNDMUg5N1BsNmVwX2dha0hiNFczR2lySXRFTHJwcS1JSl9vUUdkN1FqY3ozU2NhSDN0emJEYllqUWVucw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BZmtXSjc2VlQyUlB4RmJCbThRZU54c19DOFJ6NkRDVjNDMUg5N1BsNmVwX2dha0hiNFczR2lySXRFTHJwcS1JSl9vUUdkN1FqY3ozU2NhSDN0emJEYllqUWVucw?oc=5</guid>
+<pubDate>Mon, 17 Aug 2026 11:15:45 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek Harness Breaks GitHub's Fastest Star Record - Pasquale Pillitteri</title>
+<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFduY2dSNXoxZTlWczhNanU2TTRHd3pZeUpxNFFFeUpkNEFodkJ3SmQyZmFnZmhJaE1ieFpqX0dSWXQ1Qks5VUpoZUg1UkE5UFB2dUJVX29oYTJuYmpib25FYjVvYWh2b2syVGNxVEIyejI0NjBnV1Q4bE5YRmdaLUJ5aG5HOW5HOFpaWUZoRjVHQQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFduY2dSNXoxZTlWczhNanU2TTRHd3pZeUpxNFFFeUpkNEFodkJ3SmQyZmFnZmhJaE1ieFpqX0dSWXQ1Qks5VUpoZUg1UkE5UFB2dUJVX29oYTJuYmpib25FYjVvYWh2b2syVGNxVEIyejI0NjBnV1Q4bE5YRmdaLUJ5aG5HOW5HOFpaWUZoRjVHQQ?oc=5</guid>
+<pubDate>Mon, 17 Aug 2026 10:47:57 GMT</pubDate>
 
 </item>
 <item>
@@ -18,6 +39,13 @@
 <link>https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWEV0ZXR6Q2E1d0N6NGFudnptVDdhYzdmRllIR3MxR2hSRXluYnRUTWF4NzlzYnNuZUZrMjQtZzlTQVpFYm9KWkNnQmNZdC1USWtFWDJMbklERU5VVFdrWnZzeHNYLXF3N29nczFDZzg5R1hFeGo1Y05oWEhhLVJ5dFhTWjhKUGUwRjlZWGh4VEJ5MXdIUkZyVW56bWI4UExnNHp1YTFWdUpmaDQxbnJjWFNCM3phSFNwcVRIajNjSkJJUWpDQk5PNE1oMzZIbkdpQXBXSUtLTkhpX2xUWDZzVXhVbXZGeFNJd1RDUUt3UHZmUm00OE5EZdIB_gFBVV95cUxOVlQzT3FMMk51Tk1ZeVFSc1hoWTBnMGpOTDdMTktMLVVreFFzci1CN1F6R3Exdmd1YmJWLU8zbVhPSG5HRnVIM2hnSFUybzMxV2NnaXVOV2dyVGdaRy03cWc4VzlpZDV2bWNYWHZXWk95MEY4TGdaRTA5RGI4ZjRibEJwSXVLcDY2Q1BwRU1KZXB3clo2MnpsYTZiYXVodmwwYzlmQUtQM0J1WlAycHJuRThQaXJOdzZROVJsSzFwT2oyWXFUNjRvbnVPdlJEQXdZNVdvUDV5Ry1MZ0tIX0xhcFFoTlFmVUd1YmhFanV3SkJPUExBTm1fdnFsQmktdw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWEV0ZXR6Q2E1d0N6NGFudnptVDdhYzdmRllIR3MxR2hSRXluYnRUTWF4NzlzYnNuZUZrMjQtZzlTQVpFYm9KWkNnQmNZdC1USWtFWDJMbklERU5VVFdrWnZzeHNYLXF3N29nczFDZzg5R1hFeGo1Y05oWEhhLVJ5dFhTWjhKUGUwRjlZWGh4VEJ5MXdIUkZyVW56bWI4UExnNHp1YTFWdUpmaDQxbnJjWFNCM3phSFNwcVRIajNjSkJJUWpDQk5PNE1oMzZIbkdpQXBXSUtLTkhpX2xUWDZzVXhVbXZGeFNJd1RDUUt3UHZmUm00OE5EZdIB_gFBVV95cUxOVlQzT3FMMk51Tk1ZeVFSc1hoWTBnMGpOTDdMTktMLVVreFFzci1CN1F6R3Exdmd1YmJWLU8zbVhPSG5HRnVIM2hnSFUybzMxV2NnaXVOV2dyVGdaRy03cWc4VzlpZDV2bWNYWHZXWk95MEY4TGdaRTA5RGI4ZjRibEJwSXVLcDY2Q1BwRU1KZXB3clo2MnpsYTZiYXVodmwwYzlmQUtQM0J1WlAycHJuRThQaXJOdzZROVJsSzFwT2oyWXFUNjRvbnVPdlJEQXdZNVdvUDV5Ry1MZ0tIX0xhcFFoTlFmVUd1YmhFanV3SkJPUExBTm1fdnFsQmktdw?oc=5</guid>
 <pubDate>Mon, 17 Aug 2026 10:11:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] At Beijing AI-themed bar, DeepSeek tokens come with the pints - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnRfS09TOFIza3VWYzJ2bHJwa25BOThFODJFdTlFWF9LWWtYNGp3S0VaTkltQ214ckZrMFBZTXFFLVhST1k2UFZqLTNiUGR2WEo0Y2ZLaU9Id1F0TXFLbWdBd0ZSRDU0QUhnVzR4RTVmWXU3Sy02dkxzaUpPLXhOOWN4V2E3VThNd1pwQ3J3cThNX3NYY1hQU1k0dXlZeGR0eTlYME9pRjV2ZlJj?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnRfS09TOFIza3VWYzJ2bHJwa25BOThFODJFdTlFWF9LWWtYNGp3S0VaTkltQ214ckZrMFBZTXFFLVhST1k2UFZqLTNiUGR2WEo0Y2ZLaU9Id1F0TXFLbWdBd0ZSRDU0QUhnVzR4RTVmWXU3Sy02dkxzaUpPLXhOOWN4V2E3VThNd1pwQ3J3cThNX3NYY1hQU1k0dXlZeGR0eTlYME9pRjV2ZlJj?oc=5</guid>
+<pubDate>Mon, 17 Aug 2026 10:09:43 GMT</pubDate>
 
 </item>
 <item>
@@ -119,13 +147,6 @@
 
 </item>
 <item>
-<title>[Google News] Stripe to buy OpenRouter for over $7 billion in major AI deal: Report - News9live</title>
-<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOdEhIdEpmWGd3V01Eam9uNTdjM1NJTy1MVW5XamE3ek43ckx3bDh1WXRlRm5QT25NRHVzckkteG92NG5mSzgxZktCMjFpYktWNlA4d2xyNzFTaG1GS201Nk12REZuS3NUQmxZU3V0ZUNscS1FbWxUeEI0TEZjU2lfWFZaS0ZaUlRiVm5fRTdzRzhVRUlNYXp6TVJscDlpTzREMTNYUlBNNTVsTldaM2xQWGNLdll5LWPSAbwBQVVfeXFMTWpONndHTkNJZVZUMnRCNEFqaE1ONEJVOE5BTVNOOXJoNVRyY2RFTV9ocHVCa1kwdjJlUnBDby1TZzh2Y2o0SkQ4QWFuZ1NabVRkWEhLMlBzSHczTFV4ajd5aF9fWEFSbHduRTVpelM3S2dBVlpyTE43UTVUNGpYV29vYW5DaVBKWUI1NHpSemJUTV9FZGtJX2JSeEFqOXlfa1RYSGdSSjJGSFZXRXNGaFRpYU0yN2JaYkxMVjU?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxOdEhIdEpmWGd3V01Eam9uNTdjM1NJTy1MVW5XamE3ek43ckx3bDh1WXRlRm5QT25NRHVzckkteG92NG5mSzgxZktCMjFpYktWNlA4d2xyNzFTaG1GS201Nk12REZuS3NUQmxZU3V0ZUNscS1FbWxUeEI0TEZjU2lfWFZaS0ZaUlRiVm5fRTdzRzhVRUlNYXp6TVJscDlpTzREMTNYUlBNNTVsTldaM2xQWGNLdll5LWPSAbwBQVVfeXFMTWpONndHTkNJZVZUMnRCNEFqaE1ONEJVOE5BTVNOOXJoNVRyY2RFTV9ocHVCa1kwdjJlUnBDby1TZzh2Y2o0SkQ4QWFuZ1NabVRkWEhLMlBzSHczTFV4ajd5aF9fWEFSbHduRTVpelM3S2dBVlpyTE43UTVUNGpYV29vYW5DaVBKWUI1NHpSemJUTV9FZGtJX2JSeEFqOXlfa1RYSGdSSjJGSFZXRXNGaFRpYU0yN2JaYkxMVjU?oc=5</guid>
-<pubDate>Mon, 17 Aug 2026 04:50:05 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] DeepSeek Harness Launches v0.1, Boosting AI Sector and Domestic Chip Industry - GuruFocus</title>
 <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3ZwaGVMWGRRblJhOGhKUFNTVEpPZHBMei1uRXRrSTd3TW5MSFBUZDFrX2hnQWdrLUxBRGVEZzNjRmZMbHVEclRBdFRTWXp2THo3Y1ZBc3hpTlJTSkVqLXM3SnFKWGVQenZhVm05ZnBKSVlud3lXcmhoTlFBLVlQalpUSV9NTFd1TGJEdUV4Rm1UelM4bENibFgxVDYyNHdHSERIZVZ3bUM4bWFYMlQ3blloZXg?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3ZwaGVMWGRRblJhOGhKUFNTVEpPZHBMei1uRXRrSTd3TW5MSFBUZDFrX2hnQWdrLUxBRGVEZzNjRmZMbHVEclRBdFRTWXp2THo3Y1ZBc3hpTlJTSkVqLXM3SnFKWGVQenZhVm05ZnBKSVlud3lXcmhoTlFBLVlQalpUSV9NTFd1TGJEdUV4Rm1UelM4bENibFgxVDYyNHdHSERIZVZ3bUM4bWFYMlQ3blloZXg?oc=5</guid>
@@ -147,18 +168,18 @@
 
 </item>
 <item>
-<title>[Google News] JPMorgan: GLM-5.3's Endogenous Leap Strengthens Moat; Zhipu Target Price Raised to HK$1,800 - finance.biggo.com</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1VVHgxMkUydFBLbTFSeVRNLUZLRHZoU0JERjdjYzRydk5VYTNJSWZOU3gyX2VzWndsZUFOV2paaVFQN1VUQmlXT29OQ3lLMnNrakQ0bzRISGM0cGpsYlZlSVJUN1Y3UWpkNWlSNUFVTlk4MW9sTXc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE1VVHgxMkUydFBLbTFSeVRNLUZLRHZoU0JERjdjYzRydk5VYTNJSWZOU3gyX2VzWndsZUFOV2paaVFQN1VUQmlXT29OQ3lLMnNrakQ0bzRISGM0cGpsYlZlSVJUN1Y3UWpkNWlSNUFVTlk4MW9sTXc?oc=5</guid>
-<pubDate>Mon, 17 Aug 2026 03:25:00 GMT</pubDate>
-
-</item>
-<item>
 <title>[YouTube] Agent Memory EXPLAINED - Complete Architecture</title>
 <link>https://www.youtube.com/watch?v=aYfZN8t6AQs</link>
 <guid isPermaLink="false">https://www.youtube.com/watch?v=aYfZN8t6AQs</guid>
 <pubDate>Mon, 17 Aug 2026 03:15:35 GMT</pubDate>
 <description>Quick case study persistent memory for AI agents featuring Mem0. The architecture of long form memory for agents goes far beyond a vector search. This deep dive explains Mem0's memory stores, ingestion pipeline, hybrid retrieval with semantic search, BM25 and entity boosting, plus practical open mod</description>
+</item>
+<item>
+<title>[News] New policy ideas for the Intelligence Age</title>
+<link>https://openai.com/index/new-policy-ideas-for-the-intelligence-age</link>
+<guid isPermaLink="false">https://openai.com/index/new-policy-ideas-for-the-intelligence-age</guid>
+<pubDate>Mon, 17 Aug 2026 03:15:00 GMT</pubDate>
+<description>OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.</description>
 </item>
 <item>
 <title>[YouTube] Search vs Computer | Perplexity Academy</title>
@@ -196,7 +217,7 @@
 
 </item>
 <item>
-<title>[Google News] Artificial Intelligence Crypto: MemeToro’s Dry-Run Pipeline Signals a Cautious Approach to AI Launches - streetinsider.com</title>
+<title>[Google News] Artificial Intelligence Crypto: MemeToro’s Dry-Run Pipeline Signals a Cautious Approach to AI Launches - StreetInsider</title>
 <link>https://news.google.com/rss/articles/CBMiggJBVV95cUxOeVJMekg5eGV0bjVxV2JxZWxoR3VubURRelZyQXhFN2pxVWtaczl0YjhmWkowdFh4WTRvbUpMdmlZMEg0UkdtakJNUVNFdTVrM0dKNGdJcDhHODZSOEx3WkFmbXREYWRDaDFMVEVfc2tseVRDV1B4dWpQdUNZLUhxMTBkeUlBOVR4RzFnd2xSVXNzcnJVZzk0aFp1Qkx1bVJCU2FuUTNhWTJqZ3drVWNsVlZGSEpBTVRXclVKeWFZWUtTQ3lueVIzb18zLXBOWjNLUlRNcW95TF9rZWhXV0xpMG53QjZwLVcwUmtLR0Z1UmtzS2JkNGtORk5LZDFmZjVrV0E?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggJBVV95cUxOeVJMekg5eGV0bjVxV2JxZWxoR3VubURRelZyQXhFN2pxVWtaczl0YjhmWkowdFh4WTRvbUpMdmlZMEg0UkdtakJNUVNFdTVrM0dKNGdJcDhHODZSOEx3WkFmbXREYWRDaDFMVEVfc2tseVRDV1B4dWpQdUNZLUhxMTBkeUlBOVR4RzFnd2xSVXNzcnJVZzk0aFp1Qkx1bVJCU2FuUTNhWTJqZ3drVWNsVlZGSEpBTVRXclVKeWFZWUtTQ3lueVIzb18zLXBOWjNLUlRNcW95TF9rZWhXV0xpMG53QjZwLVcwUmtLR0Z1UmtzS2JkNGtORk5LZDFmZjVrV0E?oc=5</guid>
 <pubDate>Sun, 16 Aug 2026 20:35:37 GMT</pubDate>
@@ -259,13 +280,6 @@
 
 </item>
 <item>
-<title>[Google News] AI Drone Swarms: The New Frontline of Warfare - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3ZSQ1dmQ2h4RHFPbUs1REdFcE00SmJrYTI4VDkzS1hDcWNjdXlmT2dtMUc5ZXVRMUlpdEkta1RzQkxoTUVoeVJVUzR4bGFpbmtKY2tnQ1pCY2NBTVZSal9TTHM0bng3UjZKSkxBZ0w2Q0VtaTltdDRvOC00YUpRdGJQT0hZQm0xd2pXUDY5cVlDLW1MajVQSXktOXhPdm9JMXB3TjhILU80U1k?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3ZSQ1dmQ2h4RHFPbUs1REdFcE00SmJrYTI4VDkzS1hDcWNjdXlmT2dtMUc5ZXVRMUlpdEkta1RzQkxoTUVoeVJVUzR4bGFpbmtKY2tnQ1pCY2NBTVZSal9TTHM0bng3UjZKSkxBZ0w2Q0VtaTltdDRvOC00YUpRdGJQT0hZQm0xd2pXUDY5cVlDLW1MajVQSXktOXhPdm9JMXB3TjhILU80U1k?oc=5</guid>
-<pubDate>Sat, 15 Aug 2026 16:04:08 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] Runtime: DeepSeek's new coding harness; Grok levels up - thestack.technology</title>
 <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNcFliMloxbDlDcnNaTWVKQWltWkVXT20yV3FtTXczaklRMlh1UXJiZnZYQWtRYXgyekxuOHY3OUpwRUlwMFFqV0NkaW1SNU1LYjdTYTU1MDIzZUIyMTFqdkhUZWw4UE5mcnlJVy0zS2VJTVRuYWYyZnc4WS03V00wajZDakM4d3ctM1pTMw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAFBVV95cUxNcFliMloxbDlDcnNaTWVKQWltWkVXT20yV3FtTXczaklRMlh1UXJiZnZYQWtRYXgyekxuOHY3OUpwRUlwMFFqV0NkaW1SNU1LYjdTYTU1MDIzZUIyMTFqdkhUZWw4UE5mcnlJVy0zS2VJTVRuYWYyZnc4WS03V00wajZDakM4d3ctM1pTMw?oc=5</guid>
@@ -322,11 +336,25 @@
 <description>​Multi-modal large language models (MLLMs) have advanced general-purpose video understanding but struggle with long, high-resolution videos -- they process every pixel equally in their vision transformers (ViTs) or LLMs despite significant spatiotemporal redundancy. We introduce AutoGaze, a lightwei</description>
 </item>
 <item>
+<title>[Google News] AI startup’s NYC subway ad blitz sparks debate over jobs and technology - SILive.com</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlZ5Sm5hWUp0S1ZtYnRBTW9yUmcxRENJTEE5bnZiYjFjM1Zjdm1xZWUtT25SMVEzcWpxeDlNeE5hckFGVUdzUDFKTGdyZS1FVXVka2hNbXNlQmdBeTN3a0VTQlVDbld6c0RhZjEybXlFX1R3VFZ4aVZMYWJMY0NnQ0JYUXJrSTFyNE1Bdi0xcDFXSHJkUlVMZVZDZW9wN3htSURHTG5YYkFTbmFzbWdkVNIBxAFBVV95cUxQNjRDUHc2dHo2dlJUWFc0U01hb2s1RmxGUHFJR1NfdzJtMlhmcmFoZEQ2dklvS1RyNmR3bHJqNTVpb0tIUEpJMWRIdGNudVF2Nm5PVGtPaDJVUFkxU09pWjhhemk0QThNa29fY09CVk92MnVLeTg1QU5HZV8xR2hsTzljblZzYUxKR2djUjBZTm9OcHktd3JXQkpsR2VNemhvOHF5R3hpaDhMYmtGVmdEdlM4QkxYQWNfV1NvY2Z5Z3pELXBi?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlZ5Sm5hWUp0S1ZtYnRBTW9yUmcxRENJTEE5bnZiYjFjM1Zjdm1xZWUtT25SMVEzcWpxeDlNeE5hckFGVUdzUDFKTGdyZS1FVXVka2hNbXNlQmdBeTN3a0VTQlVDbld6c0RhZjEybXlFX1R3VFZ4aVZMYWJMY0NnQ0JYUXJrSTFyNE1Bdi0xcDFXSHJkUlVMZVZDZW9wN3htSURHTG5YYkFTbmFzbWdkVNIBxAFBVV95cUxQNjRDUHc2dHo2dlJUWFc0U01hb2s1RmxGUHFJR1NfdzJtMlhmcmFoZEQ2dklvS1RyNmR3bHJqNTVpb0tIUEpJMWRIdGNudVF2Nm5PVGtPaDJVUFkxU09pWjhhemk0QThNa29fY09CVk92MnVLeTg1QU5HZV8xR2hsTzljblZzYUxKR2djUjBZTm9OcHktd3JXQkpsR2VNemhvOHF5R3hpaDhMYmtGVmdEdlM4QkxYQWNfV1NvY2Z5Z3pELXBi?oc=5</guid>
+<pubDate>Fri, 14 Aug 2026 21:34:00 GMT</pubDate>
+
+</item>
+<item>
 <title>[YouTube] Oliver Sieberling - Dynamic Short Convolutions Improve Transformers</title>
 <link>https://www.youtube.com/watch?v=DnlXx8DXR5I</link>
 <guid isPermaLink="false">https://www.youtube.com/watch?v=DnlXx8DXR5I</guid>
 <pubDate>Fri, 14 Aug 2026 21:22:12 GMT</pubDate>
 <description>​This talk introduces dynamic short convolutions as a scalable neural network primitive for improving Transformer-based language models. In contrast to static short convolutions, dynamic short convolutions use input-dependent filters, which allows them to adaptively aggregate local context. I will d</description>
+</item>
+<item>
+<title>[Google News] Panama presented the RAM results and advanced toward a human-centered Artificial Intelligence - Unesco</title>
+<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmlmYkVnX21BY0NmeW9fYm4xeDU0NmFpdEl3NUVxcmVyMldEMTlNQ3hJYmFYVXRZMHU5ZFRsVWF3UFNJa3RSRXhkdDlDay1CN3JLdi1WZm1aQWJKeVppZVd0WjlQRzAzbjA3aVlVSzBYeW9hZUdYdkZUVmV6VHZnc05uZUxaZFoyVEtzb09WZllac2ROcXZzaWNOUWNraXZVVjlYaU9Gb245VEhCN213QUgwZzFTa3gtUVF1R1QwNA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmlmYkVnX21BY0NmeW9fYm4xeDU0NmFpdEl3NUVxcmVyMldEMTlNQ3hJYmFYVXRZMHU5ZFRsVWF3UFNJa3RSRXhkdDlDay1CN3JLdi1WZm1aQWJKeVppZVd0WjlQRzAzbjA3aVlVSzBYeW9hZUdYdkZUVmV6VHZnc05uZUxaZFoyVEtzb09WZllac2ROcXZzaWNOUWNraXZVVjlYaU9Gb245VEhCN213QUgwZzFTa3gtUVF1R1QwNA?oc=5</guid>
+<pubDate>Fri, 14 Aug 2026 20:34:01 GMT</pubDate>
+
 </item>
 <item>
 <title>[Google News] DeepSeek's innovative harness treats everything as a plug-in - The Register</title>
@@ -396,34 +424,6 @@
 <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2FId1BnQ0MyY3Rzem9GYVo0blhJUnVqMEpYektCc1F5cy0xS09SODdqOEZrNXZGZE1NVlR6TGFacEw1Uzh6SEtfQzBEU2pfSDRpTW9YRVBoSlJyNElwcmJBOFZmVzIyVHZZS0hhcmJ6cWkzeWlMc2pOQmMwX055Yg?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2FId1BnQ0MyY3Rzem9GYVo0blhJUnVqMEpYektCc1F5cy0xS09SODdqOEZrNXZGZE1NVlR6TGFacEw1Uzh6SEtfQzBEU2pfSDRpTW9YRVBoSlJyNElwcmJBOFZmVzIyVHZZS0hhcmJ6cWkzeWlMc2pOQmMwX055Yg?oc=5</guid>
 <pubDate>Fri, 14 Aug 2026 10:58:24 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Tech Brief (Aug. 14): DeepSeek Launches V4-Pro and Raises API Prices by as Much as 1,100% - Caixin Global</title>
-<link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUUFaX1hrNFZUdVl3QmxFTTdhTHludFRPOUZfdVVyUVhFbS12anB4Q25VWjZxbFFQMFF1NW5TOTBUcUdfN1R1Z1dQRXBGcG9lWUJuSExPbmhpVTRKMW5DUWdiWVQtZ00ySmt5WFIwOUNvQkN3QmMzQloySHBvNFhzbGJ4UjN2OHU5M29RcVFTRXBYZm1kZVlhUEQxdUJLRE1pbEVOdDg2Wk9udHBTbE5ES2VZZHkyamV5NTMzaVk3eXpENVgtSEYxN1lKV2hpdDVoRGZUcg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUUFaX1hrNFZUdVl3QmxFTTdhTHludFRPOUZfdVVyUVhFbS12anB4Q25VWjZxbFFQMFF1NW5TOTBUcUdfN1R1Z1dQRXBGcG9lWUJuSExPbmhpVTRKMW5DUWdiWVQtZ00ySmt5WFIwOUNvQkN3QmMzQloySHBvNFhzbGJ4UjN2OHU5M29RcVFTRXBYZm1kZVlhUEQxdUJLRE1pbEVOdDg2Wk9udHBTbE5ES2VZZHkyamV5NTMzaVk3eXpENVgtSEYxN1lKV2hpdDVoRGZUcg?oc=5</guid>
-<pubDate>Fri, 14 Aug 2026 10:40:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek Price Increase: New V4 Rates, Cache Economics, and DeepSeek Alternatives - Intelligent Living</title>
-<link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5iM0VRZW11ODdrUFVENUt1QUJNdXY4d3lLVHBlLWdPQXFKOEZtYkNocTBVcTNSTGt6T3JLMFk0SnZFSGh3SlFKcDlhNmNfcmlqLV9yd2dnb3N5VWlmeUZWVFRaV0g0VEtKdU9vSUNnOXBfSmhseVRQRmNn?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiekFVX3lxTE5iM0VRZW11ODdrUFVENUt1QUJNdXY4d3lLVHBlLWdPQXFKOEZtYkNocTBVcTNSTGt6T3JLMFk0SnZFSGh3SlFKcDlhNmNfcmlqLV9yd2dnb3N5VWlmeUZWVFRaV0g0VEtKdU9vSUNnOXBfSmhseVRQRmNn?oc=5</guid>
-<pubDate>Fri, 14 Aug 2026 10:26:53 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] 😺 Google, OpenAI, DeepSeek dropped models today - The Neuron</title>
-<link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQTEkzU3JMLURSMkhEV29JU1B0OExCb1RLdUZrRUlfVzVSSFZ1ZW90YzVtLU5XTlhyakRGdFJOa0JJS1NuMnRhbVNyV09DTjBXZU8wTzVZQjVuLVNkRlRld0RYeGFXVDhDS0pIUXZhNkZWMXhQcENsSWlpYzVhb19mTVhR?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxQTEkzU3JMLURSMkhEV29JU1B0OExCb1RLdUZrRUlfVzVSSFZ1ZW90YzVtLU5XTlhyakRGdFJOa0JJS1NuMnRhbVNyV09DTjBXZU8wTzVZQjVuLVNkRlRld0RYeGFXVDhDS0pIUXZhNkZWMXhQcENsSWlpYzVhb19mTVhR?oc=5</guid>
-<pubDate>Fri, 14 Aug 2026 09:35:31 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek V4 Pro launches as US-China open AI model race intensifies - techwireasia.com</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPVUg5RjFfWXA3R1BhYy1nTXBIQmRwQy1qZWhJMEVRQnd6cXFKSVMzcWw0d2l5SlVSMjE4bVM4WEYxdlhVdzI1bldnME5nR3BuRXVqOFVIbnhUaUt6a0ZjSFNCZWFqUDRQWEhReUZDcS1WWGNmX2FNeWVuYVBld1Z1dlRpRQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxPVUg5RjFfWXA3R1BhYy1nTXBIQmRwQy1qZWhJMEVRQnd6cXFKSVMzcWw0d2l5SlVSMjE4bVM4WEYxdlhVdzI1bldnME5nR3BuRXVqOFVIbnhUaUt6a0ZjSFNCZWFqUDRQWEhReUZDcS1WWGNmX2FNeWVuYVBld1Z1dlRpRQ?oc=5</guid>
-<pubDate>Fri, 14 Aug 2026 09:01:24 GMT</pubDate>
 
 </item>
 </channel>
