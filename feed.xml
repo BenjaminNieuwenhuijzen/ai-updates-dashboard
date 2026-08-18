@@ -5,13 +5,48 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 18 Aug 2026 14:53:58 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 16:52:40 GMT</lastBuildDate>
+<item>
+<title>[Developer] Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy</title>
+<link>https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy/</guid>
+<pubDate>Tue, 18 Aug 2026 16:48:08 GMT</pubDate>
+<description>Uniform Manifold Approximation and Projection (UMAP) is a dimensionality reduction technique widely used for visualization and feature extraction. Applications...</description>
+</item>
+<item>
+<title>[Google News] AI chip startup Etched doubles valuation to $21 billion in under a month - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5</guid>
+<pubDate>Tue, 18 Aug 2026 16:11:30 GMT</pubDate>
+
+</item>
+<item>
+<title>[Cloud AI] How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2</title>
+<link>https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/</guid>
+<pubDate>Tue, 18 Aug 2026 16:00:00 +0000</pubDate>
+<description>Enterprise content management is experiencing its biggest architectural shift since the cloud migration era. For years, enterprises have stored trillions of gigabytes of critical data in Box: financial models, clinical trial protocols, M&amp;amp;A due diligence rooms, engineering schematics, and legal c</description>
+</item>
+<item>
+<title>[Cloud AI] Building cost-effective, high-throughput gen AI workflows in Google Dataflow</title>
+<link>https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/</guid>
+<pubDate>Tue, 18 Aug 2026 16:00:00 +0000</pubDate>
+<description>Real-time streaming pipelines are the operational backbone of modern enterprises, continuously processing everything from customer support interactions to transaction logs. Traditionally, streaming DAGs are static; once deployed, their processing logic and execution paths are fixed. However, by inte</description>
+</item>
+<item>
+<title>[Google News] Snowflake Announces Dynamic Model Routing and Expands Access to Deepseek-V4-Flash 0731 and Glm-5.3 in Cortex Ai Gateway - marketscreener.com</title>
+<link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLWxPWHdFWERxd0xmOHhOdW9yOVl3cjNfdW12OWcyNHlqbm1mcjZ5VEhieHBIR3NkNHMyUDlDS0poMzlhYXdqbWM5WkUydVBaM3hPUE1PWnIyZXJrd0VMSHU3eGFDdWo3UkUzNjY1R0x5ZlYwU2RGVmpRR1hRZ09KMW1MVVBKc3hvcTlhNm9JUVlBSXZLYkdnOGl5cG5xcmo4bVFBczdHRVJnMXFuZFpzWU9LOHZZRldUNVlERGtieWRxY1RrR01vM0VzYkFGblkyNktZWU54VW1xdndzbjV5NV83MWF1VEZv?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLWxPWHdFWERxd0xmOHhOdW9yOVl3cjNfdW12OWcyNHlqbm1mcjZ5VEhieHBIR3NkNHMyUDlDS0poMzlhYXdqbWM5WkUydVBaM3hPUE1PWnIyZXJrd0VMSHU3eGFDdWo3UkUzNjY1R0x5ZlYwU2RGVmpRR1hRZ09KMW1MVVBKc3hvcTlhNm9JUVlBSXZLYkdnOGl5cG5xcmo4bVFBczdHRVJnMXFuZFpzWU9LOHZZRldUNVlERGtieWRxY1RrR01vM0VzYkFGblkyNktZWU54VW1xdndzbjV5NV83MWF1VEZv?oc=5</guid>
+<pubDate>Tue, 18 Aug 2026 15:36:20 GMT</pubDate>
+
+</item>
 <item>
 <title>[Cloud AI] Building operational resilience with agentic AI in financial services</title>
 <link>https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/</guid>
 <pubDate>Tue, 18 Aug 2026 14:00:00 +0000</pubDate>
-<description>For financial institutions, operational resilience has long been embedded in regulatory and supervisory expectations — to say nothing of the high expectations of consumers. With the implementation of the European Union’s Digital Operational Resiliency Act (DORA) , those expectations have become even</description>
+<description>For financial institutions, operational resilience has long been embedded in regulatory and supervisory expectations — to say nothing of the high expectations of consumers. With the implementation of the European Union’s Digital Operational Resiliency Act (DORA), those expectations have become even </description>
 </item>
 <item>
 <title>[Google News] Breitbart News to Host Policy Event ‘AI Is Here: What to Fear, What to Embrace’ - breitbart.com</title>
@@ -28,7 +63,7 @@
 
 </item>
 <item>
-<title>[Google News] Snowflake Wants to Stop You From Overpaying for Easy AI Tasks - theaieconomy.substack.com</title>
+<title>[Google News] Snowflake Wants to Stop You From Overpaying for Easy AI Tasks - The AI Economy | Ken Yeung</title>
 <link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUEg2V1AybnctZVBhMkRjLTlZemlLNm02Ui1PRTZjcHJZRkdqV0Utc0IyazRNUWZKVnltWktERU5NcGwzS2Vweml2alVkSkpwVEdhZlBuNmZNaXM3cHBLQlppQVVTVHVCb0Z4UHFOOXNuLTNGWDFaM3hFMHJGYUs5UUltZk5SVGZUZlhST0YwckRydGVtZkxQS0lXajd5dHRaSGYyaGpmRzYtcS1VUzc3M0dnY1oydDlOZG9qNHFpV29tZ0tXR0VaMmpPVDZfT3JtWmtSaU93S25qeHlrM0tIWWU5ZzFfYlZLMnFiT3RLcFRRX0U?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUEg2V1AybnctZVBhMkRjLTlZemlLNm02Ui1PRTZjcHJZRkdqV0Utc0IyazRNUWZKVnltWktERU5NcGwzS2Vweml2alVkSkpwVEdhZlBuNmZNaXM3cHBLQlppQVVTVHVCb0Z4UHFOOXNuLTNGWDFaM3hFMHJGYUs5UUltZk5SVGZUZlhST0YwckRydGVtZkxQS0lXajd5dHRaSGYyaGpmRzYtcS1VUzc3M0dnY1oydDlOZG9qNHFpV29tZ0tXR0VaMmpPVDZfT3JtWmtSaU93S25qeHlrM0tIWWU5ZzFfYlZLMnFiT3RLcFRRX0U?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 13:03:40 GMT</pubDate>
@@ -49,7 +84,7 @@
 
 </item>
 <item>
-<title>[Google News] Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu - scmp.com</title>
+<title>[Google News] Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu - South China Morning Post</title>
 <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVNJbE00UDhJSkVIaktiZTNYR01uZTVVNXd1SV9yMGpJM2dILU1SeWVFQXphS0dmYVNsekZrckVQVkNQNndYaWkxS1lKdXJRdE5MWVFJVVJvNHNPWlVUcVhJc2lRbFRiMFdhODdJeXJuTjZNcTg4enJpbEhMdTYxaDlpenFsSDVWUENpcDdxalM5UWR3OG10dUlMYXNSRjNhdGRYX04wN2s2aF9mb2hfbjJHY1FJT1F2WS1TQU8yc3NXMlFxSEtxX29Caw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVNJbE00UDhJSkVIaktiZTNYR01uZTVVNXd1SV9yMGpJM2dILU1SeWVFQXphS0dmYVNsekZrckVQVkNQNndYaWkxS1lKdXJRdE5MWVFJVVJvNHNPWlVUcVhJc2lRbFRiMFdhODdJeXJuTjZNcTg4enJpbEhMdTYxaDlpenFsSDVWUENpcDdxalM5UWR3OG10dUlMYXNSRjNhdGRYX04wN2s2aF9mb2hfbjJHY1FJT1F2WS1TQU8yc3NXMlFxSEtxX29Caw?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 12:00:05 GMT</pubDate>
@@ -60,6 +95,13 @@
 <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1RUX0hsd3JSTUh3ZzQyM09NeUlDclVQV3dqV1h4WkdPVWpUUDBORlMzMDNtNUctWVV0LTkyUkJPdkp0SDYxREhIcmlUVDU0dlZNWlVrcmRCSHZDazdXMFRQMEkzUWVuWnNidTQ0Q1RtUzMxdVpGTHBfYTYxT2NZd3hJSW55U3BLaGFvd2FjQVp5SFdWX1VPanpSYmdHMUEtVDNKUlgyNVVLMFFkYTctYXpVUDhQZw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1RUX0hsd3JSTUh3ZzQyM09NeUlDclVQV3dqV1h4WkdPVWpUUDBORlMzMDNtNUctWVV0LTkyUkJPdkp0SDYxREhIcmlUVDU0dlZNWlVrcmRCSHZDazdXMFRQMEkzUWVuWnNidTQ0Q1RtUzMxdVpGTHBfYTYxT2NZd3hJSW55U3BLaGFvd2FjQVp5SFdWX1VPanpSYmdHMUEtVDNKUlgyNVVLMFFkYTctYXpVUDhQZw?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 11:19:11 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] At Beijing’s AI-themed bar, DeepSeek tokens buy you beer - The Drinks Business</title>
+<link>https://news.google.com/rss/articles/CBMingFBVV95cUxPM09WMHhleDBjMVIwQnFKMTg3RHZSY21sVmZDUXVIbmhydG5EaVl6MnBuaVUwRDVWZWlBUUpPQUJiN1E4VU1CT1JYODFsaWhvVExPYVpQWDZiZm9QRTZGZG9GNFNOTWRzRHdmdEVKVnY0bGZvUHUtcWZHM3pseTJidmNWaEZ2QTNjMHk4TW1ORklob1NpZjZFcW1tU3dxUQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxPM09WMHhleDBjMVIwQnFKMTg3RHZSY21sVmZDUXVIbmhydG5EaVl6MnBuaVUwRDVWZWlBUUpPQUJiN1E4VU1CT1JYODFsaWhvVExPYVpQWDZiZm9QRTZGZG9GNFNOTWRzRHdmdEVKVnY0bGZvUHUtcWZHM3pseTJidmNWaEZ2QTNjMHk4TW1ORklob1NpZjZFcW1tU3dxUQ?oc=5</guid>
+<pubDate>Tue, 18 Aug 2026 11:18:53 GMT</pubDate>
 
 </item>
 <item>
@@ -91,20 +133,6 @@
 <description>ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.</description>
 </item>
 <item>
-<title>[Google News] At Beijing’s AI-themed bar, DeepSeek tokens buy you beer - The Drinks Business</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxPM09WMHhleDBjMVIwQnFKMTg3RHZSY21sVmZDUXVIbmhydG5EaVl6MnBuaVUwRDVWZWlBUUpPQUJiN1E4VU1CT1JYODFsaWhvVExPYVpQWDZiZm9QRTZGZG9GNFNOTWRzRHdmdEVKVnY0bGZvUHUtcWZHM3pseTJidmNWaEZ2QTNjMHk4TW1ORklob1NpZjZFcW1tU3dxUQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxPM09WMHhleDBjMVIwQnFKMTg3RHZSY21sVmZDUXVIbmhydG5EaVl6MnBuaVUwRDVWZWlBUUpPQUJiN1E4VU1CT1JYODFsaWhvVExPYVpQWDZiZm9QRTZGZG9GNFNOTWRzRHdmdEVKVnY0bGZvUHUtcWZHM3pseTJidmNWaEZ2QTNjMHk4TW1ORklob1NpZjZFcW1tU3dxUQ?oc=5</guid>
-<pubDate>Tue, 18 Aug 2026 10:43:54 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Texas Tech Deploys Artificial Intelligence to Purge Left-Leaning University Curriculum - streamlinefeed.co.ke</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWdkOFdaSkdlTWYtWDYzeW5XcUJQOXJzTlpfNFhKME41N0xLdncxQURUZHd5MFFVT09xc2JqWUZYZzd2UDlaWl9FcDlWMnFmV1RmTGZSa1pYdEFxTDkwamMtbDk1WFRydkd6bVpsM3ZhNlczRVFzM1FmN0ljaTFwVmJaU2ZsOVVxUjRLUjJ1WVRGSUY0eTdMd2t3MEVzcUtJMVNiX0Q0LTZvNnZNU2pBMnh6N1RPLVRvMXhJNg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWdkOFdaSkdlTWYtWDYzeW5XcUJQOXJzTlpfNFhKME41N0xLdncxQURUZHd5MFFVT09xc2JqWUZYZzd2UDlaWl9FcDlWMnFmV1RmTGZSa1pYdEFxTDkwamMtbDk1WFRydkd6bVpsM3ZhNlczRVFzM1FmN0ljaTFwVmJaU2ZsOVVxUjRLUjJ1WVRGSUY0eTdMd2t3MEVzcUtJMVNiX0Q0LTZvNnZNU2pBMnh6N1RPLVRvMXhJNg?oc=5</guid>
-<pubDate>Tue, 18 Aug 2026 10:13:46 GMT</pubDate>
-
-</item>
-<item>
 <title>[MIT Tech Review] We still don’t know how people are really using AI</title>
 <link>https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/</link>
 <guid isPermaLink="false">https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/</guid>
@@ -116,6 +144,13 @@
 <link>https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTzFQUXFaVlB1czhXWVkyMEpSSFVCemNzazVwankzV0w0QU9iTWpTczlFcU1fWXZVbV9WcTNwQnM4UUlOOVBfX3lSWjRtSndwS0lCZUlYano3YW5VLVl6RHBEWVVQWWZhZTZldTdaeDBUWXlaQzNoOTJSbjcwMVV0cUt1d1FLdXZHR3hKaWU5dDBmMWhVWkswaFBPdk1vMDhpVnNKQURRZmczR2NWLTluNEEycjdlblhWR0s4YmhBSEFieGl4cXZXcEltRnlWMFZrZmw3M094LTRWdXAwOWtWQjRsQl9jdUlnMjJEbWwxTDRBNkFPd21NNGxhM2Nqb21YbzJSZG8zUExtQ0NpZkRjN1h6ak5wQVhqWml5aXMwNXhKZkNxbktZWkF3aGVpSDlVV21oQVNHa3hiTDVyMkM3Rl81UG9LekVqVVVJTXR5UzZnLXY3NHJGSUdzYnhncjY3eVFn?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTzFQUXFaVlB1czhXWVkyMEpSSFVCemNzazVwankzV0w0QU9iTWpTczlFcU1fWXZVbV9WcTNwQnM4UUlOOVBfX3lSWjRtSndwS0lCZUlYano3YW5VLVl6RHBEWVVQWWZhZTZldTdaeDBUWXlaQzNoOTJSbjcwMVV0cUt1d1FLdXZHR3hKaWU5dDBmMWhVWkswaFBPdk1vMDhpVnNKQURRZmczR2NWLTluNEEycjdlblhWR0s4YmhBSEFieGl4cXZXcEltRnlWMFZrZmw3M094LTRWdXAwOWtWQjRsQl9jdUlnMjJEbWwxTDRBNkFPd21NNGxhM2Nqb21YbzJSZG8zUExtQ0NpZkRjN1h6ak5wQVhqWml5aXMwNXhKZkNxbktZWkF3aGVpSDlVV21oQVNHa3hiTDVyMkM3Rl81UG9LekVqVVVJTXR5UzZnLXY3NHJGSUdzYnhncjY3eVFn?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 09:00:17 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Texas Tech Deploys Artificial Intelligence to Purge Left-Leaning University Curriculum - streamlinefeed.co.ke</title>
+<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWdkOFdaSkdlTWYtWDYzeW5XcUJQOXJzTlpfNFhKME41N0xLdncxQURUZHd5MFFVT09xc2JqWUZYZzd2UDlaWl9FcDlWMnFmV1RmTGZSa1pYdEFxTDkwamMtbDk1WFRydkd6bVpsM3ZhNlczRVFzM1FmN0ljaTFwVmJaU2ZsOVVxUjRLUjJ1WVRGSUY0eTdMd2t3MEVzcUtJMVNiX0Q0LTZvNnZNU2pBMnh6N1RPLVRvMXhJNg?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWdkOFdaSkdlTWYtWDYzeW5XcUJQOXJzTlpfNFhKME41N0xLdncxQURUZHd5MFFVT09xc2JqWUZYZzd2UDlaWl9FcDlWMnFmV1RmTGZSa1pYdEFxTDkwamMtbDk1WFRydkd6bVpsM3ZhNlczRVFzM1FmN0ljaTFwVmJaU2ZsOVVxUjRLUjJ1WVRGSUY0eTdMd2t3MEVzcUtJMVNiX0Q0LTZvNnZNU2pBMnh6N1RPLVRvMXhJNg?oc=5</guid>
+<pubDate>Tue, 18 Aug 2026 09:00:07 GMT</pubDate>
 
 </item>
 <item>
@@ -140,21 +175,21 @@
 
 </item>
 <item>
-<title>[Google News] AI Industry Daily — Monday, August 17, 2026 - buttondown.com</title>
+<title>[Google News] AI Industry Daily — Monday, August 17, 2026 - Buttondown</title>
 <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOQmx4S1VRNFFrRHdybkdRUGR1X2hPRE0yRTNiYzNoRlR1TkhlU2xJWEIyNVBjMFhZWkNVZU9pN2VMb05TMkdwM1BmZF9BNlJvU0ZaNk41V0d0SW9oSHBncjRDMV9zQUs0dE85TUtEZmFJbjA0OUJuSl9DdlBzUmFQbEwwUkIyWGM2UE1USHZ2UGk?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxOQmx4S1VRNFFrRHdybkdRUGR1X2hPRE0yRTNiYzNoRlR1TkhlU2xJWEIyNVBjMFhZWkNVZU9pN2VMb05TMkdwM1BmZF9BNlJvU0ZaNk41V0d0SW9oSHBncjRDMV9zQUs0dE85TUtEZmFJbjA0OUJuSl9DdlBzUmFQbEwwUkIyWGM2UE1USHZ2UGk?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 08:07:38 GMT</pubDate>
 
 </item>
 <item>
-<title>[Google News] Unitree set for STAR Market debut Wednesday, may reshape humanoid robot valuations as DeepSeek participates in strategic placement - Global Times</title>
-<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xRXVJbUxlT29WdzVhaDFtMVVkZkR2ZVlaT0dEUWFCSF9WZFZrdm5KalVTM0g0M3FLSTNUMjlpZWJrbmtzalhYNFhxa1E5TkZwSE9jdFA0aXZuM1loREJBcXpB?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xRXVJbUxlT29WdzVhaDFtMVVkZkR2ZVlaT0dEUWFCSF9WZFZrdm5KalVTM0g0M3FLSTNUMjlpZWJrbmtzalhYNFhxa1E5TkZwSE9jdFA0aXZuM1loREJBcXpB?oc=5</guid>
-<pubDate>Tue, 18 Aug 2026 08:00:00 GMT</pubDate>
-
+<title>[News] Asana cleared 5 years of engineering work in 2 weeks with Codex</title>
+<link>https://openai.com/index/asana</link>
+<guid isPermaLink="false">https://openai.com/index/asana</guid>
+<pubDate>Tue, 18 Aug 2026 07:00:00 GMT</pubDate>
+<description>Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.</description>
 </item>
 <item>
-<title>[Google News] At Beijing AI-themed bar, DeepSeek tokens come with the pints - The Economic Times</title>
+<title>[Google News] At Beijing AI-themed bar, DeepSeek tokens come with the pints - economictimes.indiatimes.com</title>
 <link>https://news.google.com/rss/articles/CBMixAJBVV95cUxPOTRQRURVVG4yTkt1ekhDQ2NBenJfTHBWZVVnODVwYlBoZGRkSTdwTmNrc3hvdnBlLVZiR1Jta1BVa2JXVEN5VWJQTmxhZTVMVXQ4T0djVGNFUDhEaDBzZGwxSVRlZnNORDE0Y3VkTld2OXYtbkV0X0MxdGRJTVFKeVd0eFB3Sm5VSElMOG45bWFxQTVSUkV4TGRWY25hcEp3NnlsbzlCTGhoQXJTSmc2Tk5RUnNSSUtiSkRvU3pnaF9Ld3ctaXhadTlSZ3FTelRJd1cwT0E1NG9QVjB3dGZJbGZvMUNPYjlmdU9uZ09VVnFvUlRtT1REN1pJY2NzZXR2TW5QWS0xcmxUeVB0c1JHMlV0MzVrdV80QlExSXNJMVBSN2h0aWJDT25RQll6QmhUNmgyaGpsbTB0VGJaN29ENDJQTk3SAeABQVVfeXFMTVdIVjJ5eTFQekpGNXB6MVI5N0tPbHA2VGFpeWlkVnR4cHlSbHpBQ054Tno5RWhFYk5Qbk1HR004ZVhOZ2lTWHFNbldvcUFiWFlWUkdVRFg3Si13TER6YVdiM2MtZHRDVklpbm1xaDFuRWFOZnBic3ppWU5xY2RBUkQwZ1E2QVhDb0VoZG82amctYlJmUWI4bk5WLXdCR0FFZDRld0E3NDlpemJYUDVQbnpNV094VkEwY1B5ODRRa0dtc1BLQk5sN0ZXSFBEVXplbWZBaTYwNnZVVEgxQmt2ZVc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAJBVV95cUxPOTRQRURVVG4yTkt1ekhDQ2NBenJfTHBWZVVnODVwYlBoZGRkSTdwTmNrc3hvdnBlLVZiR1Jta1BVa2JXVEN5VWJQTmxhZTVMVXQ4T0djVGNFUDhEaDBzZGwxSVRlZnNORDE0Y3VkTld2OXYtbkV0X0MxdGRJTVFKeVd0eFB3Sm5VSElMOG45bWFxQTVSUkV4TGRWY25hcEp3NnlsbzlCTGhoQXJTSmc2Tk5RUnNSSUtiSkRvU3pnaF9Ld3ctaXhadTlSZ3FTelRJd1cwT0E1NG9QVjB3dGZJbGZvMUNPYjlmdU9uZ09VVnFvUlRtT1REN1pJY2NzZXR2TW5QWS0xcmxUeVB0c1JHMlV0MzVrdV80QlExSXNJMVBSN2h0aWJDT25RQll6QmhUNmgyaGpsbTB0VGJaN29ENDJQTk3SAeABQVVfeXFMTVdIVjJ5eTFQekpGNXB6MVI5N0tPbHA2VGFpeWlkVnR4cHlSbHpBQ054Tno5RWhFYk5Qbk1HR004ZVhOZ2lTWHFNbldvcUFiWFlWUkdVRFg3Si13TER6YVdiM2MtZHRDVklpbm1xaDFuRWFOZnBic3ppWU5xY2RBUkQwZ1E2QVhDb0VoZG82amctYlJmUWI4bk5WLXdCR0FFZDRld0E3NDlpemJYUDVQbnpNV094VkEwY1B5ODRRa0dtc1BLQk5sN0ZXSFBEVXplbWZBaTYwNnZVVEgxQmt2ZVc?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 06:41:28 GMT</pubDate>
@@ -175,14 +210,14 @@
 
 </item>
 <item>
-<title>[Google News] Qwen3 8-27B Model Challenges Frontier AI Performance - StartupHub.ai</title>
+<title>[Google News] Qwen3 8-27B Model Challenges Frontier AI Performance - startuphub.ai</title>
 <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxONExfN1NEaklzaEtjNHNFQ1VUUEZGUDRKbHJpcU5oRmtWekRlM2lZOTRENTExMmhpdWdVMWsxeWo4VXF2MHhhOTk2S3l3NTV5SHhUS0JsWGhTOENxdzdod2lUelZtUUxudFF5QjRkcDJDLXhVLXZUU3cyd1NPMXFPSnAydGdmZDBhU1JES0ZxLU5INlNCRlVDdmhjc3NZSEFmNWlRdnVLQ2VpMFRlbjRBN3VudDNadw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxONExfN1NEaklzaEtjNHNFQ1VUUEZGUDRKbHJpcU5oRmtWekRlM2lZOTRENTExMmhpdWdVMWsxeWo4VXF2MHhhOTk2S3l3NTV5SHhUS0JsWGhTOENxdzdod2lUelZtUUxudFF5QjRkcDJDLXhVLXZUU3cyd1NPMXFPSnAydGdmZDBhU1JES0ZxLU5INlNCRlVDdmhjc3NZSEFmNWlRdnVLQ2VpMFRlbjRBN3VudDNadw?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 04:02:21 GMT</pubDate>
 
 </item>
 <item>
-<title>[Google News] Why China’s Affordable AI Is a Worry for Silicon Valley - Bloomberg.com</title>
+<title>[Google News] Why China’s Affordable AI Is a Worry for Silicon Valley - bloomberg.com</title>
 <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHlXQnR2VElTbFIwRjFSbm5aVW4wdTJHWE9LdnAyLWZSbWh2WkF2R0J4d1Q1Y2xkenF3ZVU1WmlpX0w3dzQ0TEpRbHBRU2MzVUsta19LLTdQZk8zY2JsY3dVLVFMdWpPRmRuNHdGUGlwT0o0UElVSWNRQzd2bXMzSE8xVTd3Unl6dzREMEFCc0FPSFJRUllhU01aelRSdk14a292TTIteV9uQnpVYThGTDN6Y043SDI1M1E?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHlXQnR2VElTbFIwRjFSbm5aVW4wdTJHWE9LdnAyLWZSbWh2WkF2R0J4d1Q1Y2xkenF3ZVU1WmlpX0w3dzQ0TEpRbHBRU2MzVUsta19LLTdQZk8zY2JsY3dVLVFMdWpPRmRuNHdGUGlwT0o0UElVSWNRQzd2bXMzSE8xVTd3Unl6dzREMEFCc0FPSFJRUllhU01aelRSdk14a292TTIteV9uQnpVYThGTDN6Y043SDI1M1E?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 04:01:00 GMT</pubDate>
@@ -210,28 +245,28 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek to get a 'significant' price hike soon - Mashable</title>
+<title>[Google News] DeepSeek to get a 'significant' price hike soon - mashable.com</title>
 <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1TYnlmRGFncUZmMnl4UTNuNVp2ZzdUS0I1U215ZXBRVmE5Z1UzZVVTMzBZQWZRZm5uS0I2dlpRREhqWXR6dDczYUlOclJncmJMWVc4bzA5QVdpWFYwMXBTQTJYS2V1VDZsWWc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiakFVX3lxTE1TYnlmRGFncUZmMnl4UTNuNVp2ZzdUS0I1U215ZXBRVmE5Z1UzZVVTMzBZQWZRZm5uS0I2dlpRREhqWXR6dDczYUlOclJncmJMWVc4bzA5QVdpWFYwMXBTQTJYS2V1VDZsWWc?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 00:40:55 GMT</pubDate>
 
 </item>
 <item>
-<title>[Google News] Databricks Hits 200ms Feature Freshness - StartupHub.ai</title>
+<title>[Google News] Databricks Hits 200ms Feature Freshness - startuphub.ai</title>
 <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQcDdrVjlyTnZPZ2ZlZXFJVkJnTWNMV1p5akl3clJtTnViTWZnTDZwcVF5ZTh6SkNVbGIxaHk1QmJ6bGo5Z0lRS09acmVEbkl1bGhPMTNMa19wcWFNakJ2QlFxLTF3Rjd2bWhHeWxHUWFJMUd6YkIyMXNRaXVSYnh6ZmFiYkZwNGZQRGxOc2JPaWNndE9taXl3V2hZMXAwbzI5THJNWQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxQcDdrVjlyTnZPZ2ZlZXFJVkJnTWNMV1p5akl3clJtTnViTWZnTDZwcVF5ZTh6SkNVbGIxaHk1QmJ6bGo5Z0lRS09acmVEbkl1bGhPMTNMa19wcWFNakJ2QlFxLTF3Rjd2bWhHeWxHUWFJMUd6YkIyMXNRaXVSYnh6ZmFiYkZwNGZQRGxOc2JPaWNndE9taXl3V2hZMXAwbzI5THJNWQ?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 00:09:53 GMT</pubDate>
 
 </item>
 <item>
-<title>[Google News] Snowflake Builds AI Context Layer - StartupHub.ai</title>
+<title>[Google News] Snowflake Builds AI Context Layer - startuphub.ai</title>
 <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUgxNW9BS09JcGtXUDdIbkYzZGxBWHJVSnJMYmNvOW5YZWFjSWlYTUk3ZDZEYmI5RGk1RFI2UXM0MXdVUjhMeElENWlUZFpEaF9Yc0s2WGVGMHBucHhkYjFraVI1VTgzeFR0cUNmNHpPa3hMMThrWmEwbmFiNXBhbGdkWmQtU0c4RjlsbTRhV0RoZXdaZElGcUVERlc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUgxNW9BS09JcGtXUDdIbkYzZGxBWHJVSnJMYmNvOW5YZWFjSWlYTUk3ZDZEYmI5RGk1RFI2UXM0MXdVUjhMeElENWlUZFpEaF9Yc0s2WGVGMHBucHhkYjFraVI1VTgzeFR0cUNmNHpPa3hMMThrWmEwbmFiNXBhbGdkWmQtU0c4RjlsbTRhV0RoZXdaZElGcUVERlc?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 00:04:27 GMT</pubDate>
 
 </item>
 <item>
-<title>[Google News] Qwen3.8 27B Challenges GPT-5.6 and DeepSeek V4 in Benchmarks - StartupHub.ai</title>
+<title>[Google News] Qwen3.8 27B Challenges GPT-5.6 and DeepSeek V4 in Benchmarks - startuphub.ai</title>
 <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHpERmVSbGtOOFoyRmM3Yk1CMmVZVGpWNzg3dEFJSGdia1Brb3J3Q044NzBzUndRaDJhS1NfRXdHQVprWjNQNG9USzRXMUVIcVRrSnlDRzh3UEJXMklJdFpULUxvbF94Vl8tMEFmbmk4OXZUa3FmVHdkSHdzQkJYcnN6alg4a0tZRC12OWlkUzBJMTFCcW91eV9NaTBvWm1tTGhYOTdvS2s2MFRqN1lqMDEtclRCUFhiM2tyVmdra3o?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHpERmVSbGtOOFoyRmM3Yk1CMmVZVGpWNzg3dEFJSGdia1Brb3J3Q044NzBzUndRaDJhS1NfRXdHQVprWjNQNG9USzRXMUVIcVRrSnlDRzh3UEJXMklJdFpULUxvbF94Vl8tMEFmbmk4OXZUa3FmVHdkSHdzQkJYcnN6alg4a0tZRC12OWlkUzBJMTFCcW91eV9NaTBvWm1tTGhYOTdvS2s2MFRqN1lqMDEtclRCUFhiM2tyVmdra3o?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 00:02:09 GMT</pubDate>
@@ -252,13 +287,6 @@
 
 </item>
 <item>
-<title>[Google News] Artificial intelligence (AI) startup Antropics has surpassed $65 billion (about 92 trillion won) in - 매일경제</title>
-<link>https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjVHFJZ1hpYlI2UFd4S0x2UUtGSnpiNDNKb2VuZzJ5UGtZVjRsQm1RTFJWSXl6V1VuejNoVHJzbnU4T2t5VC13YjR6NA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjVHFJZ1hpYlI2UFd4S0x2UUtGSnpiNDNKb2VuZzJ5UGtZVjRsQm1RTFJWSXl6V1VuejNoVHJzbnU4T2t5VC13YjR6NA?oc=5</guid>
-<pubDate>Mon, 17 Aug 2026 23:34:06 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] Grok Gets Smarter, Gemini Faster: AI Model War Rages Over Performance, Speed and Price - thelec.net</title>
 <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZNnlTVk5mNmlJbVBQYmFTcG5lTWtvb3U1X1FtU3hXR3VxU1U1aFZwbUE0Ul8tai1JZUhvenNUVi1VRXJ1OU9hWmFLbXF5b0xHTnJVYk9kbURSSVBqa0ZHWWdzUW1fWlU?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZNnlTVk5mNmlJbVBQYmFTcG5lTWtvb3U1X1FtU3hXR3VxU1U1aFZwbUE0Ul8tai1JZUhvenNUVi1VRXJ1OU9hWmFLbXF5b0xHTnJVYk9kbURSSVBqa0ZHWWdzUW1fWlU?oc=5</guid>
@@ -266,7 +294,7 @@
 
 </item>
 <item>
-<title>[Google News] Strategy shift: DeepSeek sharply raises prices - Table.Briefings</title>
+<title>[Google News] Strategy shift: DeepSeek sharply raises prices - table.media</title>
 <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOSVlxZk90WmFrWHBaa3p5aS1sMkFrQzBCenRiZkJGZ2JMZDBnOXpydmNiTUFYVUU2WXAzNklkRDRFMnJUNUZDX0VLQTQ3Wk5DOXV5RTlqOE51dnN5eF9oMlUzOUh6MHZfY1hkOHVOVXBtaWo1M1JVcThnRkhCMWVOWkpDMi1BUQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxOSVlxZk90WmFrWHBaa3p5aS1sMkFrQzBCenRiZkJGZ2JMZDBnOXpydmNiTUFYVUU2WXAzNklkRDRFMnJUNUZDX0VLQTQ3Wk5DOXV5RTlqOE51dnN5eF9oMlUzOUh6MHZfY1hkOHVOVXBtaWo1M1JVcThnRkhCMWVOWkpDMi1BUQ?oc=5</guid>
 <pubDate>Mon, 17 Aug 2026 20:16:33 GMT</pubDate>
@@ -396,34 +424,6 @@
 <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNUlRqeWhnU2Z5UzVnbi05WDdOWEE1ZXpFeGNtOTcwOVU1cGM5QzJhWnQxN1AyUmVwTVNvWDdrU1NQLXROVHV6WWdSQ1ZuMnBFWlhIV29PeS10bk1pTGRjNDczcDQ1SVlwMzZsVmZqUWFFNUpER3ltTjlqTHVjNnVNTVpZRFNZZ29SLW5WZ3IydWdTaURta00yc3BQdjBSOWJXeHBr?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxNUlRqeWhnU2Z5UzVnbi05WDdOWEE1ZXpFeGNtOTcwOVU1cGM5QzJhWnQxN1AyUmVwTVNvWDdrU1NQLXROVHV6WWdSQ1ZuMnBFWlhIV29PeS10bk1pTGRjNDczcDQ1SVlwMzZsVmZqUWFFNUpER3ltTjlqTHVjNnVNTVpZRFNZZ29SLW5WZ3IydWdTaURta00yc3BQdjBSOWJXeHBr?oc=5</guid>
 <pubDate>Mon, 17 Aug 2026 06:24:28 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] China’s DeepSeek raises API prices amid push for healthier commercialization - Global Times</title>
-<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FV0ZucjRMVENzOWh4VG5IZnlpYUdaaENGeDBuT0xtOGNGNEVvR2RCTUJnWlVPUnR1NXVhTnVSdVRrWmQxWDRfQXlrbEZkNWNZRDNkYnMxT0dqel8zVkVabXJR?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FV0ZucjRMVENzOWh4VG5IZnlpYUdaaENGeDBuT0xtOGNGNEVvR2RCTUJnWlVPUnR1NXVhTnVSdVRrWmQxWDRfQXlrbEZkNWNZRDNkYnMxT0dqel8zVkVabXJR?oc=5</guid>
-<pubDate>Mon, 17 Aug 2026 05:36:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[News] The Defender’s Window</title>
-<link>https://openai.com/index/the-defenders-window</link>
-<guid isPermaLink="false">https://openai.com/index/the-defenders-window</guid>
-<pubDate>Mon, 17 Aug 2026 05:30:00 GMT</pubDate>
-<description>AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.</description>
-</item>
-<item>
-<title>[News] OpenAI joins PORTS-Pike project</title>
-<link>https://openai.com/index/openai-joins-ports-pike-project</link>
-<guid isPermaLink="false">https://openai.com/index/openai-joins-ports-pike-project</guid>
-<pubDate>Mon, 17 Aug 2026 05:00:00 GMT</pubDate>
-<description>OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs</description>
-</item>
-<item>
-<title>[Google News] DeepSeek Harness Launches v0.1, Boosting AI Sector and Domestic Chip Industry - GuruFocus</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3ZwaGVMWGRRblJhOGhKUFNTVEpPZHBMei1uRXRrSTd3TW5MSFBUZDFrX2hnQWdrLUxBRGVEZzNjRmZMbHVEclRBdFRTWXp2THo3Y1ZBc3hpTlJTSkVqLXM3SnFKWGVQenZhVm05ZnBKSVlud3lXcmhoTlFBLVlQalpUSV9NTFd1TGJEdUV4Rm1UelM4bENibFgxVDYyNHdHSERIZVZ3bUM4bWFYMlQ3blloZXg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3ZwaGVMWGRRblJhOGhKUFNTVEpPZHBMei1uRXRrSTd3TW5MSFBUZDFrX2hnQWdrLUxBRGVEZzNjRmZMbHVEclRBdFRTWXp2THo3Y1ZBc3hpTlJTSkVqLXM3SnFKWGVQenZhVm05ZnBKSVlud3lXcmhoTlFBLVlQalpUSV9NTFd1TGJEdUV4Rm1UelM4bENibFgxVDYyNHdHSERIZVZ3bUM4bWFYMlQ3blloZXg?oc=5</guid>
-<pubDate>Mon, 17 Aug 2026 04:25:20 GMT</pubDate>
 
 </item>
 </channel>
