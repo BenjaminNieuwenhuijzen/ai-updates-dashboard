@@ -5,11 +5,11 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Wed, 19 Aug 2026 19:28:28 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 20:50:16 GMT</lastBuildDate>
 <item>
 <title>[News] Offering Zero Data Retention for frontier models</title>
-<link>https://openai.com/index/our-commitment-to-zero-data-retention</link>
-<guid isPermaLink="false">https://openai.com/index/our-commitment-to-zero-data-retention</guid>
+<link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
+<guid isPermaLink="false">https://openai.com/index/offering-zero-data-retention-for-frontier-models</guid>
 <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
 <description>OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.</description>
 </item>
@@ -42,13 +42,6 @@
 <description>Modern vision-language models (VLMs) can support tasks such as visual question answering, captioning, and image-text reasoning. In practice, however, the data...</description>
 </item>
 <item>
-<title>[Google News] Send one prompt to six AI models and compare the answers - seattlepi.com</title>
-<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUx4Z3NNc0NWNXo1ZFFHcVlpQ01vYjE2MUFWTWh4Q1Rrc09KdENqa1hTOFR2SER0enI0LXdNTldJeVlBdkl3a2NVODhmcG1vOXNlZ3h5UzJ1M09icGNkWkUxSG0wcFUwQ3diNWtkaWU2aG5oc3BPRmRsY1RTODVkalVlVkxWQ0hHYVRiLQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUx4Z3NNc0NWNXo1ZFFHcVlpQ01vYjE2MUFWTWh4Q1Rrc09KdENqa1hTOFR2SER0enI0LXdNTldJeVlBdkl3a2NVODhmcG1vOXNlZ3h5UzJ1M09icGNkWkUxSG0wcFUwQ3diNWtkaWU2aG5oc3BPRmRsY1RTODVkalVlVkxWQ0hHYVRiLQ?oc=5</guid>
-<pubDate>Wed, 19 Aug 2026 17:32:58 GMT</pubDate>
-
-</item>
-<item>
 <title>[Gemini] Waymo is bringing Gemini into its custom Ojai vehicles.</title>
 <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/</link>
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/</guid>
@@ -56,9 +49,9 @@
 <description>Waymo is bringing Gemini to its custom-built Ojai vehicles to create a more helpful and personalized ride.</description>
 </item>
 <item>
-<title>[Google News] Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed - Bloomberg</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2lpcHU2c3ZTV1FBZTNGWWpjY2RKbTFoNGN6SHpDV0YzNlFFSEV3elhwOUc0SGI5cWFfenpqWEFQMFlLM00tNGJlQUlva3FRSm8tMWI4RlR5RHZqY056TFRGN2ZSR3JLbzQ1VC1ncl9CNFNhOXlodjFsQ2c4UzU0S0VscmEwY2RRTHRYWUg0MTNUcmxOdzU3S2N3ZkttSzdSZEZjWWZOSHFKWmNiUlE?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2lpcHU2c3ZTV1FBZTNGWWpjY2RKbTFoNGN6SHpDV0YzNlFFSEV3elhwOUc0SGI5cWFfenpqWEFQMFlLM00tNGJlQUlva3FRSm8tMWI4RlR5RHZqY056TFRGN2ZSR3JLbzQ1VC1ncl9CNFNhOXlodjFsQ2c4UzU0S0VscmEwY2RRTHRYWUg0MTNUcmxOdzU3S2N3ZkttSzdSZEZjWWZOSHFKWmNiUlE?oc=5</guid>
+<title>[Google News] Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed - bloomberg.com</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzN1TkRNNWxwbFpkWmVFWVVWbG1jNTZIOEM0TkNuWnV3QjMtTmJBeXM0cnJMWTlfT05ocDFkTGZHNXc1ZFNKcWJVOFAtTHp1Ym5hNm5fdEd1WFdhVGlOcVRBOE5rTjgzMjNBX2p5RU1jaVVaR213a0lCY0cwbkxUOG1Cb0tlZXc1NFpIeXVzcG1Pb0VOd2hfSXExcHlnVXZhZmVYZW5HVDlwSkZ6UWladHJGNnBKS3RsdjVIQ3k1eUZHRWEx?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzN1TkRNNWxwbFpkWmVFWVVWbG1jNTZIOEM0TkNuWnV3QjMtTmJBeXM0cnJMWTlfT05ocDFkTGZHNXc1ZFNKcWJVOFAtTHp1Ym5hNm5fdEd1WFdhVGlOcVRBOE5rTjgzMjNBX2p5RU1jaVVaR213a0lCY0cwbkxUOG1Cb0tlZXc1NFpIeXVzcG1Pb0VOd2hfSXExcHlnVXZhZmVYZW5HVDlwSkZ6UWladHJGNnBKS3RsdjVIQ3k1eUZHRWEx?oc=5</guid>
 <pubDate>Wed, 19 Aug 2026 17:09:26 GMT</pubDate>
 
 </item>
@@ -112,7 +105,7 @@
 
 </item>
 <item>
-<title>[Google News] From Reaction to Prevention: WPS and Artificial Intelligence - New Lines Institute</title>
+<title>[Google News] From Reaction to Prevention: WPS and Artificial Intelligence - newlinesinstitute.org</title>
 <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQNW5TTDBObHJmSUlwcEtRS1Z0NkM0TkxaZFNyRXdXTmpBSTZaSENJTzNTNVFibjgwU3QzdVlabllXMHJoSXRMZU9oN0hRSVBsaThBYWRWMkN0ZXBQNmdzdTB4Wl9kaFp5NkhYOTFxSWZDNUQ0Z0lkZTJQQXF0WlZGVGVYQUI3MUYwWW1LRmptQkt5SEoydFowdzE1UEwyWk5aVG1rTjRjOUtscVJtWEFPcW53?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxQNW5TTDBObHJmSUlwcEtRS1Z0NkM0TkxaZFNyRXdXTmpBSTZaSENJTzNTNVFibjgwU3QzdVlabllXMHJoSXRMZU9oN0hRSVBsaThBYWRWMkN0ZXBQNmdzdTB4Wl9kaFp5NkhYOTFxSWZDNUQ0Z0lkZTJQQXF0WlZGVGVYQUI3MUYwWW1LRmptQkt5SEoydFowdzE1UEwyWk5aVG1rTjRjOUtscVJtWEFPcW53?oc=5</guid>
 <pubDate>Wed, 19 Aug 2026 13:15:12 GMT</pubDate>
@@ -154,7 +147,14 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek has posted job openings for its data center team - UA.NEWS</title>
+<title>[Google News] Forbes 2026 AI 50 List | Top Artificial Intelligence Companies - Forbes</title>
+<link>https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</guid>
+<pubDate>Wed, 19 Aug 2026 10:10:35 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek has posted job openings for its data center team - ua.news</title>
 <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPRDBTeE94Y3l3VENIcTdaYTRENGpKbng5WVVackYxYXNEZmk5QWh5T0RHWjRPOVhXT2FqeG9yNHhDaVJ1NkNPcUk2ZmVhN21keE9MVEJNMWJLMUlCQy1VNjFZYk5PNTRHR1V3bjlOTDFvZk1xX3FZcENLNlh1NFVOZHE2Tk50blF2bVNIQ3hYaw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxPRDBTeE94Y3l3VENIcTdaYTRENGpKbng5WVVackYxYXNEZmk5QWh5T0RHWjRPOVhXT2FqeG9yNHhDaVJ1NkNPcUk2ZmVhN21keE9MVEJNMWJLMUlCQy1VNjFZYk5PNTRHR1V3bjlOTDFvZk1xX3FZcENLNlh1NFVOZHE2Tk50blF2bVNIQ3hYaw?oc=5</guid>
 <pubDate>Wed, 19 Aug 2026 10:01:29 GMT</pubDate>
@@ -168,7 +168,7 @@
 
 </item>
 <item>
-<title>[Google News] OpenAI to tighten AI safety rules after AI agents hacked startup; What’s changing - businesstoday.in</title>
+<title>[Google News] OpenAI to tighten AI safety rules after AI agents hacked startup; What’s changing - Business Today</title>
 <link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSFpKdk0zYkx2aEEtZXpyX0ZVdUN3d0d0a0d3RldXNzNYVWJBMmVKZE44V1pOWHR0N1FnZVFrbnRiWHE0clBNRWJ1SjRfRVM3aW9YdUpiVTY0RkpFMU82emtjMzdpQWJDak5tTHFIVkVMNDFsakQxZExkYUVlb0JQNkpiUmFfcVZEdnE3YjctdktFenA3SzRNNGNOT3UyRU9uRm5uY0xELTJJeWR3RGpWNTE0eW4wejExa1NBWjJqNlVycVZqT25qLWtmbDNfejM2b2tpQlc4M2RjVW94T29DRU14YjdyQzBidElKbllfTGI5akpxazF3RUdtY9IBgAJBVV95cUxNS0xoeXM3dGxPamZIYzNUOVF4aHNEZkotMzV4Nks3SWNaVE1yRUs0UmJ2c3VFSTBfVTVZXzM4Nk55RGdsRFdKYlFObVVvYTZBMW9tTVNENEtjaHhkLTFZS1hBRDl2T1hDeGN5SGlYWDk1aXh1T1l4bFZFeklPU3V3WExYemtidWVKWFFORldnOUlhNlRkdUNuQ25fMTUwcFJ2NmNMbnQ2MnZGYU0zT1pZbjNKandwNDBuLThITVBkbG04VC01M0tEZnVHaGtsb0FVUnNDYm1UVlFjdVE4TVNSLU94WS04c3RIbTlIbnlIS280T01UNlNQd1pnVUFWaVg1?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSFpKdk0zYkx2aEEtZXpyX0ZVdUN3d0d0a0d3RldXNzNYVWJBMmVKZE44V1pOWHR0N1FnZVFrbnRiWHE0clBNRWJ1SjRfRVM3aW9YdUpiVTY0RkpFMU82emtjMzdpQWJDak5tTHFIVkVMNDFsakQxZExkYUVlb0JQNkpiUmFfcVZEdnE3YjctdktFenA3SzRNNGNOT3UyRU9uRm5uY0xELTJJeWR3RGpWNTE0eW4wejExa1NBWjJqNlVycVZqT25qLWtmbDNfejM2b2tpQlc4M2RjVW94T29DRU14YjdyQzBidElKbllfTGI5akpxazF3RUdtY9IBgAJBVV95cUxNS0xoeXM3dGxPamZIYzNUOVF4aHNEZkotMzV4Nks3SWNaVE1yRUs0UmJ2c3VFSTBfVTVZXzM4Nk55RGdsRFdKYlFObVVvYTZBMW9tTVNENEtjaHhkLTFZS1hBRDl2T1hDeGN5SGlYWDk1aXh1T1l4bFZFeklPU3V3WExYemtidWVKWFFORldnOUlhNlRkdUNuQ25fMTUwcFJ2NmNMbnQ2MnZGYU0zT1pZbjNKandwNDBuLThITVBkbG04VC01M0tEZnVHaGtsb0FVUnNDYm1UVlFjdVE4TVNSLU94WS04c3RIbTlIbnlIS280T01UNlNQd1pnVUFWaVg1?oc=5</guid>
 <pubDate>Wed, 19 Aug 2026 07:05:57 GMT</pubDate>
@@ -284,13 +284,6 @@
 <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVzFEcXR4X3ZjbGlSY0xKR1BZS0tDaGdzUTJfRm9tZ2Jod1FCQ1hINW1fN29QaHNnYUctdEFDVXlDX2FUVmFlZFlYVWx5X2dqam1CRnBNQmlXdUh5LVg0R3hKNlpMVXNQMHQtV0p5ZDZDVzJ5aXVlM3EzWUdXV1A5dHdoU01pVUQtLVRDYjlJRUFCT2dsTE5QWDhoQVRLejkyRUF6U0lOcldkeFRadk1SdFhHN0tmV1FsenZBUjlJZDdzdjVYWVNwdmRZcEdnMTFyVmFxZjE5dm1DZw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVzFEcXR4X3ZjbGlSY0xKR1BZS0tDaGdzUTJfRm9tZ2Jod1FCQ1hINW1fN29QaHNnYUctdEFDVXlDX2FUVmFlZFlYVWx5X2dqam1CRnBNQmlXdUh5LVg0R3hKNlpMVXNQMHQtV0p5ZDZDVzJ5aXVlM3EzWUdXV1A5dHdoU01pVUQtLVRDYjlJRUFCT2dsTE5QWDhoQVRLejkyRUF6U0lOcldkeFRadk1SdFhHN0tmV1FsenZBUjlJZDdzdjVYWVNwdmRZcEdnMTFyVmFxZjE5dm1DZw?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 20:45:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] AI Docks Boat: Sea Ray's Autonomous Technology Debut - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDFNOXd0MWQ3QmNlQ2g5Y2I4dEFncERzX3pUTm5xazYxR09yQTdHX1VJSkFPWDhmVzB4OEcxNlpoSEpydEMyeWFWSG96SnRPa3pPQ05VX3VlVjd1T2pMbFZsZWVEZ2RSd0NsdjNLbDE0WDI0eWozTnNVbFhEck51cWcwSEdvNHNTYlFtV283UVVZTUNlVTI3TnhUTVJKekFwdXRoZ1VEQVVfdGhkZEhqOUU1c2U?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDFNOXd0MWQ3QmNlQ2g5Y2I4dEFncERzX3pUTm5xazYxR09yQTdHX1VJSkFPWDhmVzB4OEcxNlpoSEpydEMyeWFWSG96SnRPa3pPQ05VX3VlVjd1T2pMbFZsZWVEZ2RSd0NsdjNLbDE0WDI0eWozTnNVbFhEck51cWcwSEdvNHNTYlFtV283UVVZTUNlVTI3TnhUTVJKekFwdXRoZ1VEQVVfdGhkZEhqOUU1c2U?oc=5</guid>
-<pubDate>Tue, 18 Aug 2026 20:23:26 GMT</pubDate>
 
 </item>
 <item>
@@ -424,6 +417,13 @@
 <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPM09WMHhleDBjMVIwQnFKMTg3RHZSY21sVmZDUXVIbmhydG5EaVl6MnBuaVUwRDVWZWlBUUpPQUJiN1E4VU1CT1JYODFsaWhvVExPYVpQWDZiZm9QRTZGZG9GNFNOTWRzRHdmdEVKVnY0bGZvUHUtcWZHM3pseTJidmNWaEZ2QTNjMHk4TW1ORklob1NpZjZFcW1tU3dxUQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxPM09WMHhleDBjMVIwQnFKMTg3RHZSY21sVmZDUXVIbmhydG5EaVl6MnBuaVUwRDVWZWlBUUpPQUJiN1E4VU1CT1JYODFsaWhvVExPYVpQWDZiZm9QRTZGZG9GNFNOTWRzRHdmdEVKVnY0bGZvUHUtcWZHM3pseTJidmNWaEZ2QTNjMHk4TW1ORklob1NpZjZFcW1tU3dxUQ?oc=5</guid>
 <pubDate>Tue, 18 Aug 2026 11:18:53 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] ChatGPT vs DeepSeek vs Qwen: 36x API Price Gap [2026] - tech-insider.org</title>
+<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZW1yMFBheHpGOHpwU1pWOWsxdzJ2VVNWY2kzUnV4RURpdzVVUFFZT3c2Z2tEdkRfeHRVVnNJUWpPTUxTNmpTUFdZZThJc1pYeks3c0NJSzhXaUNJVjdDUWd6WGVwNFJXbnBtUG5n?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZW1yMFBheHpGOHpwU1pWOWsxdzJ2VVNWY2kzUnV4RURpdzVVUFFZT3c2Z2tEdkRfeHRVVnNJUWpPTUxTNmpTUFdZZThJc1pYeks3c0NJSzhXaUNJVjdDUWd6WGVwNFJXbnBtUG5n?oc=5</guid>
+<pubDate>Tue, 18 Aug 2026 11:14:14 GMT</pubDate>
 
 </item>
 </channel>
