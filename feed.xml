@@ -5,7 +5,49 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 20 Aug 2026 14:56:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 16:52:05 GMT</lastBuildDate>
+<item>
+<title>[Cloud AI] How AlloyDB ScaNN scales vector search to 10 billion vectors</title>
+<link>https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search/</guid>
+<pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
+<description>To satisfy the demands of enterprise-grade agentic AI applications, underlying vector databases often struggle to scale effectively as modern use cases can scale to billions of vectors. As a fully managed PostgreSQL-compatible database service, AlloyDB is engineered to handle demanding enterprise wo</description>
+</item>
+<item>
+<title>[Cloud AI] 10 questions every startup should answer before moving to production with their AI prototype</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/</guid>
+<pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
+<description>It’s never been easier to start an AI-powered startup on Google Cloud. You grab an API key from Google AI Studio at breakfast, paste it into Antigravity, and by lunch you’ll have a nascent prototype of your product. But it’s not all one straight line to progress. It's common to bump into these three</description>
+</item>
+<item>
+<title>[Research] Broadening access to Skala creates a faster path to predictive DFT</title>
+<link>https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/</link>
+<guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/</guid>
+<pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
+<description>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. The post Broadening access to Skala creates a faste</description>
+</item>
+<item>
+<title>[Developer] How Generative Recommenders Are Redefining RecSys at Scale</title>
+<link>https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/</guid>
+<pubDate>Thu, 20 Aug 2026 16:00:00 GMT</pubDate>
+<description>Recommender systems (RecSys) are one of the most ubiquitous machine learning problems in the consumer internet industry yet notoriously difficult to train and...</description>
+</item>
+<item>
+<title>[MIT Tech Review] Debates over AI consciousness are a trap</title>
+<link>https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/</link>
+<guid isPermaLink="false">https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/</guid>
+<pubDate>Thu, 20 Aug 2026 15:42:39 +0000</pubDate>
+<description>“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” </description>
+</item>
+<item>
+<title>[Google News] Warfield sets AI rules as local governments grapple with growing technology - Arrow Lakes News</title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFRyOUxnbjRVNlRDODgxb2VBQktDTElyNUFmaFBjMk5LVFVtUlZDbm92aTd6NDNJR1d6U2lxU05yV0F4UHZRaDJWY2pfdUVQcjBHV1VtdXBWaGpKMng0VmdLRnFXbmJfQmtRcm4xX3NLQzFmc1N5aEVveFhTTXhyUXZTNGtRbllYYUxUWVg3WjRGV0g5NlI1Zk1fSFFISHlIX0NUWHlhSEtDYzY1SUhhNnpDYW0?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFRyOUxnbjRVNlRDODgxb2VBQktDTElyNUFmaFBjMk5LVFVtUlZDbm92aTd6NDNJR1d6U2lxU05yV0F4UHZRaDJWY2pfdUVQcjBHV1VtdXBWaGpKMng0VmdLRnFXbmJfQmtRcm4xX3NLQzFmc1N5aEVveFhTTXhyUXZTNGtRbllYYUxUWVg3WjRGV0g5NlI1Zk1fSFFISHlIX0NUWHlhSEtDYzY1SUhhNnpDYW0?oc=5</guid>
+<pubDate>Thu, 20 Aug 2026 15:00:57 GMT</pubDate>
+
+</item>
 <item>
 <title>[Blog] Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support</title>
 <link>https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/</link>
@@ -39,6 +81,13 @@
 <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQelVKWEc1eWZ1NG9KNEtmVGhBWHZPR2RJTXlhMmNuSy16UjZoeVlXZ1dkbllCUF9Ja01DNmM3VzJfam92bVFCQl9aTFg5RUlsNUJUTEluVUFlSmJidDhlNVljSWpNMUVkU0FWbkhrX1RTUXZIUFFTemdGZU0wT0RScWF3bUdjODJ4WE8xbG11OWZVZUo0YVRGajBHNlVxMWQtcnBKY1RHR2ROZw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxQelVKWEc1eWZ1NG9KNEtmVGhBWHZPR2RJTXlhMmNuSy16UjZoeVlXZ1dkbllCUF9Ja01DNmM3VzJfam92bVFCQl9aTFg5RUlsNUJUTEluVUFlSmJidDhlNVljSWpNMUVkU0FWbkhrX1RTUXZIUFFTemdGZU0wT0RScWF3bUdjODJ4WE8xbG11OWZVZUo0YVRGajBHNlVxMWQtcnBKY1RHR2ROZw?oc=5</guid>
 <pubDate>Thu, 20 Aug 2026 10:15:31 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] How to Set Up DeepSeek V4 Pro: 12 Steps, 90 Min [2026] - tech-insider.org</title>
+<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1URkthX0dwbmtjeXRHVDUwek9kZzJ4T25fU2tCZUdZdVdkZ3BWTDRPSnE4blpwOXZubkNJT2RKYjdEbXE2OTBDTW1UWDM3NVNIVWtBeVRMQXBITy1DY2lKd21Mc05MQ2xLano1Yw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMibEFVX3lxTE1URkthX0dwbmtjeXRHVDUwek9kZzJ4T25fU2tCZUdZdVdkZ3BWTDRPSnE4blpwOXZubkNJT2RKYjdEbXE2OTBDTW1UWDM3NVNIVWtBeVRMQXBITy1DY2lKd21Mc05MQ2xLano1Yw?oc=5</guid>
+<pubDate>Thu, 20 Aug 2026 10:09:36 GMT</pubDate>
 
 </item>
 <item>
@@ -117,6 +166,13 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxObkxNTm1jNms2T2FQVXAtNjI0RUl0TnhibVdMR1BTOHVBeDQxT1pzSnlSNHc2NnlSLW1yck1VUHhrNnpyUWJienV1WkZOYm9RVkdTbUFxZ21LT1lNRmZTcEVXNUQtbS1lVkdyOTRURVVxbzdkNF95SzI0S29NV1RQdFFXdmt5OGRMUmNMNkFsaHRlNkl3TFBMUWU2MlgwdndyLWE4NzBiUXNoWkVNMUtSQXplZkNfdw?oc=5</guid>
 <pubDate>Thu, 20 Aug 2026 01:02:26 GMT</pubDate>
 
+</item>
+<item>
+<title>[News] How ChatGPT Work helps Stampli move ideas to market</title>
+<link>https://openai.com/index/stampli</link>
+<guid isPermaLink="false">https://openai.com/index/stampli</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+<description>With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.</description>
 </item>
 <item>
 <title>[Google News] Forbes 2026 AI 50 List | Top Artificial Intelligence Companies - Forbes</title>
@@ -259,13 +315,6 @@
 
 </item>
 <item>
-<title>[Google News] Hinge Health's Rashi Agrawal on Healthcare AI Guard… - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0NtRUU4M2c4UDQzSU82TTh2V3BwVlROZnZaYUJHNEExb0FXQW11Vkh2dG5XSHprbzFlSUpaT2F3Z0JHUS02MWJiUU41RnBVNFJsOEVYTjV1Wm1nVGxNY21qN21XM0dTMEZIa2NVTWJSWTV4NEdCc3hWZXFaQlhfbUNVVm1qRzNLS0ExVm5DcUMxUGxaRlJtcDJJZzlSMTJrRHNWWG5oUmVta3k5ZFJmOU00ZnZ1amp6NjF3?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0NtRUU4M2c4UDQzSU82TTh2V3BwVlROZnZaYUJHNEExb0FXQW11Vkh2dG5XSHprbzFlSUpaT2F3Z0JHUS02MWJiUU41RnBVNFJsOEVYTjV1Wm1nVGxNY21qN21XM0dTMEZIa2NVTWJSWTV4NEdCc3hWZXFaQlhfbUNVVm1qRzNLS0ExVm5DcUMxUGxaRlJtcDJJZzlSMTJrRHNWWG5oUmVta3k5ZFJmOU00ZnZ1amp6NjF3?oc=5</guid>
-<pubDate>Wed, 19 Aug 2026 16:10:34 GMT</pubDate>
-
-</item>
-<item>
 <title>[Developer] Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control</title>
 <link>https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/</link>
 <guid isPermaLink="false">https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/</guid>
@@ -376,55 +425,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=0j9yDUDMrBs</guid>
 <pubDate>Tue, 18 Aug 2026 19:02:05 GMT</pubDate>
 <description>Turn scattered launch materials into a solid first draft. Sahil from OpenAI’s Marketing team shows how he uses ChatGPT Work to bring together product documentation, research, meeting notes, and messaging; follow an established blog template; and create a structured launch blog draft. He then reviews</description>
-</item>
-<item>
-<title>[News] Strengthening democratic oversight in national security</title>
-<link>https://openai.com/index/strengthening-democratic-oversight-in-national-security</link>
-<guid isPermaLink="false">https://openai.com/index/strengthening-democratic-oversight-in-national-security</guid>
-<pubDate>Tue, 18 Aug 2026 19:00:00 GMT</pubDate>
-<description>OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.</description>
-</item>
-<item>
-<title>[YouTube] How to Prepare for Customer Meetings With ChatGPT Work | Tutorial</title>
-<link>https://www.youtube.com/watch?v=yQZgOSHHxjk</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=yQZgOSHHxjk</guid>
-<pubDate>Tue, 18 Aug 2026 18:58:56 GMT</pubDate>
-<description>Spend less time preparing for customer calls and following up afterward. Alex from OpenAI’s Sales team shows how he uses ChatGPT Work to gather account context and create a meeting brief. After the call, ChatGPT Work drafts notes, a follow-up email, and proposed CRM updates for his review.. The resu</description>
-</item>
-<item>
-<title>[Blog] How Much Memory Does Your Agent Actually Need?</title>
-<link>https://huggingface.co/blog/ibm-research/altk-evolve-hmm</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ibm-research/altk-evolve-hmm</guid>
-<pubDate>Tue, 18 Aug 2026 18:09:38 GMT</pubDate>
-
-</item>
-<item>
-<title>[Developer] How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit</title>
-<link>https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/</guid>
-<pubDate>Tue, 18 Aug 2026 18:00:00 GMT</pubDate>
-<description>Atomistic simulation requires three things: knowledge of the science, compute-efficient implementation of simulations, and accessible interfaces to the...</description>
-</item>
-<item>
-<title>[Gemini] Try 4 new interactive BTS experiences inside the Gemini app</title>
-<link>https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences/</guid>
-<pubDate>Tue, 18 Aug 2026 17:30:00 +0000</pubDate>
-<description>Google Gemini and BTS are collaborating on a series of interactive features inside the Gemini app.</description>
-</item>
-<item>
-<title>[Developer] Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy</title>
-<link>https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy/</guid>
-<pubDate>Tue, 18 Aug 2026 16:48:08 GMT</pubDate>
-<description>Uniform Manifold Approximation and Projection (UMAP) is a dimensionality reduction technique widely used for visualization and feature extraction. Applications...</description>
-</item>
-<item>
-<title>[Cloud AI] Building cost-effective, high-throughput gen AI workflows in Google Dataflow</title>
-<link>https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/</guid>
-<pubDate>Tue, 18 Aug 2026 16:00:00 +0000</pubDate>
-<description>Real-time streaming pipelines are the operational backbone of modern enterprises, continuously processing everything from customer support interactions to transaction logs. Traditionally, streaming DAGs are static; once deployed, their processing logic and execution paths are fixed. However, by inte</description>
 </item>
 </channel>
 </rss>
