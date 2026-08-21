@@ -5,7 +5,14 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 20 Aug 2026 22:46:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 01:58:40 GMT</lastBuildDate>
+<item>
+<title>[Google News] DeepSeek Harness Unveils 3 Weekly Updates, Integrates Claude Code &amp; Codex as Sub-Agents to Become the Core Scheduling Layer in the Agent Era - 36 Kr</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tanBjQ1Q3TVBiNTN0bjJMQWpyNGRUOFNNckR1QVFROHE3QXJXQ1FDdV93Qzc0OU5EbjlFVWV3Vkk1UUo5U0xtMmxaWUJlLXQzSEF3?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tanBjQ1Q3TVBiNTN0bjJMQWpyNGRUOFNNckR1QVFROHE3QXJXQ1FDdV93Qzc0OU5EbjlFVWV3Vkk1UUo5U0xtMmxaWUJlLXQzSEF3?oc=5</guid>
+<pubDate>Fri, 21 Aug 2026 00:21:23 GMT</pubDate>
+
+</item>
 <item>
 <title>[Google News] DeepSeek Sends Strong Signal to Nvidia Investors - TradingView</title>
 <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1M4a3I5eU93MDRsZDNHOHctQ2RZc2RJRG15Zk13aDFjbEtBUzNpVjR5ZU1QUXVrOEZNLVRVeGR4ZV9uMFpUbFl2RUEwRzdxajR0bGtEbTY1SlhBMU9YSkU0bWhyOS1TaGgxZ21LNkdkMzFSLXJxTURFYUFNQnNZNVd6RUdveUYwOG9VTER1RUR4X2Y2S2NYdXhMNFBtbVlfN0JsZGRMWXZEenVN?oc=5</link>
@@ -21,10 +28,10 @@
 <description>This demo shows how a local Hermes agent running on NVIDIA RTX Spark can streamline software development by monitoring communication channels, prioritizing urgent issues, and coordinating debugging and QA. RTX Spark is built to run demanding AI models and always-on agents locally and simultaneously.</description>
 </item>
 <item>
-<title>[Google News] Lawyers square off in fight over voice data used to train AI - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVpEeVJ6cjA4N2dKX0pJNFhkZTFDZXRpVXpYQzlTRmhkMThfNTBhbElMTG1TdHByZ1NUTmtGd2JzSTJEZzVnMTAtcE9rdE1fNFU1b2JnOTliZzNsWDRCUGU2NEJ5MVdld3hfeHdHS1pIMGtuMXc4MjVKeFluelRzUXc5OEtMNDhrbzl1M0I2Xy1JYTRmaXJvQjdfTWNyU0ZzME9kTVlQNGZpbUE?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVpEeVJ6cjA4N2dKX0pJNFhkZTFDZXRpVXpYQzlTRmhkMThfNTBhbElMTG1TdHByZ1NUTmtGd2JzSTJEZzVnMTAtcE9rdE1fNFU1b2JnOTliZzNsWDRCUGU2NEJ5MVdld3hfeHdHS1pIMGtuMXc4MjVKeFluelRzUXc5OEtMNDhrbzl1M0I2Xy1JYTRmaXJvQjdfTWNyU0ZzME9kTVlQNGZpbUE?oc=5</guid>
-<pubDate>Thu, 20 Aug 2026 18:43:43 GMT</pubDate>
+<title>[Google News] DeepSeek is back... and Silicon Valley is terrified - YouTube</title>
+<link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5T3g2a2g1OXlkYmgyZXhHd3VwN3BnNkJPVlUtdU5pem1zekQ5dldMOWFaaGlpQzFlQXBSSWJsOHBXRVN3d1RiUmJneEFSYkdnLXlwTVh6ajVSM3c5?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5T3g2a2g1OXlkYmgyZXhHd3VwN3BnNkJPVlUtdU5pem1zekQ5dldMOWFaaGlpQzFlQXBSSWJsOHBXRVN3d1RiUmJneEFSYkdnLXlwTVh6ajVSM3c5?oc=5</guid>
+<pubDate>Thu, 20 Aug 2026 17:53:37 GMT</pubDate>
 
 </item>
 <item>
@@ -56,18 +63,18 @@
 
 </item>
 <item>
-<title>[Cloud AI] How AlloyDB ScaNN scales vector search to 10 billion vectors</title>
-<link>https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search/</guid>
-<pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
-<description>To satisfy the demands of enterprise-grade agentic AI applications, underlying vector databases often struggle to scale effectively as modern use cases can scale to billions of vectors. As a fully managed PostgreSQL-compatible database service, AlloyDB is engineered to handle demanding enterprise wo</description>
-</item>
-<item>
 <title>[Cloud AI] 10 questions every startup should answer before moving to production with their AI prototype</title>
 <link>https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/</guid>
 <pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
 <description>It’s never been easier to start an AI-powered startup on Google Cloud. You grab an API key from Google AI Studio at breakfast, paste it into Antigravity, and by lunch you’ll have a nascent prototype of your product. But it’s not all one straight line to progress. It's common to bump into these three</description>
+</item>
+<item>
+<title>[Cloud AI] How AlloyDB ScaNN scales vector search to 10 billion vectors</title>
+<link>https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search/</guid>
+<pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
+<description>To satisfy the demands of enterprise-grade agentic AI applications, underlying vector databases often struggle to scale effectively as modern use cases can scale to billions of vectors. As a fully managed PostgreSQL-compatible database service, AlloyDB is engineered to handle demanding enterprise wo</description>
 </item>
 <item>
 <title>[Research] Broadening access to Skala creates a faster path to predictive DFT</title>
@@ -94,7 +101,7 @@
 <title>[Google News] Warfield sets AI rules as local governments grapple with growing technology - Arrow Lakes News</title>
 <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFRyOUxnbjRVNlRDODgxb2VBQktDTElyNUFmaFBjMk5LVFVtUlZDbm92aTd6NDNJR1d6U2lxU05yV0F4UHZRaDJWY2pfdUVQcjBHV1VtdXBWaGpKMng0VmdLRnFXbmJfQmtRcm4xX3NLQzFmc1N5aEVveFhTTXhyUXZTNGtRbllYYUxUWVg3WjRGV0g5NlI1Zk1fSFFISHlIX0NUWHlhSEtDYzY1SUhhNnpDYW0?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFRyOUxnbjRVNlRDODgxb2VBQktDTElyNUFmaFBjMk5LVFVtUlZDbm92aTd6NDNJR1d6U2lxU05yV0F4UHZRaDJWY2pfdUVQcjBHV1VtdXBWaGpKMng0VmdLRnFXbmJfQmtRcm4xX3NLQzFmc1N5aEVveFhTTXhyUXZTNGtRbllYYUxUWVg3WjRGV0g5NlI1Zk1fSFFISHlIX0NUWHlhSEtDYzY1SUhhNnpDYW0?oc=5</guid>
-<pubDate>Thu, 20 Aug 2026 15:00:57 GMT</pubDate>
+<pubDate>Thu, 20 Aug 2026 15:17:22 GMT</pubDate>
 
 </item>
 <item>
@@ -124,6 +131,13 @@
 <guid isPermaLink="false">https://mistral.ai/news/agentic-search/</guid>
 <pubDate>Thu, 20 Aug 2026 12:00:17 GMT</pubDate>
 <description>The retrieval layer that helps AI systems navigate, read, and verify information inside even the most complex documents</description>
+</item>
+<item>
+<title>[Google News] Forbes 2026 AI 50 List | Top Artificial Intelligence Companies - Forbes</title>
+<link>https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5</guid>
+<pubDate>Thu, 20 Aug 2026 11:31:12 GMT</pubDate>
+
 </item>
 <item>
 <title>[Google News] DeepSeek V4 Pro vs Qwen 3.8 Max: Pricing and Open-Weight Changes Shift the Comparison - Memeburn</title>
@@ -210,6 +224,13 @@
 
 </item>
 <item>
+<title>[Google News] Israeli AI-based start-up Dondy acquired by UK holding company Circeus - The Jerusalem Post</title>
+<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmEwNHBwcW03ZUVRRHZfUHVCTlRMLUpud0JtdzBwdVBBR2xKYmN4WGMzdXhpRFdIT3BaYUFfS1p1b2VuS2ZDSXNkV1JSWC1LUVo4Y1pDcTdxWDF1djlBLVlQWi1rOExiclYwZXNqMXZJdWVjdG53TVRNWG9Ea1pGa0VkQ213UQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmEwNHBwcW03ZUVRRHZfUHVCTlRMLUpud0JtdzBwdVBBR2xKYmN4WGMzdXhpRFdIT3BaYUFfS1p1b2VuS2ZDSXNkV1JSWC1LUVo4Y1pDcTdxWDF1djlBLVlQWi1rOExiclYwZXNqMXZJdWVjdG53TVRNWG9Ea1pGa0VkQ213UQ?oc=5</guid>
+<pubDate>Thu, 20 Aug 2026 00:38:46 GMT</pubDate>
+
+</item>
+<item>
 <title>[News] Stampli cuts launch hours by 68% using ChatGPT Work</title>
 <link>https://openai.com/index/stampli</link>
 <guid isPermaLink="false">https://openai.com/index/stampli</guid>
@@ -221,6 +242,13 @@
 <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0NWNGgwbEkzOVVid09JR1U5Qjd0N1FBZGRFR1Zva1JVdUx1ZDl3eDBuOWctTF95a1M2Y3NCVGVNMlZGRS1uZjlIT0lEb0haMHlSNHBhOGwwSzV0eTZTNWVMTzZYSEJWWU1Udy1mdnNqNGh5Y2xSV3h6WHI3VzBlYWtnMG02QndyM1g1cGxLVXBIWE5YZ3phbUFSREFCNkx4MWNuSEQ1R2k?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0NWNGgwbEkzOVVid09JR1U5Qjd0N1FBZGRFR1Zva1JVdUx1ZDl3eDBuOWctTF95a1M2Y3NCVGVNMlZGRS1uZjlIT0lEb0haMHlSNHBhOGwwSzV0eTZTNWVMTzZYSEJWWU1Udy1mdnNqNGh5Y2xSV3h6WHI3VzBlYWtnMG02QndyM1g1cGxLVXBIWE5YZ3phbUFSREFCNkx4MWNuSEQ1R2k?oc=5</guid>
 <pubDate>Wed, 19 Aug 2026 23:08:36 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Anthropic's Revenue Skyrockets Past Salesforce - StartupHub.ai</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOMW9DVkM0a01jdkVRSWpSVWszbGJ1MmFwenRCblNsVDN1LTlpOHJ5ci1MT2NOaU1XUnlkeE1kenN5Y0pMVWZxRkVfcnQwRFdFSkVjQ3JJRm9KVWN0QW9jNHdxTVIyTUd0UzFLb28zVkVVNXBOWFR6b092Uk9nNmNyQkhZa3c5eXh1NEtGLVRUc0tiUHFfOHlPbUhWOVVwT2hmUXZ2ZkZOb1dvekhRV2c?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxOMW9DVkM0a01jdkVRSWpSVWszbGJ1MmFwenRCblNsVDN1LTlpOHJ5ci1MT2NOaU1XUnlkeE1kenN5Y0pMVWZxRkVfcnQwRFdFSkVjQ3JJRm9KVWN0QW9jNHdxTVIyTUd0UzFLb28zVkVVNXBOWFR6b092Uk9nNmNyQkhZa3c5eXh1NEtGLVRUc0tiUHFfOHlPbUhWOVVwT2hmUXZ2ZkZOb1dvekhRV2c?oc=5</guid>
+<pubDate>Wed, 19 Aug 2026 23:05:22 GMT</pubDate>
 
 </item>
 <item>
@@ -322,20 +350,6 @@
 <description>Waymo is bringing Gemini to its custom-built Ojai vehicles to create a more helpful and personalized ride.</description>
 </item>
 <item>
-<title>[Google News] Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed - Bloomberg</title>
-<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzN1TkRNNWxwbFpkWmVFWVVWbG1jNTZIOEM0TkNuWnV3QjMtTmJBeXM0cnJMWTlfT05ocDFkTGZHNXc1ZFNKcWJVOFAtTHp1Ym5hNm5fdEd1WFdhVGlOcVRBOE5rTjgzMjNBX2p5RU1jaVVaR213a0lCY0cwbkxUOG1Cb0tlZXc1NFpIeXVzcG1Pb0VOd2hfSXExcHlnVXZhZmVYZW5HVDlwSkZ6UWladHJGNnBKS3RsdjVIQ3k1eUZHRWEx?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzN1TkRNNWxwbFpkWmVFWVVWbG1jNTZIOEM0TkNuWnV3QjMtTmJBeXM0cnJMWTlfT05ocDFkTGZHNXc1ZFNKcWJVOFAtTHp1Ym5hNm5fdEd1WFdhVGlOcVRBOE5rTjgzMjNBX2p5RU1jaVVaR213a0lCY0cwbkxUOG1Cb0tlZXc1NFpIeXVzcG1Pb0VOd2hfSXExcHlnVXZhZmVYZW5HVDlwSkZ6UWladHJGNnBKS3RsdjVIQ3k1eUZHRWEx?oc=5</guid>
-<pubDate>Wed, 19 Aug 2026 17:09:26 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Databricks simplifies AI agents - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNMkhiS0ZWUzRwTzJBYXFLZUlCNFFLSThGZlRIYml6Y1BmNXZ6ZUhfbzQ3OHE5SzR1TFBNd1dRY0dzdzRmUTc0bFFCZ1JWc1pOcjVhR19JVUVQVkNNUTBrcXZsRGNZYW1OOVFVOEtET3c0ZU8taGZ0a3ZqbkRFMUg5Y0ZrZlBpcldqbDFhNXhVZzBwVTRkNW9pWnd3?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxNMkhiS0ZWUzRwTzJBYXFLZUlCNFFLSThGZlRIYml6Y1BmNXZ6ZUhfbzQ3OHE5SzR1TFBNd1dRY0dzdzRmUTc0bFFCZ1JWc1pOcjVhR19JVUVQVkNNUTBrcXZsRGNZYW1OOVFVOEtET3c0ZU8taGZ0a3ZqbkRFMUg5Y0ZrZlBpcldqbDFhNXhVZzBwVTRkNW9pWnd3?oc=5</guid>
-<pubDate>Wed, 19 Aug 2026 17:07:51 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] DeepSeek Open-Sources the Missing Layer Between AI Models and Agents - HPCwire</title>
 <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVJ2aDZjWFFmalp0LTJPeS10andIdzNKOE5SS29EeWw3ZDQwTUZ3RkQ1NHluV0NPTnBvZkQxT1JqREo3SE1zdVVWZEJwaDNPTGM5X19JVFVCdkFkR20yalgxUVpzV1l4QWR1d3JNR21pT3VsSVhOVUlWTFczWUYxS0x5dDd0WWRkZW5Udk1VYXJfSnpaRmYwVGY4b2hzamRtOTQwdFM5NmhmN29KV0s3cA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVJ2aDZjWFFmalp0LTJPeS10andIdzNKOE5SS29EeWw3ZDQwTUZ3RkQ1NHluV0NPTnBvZkQxT1JqREo3SE1zdVVWZEJwaDNPTGM5X19JVFVCdkFkR20yalgxUVpzV1l4QWR1d3JNR21pT3VsSVhOVUlWTFczWUYxS0x5dDd0WWRkZW5Udk1VYXJfSnpaRmYwVGY4b2hzamRtOTQwdFM5NmhmN29KV0s3cA?oc=5</guid>
@@ -411,20 +425,6 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFR6bW50VXpUSUN4WjF4SDN6aEIzX0lWeE5iXzBfT0dqQk1ZS0pzalRpbEJNVWFDX2F6UkFFY0dzOE5mb0RKNEZTVERGSDVlcmVLSWlINll2VjlKeHVURnlaMGJhZWhYbUFuc1E3Uk5fOExZMFVOajhCU0tyT1dlVTNaMDR3Zk14MmE4NzRR?oc=5</guid>
 <pubDate>Wed, 19 Aug 2026 02:00:00 GMT</pubDate>
 
-</item>
-<item>
-<title>[YouTube] How to use Computer analytics | Perplexity Academy</title>
-<link>https://www.youtube.com/watch?v=WozCpUwUODM</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=WozCpUwUODM</guid>
-<pubDate>Wed, 19 Aug 2026 00:10:29 GMT</pubDate>
-<description>Perplexity Computer Analytics shows exactly how Computer is being used across your organization — credit consumption, top users, most-used tools, and where the work is landing. Computer Analytics has two views. Organization admins see analytics across every member of the org. Individual members and </description>
-</item>
-<item>
-<title>[News] ChatGPT Ads expands across Europe</title>
-<link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
-<guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-across-europe</guid>
-<pubDate>Tue, 18 Aug 2026 22:00:00 GMT</pubDate>
-<description>ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.</description>
 </item>
 </channel>
 </rss>
