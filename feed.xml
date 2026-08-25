@@ -5,7 +5,14 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 25 Aug 2026 20:47:13 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 22:46:14 GMT</lastBuildDate>
+<item>
+<title>[Developer] Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo</title>
+<link>https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/</guid>
+<pubDate>Tue, 25 Aug 2026 20:57:54 GMT</pubDate>
+<description>When an LLM engine process fails, the standard recovery path involves a cold restart. This requires loading weights into HBM from storage, compiling kernels,...</description>
+</item>
 <item>
 <title>[YouTube] How to Manage Your Workspace With ChatGPT Work</title>
 <link>https://www.youtube.com/watch?v=29SyCndnMZs</link>
@@ -43,8 +50,8 @@
 </item>
 <item>
 <title>[Google News] AI-led startups face takeoff hiccups as overreliance poses challenges - Business Standard</title>
-<link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaXd4dGVmdXM1dGZkcDdKQWJRalJjNjRwTkNLdy15bXFTUEhNZ0hkTEt5dHAxVG1VNl9KTkdFSkQzS0U5eHhSQlRURXQ0SWZWVWJSZTBIUHBEbkhVRzBBcnliVHlmX1U1NjQ4ZDVIS2xjTWV6Z0dneEFlVUhqaFdZTkx0dENTQ3F1aTl6cDYxMDVCamJIY2lUUlJDenJkVXJ3eFRTZ21nbmZqZGEwdFJXZzN1RTNiVXF3OG5MNUlUeS0tc3hRRnhIUTduQU9lUHJOU0dhd3cxMW5GbTA3NWlKdkRMVFd5b3M1MEpMRmhsTdIB9AFBVV95cUxPb2lPaGpTZXZ4alkzcXB5Y2VpSkFGQWRTUGp6U1UzZ3BwSkY5cDlYTXdpejN3UzE3MVA0WDBwTkdlY3B2UU90SGhRZ3QwY2RGby1ETFR6NmxQa1VnNmh3WHJ0Qy1TOTV0MktVTzc1d1RwOXV1MTlxaS1EbTFqLXFnYkN2cFc2dFJKQzRYXzVkZWdvT0dFMmtkeEsxY2dITXVCYU1SVHBCdl8xU3ozOVRMTjVhYW5ialMtQlFHVnhQVVU2aUZhYzVHSWxDOElXdmtIc25ycEh3OFc2aGg3LVNCZ25QRHI5QlBBR2FsSWdZXzZrU1FN?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaXd4dGVmdXM1dGZkcDdKQWJRalJjNjRwTkNLdy15bXFTUEhNZ0hkTEt5dHAxVG1VNl9KTkdFSkQzS0U5eHhSQlRURXQ0SWZWVWJSZTBIUHBEbkhVRzBBcnliVHlmX1U1NjQ4ZDVIS2xjTWV6Z0dneEFlVUhqaFdZTkx0dENTQ3F1aTl6cDYxMDVCamJIY2lUUlJDenJkVXJ3eFRTZ21nbmZqZGEwdFJXZzN1RTNiVXF3OG5MNUlUeS0tc3hRRnhIUTduQU9lUHJOU0dhd3cxMW5GbTA3NWlKdkRMVFd5b3M1MEpMRmhsTdIB9AFBVV95cUxPb2lPaGpTZXZ4alkzcXB5Y2VpSkFGQWRTUGp6U1UzZ3BwSkY5cDlYTXdpejN3UzE3MVA0WDBwTkdlY3B2UU90SGhRZ3QwY2RGby1ETFR6NmxQa1VnNmh3WHJ0Qy1TOTV0MktVTzc1d1RwOXV1MTlxaS1EbTFqLXFnYkN2cFc2dFJKQzRYXzVkZWdvT0dFMmtkeEsxY2dITXVCYU1SVHBCdl8xU3ozOVRMTjVhYW5ialMtQlFHVnhQVVU2aUZhYzVHSWxDOElXdmtIc25ycEh3OFc2aGg3LVNCZ25QRHI5QlBBR2FsSWdZXzZrU1FN?oc=5</guid>
+<link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxPb2lPaGpTZXZ4alkzcXB5Y2VpSkFGQWRTUGp6U1UzZ3BwSkY5cDlYTXdpejN3UzE3MVA0WDBwTkdlY3B2UU90SGhRZ3QwY2RGby1ETFR6NmxQa1VnNmh3WHJ0Qy1TOTV0MktVTzc1d1RwOXV1MTlxaS1EbTFqLXFnYkN2cFc2dFJKQzRYXzVkZWdvT0dFMmtkeEsxY2dITXVCYU1SVHBCdl8xU3ozOVRMTjVhYW5ialMtQlFHVnhQVVU2aUZhYzVHSWxDOElXdmtIc25ycEh3OFc2aGg3LVNCZ25QRHI5QlBBR2FsSWdZXzZrU1FN0gH0AUFVX3lxTE9vaU9oalNldnhqWTNxcHljZWlKQUZBZFNQanpTVTNncHBKRjlwOVhNd2l6M3dTMTcxUDRYMHBOR2VjcHZRT3RIaFFndDBjZEZvLURMVHo2bFBrVWc2aHdYcnRDLVM5NXQyS1VPNzV3VHA5dXUxOXFpLURtMWotcWdiQ3ZwVzZ0UkpDNFhfNWRlZ29PR0Uya2R4SzFjZ0hNdUJhTVJUcEJ2XzFTejM5VExONWFhbmJqUy1CUUdWeFBVVTZpRmFjNUdJbEM4SVd2a0hzbnJwSHc4VzZoaDctU0JnblBEcjlCUEFHYWxJZ1lfNmtTUU0?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi9AFBVV95cUxPb2lPaGpTZXZ4alkzcXB5Y2VpSkFGQWRTUGp6U1UzZ3BwSkY5cDlYTXdpejN3UzE3MVA0WDBwTkdlY3B2UU90SGhRZ3QwY2RGby1ETFR6NmxQa1VnNmh3WHJ0Qy1TOTV0MktVTzc1d1RwOXV1MTlxaS1EbTFqLXFnYkN2cFc2dFJKQzRYXzVkZWdvT0dFMmtkeEsxY2dITXVCYU1SVHBCdl8xU3ozOVRMTjVhYW5ialMtQlFHVnhQVVU2aUZhYzVHSWxDOElXdmtIc25ycEh3OFc2aGg3LVNCZ25QRHI5QlBBR2FsSWdZXzZrU1FN0gH0AUFVX3lxTE9vaU9oalNldnhqWTNxcHljZWlKQUZBZFNQanpTVTNncHBKRjlwOVhNd2l6M3dTMTcxUDRYMHBOR2VjcHZRT3RIaFFndDBjZEZvLURMVHo2bFBrVWc2aHdYcnRDLVM5NXQyS1VPNzV3VHA5dXUxOXFpLURtMWotcWdiQ3ZwVzZ0UkpDNFhfNWRlZ29PR0Uya2R4SzFjZ0hNdUJhTVJUcEJ2XzFTejM5VExONWFhbmJqUy1CUUdWeFBVVTZpRmFjNUdJbEM4SVd2a0hzbnJwSHc4VzZoaDctU0JnblBEcjlCUEFHYWxJZ1lfNmtTUU0?oc=5</guid>
 <pubDate>Tue, 25 Aug 2026 19:09:02 GMT</pubDate>
 
 </item>
@@ -418,13 +425,6 @@
 <guid isPermaLink="false">https://huggingface.co/blog/gradio-workflow-guide</guid>
 <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
 
-</item>
-<item>
-<title>[YouTube] Make information visual with ChatGPT</title>
-<link>https://www.youtube.com/watch?v=jzmNh8lbSp8</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=jzmNh8lbSp8</guid>
-<pubDate>Mon, 24 Aug 2026 23:09:56 GMT</pubDate>
-<description>Turn dense information into interactive visualizations with the Visualize skill in ChatGPT and Codex. Katia Gil Guzman shows how to transform meeting notes into an interface, iterate with calendar views and actions, and export the result as an image or publish it as a site.</description>
 </item>
 </channel>
 </rss>
