@@ -5,7 +5,63 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Wed, 26 Aug 2026 20:04:36 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 23:34:48 GMT</lastBuildDate>
+<item>
+<title>[Google News] Claude Desktop can now easily run Qwen, DeepSeek and Kimi models - after Ollama's first effort stalled - The New Stack</title>
+<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6OW11NmlEYlFBNFFMR0R0bTl3SmVfV0xlLTBOMkxvbkRhU0ZsMzFzMk14RjVYRUduUzBBRGZqaFd0Yzk0am1HSTVKQmhwNzZYeGlVMkNxYVdNVURmNXhGVG5ZZ1hWOHoy?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6OW11NmlEYlFBNFFMR0R0bTl3SmVfV0xlLTBOMkxvbkRhU0ZsMzFzMk14RjVYRUduUzBBRGZqaFd0Yzk0am1HSTVKQmhwNzZYeGlVMkNxYVdNVURmNXhGVG5ZZ1hWOHoy?oc=5</guid>
+<pubDate>Wed, 26 Aug 2026 22:40:46 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Chinese State Hackers Doubled Attack Volume by Outsourcing to DeepSeek - Tech Times</title>
+<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYngxQ1E3MEYwVDAxaFlqdXdYSmJIRjRocFRtVFZaaWJxXzZENUNjdHlVMGF2Y3RpTk1XOGtCanluN2V3dGNteElHSm5wSFVlTlJnUkdlbnJHRk54eVhjU1NGblpPcExMX25adUpqX190ZE5sQWtkc0t5OGJ1T3NEazNsREVsRlZxTmtIdkZpREV1aFpCVExIR0ZIVy1Scjh2UDJUNjBMSVFhM3J6VVF4ajItTTFrZzBiaVNJ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYngxQ1E3MEYwVDAxaFlqdXdYSmJIRjRocFRtVFZaaWJxXzZENUNjdHlVMGF2Y3RpTk1XOGtCanluN2V3dGNteElHSm5wSFVlTlJnUkdlbnJHRk54eVhjU1NGblpPcExMX25adUpqX190ZE5sQWtkc0t5OGJ1T3NEazNsREVsRlZxTmtIdkZpREV1aFpCVExIR0ZIVy1Scjh2UDJUNjBMSVFhM3J6VVF4ajItTTFrZzBiaVNJ?oc=5</guid>
+<pubDate>Wed, 26 Aug 2026 21:18:12 GMT</pubDate>
+
+</item>
+<item>
+<title>[Developer] NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure</title>
+<link>https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/</guid>
+<pubDate>Wed, 26 Aug 2026 21:06:58 GMT</pubDate>
+<description>AI factories must support increasingly large models and more complex reasoning workloads. To keep up with the insatiable compute demands of AI workloads,...</description>
+</item>
+<item>
+<title>[Blog] NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory</title>
+<link>https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/</guid>
+<pubDate>Wed, 26 Aug 2026 21:05:30 +0000</pubDate>
+<description>The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To </description>
+</item>
+<item>
+<title>[Newsroom] AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI</title>
+<link>https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai</link>
+<guid isPermaLink="false">https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai</guid>
+<pubDate>Wed, 26 Aug 2026 21:05:00 GMT</pubDate>
+<description>Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and NVIDIA (NASDAQ: NVDA) today announced a major expansion of their strategic collaboration to meet surging global demand for AI infrastructure as demand continues to accelerate.</description>
+</item>
+<item>
+<title>[Gemini] 7 ways to kick-start back to school using Gemini in Workspace</title>
+<link>https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/</link>
+<guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/</guid>
+<pubDate>Wed, 26 Aug 2026 20:30:00 +0000</pubDate>
+<description>Get a jump on this semester by using Gemini in Google Workspace to organize your notes, track deadlines, prep for projects, and more.</description>
+</item>
+<item>
+<title>[Newsroom] NVIDIA Announces Financial Results for Second Quarter Fiscal 2027</title>
+<link>https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027</link>
+<guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027</guid>
+<pubDate>Wed, 26 Aug 2026 20:20:00 GMT</pubDate>
+<description>NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago.</description>
+</item>
+<item>
+<title>[Developer] How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents</title>
+<link>https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/</guid>
+<pubDate>Wed, 26 Aug 2026 20:05:06 GMT</pubDate>
+<description>Navigation enables a robot to turn perception and motion into purposeful autonomy. Unlike locomotion, which produces stable movement, navigation must be used to...</description>
+</item>
 <item>
 <title>[MIT Tech Review] The inside story on why OpenAI agents hacked Hugging Face</title>
 <link>https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/</link>
@@ -21,10 +77,10 @@
 
 </item>
 <item>
-<title>[Google News] Chinese AI models overtake U.S. in token usage - Seeking Alpha</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU2xVYmg5VDFpc2NBYUxxcUZndDVCeTl2clU3dlR2M05JT0VtdF9WTllyY1VWOUl3WTJCYU1YZzdmY3VhbDk1X1FiOU5Bc3luSFA4LVliLUpnbE9xVlNwLTQwTDNlX0dFbGVLeGRwTy1LclFNRUlkbW00LW5OTXRNN3I3ZTF6VUJvb0N3?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU2xVYmg5VDFpc2NBYUxxcUZndDVCeTl2clU3dlR2M05JT0VtdF9WTllyY1VWOUl3WTJCYU1YZzdmY3VhbDk1X1FiOU5Bc3luSFA4LVliLUpnbE9xVlNwLTQwTDNlX0dFbGVLeGRwTy1LclFNRUlkbW00LW5OTXRNN3I3ZTF6VUJvb0N3?oc=5</guid>
-<pubDate>Wed, 26 Aug 2026 18:22:13 GMT</pubDate>
+<title>[Google News] Artificial Intelligence (AI) News Updates: Latest News About Google AI, OpenAI, ChatGPT, Gemini, Lamda and More - The Economic Times</title>
+<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCVzVPUFVzMnp5cDBIWkNJWGpIZXFKRTFrMjg1RHlEdnVoZjlkUWYxSk1VZ1d4SG8zUHJSckVsb1RqZjE1RG9NWlpfZHpiSlRxX0RhaXZmMVVQTWRael9zam9paXd2bVU?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCVzVPUFVzMnp5cDBIWkNJWGpIZXFKRTFrMjg1RHlEdnVoZjlkUWYxSk1VZ1d4SG8zUHJSckVsb1RqZjE1RG9NWlpfZHpiSlRxX0RhaXZmMVVQTWRael9zam9paXd2bVU?oc=5</guid>
+<pubDate>Wed, 26 Aug 2026 18:02:49 GMT</pubDate>
 
 </item>
 <item>
@@ -56,18 +112,18 @@
 
 </item>
 <item>
-<title>[Google News] Claude Desktop can now easily run Qwen, DeepSeek and Kimi models - after Ollama's first effort stalled - The New Stack</title>
-<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6OW11NmlEYlFBNFFMR0R0bTl3SmVfV0xlLTBOMkxvbkRhU0ZsMzFzMk14RjVYRUduUzBBRGZqaFd0Yzk0am1HSTVKQmhwNzZYeGlVMkNxYVdNVURmNXhGVG5ZZ1hWOHoy?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6OW11NmlEYlFBNFFMR0R0bTl3SmVfV0xlLTBOMkxvbkRhU0ZsMzFzMk14RjVYRUduUzBBRGZqaFd0Yzk0am1HSTVKQmhwNzZYeGlVMkNxYVdNVURmNXhGVG5ZZ1hWOHoy?oc=5</guid>
-<pubDate>Wed, 26 Aug 2026 16:59:46 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] China’s Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek - Bloomberg</title>
+<title>[Google News] China’s Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek - Bloomberg.com</title>
 <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFAzZElBMXB2bzloV0FDMnV0ZGE3QjBKb1RTT3JMWVNZTEJaUzdoY0dFM2lGWFRoejJWMUhWcS1kSHpSbG5YVjh5VElENTVOZW82ODQ3SW1heHc2cUhOVHBxOFJTd0JLaXFnT3kyRXVjUmlJSWhDWEhnREZSdWxydHB1MjdFQXJEQXlEQVFhZ1dobWtNVkEzT3c5VDJaanoxbkduWHRFTGd4bzBQa0dNdmd3?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFAzZElBMXB2bzloV0FDMnV0ZGE3QjBKb1RTT3JMWVNZTEJaUzdoY0dFM2lGWFRoejJWMUhWcS1kSHpSbG5YVjh5VElENTVOZW82ODQ3SW1heHc2cUhOVHBxOFJTd0JLaXFnT3kyRXVjUmlJSWhDWEhnREZSdWxydHB1MjdFQXJEQXlEQVFhZ1dobWtNVkEzT3c5VDJaanoxbkduWHRFTGd4bzBQa0dNdmd3?oc=5</guid>
 <pubDate>Wed, 26 Aug 2026 16:54:19 GMT</pubDate>
 
+</item>
+<item>
+<title>[Azure] The Economics of Agent Optimization: Four ways to lower the cost</title>
+<link>https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/</link>
+<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/</guid>
+<pubDate>Wed, 26 Aug 2026 16:00:00 +0000</pubDate>
+<description>Microsoft Foundry gives you four levers that act on every request, before a single line of agent logic changes. The post The Economics of Agent Optimization: Four ways to lower the cost appeared first on Microsoft Azure Blog .</description>
 </item>
 <item>
 <title>[Google News] DeepSeek Looks to Raise $7 Billion as Revenues Jump Tenfold - PYMNTS.com</title>
@@ -105,13 +161,6 @@
 
 </item>
 <item>
-<title>[Google News] Artificial Intelligence (AI) News Updates: Latest News About Google AI, OpenAI, ChatGPT, Gemini, Lamda and More - The Economic Times</title>
-<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCVzVPUFVzMnp5cDBIWkNJWGpIZXFKRTFrMjg1RHlEdnVoZjlkUWYxSk1VZ1d4SG8zUHJSckVsb1RqZjE1RG9NWlpfZHpiSlRxX0RhaXZmMVVQTWRael9zam9paXd2bVU?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCVzVPUFVzMnp5cDBIWkNJWGpIZXFKRTFrMjg1RHlEdnVoZjlkUWYxSk1VZ1d4SG8zUHJSckVsb1RqZjE1RG9NWlpfZHpiSlRxX0RhaXZmMVVQTWRael9zam9paXd2bVU?oc=5</guid>
-<pubDate>Wed, 26 Aug 2026 13:50:07 GMT</pubDate>
-
-</item>
-<item>
 <title>[Newsroom] An Open Letter to TikTok and YouTube to Join Us in Supporting Teens</title>
 <link>https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/</link>
 <guid isPermaLink="false">https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/</guid>
@@ -130,7 +179,7 @@
 <link>https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/</guid>
 <pubDate>Wed, 26 Aug 2026 13:30:00 +0000</pubDate>
-<description>As AI takes on more complex work, business leaders face a new challenge: enabling rapid innovation using agents while protecting their margins and budgets. To get a real return on AI, financial operations (FinOps) and cost management must evolve alongside technology, giving you clear visibility, pro</description>
+<description>Editor's note: A product image was updated after initial publication. As AI takes on more complex work, business leaders face a new challenge: enabling rapid innovation using agents while protecting their margins and budgets. To get a real return on AI, financial operations (FinOps) and cost managem</description>
 </item>
 <item>
 <title>[Google News] Maharashtra announces AI Policy 2026 to boost industry, governance and public services - News On AIR</title>
@@ -140,7 +189,7 @@
 
 </item>
 <item>
-<title>[Google News] Alibaba Releases Smaller, Cost-Effective Qwen AI Model - Bloomberg</title>
+<title>[Google News] Alibaba Releases Smaller, Cost-Effective Qwen AI Model - Bloomberg.com</title>
 <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN2VVNaUWE0bXJiNjQ2VWJlbngtWlpzcnY3RG44VlB1eVVhMWNiT21wYmVKSDJnQ0JkNXMycVg5bWRqQ2RIZ3E0d0hzdkEzUlNPV05aUjRUTFhzaXlNdVhVSHFXNGRuZFlPWUhEeEtKemMwdWJValR0MFpZM19OMVRpS1piVVhZWEI3ZmdJZmlDR1B5d2JMRU5DcENuSUktd01Ra0J6Zw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN2VVNaUWE0bXJiNjQ2VWJlbngtWlpzcnY3RG44VlB1eVVhMWNiT21wYmVKSDJnQ0JkNXMycVg5bWRqQ2RIZ3E0d0hzdkEzUlNPV05aUjRUTFhzaXlNdVhVSHFXNGRuZFlPWUhEeEtKemMwdWJValR0MFpZM19OMVRpS1piVVhZWEI3ZmdJZmlDR1B5d2JMRU5DcENuSUktd01Ra0J6Zw?oc=5</guid>
 <pubDate>Wed, 26 Aug 2026 12:35:50 GMT</pubDate>
@@ -150,7 +199,7 @@
 <title>[Google News] Douglas County adopts artificial intelligence policy - Superior Telegram</title>
 <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmhva1l0eENpY05qbGlFWGh6dDk0VDlWazh5b0RuRzBaU2N0TlRvRC1GY0ZtS2xfcE1fZVJMZkR6Tm5HcEFEb3NibGdUNjBDVk42eVFPZThwdEZGZG8yRGZxb0tYcUFSc1AwZFZUOWdsczZYNHAzaHFhaXY3ZEJBazFsZnVWZnBCZlhESzZVXzF5NnU3RUxZR3dPVWw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmhva1l0eENpY05qbGlFWGh6dDk0VDlWazh5b0RuRzBaU2N0TlRvRC1GY0ZtS2xfcE1fZVJMZkR6Tm5HcEFEb3NibGdUNjBDVk42eVFPZThwdEZGZG8yRGZxb0tYcUFSc1AwZFZUOWdsczZYNHAzaHFhaXY3ZEJBazFsZnVWZnBCZlhESzZVXzF5NnU3RUxZR3dPVWw?oc=5</guid>
-<pubDate>Wed, 26 Aug 2026 12:00:42 GMT</pubDate>
+<pubDate>Wed, 26 Aug 2026 12:06:43 GMT</pubDate>
 
 </item>
 <item>
@@ -168,13 +217,6 @@
 
 </item>
 <item>
-<title>[Google News] Bertelsmann Stiftung: Artificial intelligence can strengthen citizen participation - wahanariau.com</title>
-<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0NEVkdYTE5XT2ZzVW1YQ2JOU0sweTZ3QmhCUTBWVTFhMGhZTzFzN2JzRmRrU1owbzhZTWFIczRsVmFnYWRHcWw0OXdnNmEwV0hrZnZ0UUo2alA4aENQNGZ2VHR1WjlmMHF4dUdFb2NyNF9vVERva2hoOF9CTTNKVjlIZW4zZ3YtR1dLV1NlR29aeDQ0aGJiNkJnRHJ5OHdYYjVmYmpRMEtPM1MzcUZqTlhHTmdiZ9IBtgFBVV95cUxPN0NEVkdYTE5XT2ZzVW1YQ2JOU0sweTZ3QmhCUTBWVTFhMGhZTzFzN2JzRmRrU1owbzhZTWFIczRsVmFnYWRHcWw0OXdnNmEwV0hrZnZ0UUo2alA4aENQNGZ2VHR1WjlmMHF4dUdFb2NyNF9vVERva2hoOF9CTTNKVjlIZW4zZ3YtR1dLV1NlR29aeDQ0aGJiNkJnRHJ5OHdYYjVmYmpRMEtPM1MzcUZqTlhHTmdiZw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0NEVkdYTE5XT2ZzVW1YQ2JOU0sweTZ3QmhCUTBWVTFhMGhZTzFzN2JzRmRrU1owbzhZTWFIczRsVmFnYWRHcWw0OXdnNmEwV0hrZnZ0UUo2alA4aENQNGZ2VHR1WjlmMHF4dUdFb2NyNF9vVERva2hoOF9CTTNKVjlIZW4zZ3YtR1dLV1NlR29aeDQ0aGJiNkJnRHJ5OHdYYjVmYmpRMEtPM1MzcUZqTlhHTmdiZ9IBtgFBVV95cUxPN0NEVkdYTE5XT2ZzVW1YQ2JOU0sweTZ3QmhCUTBWVTFhMGhZTzFzN2JzRmRrU1owbzhZTWFIczRsVmFnYWRHcWw0OXdnNmEwV0hrZnZ0UUo2alA4aENQNGZ2VHR1WjlmMHF4dUdFb2NyNF9vVERva2hoOF9CTTNKVjlIZW4zZ3YtR1dLV1NlR29aeDQ0aGJiNkJnRHJ5OHdYYjVmYmpRMEtPM1MzcUZqTlhHTmdiZw?oc=5</guid>
-<pubDate>Wed, 26 Aug 2026 11:38:48 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] The Sequence Learning Loop - Issue #921: Learn About DeepSeek New Model, the Env Harness Paper and the Amazing Etched - TheSequence | Jesus Rodriguez</title>
 <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5vWEYtWFRIX0dmVGNoMTNOQk5GazJkMUVmMm9fR2tDbVJ0ZjVQTVJKSGk2MW5UbHV0VFJPV1ZFazZVWlFNRHprMm1oRm1KSUYyaC1sc0Y3UnFONmVTNWhxNTBaZTNhOW1pMUdIV2o3SExpNmVIc2c?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE5vWEYtWFRIX0dmVGNoMTNOQk5GazJkMUVmMm9fR2tDbVJ0ZjVQTVJKSGk2MW5UbHV0VFJPV1ZFazZVWlFNRHprMm1oRm1KSUYyaC1sc0Y3UnFONmVTNWhxNTBaZTNhOW1pMUdIV2o3SExpNmVIc2c?oc=5</guid>
@@ -185,7 +227,7 @@
 <title>[Google News] DeepSeek Revenue Surges Nearly 10-Fold in First Seven Months, Still Posts Loss Exceeding CNY 700 Million - finance.biggo.com</title>
 <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5WN3JWQkpPRmIzLVo3a0QyNWYyQXB6UGduT1QwVUJJdVQyRHBJODRxSzB2TjVPajMxZ3M3SWJZR2NfTkRjS0JacE5RbTl5ZnBBZkJfVVVQUGwzUlRuZ3BtSnZ2ZUtmX2NacEQ1N2t2NWJ2eFYyUVE?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE5WN3JWQkpPRmIzLVo3a0QyNWYyQXB6UGduT1QwVUJJdVQyRHBJODRxSzB2TjVPajMxZ3M3SWJZR2NfTkRjS0JacE5RbTl5ZnBBZkJfVVVQUGwzUlRuZ3BtSnZ2ZUtmX2NacEQ1N2t2NWJ2eFYyUVE?oc=5</guid>
-<pubDate>Wed, 26 Aug 2026 10:09:23 GMT</pubDate>
+<pubDate>Wed, 26 Aug 2026 10:05:00 GMT</pubDate>
 
 </item>
 <item>
@@ -248,7 +290,7 @@
 <title>[Google News] DeepSeek's revenue surges tenfold to 475 million yuan in first seven months, API gross margin nears 83% - finance.biggo.com</title>
 <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBHVmRvZWdfMjczNE5rSlBkdkN5XzY3SDRPM0lKU0JuM3I4UzhWWTNKOWc5QUlWOTFwZmU4SW5PZWcyTml4dFZVbW43X0J4eXlGa0VHYjFEeVp4VVhwRHhPUGNXaWdNTmRCYXNJVFJsX0RiNFY5YWc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTFBHVmRvZWdfMjczNE5rSlBkdkN5XzY3SDRPM0lKU0JuM3I4UzhWWTNKOWc5QUlWOTFwZmU4SW5PZWcyTml4dFZVbW43X0J4eXlGa0VHYjFEeVp4VVhwRHhPUGNXaWdNTmRCYXNJVFJsX0RiNFY5YWc?oc=5</guid>
-<pubDate>Wed, 26 Aug 2026 08:37:00 GMT</pubDate>
+<pubDate>Wed, 26 Aug 2026 08:41:04 GMT</pubDate>
 
 </item>
 <item>
@@ -315,10 +357,24 @@
 
 </item>
 <item>
+<title>[Google News] AI — A New Challenge for Moldovan Citizens - logos-pres.md</title>
+<link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSEZaUE5xc3hiVXA3Y2RMQnBqLWdBbjhOd0ZMU04yZ2p1WEowbnJiWUtkQUJDcnF4bDBaeTdWRU0wV1ZjQ2NXWmU0aGdDdDFWV29zX3VUSHlWajFKUVZQbXlOT2xtM2ZPMGlRdjdRSExoQnBIUk44MHpscw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSEZaUE5xc3hiVXA3Y2RMQnBqLWdBbjhOd0ZMU04yZ2p1WEowbnJiWUtkQUJDcnF4bDBaeTdWRU0wV1ZjQ2NXWmU0aGdDdDFWV29zX3VUSHlWajFKUVZQbXlOT2xtM2ZPMGlRdjdRSExoQnBIUk44MHpscw?oc=5</guid>
+<pubDate>Wed, 26 Aug 2026 06:10:16 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] Bertelsmann Stiftung: Artificial intelligence can strengthen citizen participation - DagangNews</title>
 <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOamdqMTFYdTZLY0w1UWpWZFVkWFJnZV8wODBnOFRDYk54V052ajdIREhrQTI0VHVzRmtHMDNya0VfZngtdWtnZVdGMGJndXRLYTlUbjRlRjVEOFFBbjFIdjFLdnpjWlZkNnZYeEl4RzJKSGJWMF9pbXdOUG5BME5kd3NNR3E2Qkg5OHpsbG1RX3dVSlVtYjJ2QlowNXJnZDFvNFdHUWxlQUlHc2ZpOEhNUUlicmZ1Sks1bElIVUxrWVZlRXdzSmZjSmlB?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxOamdqMTFYdTZLY0w1UWpWZFVkWFJnZV8wODBnOFRDYk54V052ajdIREhrQTI0VHVzRmtHMDNya0VfZngtdWtnZVdGMGJndXRLYTlUbjRlRjVEOFFBbjFIdjFLdnpjWlZkNnZYeEl4RzJKSGJWMF9pbXdOUG5BME5kd3NNR3E2Qkg5OHpsbG1RX3dVSlVtYjJ2QlowNXJnZDFvNFdHUWxlQUlHc2ZpOEhNUUlicmZ1Sks1bElIVUxrWVZlRXdzSmZjSmlB?oc=5</guid>
 <pubDate>Wed, 26 Aug 2026 06:04:56 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Bertelsmann Stiftung: Artificial intelligence can strengthen citizen participation - Sin Chew Daily</title>
+<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1mMnI0TXJnNTJ3MlBXU1ZXQlRPSm5tVTZTcDBYb2VVcjZZSEt0UnJrcW52b2ZDVXZ3b1ZnZ3NUWDdwa2NreU1iMHN0dW5Pd3FVQWtYWlBDbXlMelR1akdFakdMM0ZzWV9EMVE?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiakFVX3lxTE1mMnI0TXJnNTJ3MlBXU1ZXQlRPSm5tVTZTcDBYb2VVcjZZSEt0UnJrcW52b2ZDVXZ3b1ZnZ3NUWDdwa2NreU1iMHN0dW5Pd3FVQWtYWlBDbXlMelR1akdFakdMM0ZzWV9EMVE?oc=5</guid>
+<pubDate>Wed, 26 Aug 2026 06:00:00 GMT</pubDate>
 
 </item>
 <item>
@@ -369,62 +425,6 @@
 <guid isPermaLink="false">https://openai.com/index/loveholidays</guid>
 <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
 <description>Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.</description>
-</item>
-<item>
-<title>[Research] Enabling independent research on how people use Claude</title>
-<link>https://www.anthropic.com/research/enabling-independent-research</link>
-<guid isPermaLink="false">https://www.anthropic.com/research/enabling-independent-research</guid>
-<pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-<description>Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data. Three research groups designed their own studies for Anthropic Insights, our privacy-preserving analysis tool. In this post, we share high-level results from those studies and what we lea</description>
-</item>
-<item>
-<title>[Blog] Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers</title>
-<link>https://huggingface.co/blog/train-multi-vector-encoder</link>
-<guid isPermaLink="false">https://huggingface.co/blog/train-multi-vector-encoder</guid>
-<pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Artificial intelligence (AI) startup Antropics is expected to offer investors a market size of more - 매일경제</title>
-<link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LejBiN3FEM1RKWmRfRzNXS1ZiSHBiSFJyaWt3bFN3eGx1d05XeklDbWY2SHZtZWhITmZoZmF4cnRfYnl5SFEzeDV2Zw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LejBiN3FEM1RKWmRfRzNXS1ZiSHBiSFJyaWt3bFN3eGx1d05XeklDbWY2SHZtZWhITmZoZmF4cnRfYnl5SFEzeDV2Zw?oc=5</guid>
-<pubDate>Tue, 25 Aug 2026 23:39:02 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] LLM Evaluation: Beyond Benchmarks - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOZS1nYW9ENlYweUNyNEVoMUcyZksyZzZDQlVnZnI4VU1lOHhFSkg2aDRfU1J6X1MzdHVlWkk5dWY3OEQyc01wQWVLWDh5aXVDTnpUWmxPUHBHczgycXdwdzRNYWlNQnlGb0RoM2Z4TF9maTVDU0duT1FkZE5JazJtbUo4UXVUTi1xZk1NU0JPV2xNenFCWE5URUtGOA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxOZS1nYW9ENlYweUNyNEVoMUcyZksyZzZDQlVnZnI4VU1lOHhFSkg2aDRfU1J6X1MzdHVlWkk5dWY3OEQyc01wQWVLWDh5aXVDTnpUWmxPUHBHczgycXdwdzRNYWlNQnlGb0RoM2Z4TF9maTVDU0duT1FkZE5JazJtbUo4UXVUTi1xZk1NU0JPV2xNenFCWE5URUtGOA?oc=5</guid>
-<pubDate>Tue, 25 Aug 2026 23:03:14 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] OpenAI's ChatGPT Admin Plugin Streamlines Workspace Management - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa202YnNSbjREOTh4UmJkNHNBcUR4TEViTzRDb01VTkN4YjlZQnJDcllSQWVrZzlrLTExN3cwSUhhcThSOWlSQW1xTzBVZzBpM284VFBTWlhMdEQ5Zzc2SU9lOUlwTnpfNGxzYnlvUFF6b0JnTWxqejYzaDlldU96Z29PeG1xWXRoUVlyZm5KbnhaOFVNeGRFUWNkYzNBRnJKbmJpMDVYQUM4aGFjY1VOUjNIc3ZGQlVuMzUzUzBzeWxlc1E?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa202YnNSbjREOTh4UmJkNHNBcUR4TEViTzRDb01VTkN4YjlZQnJDcllSQWVrZzlrLTExN3cwSUhhcThSOWlSQW1xTzBVZzBpM284VFBTWlhMdEQ5Zzc2SU9lOUlwTnpfNGxzYnlvUFF6b0JnTWxqejYzaDlldU96Z29PeG1xWXRoUVlyZm5KbnhaOFVNeGRFUWNkYzNBRnJKbmJpMDVYQUM4aGFjY1VOUjNIc3ZGQlVuMzUzUzBzeWxlc1E?oc=5</guid>
-<pubDate>Tue, 25 Aug 2026 21:05:02 GMT</pubDate>
-
-</item>
-<item>
-<title>[Developer] Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo</title>
-<link>https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/</guid>
-<pubDate>Tue, 25 Aug 2026 20:57:54 GMT</pubDate>
-<description>When an LLM engine process fails, the standard recovery path involves a cold restart. This requires loading weights into HBM from storage, compiling kernels,...</description>
-</item>
-<item>
-<title>[YouTube] How to Manage Your Workspace With ChatGPT Work</title>
-<link>https://www.youtube.com/watch?v=29SyCndnMZs</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=29SyCndnMZs</guid>
-<pubDate>Tue, 25 Aug 2026 20:17:22 GMT</pubDate>
-<description>See how the ChatGPT admin plugin brings workspace administration into ChatGPT Work. Aarti Bagul, Member of GTM Staff at OpenAI, demonstrates how admins can analyze adoption and credit usage, update and share an AI rollout deck, and review and approve usage limit requests without switching between to</description>
-</item>
-<item>
-<title>[YouTube] Build agent-ready sites with WebMCP</title>
-<link>https://www.youtube.com/watch?v=Is2NHa7awWY</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=Is2NHa7awWY</guid>
-<pubDate>Tue, 25 Aug 2026 20:15:30 GMT</pubDate>
-<description>Eric Provencher from OpenAI Developer Experience demonstrates WebMCP support in Codex with Codex Modeling Studio, a 3D modeling site designed for people and agents to use together. See how adding tools directly to a website lets Codex discover capabilities, iterate on visuals, capture feedback, and </description>
 </item>
 </channel>
 </rss>
