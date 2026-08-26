@@ -5,7 +5,70 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Wed, 26 Aug 2026 17:00:51 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 20:04:36 GMT</lastBuildDate>
+<item>
+<title>[MIT Tech Review] The inside story on why OpenAI agents hacked Hugging Face</title>
+<link>https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/</link>
+<guid isPermaLink="false">https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/</guid>
+<pubDate>Wed, 26 Aug 2026 19:00:00 +0000</pubDate>
+<description>The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were</description>
+</item>
+<item>
+<title>[Research] GlucoFM: Foundation model for continuous glucose monitoring</title>
+<link>https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/</link>
+<guid isPermaLink="false">https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/</guid>
+<pubDate>Wed, 26 Aug 2026 18:42:43 +0000</pubDate>
+
+</item>
+<item>
+<title>[Google News] Chinese AI models overtake U.S. in token usage - Seeking Alpha</title>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU2xVYmg5VDFpc2NBYUxxcUZndDVCeTl2clU3dlR2M05JT0VtdF9WTllyY1VWOUl3WTJCYU1YZzdmY3VhbDk1X1FiOU5Bc3luSFA4LVliLUpnbE9xVlNwLTQwTDNlX0dFbGVLeGRwTy1LclFNRUlkbW00LW5OTXRNN3I3ZTF6VUJvb0N3?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU2xVYmg5VDFpc2NBYUxxcUZndDVCeTl2clU3dlR2M05JT0VtdF9WTllyY1VWOUl3WTJCYU1YZzdmY3VhbDk1X1FiOU5Bc3luSFA4LVliLUpnbE9xVlNwLTQwTDNlX0dFbGVLeGRwTy1LclFNRUlkbW00LW5OTXRNN3I3ZTF6VUJvb0N3?oc=5</guid>
+<pubDate>Wed, 26 Aug 2026 18:22:13 GMT</pubDate>
+
+</item>
+<item>
+<title>[Developer] Experiment with Qwen3.8-Flash-Next 176B Model on NVIDIA GB300 NVL72 for Agentic Coding</title>
+<link>https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding/</guid>
+<pubDate>Wed, 26 Aug 2026 17:07:12 GMT</pubDate>
+<description>Alibaba released the model weights for Qwen3.8-Flash-Next as a preview of the upcoming Qwen4 architecture for developers to experiment with and evaluate. It’s...</description>
+</item>
+<item>
+<title>[DeepMind] Intelligent transcription with Gemini 3.5 Transcribe</title>
+<link>https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/</guid>
+<pubDate>Wed, 26 Aug 2026 17:01:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Gemini] Turn your voice into action with new productivity features in Gemini Live</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</guid>
+<pubDate>Wed, 26 Aug 2026 17:00:00 +0000</pubDate>
+<description>We’re rolling out a major productivity upgrade to Gemini Live so you can use your voice to delegate your to-dos without missing a beat.</description>
+</item>
+<item>
+<title>[Gemini] Intelligent transcription with Gemini 3.5 Transcribe</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</guid>
+<pubDate>Wed, 26 Aug 2026 17:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Google News] Claude Desktop can now easily run Qwen, DeepSeek and Kimi models - after Ollama's first effort stalled - The New Stack</title>
+<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6OW11NmlEYlFBNFFMR0R0bTl3SmVfV0xlLTBOMkxvbkRhU0ZsMzFzMk14RjVYRUduUzBBRGZqaFd0Yzk0am1HSTVKQmhwNzZYeGlVMkNxYVdNVURmNXhGVG5ZZ1hWOHoy?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6OW11NmlEYlFBNFFMR0R0bTl3SmVfV0xlLTBOMkxvbkRhU0ZsMzFzMk14RjVYRUduUzBBRGZqaFd0Yzk0am1HSTVKQmhwNzZYeGlVMkNxYVdNVURmNXhGVG5ZZ1hWOHoy?oc=5</guid>
+<pubDate>Wed, 26 Aug 2026 16:59:46 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] China’s Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek - Bloomberg</title>
+<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFAzZElBMXB2bzloV0FDMnV0ZGE3QjBKb1RTT3JMWVNZTEJaUzdoY0dFM2lGWFRoejJWMUhWcS1kSHpSbG5YVjh5VElENTVOZW82ODQ3SW1heHc2cUhOVHBxOFJTd0JLaXFnT3kyRXVjUmlJSWhDWEhnREZSdWxydHB1MjdFQXJEQXlEQVFhZ1dobWtNVkEzT3c5VDJaanoxbkduWHRFTGd4bzBQa0dNdmd3?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFAzZElBMXB2bzloV0FDMnV0ZGE3QjBKb1RTT3JMWVNZTEJaUzdoY0dFM2lGWFRoejJWMUhWcS1kSHpSbG5YVjh5VElENTVOZW82ODQ3SW1heHc2cUhOVHBxOFJTd0JLaXFnT3kyRXVjUmlJSWhDWEhnREZSdWxydHB1MjdFQXJEQXlEQVFhZ1dobWtNVkEzT3c5VDJaanoxbkduWHRFTGd4bzBQa0dNdmd3?oc=5</guid>
+<pubDate>Wed, 26 Aug 2026 16:54:19 GMT</pubDate>
+
+</item>
 <item>
 <title>[Google News] DeepSeek Looks to Raise $7 Billion as Revenues Jump Tenfold - PYMNTS.com</title>
 <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEZpbmRuZTk0XzlYRzFpWVdhdTdNSmU4SjBfNXhBQndjeTVlQkk4MTlESUVEeDNxVFRtVjZ4RWlhcVkyVkhHLW92TTBsRUROdW1IVV85WXRRSklUdWdlNjF4ODhLYVVDcTEwQ1Rpc1UwbkJfS1d2cUxxVVh5eC1MQ0Vac1M1bzU1MzZpOHpkRTk0VTJuNHo5bzM1RFpCdjcwZ2h4RDNCcF9zQU9PazlVYmpjU0x4eHl3ck1uUg?oc=5</link>
@@ -42,6 +105,13 @@
 
 </item>
 <item>
+<title>[Google News] Artificial Intelligence (AI) News Updates: Latest News About Google AI, OpenAI, ChatGPT, Gemini, Lamda and More - The Economic Times</title>
+<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCVzVPUFVzMnp5cDBIWkNJWGpIZXFKRTFrMjg1RHlEdnVoZjlkUWYxSk1VZ1d4SG8zUHJSckVsb1RqZjE1RG9NWlpfZHpiSlRxX0RhaXZmMVVQTWRael9zam9paXd2bVU?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCVzVPUFVzMnp5cDBIWkNJWGpIZXFKRTFrMjg1RHlEdnVoZjlkUWYxSk1VZ1d4SG8zUHJSckVsb1RqZjE1RG9NWlpfZHpiSlRxX0RhaXZmMVVQTWRael9zam9paXd2bVU?oc=5</guid>
+<pubDate>Wed, 26 Aug 2026 13:50:07 GMT</pubDate>
+
+</item>
+<item>
 <title>[Newsroom] An Open Letter to TikTok and YouTube to Join Us in Supporting Teens</title>
 <link>https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/</link>
 <guid isPermaLink="false">https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/</guid>
@@ -70,10 +140,17 @@
 
 </item>
 <item>
-<title>[Google News] Alibaba Releases Smaller, Cost-Effective Qwen AI Model - Bloomberg.com</title>
+<title>[Google News] Alibaba Releases Smaller, Cost-Effective Qwen AI Model - Bloomberg</title>
 <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN2VVNaUWE0bXJiNjQ2VWJlbngtWlpzcnY3RG44VlB1eVVhMWNiT21wYmVKSDJnQ0JkNXMycVg5bWRqQ2RIZ3E0d0hzdkEzUlNPV05aUjRUTFhzaXlNdVhVSHFXNGRuZFlPWUhEeEtKemMwdWJValR0MFpZM19OMVRpS1piVVhZWEI3ZmdJZmlDR1B5d2JMRU5DcENuSUktd01Ra0J6Zw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN2VVNaUWE0bXJiNjQ2VWJlbngtWlpzcnY3RG44VlB1eVVhMWNiT21wYmVKSDJnQ0JkNXMycVg5bWRqQ2RIZ3E0d0hzdkEzUlNPV05aUjRUTFhzaXlNdVhVSHFXNGRuZFlPWUhEeEtKemMwdWJValR0MFpZM19OMVRpS1piVVhZWEI3ZmdJZmlDR1B5d2JMRU5DcENuSUktd01Ra0J6Zw?oc=5</guid>
 <pubDate>Wed, 26 Aug 2026 12:35:50 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Douglas County adopts artificial intelligence policy - Superior Telegram</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmhva1l0eENpY05qbGlFWGh6dDk0VDlWazh5b0RuRzBaU2N0TlRvRC1GY0ZtS2xfcE1fZVJMZkR6Tm5HcEFEb3NibGdUNjBDVk42eVFPZThwdEZGZG8yRGZxb0tYcUFSc1AwZFZUOWdsczZYNHAzaHFhaXY3ZEJBazFsZnVWZnBCZlhESzZVXzF5NnU3RUxZR3dPVWw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmhva1l0eENpY05qbGlFWGh6dDk0VDlWazh5b0RuRzBaU2N0TlRvRC1GY0ZtS2xfcE1fZVJMZkR6Tm5HcEFEb3NibGdUNjBDVk42eVFPZThwdEZGZG8yRGZxb0tYcUFSc1AwZFZUOWdsczZYNHAzaHFhaXY3ZEJBazFsZnVWZnBCZlhESzZVXzF5NnU3RUxZR3dPVWw?oc=5</guid>
+<pubDate>Wed, 26 Aug 2026 12:00:42 GMT</pubDate>
 
 </item>
 <item>
@@ -112,6 +189,20 @@
 
 </item>
 <item>
+<title>[News] Bringing ChatGPT for Teachers to more U.S. school districts</title>
+<link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+<guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+<pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+<description>ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.</description>
+</item>
+<item>
+<title>[News] Learning never stops: How AI makes learning continuous</title>
+<link>https://openai.com/index/learning-never-stops</link>
+<guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+<pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+<description>OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.</description>
+</item>
+<item>
 <title>[Google News] China’s hackers pick DeepSeek, OpenAI blocks Russian influence push, webpages mess with local AI - CISO Series</title>
 <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ3lnWkt4dkVTTG52T3FTampHQ01GaHpVeGtjNXJVLWFMbklRRlZoaEJ0YllOSF93cHJhLUtEbzAxcS1ZLXoxSE1PUk9kNkdOWU05SUpYeFJmWExNbzZlOWNBb1c2LUUydGkteTZmVXVYLUc0N1JsclcxVDV4eml1VWlGVlFESTZQSXRqMnhoemk1bFRtTGlVc2pVUEdIeVpTeVZQcXQ1UmQ4YmxMeUx4bmZ3V2VxaElT?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ3lnWkt4dkVTTG52T3FTampHQ01GaHpVeGtjNXJVLWFMbklRRlZoaEJ0YllOSF93cHJhLUtEbzAxcS1ZLXoxSE1PUk9kNkdOWU05SUpYeFJmWExNbzZlOWNBb1c2LUUydGkteTZmVXVYLUc0N1JsclcxVDV4eml1VWlGVlFESTZQSXRqMnhoemk1bFRtTGlVc2pVUEdIeVpTeVZQcXQ1UmQ4YmxMeUx4bmZ3V2VxaElT?oc=5</guid>
@@ -140,13 +231,6 @@
 <description>At loveholidays, AI-assisted code changes grew from 7% to 79% in a year, while deployments increased 73% without growing the engineering team. 🚀 With Codex, product managers, designers and commercial teams can now build alongside engineers—with 10+ new search experiences already developed through S</description>
 </item>
 <item>
-<title>[Google News] China’s Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek - Bloomberg.com</title>
-<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFAzZElBMXB2bzloV0FDMnV0ZGE3QjBKb1RTT3JMWVNZTEJaUzdoY0dFM2lGWFRoejJWMUhWcS1kSHpSbG5YVjh5VElENTVOZW82ODQ3SW1heHc2cUhOVHBxOFJTd0JLaXFnT3kyRXVjUmlJSWhDWEhnREZSdWxydHB1MjdFQXJEQXlEQVFhZ1dobWtNVkEzT3c5VDJaanoxbkduWHRFTGd4bzBQa0dNdmd3?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFAzZElBMXB2bzloV0FDMnV0ZGE3QjBKb1RTT3JMWVNZTEJaUzdoY0dFM2lGWFRoejJWMUhWcS1kSHpSbG5YVjh5VElENTVOZW82ODQ3SW1heHc2cUhOVHBxOFJTd0JLaXFnT3kyRXVjUmlJSWhDWEhnREZSdWxydHB1MjdFQXJEQXlEQVFhZ1dobWtNVkEzT3c5VDJaanoxbkduWHRFTGd4bzBQa0dNdmd3?oc=5</guid>
-<pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
-
-</item>
-<item>
 <title>[MIT Tech Review] Raised on AI</title>
 <link>https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/</link>
 <guid isPermaLink="false">https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/</guid>
@@ -165,6 +249,13 @@
 <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBHVmRvZWdfMjczNE5rSlBkdkN5XzY3SDRPM0lKU0JuM3I4UzhWWTNKOWc5QUlWOTFwZmU4SW5PZWcyTml4dFZVbW43X0J4eXlGa0VHYjFEeVp4VVhwRHhPUGNXaWdNTmRCYXNJVFJsX0RiNFY5YWc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTFBHVmRvZWdfMjczNE5rSlBkdkN5XzY3SDRPM0lKU0JuM3I4UzhWWTNKOWc5QUlWOTFwZmU4SW5PZWcyTml4dFZVbW43X0J4eXlGa0VHYjFEeVp4VVhwRHhPUGNXaWdNTmRCYXNJVFJsX0RiNFY5YWc?oc=5</guid>
 <pubDate>Wed, 26 Aug 2026 08:37:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek’s Revenue Reaches $70 Million as of July, Tenfold Jump from 2025 - The Information</title>
+<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmhkMGIwc01KRzNkRUwyNTRaMzV3bE9xVTdCY3JnOHl2bHVjWUFBaVlSUGZKNWYzbjEybDFWTlZsQ1ROYkZGMGF2cDNRbUhUbGg4ZlZZVzFTVHV3MU1hWWN1N1JoVm8zbXhyeWp1YmxHT1hoVDJRTjJDRF9ZbkZYdjRFYi1IUUFJY09xalp6RFFXN3E5RFA3V2t3QWV4QUxLQXc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmhkMGIwc01KRzNkRUwyNTRaMzV3bE9xVTdCY3JnOHl2bHVjWUFBaVlSUGZKNWYzbjEybDFWTlZsQ1ROYkZGMGF2cDNRbUhUbGg4ZlZZVzFTVHV3MU1hWWN1N1JoVm8zbXhyeWp1YmxHT1hoVDJRTjJDRF9ZbkZYdjRFYi1IUUFJY09xalp6RFFXN3E5RFA3V2t3QWV4QUxLQXc?oc=5</guid>
+<pubDate>Wed, 26 Aug 2026 08:26:00 GMT</pubDate>
 
 </item>
 <item>
@@ -224,13 +315,6 @@
 
 </item>
 <item>
-<title>[Google News] AI — A New Challenge for Moldovan Citizens - logos-pres.md</title>
-<link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSEZaUE5xc3hiVXA3Y2RMQnBqLWdBbjhOd0ZMU04yZ2p1WEowbnJiWUtkQUJDcnF4bDBaeTdWRU0wV1ZjQ2NXWmU0aGdDdDFWV29zX3VUSHlWajFKUVZQbXlOT2xtM2ZPMGlRdjdRSExoQnBIUk44MHpscw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSEZaUE5xc3hiVXA3Y2RMQnBqLWdBbjhOd0ZMU04yZ2p1WEowbnJiWUtkQUJDcnF4bDBaeTdWRU0wV1ZjQ2NXWmU0aGdDdDFWV29zX3VUSHlWajFKUVZQbXlOT2xtM2ZPMGlRdjdRSExoQnBIUk44MHpscw?oc=5</guid>
-<pubDate>Wed, 26 Aug 2026 06:10:16 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] Bertelsmann Stiftung: Artificial intelligence can strengthen citizen participation - DagangNews</title>
 <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOamdqMTFYdTZLY0w1UWpWZFVkWFJnZV8wODBnOFRDYk54V052ajdIREhrQTI0VHVzRmtHMDNya0VfZngtdWtnZVdGMGJndXRLYTlUbjRlRjVEOFFBbjFIdjFLdnpjWlZkNnZYeEl4RzJKSGJWMF9pbXdOUG5BME5kd3NNR3E2Qkg5OHpsbG1RX3dVSlVtYjJ2QlowNXJnZDFvNFdHUWxlQUlHc2ZpOEhNUUlicmZ1Sks1bElIVUxrWVZlRXdzSmZjSmlB?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxOamdqMTFYdTZLY0w1UWpWZFVkWFJnZV8wODBnOFRDYk54V052ajdIREhrQTI0VHVzRmtHMDNya0VfZngtdWtnZVdGMGJndXRLYTlUbjRlRjVEOFFBbjFIdjFLdnpjWlZkNnZYeEl4RzJKSGJWMF9pbXdOUG5BME5kd3NNR3E2Qkg5OHpsbG1RX3dVSlVtYjJ2QlowNXJnZDFvNFdHUWxlQUlHc2ZpOEhNUUlicmZ1Sks1bElIVUxrWVZlRXdzSmZjSmlB?oc=5</guid>
@@ -273,11 +357,25 @@
 
 </item>
 <item>
+<title>[News] The Hugging Face incident and the road ahead</title>
+<link>https://openai.com/index/hugging-face-incident-and-the-road-ahead</link>
+<guid isPermaLink="false">https://openai.com/index/hugging-face-incident-and-the-road-ahead</guid>
+<pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+<description>OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.</description>
+</item>
+<item>
 <title>[News] How loveholidays is making everyone a builder with Codex</title>
 <link>https://openai.com/index/loveholidays</link>
 <guid isPermaLink="false">https://openai.com/index/loveholidays</guid>
 <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
 <description>Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.</description>
+</item>
+<item>
+<title>[Research] Enabling independent research on how people use Claude</title>
+<link>https://www.anthropic.com/research/enabling-independent-research</link>
+<guid isPermaLink="false">https://www.anthropic.com/research/enabling-independent-research</guid>
+<pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+<description>Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data. Three research groups designed their own studies for Anthropic Insights, our privacy-preserving analysis tool. In this post, we share high-level results from those studies and what we lea</description>
 </item>
 <item>
 <title>[Blog] Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers</title>
@@ -327,104 +425,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=Is2NHa7awWY</guid>
 <pubDate>Tue, 25 Aug 2026 20:15:30 GMT</pubDate>
 <description>Eric Provencher from OpenAI Developer Experience demonstrates WebMCP support in Codex with Codex Modeling Studio, a 3D modeling site designed for people and agents to use together. See how adding tools directly to a website lets Codex discover capabilities, iterate on visuals, capture feedback, and </description>
-</item>
-<item>
-<title>[Google News] PRESS RELEASE: European Union Begins Enforcing Sweeping Artificial Intelligence Act - The Heartland Institute</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPOC1BbDVuT2RKZUp1X3RUWVVnZEFwaVY4STNYdTY3WWVuNmNQazRhREZEa3BRVTlta3lXZUpnN3QyMEwzMHowUXV1SlhjanptYnpIQkU1UWtFQ2gxRUg4U0o1VkU0Q2t4QUVyVkhUa3ZwencxUkVNcXdYTTJHNzd1YnNPUHF1SnBYeUtzZDZKYUNWZUprTjhraDVyY2dCRXA3Z1FWQ3ZrS3htQkNaOU96QnQ0RQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxPOC1BbDVuT2RKZUp1X3RUWVVnZEFwaVY4STNYdTY3WWVuNmNQazRhREZEa3BRVTlta3lXZUpnN3QyMEwzMHowUXV1SlhjanptYnpIQkU1UWtFQ2gxRUg4U0o1VkU0Q2t4QUVyVkhUa3ZwencxUkVNcXdYTTJHNzd1YnNPUHF1SnBYeUtzZDZKYUNWZUprTjhraDVyY2dCRXA3Z1FWQ3ZrS3htQkNaOU96QnQ0RQ?oc=5</guid>
-<pubDate>Tue, 25 Aug 2026 19:58:17 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] NVIDIA Vera Rubin NVL72 production racks are here.</title>
-<link>https://www.youtube.com/shorts/NqPsQCI0yzs</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/NqPsQCI0yzs</guid>
-<pubDate>Tue, 25 Aug 2026 19:43:48 GMT</pubDate>
-<description>NVIDIA Vera Rubin NVL72 production racks are here. The compute tray is engineered for fast compute, assembly, and serviceability. Manufacturing is 100% automated, and every tray goes together in one minute. Congratulations to Microsoft on the first operational Vera Rubin NVL72 racks, now rolling off</description>
-</item>
-<item>
-<title>[Research] AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR</title>
-<link>https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/</link>
-<guid isPermaLink="false">https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/</guid>
-<pubDate>Tue, 25 Aug 2026 19:10:59 +0000</pubDate>
-
-</item>
-<item>
-<title>[Google News] AI-led startups face takeoff hiccups as overreliance poses challenges - Business Standard</title>
-<link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxPb2lPaGpTZXZ4alkzcXB5Y2VpSkFGQWRTUGp6U1UzZ3BwSkY5cDlYTXdpejN3UzE3MVA0WDBwTkdlY3B2UU90SGhRZ3QwY2RGby1ETFR6NmxQa1VnNmh3WHJ0Qy1TOTV0MktVTzc1d1RwOXV1MTlxaS1EbTFqLXFnYkN2cFc2dFJKQzRYXzVkZWdvT0dFMmtkeEsxY2dITXVCYU1SVHBCdl8xU3ozOVRMTjVhYW5ialMtQlFHVnhQVVU2aUZhYzVHSWxDOElXdmtIc25ycEh3OFc2aGg3LVNCZ25QRHI5QlBBR2FsSWdZXzZrU1FN0gH0AUFVX3lxTE9vaU9oalNldnhqWTNxcHljZWlKQUZBZFNQanpTVTNncHBKRjlwOVhNd2l6M3dTMTcxUDRYMHBOR2VjcHZRT3RIaFFndDBjZEZvLURMVHo2bFBrVWc2aHdYcnRDLVM5NXQyS1VPNzV3VHA5dXUxOXFpLURtMWotcWdiQ3ZwVzZ0UkpDNFhfNWRlZ29PR0Uya2R4SzFjZ0hNdUJhTVJUcEJ2XzFTejM5VExONWFhbmJqUy1CUUdWeFBVVTZpRmFjNUdJbEM4SVd2a0hzbnJwSHc4VzZoaDctU0JnblBEcjlCUEFHYWxJZ1lfNmtTUU0?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi9AFBVV95cUxPb2lPaGpTZXZ4alkzcXB5Y2VpSkFGQWRTUGp6U1UzZ3BwSkY5cDlYTXdpejN3UzE3MVA0WDBwTkdlY3B2UU90SGhRZ3QwY2RGby1ETFR6NmxQa1VnNmh3WHJ0Qy1TOTV0MktVTzc1d1RwOXV1MTlxaS1EbTFqLXFnYkN2cFc2dFJKQzRYXzVkZWdvT0dFMmtkeEsxY2dITXVCYU1SVHBCdl8xU3ozOVRMTjVhYW5ialMtQlFHVnhQVVU2aUZhYzVHSWxDOElXdmtIc25ycEh3OFc2aGg3LVNCZ25QRHI5QlBBR2FsSWdZXzZrU1FN0gH0AUFVX3lxTE9vaU9oalNldnhqWTNxcHljZWlKQUZBZFNQanpTVTNncHBKRjlwOVhNd2l6M3dTMTcxUDRYMHBOR2VjcHZRT3RIaFFndDBjZEZvLURMVHo2bFBrVWc2aHdYcnRDLVM5NXQyS1VPNzV3VHA5dXUxOXFpLURtMWotcWdiQ3ZwVzZ0UkpDNFhfNWRlZ29PR0Uya2R4SzFjZ0hNdUJhTVJUcEJ2XzFTejM5VExONWFhbmJqUy1CUUdWeFBVVTZpRmFjNUdJbEM4SVd2a0hzbnJwSHc4VzZoaDctU0JnblBEcjlCUEFHYWxJZ1lfNmtTUU0?oc=5</guid>
-<pubDate>Tue, 25 Aug 2026 19:09:02 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek Tests New Model Aimed at Surpassing Fable 5 in Coding and Reasoning - finance.biggo.com</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE12dEp6VHZZTTc5YXhTNFFYd3BvcmtzS05CWE00TTdrek9ldTdvd0pITDFJc1QyaWExQTF5cU92WmxtcjUyejdsM0p6V0pXVFRYZUdMYTlGOFRvVW1OdXh6OUs3VVkyUUVRa3BZSW5lbGdRZjZYdHc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE12dEp6VHZZTTc5YXhTNFFYd3BvcmtzS05CWE00TTdrek9ldTdvd0pITDFJc1QyaWExQTF5cU92WmxtcjUyejdsM0p6V0pXVFRYZUdMYTlGOFRvVW1OdXh6OUs3VVkyUUVRa3BZSW5lbGdRZjZYdHc?oc=5</guid>
-<pubDate>Tue, 25 Aug 2026 18:37:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] Codex, but make it weird. Hahahacks.</title>
-<link>https://www.youtube.com/watch?v=2f9bBlGOuX4</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=2f9bBlGOuX4</guid>
-<pubDate>Tue, 25 Aug 2026 18:26:41 GMT</pubDate>
-<description>Thanks for having us, @tiatplace</description>
-</item>
-<item>
-<title>[Google News] Chinese State Hackers Double Attack Volume Using DeepSeek AI, Researchers Say - finance.biggo.com</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1EU2xNc2N3dUhIUk11VTlwUWJ6YmlldG1VT0dIVzljZXlTcWpwYnJ3LWNFY0YxcGkwc0YwMUJiRXcwZGJCTHVOYjNoaUtRNUVSYXRQVEtGcVFYQy10cVJuS0hPbUF3V3hWRjJyWFlwRXJ6NVYzMGc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE1EU2xNc2N3dUhIUk11VTlwUWJ6YmlldG1VT0dIVzljZXlTcWpwYnJ3LWNFY0YxcGkwc0YwMUJiRXcwZGJCTHVOYjNoaUtRNUVSYXRQVEtGcVFYQy10cVJuS0hPbUF3V3hWRjJyWFlwRXJ6NVYzMGc?oc=5</guid>
-<pubDate>Tue, 25 Aug 2026 18:22:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] No Limits on Text Chats with ChatGPT</title>
-<link>https://www.youtube.com/watch?v=9MIkJHcMtVA</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=9MIkJHcMtVA</guid>
-<pubDate>Tue, 25 Aug 2026 17:21:58 GMT</pubDate>
-<description>All users now have unlimited access to text chats in ChatGPT with our latest model GPT-5.6 Luna. 🎥: @2UnlimitedOfficial</description>
-</item>
-<item>
-<title>[Google AI] 5 ways to upgrade your home decor with Google Search</title>
-<link>https://blog.google/products-and-platforms/products/search/home-decor-tips/</link>
-<guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/home-decor-tips/</guid>
-<pubDate>Tue, 25 Aug 2026 16:00:00 +0000</pubDate>
-<description>Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.</description>
-</item>
-<item>
-<title>[Gemini] Here’s how to use intelligent dictation in Gemini for macOS.</title>
-<link>https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/</guid>
-<pubDate>Tue, 25 Aug 2026 16:00:00 +0000</pubDate>
-<description>Enable Google’s new intelligent dictation feature in the Gemini app for macOS and speak naturally into any window on your desktop.</description>
-</item>
-<item>
-<title>[Blog] Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark</title>
-<link>https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/</guid>
-<pubDate>Tue, 25 Aug 2026 15:30:48 +0000</pubDate>
-<description>NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark and Ubisoft are among the latest game publishers and developers bringing their bl</description>
-</item>
-<item>
-<title>[Blog] Granite 4.2 LLMs: How They're Built</title>
-<link>https://huggingface.co/blog/ibm-granite/granite-4-2</link>
-<guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-4-2</guid>
-<pubDate>Tue, 25 Aug 2026 15:14:14 GMT</pubDate>
-<description>A Blog post by IBM Granite on Hugging Face</description>
-</item>
-<item>
-<title>[Newsroom] NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI</title>
-<link>https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai</link>
-<guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai</guid>
-<pubDate>Tue, 25 Aug 2026 15:00:00 GMT</pubDate>
-<description>NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.</description>
-</item>
-<item>
-<title>[Developer] CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access</title>
-<link>https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/</guid>
-<pubDate>Tue, 25 Aug 2026 15:00:00 GMT</pubDate>
-<description>For years, a Python developer who needed a GPU had two realistic choices: Learn NVIDIA CUDA C++ well enough to write an extension, set up a build toolchain, and...</description>
 </item>
 </channel>
 </rss>
