@@ -5,13 +5,76 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Mon, 31 Aug 2026 13:52:21 GMT</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 20:07:14 GMT</lastBuildDate>
+<item>
+<title>[Google News] Nicholls implements new artificial intelligence policy following state mandates - the nicholls worth</title>
+<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQUlJGWVhncFU1ZjFlQTVPZl9QZVI3Wk1GRGNxb0xFWUhUR0w0NjNOMHE5ejNSWWpLYnBuc24xbXViZUpHUGlQWWFoYVR0amlBcnBZWnBVU2NFQ19xQmpfUmt5dFZRRWsteHR3NGRCY3BtMnhJMFlHUnhSUU9BRW5yME5va2tDLTkyX3JMZGhzLUhwSFR3M3pTVVlfbVd5Y3JKRThMWHBOUmRIWTBVOHdaWHZRRURaZ19hR0E4UGtibw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxQUlJGWVhncFU1ZjFlQTVPZl9QZVI3Wk1GRGNxb0xFWUhUR0w0NjNOMHE5ejNSWWpLYnBuc24xbXViZUpHUGlQWWFoYVR0amlBcnBZWnBVU2NFQ19xQmpfUmt5dFZRRWsteHR3NGRCY3BtMnhJMFlHUnhSUU9BRW5yME5va2tDLTkyX3JMZGhzLUhwSFR3M3pTVVlfbVd5Y3JKRThMWHBOUmRIWTBVOHdaWHZRRURaZ19hR0E4UGtibw?oc=5</guid>
+<pubDate>Mon, 31 Aug 2026 19:08:45 GMT</pubDate>
+
+</item>
+<item>
+<title>[MIT Tech Review] Hugging Face hack could indicate cultural issues at OpenAI</title>
+<link>https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</link>
+<guid isPermaLink="false">https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</guid>
+<pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
+<description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F</description>
+</item>
+<item>
+<title>[Research] TimesFM-3: A zero-shot foundation model for multivariate forecasting</title>
+<link>https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/</link>
+<guid isPermaLink="false">https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/</guid>
+<pubDate>Mon, 31 Aug 2026 17:19:40 +0000</pubDate>
+
+</item>
+<item>
+<title>[Developer] Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science</title>
+<link>https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/</guid>
+<pubDate>Mon, 31 Aug 2026 16:30:00 GMT</pubDate>
+<description>Agentic AI is changing how research is done. AI scientists can read papers, propose hypotheses, call models, and determine which experiments to prioritize next....</description>
+</item>
+<item>
+<title>[Cloud AI] What’s new in AI infrastructure and orchestration in August</title>
+<link>https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/</guid>
+<pubDate>Mon, 31 Aug 2026 16:00:00 +0000</pubDate>
+<description>Welcome back to What’s new in AI infrastructure and orchestration this month , a collection of product updates, how-tos, customer stories, research and other resources about all the AI compute, networks, storage, frameworks, and orchestration software that you can find at Google Cloud. To be honest,</description>
+</item>
+<item>
+<title>[Research] GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models</title>
+<link>https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/</link>
+<guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/</guid>
+<pubDate>Mon, 31 Aug 2026 16:00:00 +0000</pubDate>
+<description>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration. The post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery wit</description>
+</item>
+<item>
+<title>[Developer] Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec</title>
+<link>https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/</guid>
+<pubDate>Mon, 31 Aug 2026 16:00:00 GMT</pubDate>
+<description>A perception stack is shaped by the vehicle that carries it. Move the same software to a new carline—for example, from an SUV to a sedan or another vehicle...</description>
+</item>
+<item>
+<title>[Google News] Nvidia Backs Chinese Open AI Models As U.S. Restriction Risk Grows - Memeburn</title>
+<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzJfd29uUURCSjRGRFFBNjkyelA4VktWODZtbk1fX093b0tsVFdjQmlPYmp2cjdPZFR1R3g1dkVKOWoyMFZBZGdfdVFVWTRZWDBveDB1b3BKdjUxd3h5dk1QQkhzd21OZnhQbE9taFpSSnpZMDhFMEN6a05pQ09tLVNFdnhLWHA2Q0p4Y1BkQXM?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzJfd29uUURCSjRGRFFBNjkyelA4VktWODZtbk1fX093b0tsVFdjQmlPYmp2cjdPZFR1R3g1dkVKOWoyMFZBZGdfdVFVWTRZWDBveDB1b3BKdjUxd3h5dk1QQkhzd21OZnhQbE9taFpSSnpZMDhFMEN6a05pQ09tLVNFdnhLWHA2Q0p4Y1BkQXM?oc=5</guid>
+<pubDate>Mon, 31 Aug 2026 15:07:07 GMT</pubDate>
+
+</item>
 <item>
 <title>[Newsroom] NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms</title>
 <link>https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms</link>
 <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms</guid>
 <pubDate>Mon, 31 Aug 2026 12:30:00 GMT</pubDate>
 <description>NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms — spanning AI infrastructure, local AI computing and automotive.</description>
+</item>
+<item>
+<title>[Google News] Maharashtra announces AI Policy 2026 to boost industry, governance and public services - News On AIR</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5</guid>
+<pubDate>Mon, 31 Aug 2026 12:29:51 GMT</pubDate>
+
 </item>
 <item>
 <title>[Google News] DeepSeek’s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed - The New Stack</title>
@@ -21,10 +84,24 @@
 
 </item>
 <item>
-<title>[Google News] Frontline Exclusive: Local Large Model StartLux-27B Earns Top-Tier MCP-Universe Evaluation Results – 2nd in Overall Performance &amp; Leading Multiple Key Specialized Indicators - 36氪</title>
+<title>[Google News] Frontline Exclusive: Local Large Model StartLux-27B Earns Top-Tier MCP-Universe Evaluation Results – 2nd in Overall Performance &amp; Leading Multiple Key Specialized Indicators - 36 Kr</title>
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GRl9hTXdjTTBjbE1zd0RBZ2NPZG80eE1yaXBFd3hVZDNaM1c2dHhqZHlQa09OcEJCbmRjX2dGMEtsemV3LXdPcGtOSk93aTB3dlJJ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GRl9hTXdjTTBjbE1zd0RBZ2NPZG80eE1yaXBFd3hVZDNaM1c2dHhqZHlQa09OcEJCbmRjX2dGMEtsemV3LXdPcGtOSk93aTB3dlJJ?oc=5</guid>
 <pubDate>Mon, 31 Aug 2026 11:41:43 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Is Kimi About to "Enter China's Domestic Market"？ - 36 Kr</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JTHlfWUpaT0h6SUNYVUpLX2ZlNkJYTjhrVFoxRlg1dFJMMjQxMHFEYU8ya0FIVnJSNDhVWVQ4dEZONl8yay1BcV9iRjBEU19JN3RZ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JTHlfWUpaT0h6SUNYVUpLX2ZlNkJYTjhrVFoxRlg1dFJMMjQxMHFEYU8ya0FIVnJSNDhVWVQ4dEZONl8yay1BcV9iRjBEU19JN3RZ?oc=5</guid>
+<pubDate>Mon, 31 Aug 2026 11:36:43 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Bill Gates Warns AI Bioweapons Risks Are Here - StartupHub.ai</title>
+<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDdFUVVNamVMa1pnLXgxYmNXdVBfZmhqbHFhTzBCMXo3eHhTdWtmRm5OZVIySEI3VmFKVU01OVQwZ1dhd1JGSnlFZ3FWVUxVcm4wYzFseVlTMDFMUl85X0pVc2N1UjMtR0FpZXZUa2F1YVBYNlphX1VXajlBYTZfZTBxd0RvLTc3Rk1uc1c2QVg4VmxNbkt3RDd0TEZrUW1UZmxFNGVNTE9hODRX?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDdFUVVNamVMa1pnLXgxYmNXdVBfZmhqbHFhTzBCMXo3eHhTdWtmRm5OZVIySEI3VmFKVU01OVQwZ1dhd1JGSnlFZ3FWVUxVcm4wYzFseVlTMDFMUl85X0pVc2N1UjMtR0FpZXZUa2F1YVBYNlphX1VXajlBYTZfZTBxd0RvLTc3Rk1uc1c2QVg4VmxNbkt3RDd0TEZrUW1UZmxFNGVNTE9hODRX?oc=5</guid>
+<pubDate>Mon, 31 Aug 2026 11:27:56 GMT</pubDate>
 
 </item>
 <item>
@@ -35,7 +112,7 @@
 
 </item>
 <item>
-<title>[Google News] Everyone Can Get a Free "DeepSeek Harness" – Why Still Pay for Claude Code &amp; Similar Service Memberships? - 36氪</title>
+<title>[Google News] Everyone Can Get a Free "DeepSeek Harness" – Why Still Pay for Claude Code &amp; Similar Service Memberships? - 36 Kr</title>
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PTlZmM2ZFTWwwVkY4eFZSSS1UQS04MmZ2RDVqZXcxYVlFekdkcFBwS0FOUE9QSTd1X09HcjVLV3JhcVVlbXJJQ2doUkVSUmd4NENn?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PTlZmM2ZFTWwwVkY4eFZSSS1UQS04MmZ2RDVqZXcxYVlFekdkcFBwS0FOUE9QSTd1X09HcjVLV3JhcVVlbXJJQ2doUkVSUmd4NENn?oc=5</guid>
 <pubDate>Mon, 31 Aug 2026 11:11:40 GMT</pubDate>
@@ -49,10 +126,10 @@
 
 </item>
 <item>
-<title>[Google News] Sarvam Champions: Indian AI startup to give creators early access to new AI models - Business Today</title>
-<link>https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVm9Bemo5VUNqMUdXeE5nUnhwUjQ1ZUpMdmVvVUs1ZExvRkVCVThSc0U0dHY4d3JGamxKV3Qya1lTRmo0dzZBUGVPMXd3eGNEUDU5TUZaSlQxQWI2eUt4M2E1VzNaanhrcTREVndFaThkS2JyX29NLU1INjhGSkVtYUJXdGhqTGdZOV9oSGJkMGlOVUtQbENHZ2pESVd6aERrVXc0RTFsbHh5TlJ5N0JuSjdBZWdnZDBzZHpGRXV5Z1JiRWVCdEtuSWNXVm5UMXRpWnFFMExHY1VPTXBtSnM1YkRTeTdySF9ISmhSb054bnBEa09pZ3BOS0FhTEZSQdIBgwJBVV95cUxOMzhUSEZrUWxqU1F1S29mQVp0U09JT05PWXN4Q2Jia1ptZGQwbmVNWmpBOVpGNlpWMmM3Ykc5YW5qT3hMNEhrUmVCaVhTVFNRWlRCa1VIRThwOFBzYjRxaHBRUWRPckM3TXlMWENVcW40RXBJVk92UU5GX0t1YXI4MDAyVW1qNS1WM2JaTmtKNFh2MXkzNGw2b2Uxb3hZSjhKR3pkTU5aWVFYR0pNQTdwdUE3TFk1bE45M3F1Z0JKLW9VUkpMR0RPVlB3ZGFkRkExaFo2ZXhpNmIwckU0a3ZIaGREZjBJNVpabU9VYmljNENjTjhCSXFibFBqQ1lUaWFCYTNj?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVm9Bemo5VUNqMUdXeE5nUnhwUjQ1ZUpMdmVvVUs1ZExvRkVCVThSc0U0dHY4d3JGamxKV3Qya1lTRmo0dzZBUGVPMXd3eGNEUDU5TUZaSlQxQWI2eUt4M2E1VzNaanhrcTREVndFaThkS2JyX29NLU1INjhGSkVtYUJXdGhqTGdZOV9oSGJkMGlOVUtQbENHZ2pESVd6aERrVXc0RTFsbHh5TlJ5N0JuSjdBZWdnZDBzZHpGRXV5Z1JiRWVCdEtuSWNXVm5UMXRpWnFFMExHY1VPTXBtSnM1YkRTeTdySF9ISmhSb054bnBEa09pZ3BOS0FhTEZSQdIBgwJBVV95cUxOMzhUSEZrUWxqU1F1S29mQVp0U09JT05PWXN4Q2Jia1ptZGQwbmVNWmpBOVpGNlpWMmM3Ykc5YW5qT3hMNEhrUmVCaVhTVFNRWlRCa1VIRThwOFBzYjRxaHBRUWRPckM3TXlMWENVcW40RXBJVk92UU5GX0t1YXI4MDAyVW1qNS1WM2JaTmtKNFh2MXkzNGw2b2Uxb3hZSjhKR3pkTU5aWVFYR0pNQTdwdUE3TFk1bE45M3F1Z0JKLW9VUkpMR0RPVlB3ZGFkRkExaFo2ZXhpNmIwckU0a3ZIaGREZjBJNVpabU9VYmljNENjTjhCSXFibFBqQ1lUaWFCYTNj?oc=5</guid>
-<pubDate>Mon, 31 Aug 2026 10:05:54 GMT</pubDate>
+<title>[Google News] Cut AI API Costs 14x With a LiteLLM Router: 14 Steps [2026] - tech-insider.org</title>
+<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE5uazN0b2h0eGhPVlBqMlhaUHRPdy13dUJ6SGNZbFFvUTVkRjNUV3dlQU5QMFlHbzN4aWc4Tm1EdV8yRzh5SFJkdkJYVFhzZDhuMl82VkdhdFhXUzdDRlAxeUNNei1hRjFHQ0RDSw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMibEFVX3lxTE5uazN0b2h0eGhPVlBqMlhaUHRPdy13dUJ6SGNZbFFvUTVkRjNUV3dlQU5QMFlHbzN4aWc4Tm1EdV8yRzh5SFJkdkJYVFhzZDhuMl82VkdhdFhXUzdDRlAxeUNNei1hRjFHQ0RDSw?oc=5</guid>
+<pubDate>Mon, 31 Aug 2026 10:08:30 GMT</pubDate>
 
 </item>
 <item>
@@ -66,7 +143,7 @@
 <title>[Google News] Governance by design: Turning AI policy into executable controls - InfoWorld</title>
 <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOa29UOHgzenR3ejFKTzZmOUlFQ1RNZzZKNGRURTVvTm1Kc0dDakFCNjFNOVNkWmhHaUg0VHBBQmFWaUZ0eXBYTkVSVm9VM3lTX3Y3TjdXajFwVnBKUTk5bjFOX0Z4SUhRamJaOUt1NU9aOFZZZFBLbmEwb2hnck5ING00SnZRTkNFVDJyUGM0QnhvaGRYa1RUYjA0Mkk3YVBVVDVyWXVoVFV4ZXlOck1R?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxOa29UOHgzenR3ejFKTzZmOUlFQ1RNZzZKNGRURTVvTm1Kc0dDakFCNjFNOVNkWmhHaUg0VHBBQmFWaUZ0eXBYTkVSVm9VM3lTX3Y3TjdXajFwVnBKUTk5bjFOX0Z4SUhRamJaOUt1NU9aOFZZZFBLbmEwb2hnck5ING00SnZRTkNFVDJyUGM0QnhvaGRYa1RUYjA0Mkk3YVBVVDVyWXVoVFV4ZXlOck1R?oc=5</guid>
-<pubDate>Mon, 31 Aug 2026 09:03:07 GMT</pubDate>
+<pubDate>Mon, 31 Aug 2026 09:03:22 GMT</pubDate>
 
 </item>
 <item>
@@ -75,6 +152,13 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXpnN0cyN2lDT250V3k3eDd1V2prRnFoLWwyd2Zmdk1qcTBmZjN0RnBzNTRrT21XT2ZvZWxmMGhOTWF6cFZpYjZLYjVsOTIxRElhakZiZmFxdVdfSjlpcGZadUxTd3RPNmFUOFlFbTdtM0NUWkhYdjc5dWFRaGJTMkwxNA?oc=5</guid>
 <pubDate>Mon, 31 Aug 2026 08:06:18 GMT</pubDate>
 
+</item>
+<item>
+<title>[News] A milestone in expanding access to AI</title>
+<link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
+<guid isPermaLink="false">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
+<pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
+<description>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.</description>
 </item>
 <item>
 <title>[Google News] Chinese firm lauds Punjab’s AI-based governance initiatives - Business Recorder</title>
@@ -98,17 +182,10 @@
 
 </item>
 <item>
-<title>[Google News] Maharashtra announces AI Policy 2026 to boost industry, governance and public services - News On AIR</title>
-<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNyWXo2alUwWHp1THhSWkFwTm5FWko3b1RfcWdmM29IZDFiQUlMTzBPcDZGZnY0MmxaU2xpNC11dUhDLUdraThNR2lvXzAwYS1Sd3FSSGxkSktwb2ZuTkxTNFhQMUVnaTV1U1RHVVpnTVc2T09KaUs1bFZTMDV0ZXNvanlkN0RmNVM2ZF8ySzhfTVMwN1NwbEZwNHdyNFBvS3hUX0xYWXJpODNSUUotYQ?oc=5</guid>
-<pubDate>Sun, 30 Aug 2026 16:34:45 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Persistent AI Coworkers Are OpenAI's Third Era - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWR5cjVoTkZodWRBLU4xaG1zR2RldFN6RDIzN1VLZjR1OWN4YzI5Y0FJZ1FjZ1V0dE9wZE1zdVQ1V1ZNeWN4cWpCejZ4eEVEUlFpa2JPUXd0ODREYzRFWkxEbDNwc1ZBM0g1OUlVb2xGWXB2V2QyVlZqWjlKcnBZM2ZWM3NmZnJNY2YxYUxVN0ZLaHhmVDZWWmxNYXJBOVh1Ukp3ckdCeFVFempXQlE?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWR5cjVoTkZodWRBLU4xaG1zR2RldFN6RDIzN1VLZjR1OWN4YzI5Y0FJZ1FjZ1V0dE9wZE1zdVQ1V1ZNeWN4cWpCejZ4eEVEUlFpa2JPUXd0ODREYzRFWkxEbDNwc1ZBM0g1OUlVb2xGWXB2V2QyVlZqWjlKcnBZM2ZWM3NmZnJNY2YxYUxVN0ZLaHhmVDZWWmxNYXJBOVh1Ukp3ckdCeFVFempXQlE?oc=5</guid>
-<pubDate>Sun, 30 Aug 2026 13:02:57 GMT</pubDate>
+<title>[Google News] Music publishers accuse Anthropic of ‘blatant theft’ in major new lawsuit - South China Morning Post</title>
+<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUxzWFh0YmxzUXkwSGZ4M3hQY1A3UllweGZfZVowaUZ4NFlJZ0UzNmgydFpCalN3bF9LNjh0NU5PVU14Q3EwYXpLVjdPbzZYVEUwZWt4MGQwZ0tTZVVOS0M5ck5oNVZ5UXZaVUU0OGJSUldGZXNkM3BGcC1IVm82QlkxaHhmVVJ1X0ZtLXhlTGlFdWRNR3BRbHFCNFFFeXZnZ1JoVy1jdjdFU1pzR0R4c0owbE9fNFQ30gG4AUFVX3lxTE5vR1V5ZmtUT1c1S2tMQ1Z1R3VZQ2w3cVdwMmR3ZFlHZFFzSkR0b3FJbVhKZXhQczYwejFuNVBnc1BhdGk2U182MVJoUEpjR0VLdXM1cTh2V0R4eUJNN2otUXc4enY0UkNOUXpEOVJRNG1BZHB5ZUNfQUhfTklrUEtvWXFNU1p4V051cm4zUHpXY0RaRkdmUS1uRVNuNlFQM1JnX0FSZmdQQnBZMFJIekloRjIyX2xJbng?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUxzWFh0YmxzUXkwSGZ4M3hQY1A3UllweGZfZVowaUZ4NFlJZ0UzNmgydFpCalN3bF9LNjh0NU5PVU14Q3EwYXpLVjdPbzZYVEUwZWt4MGQwZ0tTZVVOS0M5ck5oNVZ5UXZaVUU0OGJSUldGZXNkM3BGcC1IVm82QlkxaHhmVVJ1X0ZtLXhlTGlFdWRNR3BRbHFCNFFFeXZnZ1JoVy1jdjdFU1pzR0R4c0owbE9fNFQ30gG4AUFVX3lxTE5vR1V5ZmtUT1c1S2tMQ1Z1R3VZQ2w3cVdwMmR3ZFlHZFFzSkR0b3FJbVhKZXhQczYwejFuNVBnc1BhdGk2U182MVJoUEpjR0VLdXM1cTh2V0R4eUJNN2otUXc4enY0UkNOUXpEOVJRNG1BZHB5ZUNfQUhfTklrUEtvWXFNU1p4V051cm4zUHpXY0RaRkdmUS1uRVNuNlFQM1JnX0FSZmdQQnBZMFJIekloRjIyX2xJbng?oc=5</guid>
+<pubDate>Sun, 30 Aug 2026 13:44:43 GMT</pubDate>
 
 </item>
 <item>
@@ -123,20 +200,6 @@
 <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPMi1wTDVrZTFjUnVGeURlNFVFdm5jLUtnSmJyUkpDbzgyT25UVGNVdDFvTURhWU94VkpkaEpITUZpZEZpSVhSVkpFaG1SZ3N0Ri1jV19VdnBodVNua1NiUGZGTDcxaGtZX3RhWDNTNV9qcmNUYk1fY0ExdEtfRFlGSHJKSXNpYUJvSEJzM0YwSWNXNklqNXNjNzZpWEpWbjlxd2VzVzl3?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxPMi1wTDVrZTFjUnVGeURlNFVFdm5jLUtnSmJyUkpDbzgyT25UVGNVdDFvTURhWU94VkpkaEpITUZpZEZpSVhSVkpFaG1SZ3N0Ri1jV19VdnBodVNua1NiUGZGTDcxaGtZX3RhWDNTNV9qcmNUYk1fY0ExdEtfRFlGSHJKSXNpYUJvSEJzM0YwSWNXNklqNXNjNzZpWEpWbjlxd2VzVzl3?oc=5</guid>
 <pubDate>Sun, 30 Aug 2026 12:29:46 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Anthropic Sued by Sony, Warner Over Copyright Infringement Claims - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPZEFrd1B4X3F2R09xc1Itd1NMWERtblhzd21NcFFEZERRTHJSLWJrRTB3VUQyVTduVVpmeGxvRC1wamFXazNIMWdBcWVfRldidjVTaFJtbG1sVHFuUHRTUDN5STB6dGxBQTBNRXRrdDdZQWZ0ckN3WlBBSm1iUXJmT0FrS21ySUdzM1ZUaVY2YWh3MHFENjUzdnloQ0ZmQ2Q5TzRBX0prb004YVhpZGowUDY4YUZONEtzWTAzaXhub2Q5M3Z0Q3c?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxPZEFrd1B4X3F2R09xc1Itd1NMWERtblhzd21NcFFEZERRTHJSLWJrRTB3VUQyVTduVVpmeGxvRC1wamFXazNIMWdBcWVfRldidjVTaFJtbG1sVHFuUHRTUDN5STB6dGxBQTBNRXRrdDdZQWZ0ckN3WlBBSm1iUXJmT0FrS21ySUdzM1ZUaVY2YWh3MHFENjUzdnloQ0ZmQ2Q5TzRBX0prb004YVhpZGowUDY4YUZONEtzWTAzaXhub2Q5M3Z0Q3c?oc=5</guid>
-<pubDate>Sun, 30 Aug 2026 12:03:17 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] New AI Models Achieve Faster Than Real-Time Performance - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNN09pMi13WHRTaXJzQUMxYXl2M3F0Z1NhUG1XZEhHUDc4eXVxQTRQRlVlZFdaRERaejY2TDZYZ0U0b1pIYmYtVWZ5OUo0NThyMldfRV9US2RpN09Bbzk0eWdoWlA3bE8xaW5IYVB1dU1oY1Jzd0xBYWNBX3RhajdpdjI2dlg3N2xXNEJLZWRQVGpOb2ZWTXlKVVphSHQ4cXVQN3VnUmNrMVdPWWM2emVXLXJfZ1JsSVAyV2c?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxNN09pMi13WHRTaXJzQUMxYXl2M3F0Z1NhUG1XZEhHUDc4eXVxQTRQRlVlZFdaRERaejY2TDZYZ0U0b1pIYmYtVWZ5OUo0NThyMldfRV9US2RpN09Bbzk0eWdoWlA3bE8xaW5IYVB1dU1oY1Jzd0xBYWNBX3RhajdpdjI2dlg3N2xXNEJLZWRQVGpOb2ZWTXlKVVphSHQ4cXVQN3VnUmNrMVdPWWM2emVXLXJfZ1JsSVAyV2c?oc=5</guid>
-<pubDate>Sat, 29 Aug 2026 23:32:24 GMT</pubDate>
 
 </item>
 <item>
@@ -158,6 +221,13 @@
 <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVThLeGdHU1ZVeDZXTTdwMnlVRE05ekthLW5UTzBjdy1ucXlsTFZrZEdQZ3E5ZVcwR3NuZ3F3bXJWZjlaNThhRk9HRFJZbWdvX3gzWERONS0yT2J0SEdvMUEyTTA5M1VCcXZoakw5RjJNVTJnZllWdl94VFRWSEoyVFM5UHAyOU5YTkM5dUU5V19RMnRLZy00RklLQXNudzlXWWlOSElZblpRZw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVThLeGdHU1ZVeDZXTTdwMnlVRE05ekthLW5UTzBjdy1ucXlsTFZrZEdQZ3E5ZVcwR3NuZ3F3bXJWZjlaNThhRk9HRFJZbWdvX3gzWERONS0yT2J0SEdvMUEyTTA5M1VCcXZoakw5RjJNVTJnZllWdl94VFRWSEoyVFM5UHAyOU5YTkM5dUU5V19RMnRLZy00RklLQXNudzlXWWlOSElZblpRZw?oc=5</guid>
 <pubDate>Sat, 29 Aug 2026 18:03:43 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] AI CEO: Economic Life Expectancy Ends in 2 Years - StartupHub.ai</title>
+<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOcUM5NjZ5VWNaSi10YkdPSzhYR2E1YWlYWlBHVHdQc2UzS21HdFNTYWJKWXNZZUg5SkRjMDFDNlhVWllmYUVQamd5Q1c2c1N0azVhZm5Lck5Dd3JYYk8xU3dvdGRjRU51Qm9uN1FvMzBjbk43ZzA4ZkhxZDFVQjBSYmhZRXFra1V3RmpkT0pPNWxPS1VNNXhKX2FJcmpLUkhqQ1B3cmozLVhZc25lNnVn?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxOcUM5NjZ5VWNaSi10YkdPSzhYR2E1YWlYWlBHVHdQc2UzS21HdFNTYWJKWXNZZUg5SkRjMDFDNlhVWllmYUVQamd5Q1c2c1N0azVhZm5Lck5Dd3JYYk8xU3dvdGRjRU51Qm9uN1FvMzBjbk43ZzA4ZkhxZDFVQjBSYmhZRXFra1V3RmpkT0pPNWxPS1VNNXhKX2FJcmpLUkhqQ1B3cmozLVhZc25lNnVn?oc=5</guid>
+<pubDate>Sat, 29 Aug 2026 12:33:52 GMT</pubDate>
 
 </item>
 <item>
@@ -355,76 +425,6 @@
 <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858</guid>
 <pubDate>Thu, 27 Aug 2026 21:00:00 GMT</pubDate>
 <description>NVIDIA will present at the following event for the financial community</description>
-</item>
-<item>
-<title>[Google News] Qwen3.8-Flash Matches DeepSeek V4 Pro on Coding Benchmarks at a Quarter of the Price - Intelligent Living</title>
-<link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5qSGQ4ZE12YmxNQVR2MjBQYmN4S0NHUjhPeUU1VVNSdFd0TFNUUGJTZmd2N2VranNrc3c3UHZEdnZadWNtbE81YXRONEtfVDJCbG5kSzUzeU1KOG5GTTV6WUlTM1JfUTB4OEhhMWJVSmFoeFN5R0JwM1Jn?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiekFVX3lxTE5qSGQ4ZE12YmxNQVR2MjBQYmN4S0NHUjhPeUU1VVNSdFd0TFNUUGJTZmd2N2VranNrc3c3UHZEdnZadWNtbE81YXRONEtfVDJCbG5kSzUzeU1KOG5GTTV6WUlTM1JfUTB4OEhhMWJVSmFoeFN5R0JwM1Jn?oc=5</guid>
-<pubDate>Thu, 27 Aug 2026 20:50:08 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] We're building a way for AI models to connect to any device and run real experiments.</title>
-<link>https://www.youtube.com/shorts/djVUCj5i4sw</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/djVUCj5i4sw</guid>
-<pubDate>Thu, 27 Aug 2026 19:42:35 GMT</pubDate>
-<description>Scientists spend a significant amount of their time just getting their devices to communicate with one another. Each device tends to have its own programming interface, and so far there has been no standardized way to integrate them, or to allow them to connect to AI. The Model Hardware Standard (MH</description>
-</item>
-<item>
-<title>[YouTube] AI models can now help run physical science experiments</title>
-<link>https://www.youtube.com/watch?v=P1zBiAQU1IA</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=P1zBiAQU1IA</guid>
-<pubDate>Thu, 27 Aug 2026 17:54:32 GMT</pubDate>
-<description>The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. MHS began as a collaboration between Anthropic’s Beneficial Deployments team and HHMI Janelia Research Campus. This video tells the story of how M</description>
-</item>
-<item>
-<title>[Research] Planetary prediction engine: Automating global models via Earth AI</title>
-<link>https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/</link>
-<guid isPermaLink="false">https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/</guid>
-<pubDate>Thu, 27 Aug 2026 17:37:20 +0000</pubDate>
-<description>Earth AI</description>
-</item>
-<item>
-<title>[Azure] Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs</title>
-<link>https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/</link>
-<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/</guid>
-<pubDate>Thu, 27 Aug 2026 17:00:00 +0000</pubDate>
-<description>Compare managed PostgreSQL vs. self-hosted PostgreSQL across cost, control, security, resilience, scalability, and operational effort. The post Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs appeared first on Microsoft Azure Blog .</description>
-</item>
-<item>
-<title>[YouTube] How to Build a Personalized Meal Planner with ChatGPT Work</title>
-<link>https://www.youtube.com/watch?v=t64oZKCdG8Q</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=t64oZKCdG8Q</guid>
-<pubDate>Thu, 27 Aug 2026 16:16:32 GMT</pubDate>
-<description>Follow a working mom as she turns a simple note about her daughter’s food preferences and allergies into a personalized weekly meal planner. See how she creates a shareable site, prepares an Instacart cart for approval, captures meal feedback from her phone, and sets up a weekly task to start the ne</description>
-</item>
-<item>
-<title>[DeepMind] Gemini Omni 1.1 Flash lets you build with more control</title>
-<link>https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/</link>
-<guid isPermaLink="false">https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/</guid>
-<pubDate>Thu, 27 Aug 2026 16:11:32 +0000</pubDate>
-
-</item>
-<item>
-<title>[Google AI] 3 new ways to plan and book travel in Search</title>
-<link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
-<guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
-<pubDate>Thu, 27 Aug 2026 16:00:00 +0000</pubDate>
-<description>Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.</description>
-</item>
-<item>
-<title>[Cloud AI] Reimagining work: How Pythian’s internal AI playbook delivers customer ROI</title>
-<link>https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/</link>
-<guid isPermaLink="false">https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/</guid>
-<pubDate>Thu, 27 Aug 2026 16:00:00 +0000</pubDate>
-<description>When Pythian rolled out Google Cloud’s Gemini Enterprise across our 500-person company in 27 countries, the goal was simple: use our own company as a proving ground to discover how enterprise AI actually delivers ROI. What we found changed our strategy entirely. Since the rollout of Gemini Enterpris</description>
-</item>
-<item>
-<title>[Gemini] Gemini Omni 1.1 Flash lets you build with more control</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</link>
-<guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</guid>
-<pubDate>Thu, 27 Aug 2026 16:00:00 +0000</pubDate>
-
 </item>
 </channel>
 </rss>
