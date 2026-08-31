@@ -5,7 +5,7 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Mon, 31 Aug 2026 20:07:14 GMT</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 23:52:38 GMT</lastBuildDate>
 <item>
 <title>[Google News] Nicholls implements new artificial intelligence policy following state mandates - the nicholls worth</title>
 <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQUlJGWVhncFU1ZjFlQTVPZl9QZVI3Wk1GRGNxb0xFWUhUR0w0NjNOMHE5ejNSWWpLYnBuc24xbXViZUpHUGlQWWFoYVR0amlBcnBZWnBVU2NFQ19xQmpfUmt5dFZRRWsteHR3NGRCY3BtMnhJMFlHUnhSUU9BRW5yME5va2tDLTkyX3JMZGhzLUhwSFR3M3pTVVlfbVd5Y3JKRThMWHBOUmRIWTBVOHdaWHZRRURaZ19hR0E4UGtibw?oc=5</link>
@@ -14,11 +14,25 @@
 
 </item>
 <item>
-<title>[MIT Tech Review] Hugging Face hack could indicate cultural issues at OpenAI</title>
+<title>[Azure] Introducing Azure Multicloud Interconnect for AWS</title>
+<link>https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/</link>
+<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/</guid>
+<pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
+<description>Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and AI workloads with a more streamlined, cloud-native networking experience. Built on open interoperability standards, it helps reduce operational complexi</description>
+</item>
+<item>
+<title>[MIT Tech Review] The Hugging Face hack could indicate cultural issues at OpenAI</title>
 <link>https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</link>
 <guid isPermaLink="false">https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</guid>
 <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
 <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F</description>
+</item>
+<item>
+<title>[Google News] AI Data Centers Are Making Everything Expensive - StartupHub.ai</title>
+<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWJaVkloZVJpNEtJcVhNUnFJcVE5VkxCa3ZCaDYxTUpUZ3BNRk8xdllNM3kyY2NoRTFINy1icjJYaXptM2VlTzdCTVVkYXJyYzhNcjZUVU5ad2ZGOWpEbUFsNGlSYnI2OE1kNjZHcVRYZUdBZTdMaWJ0eFNfcHdHaDQ4QXhaU084TE1QU3BqMzBDdE1NU2VGanlreGlxNW9zUVVadHYtQkJIemRjeUpZ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWJaVkloZVJpNEtJcVhNUnFJcVE5VkxCa3ZCaDYxTUpUZ3BNRk8xdllNM3kyY2NoRTFINy1icjJYaXptM2VlTzdCTVVkYXJyYzhNcjZUVU5ad2ZGOWpEbUFsNGlSYnI2OE1kNjZHcVRYZUdBZTdMaWJ0eFNfcHdHaDQ4QXhaU084TE1QU3BqMzBDdE1NU2VGanlreGlxNW9zUVVadHYtQkJIemRjeUpZ?oc=5</guid>
+<pubDate>Mon, 31 Aug 2026 17:38:02 GMT</pubDate>
+
 </item>
 <item>
 <title>[Research] TimesFM-3: A zero-shot foundation model for multivariate forecasting</title>
@@ -49,6 +63,13 @@
 <description>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration. The post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery wit</description>
 </item>
 <item>
+<title>[Azure] Inside Microsoft’s marketing team: Scaling expertise with AI</title>
+<link>https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/</link>
+<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/</guid>
+<pubDate>Mon, 31 Aug 2026 16:00:00 +0000</pubDate>
+<description>AI is helping organizations meet high expectations as markets change quickly and technology advances at a rapid pace. The post Inside Microsoft’s marketing team: Scaling expertise with AI appeared first on Microsoft Azure Blog .</description>
+</item>
+<item>
 <title>[Developer] Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec</title>
 <link>https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/</link>
 <guid isPermaLink="false">https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/</guid>
@@ -60,6 +81,13 @@
 <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzJfd29uUURCSjRGRFFBNjkyelA4VktWODZtbk1fX093b0tsVFdjQmlPYmp2cjdPZFR1R3g1dkVKOWoyMFZBZGdfdVFVWTRZWDBveDB1b3BKdjUxd3h5dk1QQkhzd21OZnhQbE9taFpSSnpZMDhFMEN6a05pQ09tLVNFdnhLWHA2Q0p4Y1BkQXM?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzJfd29uUURCSjRGRFFBNjkyelA4VktWODZtbk1fX093b0tsVFdjQmlPYmp2cjdPZFR1R3g1dkVKOWoyMFZBZGdfdVFVWTRZWDBveDB1b3BKdjUxd3h5dk1QQkhzd21OZnhQbE9taFpSSnpZMDhFMEN6a05pQ09tLVNFdnhLWHA2Q0p4Y1BkQXM?oc=5</guid>
 <pubDate>Mon, 31 Aug 2026 15:07:07 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Today in AI: Mathematics of AI Uncertainty - StartupHub.ai</title>
+<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPTlNZdVVTYm1vTWMySXoxVURJRk0wT0V0RnBGeS1aU1pqWkUtbkxINjJSQm1WYlBJSTI0TEVKTWx1WjFyUFdELU5XdEYxYllqQ0NNUkd5V2pCQlJVSm52bWoxd2loQV9JNExfbnFwOXBxNHRaZlBTZjJQTUg2ZUQwSXpGRUZSMG1mUnhRTTRUVTlkakNNb0F6NVZrcXZXRmQ0dW9EMzNaQQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxPTlNZdVVTYm1vTWMySXoxVURJRk0wT0V0RnBGeS1aU1pqWkUtbkxINjJSQm1WYlBJSTI0TEVKTWx1WjFyUFdELU5XdEYxYllqQ0NNUkd5V2pCQlJVSm52bWoxd2loQV9JNExfbnFwOXBxNHRaZlBTZjJQTUg2ZUQwSXpGRUZSMG1mUnhRTTRUVTlkakNNb0F6NVZrcXZXRmQ0dW9EMzNaQQ?oc=5</guid>
+<pubDate>Mon, 31 Aug 2026 13:16:26 GMT</pubDate>
 
 </item>
 <item>
@@ -119,6 +147,13 @@
 
 </item>
 <item>
+<title>[Google News] After rogue AI hack, regulating the industry takes on urgency in race to succeed Pelosi - San Francisco Chronicle</title>
+<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQUzZ2OGJYMGdGUk1fWXh2LTNfMS1DNWc0ckhhYkFZVS1UQUY1TXJkTlUyWXN1MlpIczNPYUJSdEhiWVpHbFc1cC1qdXZDNkwtVWFkQjZYRlNSSWdzamRNNEgyeGViNGN5LXp5cDUtYzZRVWJJM25JeU5vVWJrVEtIcUE4NFR1SHdUVmZDYXpEMVdZcUdi?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxQUzZ2OGJYMGdGUk1fWXh2LTNfMS1DNWc0ckhhYkFZVS1UQUY1TXJkTlUyWXN1MlpIczNPYUJSdEhiWVpHbFc1cC1qdXZDNkwtVWFkQjZYRlNSSWdzamRNNEgyeGViNGN5LXp5cDUtYzZRVWJJM25JeU5vVWJrVEtIcUE4NFR1SHdUVmZDYXpEMVdZcUdi?oc=5</guid>
+<pubDate>Mon, 31 Aug 2026 11:04:54 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] DeepSeek Harness Draws Nearly 200,000 GitHub Stars as Aurora Mobile Adds Free AI Models - Stock Titan</title>
 <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmZPX3lCdDc0UmdEMG1uY0tTLTF1U281d29Tc05nRDdoTGROcmYwVnBZR29HMHV6UlBlbEZsbDZUS2IzUTYwY2xUZ0dsa0RTaDNVZ1pqVmgzSnhzUXlPR3N1OW5jWlRqNndZSC1xSEYtS2JSWXI5OUhZUDh1TGlvSnNaVFBqRXJqMWYyZ016cU5KaFZLZ0VNMEN1UzNYN2t3RTI5dGZPTEhhWGFlVEZLT1o1RHJOM01ER0hhVw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmZPX3lCdDc0UmdEMG1uY0tTLTF1U281d29Tc05nRDdoTGROcmYwVnBZR29HMHV6UlBlbEZsbDZUS2IzUTYwY2xUZ0dsa0RTaDNVZ1pqVmgzSnhzUXlPR3N1OW5jWlRqNndZSC1xSEYtS2JSWXI5OUhZUDh1TGlvSnNaVFBqRXJqMWYyZ016cU5KaFZLZ0VNMEN1UzNYN2t3RTI5dGZPTEhhWGFlVEZLT1o1RHJOM01ER0hhVw?oc=5</guid>
@@ -147,11 +182,11 @@
 
 </item>
 <item>
-<title>[Google News] StartLux's 27B Local Model Beats DeepSeek V4 Flash in China AI Benchmark - Pandaily</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXpnN0cyN2lDT250V3k3eDd1V2prRnFoLWwyd2Zmdk1qcTBmZjN0RnBzNTRrT21XT2ZvZWxmMGhOTWF6cFZpYjZLYjVsOTIxRElhakZiZmFxdVdfSjlpcGZadUxTd3RPNmFUOFlFbTdtM0NUWkhYdjc5dWFRaGJTMkwxNA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXpnN0cyN2lDT250V3k3eDd1V2prRnFoLWwyd2Zmdk1qcTBmZjN0RnBzNTRrT21XT2ZvZWxmMGhOTWF6cFZpYjZLYjVsOTIxRElhakZiZmFxdVdfSjlpcGZadUxTd3RPNmFUOFlFbTdtM0NUWkhYdjc5dWFRaGJTMkwxNA?oc=5</guid>
-<pubDate>Mon, 31 Aug 2026 08:06:18 GMT</pubDate>
-
+<title>[News] Polimill builds Japan's next-generation public AI infrastructure</title>
+<link>https://openai.com/index/polimill</link>
+<guid isPermaLink="false">https://openai.com/index/polimill</guid>
+<pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
+<description>Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.</description>
 </item>
 <item>
 <title>[News] A milestone in expanding access to AI</title>
@@ -165,6 +200,13 @@
 <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FNjBtTmNwcFFaY3VGR2xrZWR2S2xPbE1aSG9oZHlpRFpWUjRFWWRaZi1sT0E4blVCQzZ4VU5ndXgwRU9QZDZRY214YjNLVHJsRmxVZFV30gFWQVVfeXFMT0U2MG1OY3BwUVpjdUZHbGtlZHZLbE9sTVpIb2hkeWlEWlZSNEVZZFpmLWxPQThuVUJDNnhVTmd1eDBFT1BkNlFjbXhiM0tUcmxGbFVkVXc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FNjBtTmNwcFFaY3VGR2xrZWR2S2xPbE1aSG9oZHlpRFpWUjRFWWRaZi1sT0E4blVCQzZ4VU5ndXgwRU9QZDZRY214YjNLVHJsRmxVZFV30gFWQVVfeXFMT0U2MG1OY3BwUVpjdUZHbGtlZHZLbE9sTVpIb2hkeWlEWlZSNEVZZFpmLWxPQThuVUJDNnhVTmd1eDBFT1BkNlFjbXhiM0tUcmxGbFVkVXc?oc=5</guid>
 <pubDate>Mon, 31 Aug 2026 00:26:23 GMT</pubDate>
+
+</item>
+<item>
+<title>[News] Improving our alignment and security efforts</title>
+<link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 
 </item>
 <item>
@@ -182,7 +224,7 @@
 
 </item>
 <item>
-<title>[Google News] Music publishers accuse Anthropic of ‘blatant theft’ in major new lawsuit - South China Morning Post</title>
+<title>[Google News] Music publishers accuse Anthropic of ‘blatant theft’ in major new lawsuit - scmp.com</title>
 <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUxzWFh0YmxzUXkwSGZ4M3hQY1A3UllweGZfZVowaUZ4NFlJZ0UzNmgydFpCalN3bF9LNjh0NU5PVU14Q3EwYXpLVjdPbzZYVEUwZWt4MGQwZ0tTZVVOS0M5ck5oNVZ5UXZaVUU0OGJSUldGZXNkM3BGcC1IVm82QlkxaHhmVVJ1X0ZtLXhlTGlFdWRNR3BRbHFCNFFFeXZnZ1JoVy1jdjdFU1pzR0R4c0owbE9fNFQ30gG4AUFVX3lxTE5vR1V5ZmtUT1c1S2tMQ1Z1R3VZQ2w3cVdwMmR3ZFlHZFFzSkR0b3FJbVhKZXhQczYwejFuNVBnc1BhdGk2U182MVJoUEpjR0VLdXM1cTh2V0R4eUJNN2otUXc4enY0UkNOUXpEOVJRNG1BZHB5ZUNfQUhfTklrUEtvWXFNU1p4V051cm4zUHpXY0RaRkdmUS1uRVNuNlFQM1JnX0FSZmdQQnBZMFJIekloRjIyX2xJbng?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUxzWFh0YmxzUXkwSGZ4M3hQY1A3UllweGZfZVowaUZ4NFlJZ0UzNmgydFpCalN3bF9LNjh0NU5PVU14Q3EwYXpLVjdPbzZYVEUwZWt4MGQwZ0tTZVVOS0M5ck5oNVZ5UXZaVUU0OGJSUldGZXNkM3BGcC1IVm82QlkxaHhmVVJ1X0ZtLXhlTGlFdWRNR3BRbHFCNFFFeXZnZ1JoVy1jdjdFU1pzR0R4c0owbE9fNFQ30gG4AUFVX3lxTE5vR1V5ZmtUT1c1S2tMQ1Z1R3VZQ2w3cVdwMmR3ZFlHZFFzSkR0b3FJbVhKZXhQczYwejFuNVBnc1BhdGk2U182MVJoUEpjR0VLdXM1cTh2V0R4eUJNN2otUXc4enY0UkNOUXpEOVJRNG1BZHB5ZUNfQUhfTklrUEtvWXFNU1p4V051cm4zUHpXY0RaRkdmUS1uRVNuNlFQM1JnX0FSZmdQQnBZMFJIekloRjIyX2xJbng?oc=5</guid>
 <pubDate>Sun, 30 Aug 2026 13:44:43 GMT</pubDate>
@@ -207,27 +249,6 @@
 <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEtwb0RzNmtGVHNkZHc2X3VNWXBRMWZfZFE1aFVQYjZLcHZVaW9VRlpDVkN6M25oTGx3ZTUxdDdIT3M3Q2F6cmMtbEJzcXk2MjRQMTFkMTZnWmhBdTJheTJsbWpCbUp0cTZkVDZYOVYyVWUyeHBHRVh0X3V1dDVYbHVuejdJV2o1S05FUFVkV19DTE1TejVNc1RyUQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEtwb0RzNmtGVHNkZHc2X3VNWXBRMWZfZFE1aFVQYjZLcHZVaW9VRlpDVkN6M25oTGx3ZTUxdDdIT3M3Q2F6cmMtbEJzcXk2MjRQMTFkMTZnWmhBdTJheTJsbWpCbUp0cTZkVDZYOVYyVWUyeHBHRVh0X3V1dDVYbHVuejdJV2o1S05FUFVkV19DTE1TejVNc1RyUQ?oc=5</guid>
 <pubDate>Sat, 29 Aug 2026 19:04:22 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Sony Music Publishing and Warner Chappell are suing Anthropic - The Verge</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGp2ZWhjQnVIYURVLWFINTdIOWxyWm9aNnRtMUZsVHUzM3ZlalplN2NscnYxZ2F3RnpnU1NMeU1mWEhfM0FwN1RzTjhXZUd3RkxxSEsxQU5yWjFmeW8yZ0k4d1hINTBwQ1hjQ0pYNzFpMFp0V3Y0VURWR2FOa3BIUXpBdXRXVWEwNTdCT282QmJvQ19RVnZHeFVJMFdYRmpObEd4SlVFNGhpc2UtV083R0hUUQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGp2ZWhjQnVIYURVLWFINTdIOWxyWm9aNnRtMUZsVHUzM3ZlalplN2NscnYxZ2F3RnpnU1NMeU1mWEhfM0FwN1RzTjhXZUd3RkxxSEsxQU5yWjFmeW8yZ0k4d1hINTBwQ1hjQ0pYNzFpMFp0V3Y0VURWR2FOa3BIUXpBdXRXVWEwNTdCT282QmJvQ19RVnZHeFVJMFdYRmpObEd4SlVFNGhpc2UtV083R0hUUQ?oc=5</guid>
-<pubDate>Sat, 29 Aug 2026 18:19:53 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Agentic Sites Puts Adobe's AI Speed to Test - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVThLeGdHU1ZVeDZXTTdwMnlVRE05ekthLW5UTzBjdy1ucXlsTFZrZEdQZ3E5ZVcwR3NuZ3F3bXJWZjlaNThhRk9HRFJZbWdvX3gzWERONS0yT2J0SEdvMUEyTTA5M1VCcXZoakw5RjJNVTJnZllWdl94VFRWSEoyVFM5UHAyOU5YTkM5dUU5V19RMnRLZy00RklLQXNudzlXWWlOSElZblpRZw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVThLeGdHU1ZVeDZXTTdwMnlVRE05ekthLW5UTzBjdy1ucXlsTFZrZEdQZ3E5ZVcwR3NuZ3F3bXJWZjlaNThhRk9HRFJZbWdvX3gzWERONS0yT2J0SEdvMUEyTTA5M1VCcXZoakw5RjJNVTJnZllWdl94VFRWSEoyVFM5UHAyOU5YTkM5dUU5V19RMnRLZy00RklLQXNudzlXWWlOSElZblpRZw?oc=5</guid>
-<pubDate>Sat, 29 Aug 2026 18:03:43 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] AI CEO: Economic Life Expectancy Ends in 2 Years - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOcUM5NjZ5VWNaSi10YkdPSzhYR2E1YWlYWlBHVHdQc2UzS21HdFNTYWJKWXNZZUg5SkRjMDFDNlhVWllmYUVQamd5Q1c2c1N0azVhZm5Lck5Dd3JYYk8xU3dvdGRjRU51Qm9uN1FvMzBjbk43ZzA4ZkhxZDFVQjBSYmhZRXFra1V3RmpkT0pPNWxPS1VNNXhKX2FJcmpLUkhqQ1B3cmozLVhZc25lNnVn?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxOcUM5NjZ5VWNaSi10YkdPSzhYR2E1YWlYWlBHVHdQc2UzS21HdFNTYWJKWXNZZUg5SkRjMDFDNlhVWllmYUVQamd5Q1c2c1N0azVhZm5Lck5Dd3JYYk8xU3dvdGRjRU51Qm9uN1FvMzBjbk43ZzA4ZkhxZDFVQjBSYmhZRXFra1V3RmpkT0pPNWxPS1VNNXhKX2FJcmpLUkhqQ1B3cmozLVhZc25lNnVn?oc=5</guid>
-<pubDate>Sat, 29 Aug 2026 12:33:52 GMT</pubDate>
 
 </item>
 <item>
@@ -378,7 +399,7 @@
 <description>OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.</description>
 </item>
 <item>
-<title>[Google News] DeepSeek looks for fresh capital as founder’s quant empire navigates China’s choppy IPO market - CNBC</title>
+<title>[Google News] DeepSeek looks for fresh capital as founder’s quant empire navigates China’s choppy IPO market - cnbc.com</title>
 <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzMxVFMwN0tVYWwxaTN1QUtCdVpwUnJVVmxMYWFUOHdNRFMzeDMzZVVjam0ydE5FSTJCNkRhTzNWalFZbHFxNmxXLTdWMTFXamlTVEtCT0lMdzVWZm1XT0RHdk5ZLWZoZmR5WWw4X0JrYkl6dUs1bEIwemxFa3FOMDRxejJoZk5wLU9jQS1veXFNUTBvTVNjSklQS3BGQTNqSWNmWNIBqgFBVV95cUxOd2V3enVGa2wyX05kbDNtbzhjTzdid3JubkxWeG5NQkE4OUk2WVp1dzJDMFNOWGJYcE9HUFpWRHhfamp4RGZqeGlUNFQzUWFaNU5fVFkzZ3ZERXFXbTRIcV9hMUFqdHlSSFJHNUNqbEhGZ2VwdlJoY2k0N2piNWI4ZFJoV2c3c1NaTHQ2b2FTaXJrQkR0akhHYzIybkY0ek1IXy1EdFZTLU5rUQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzMxVFMwN0tVYWwxaTN1QUtCdVpwUnJVVmxMYWFUOHdNRFMzeDMzZVVjam0ydE5FSTJCNkRhTzNWalFZbHFxNmxXLTdWMTFXamlTVEtCT0lMdzVWZm1XT0RHdk5ZLWZoZmR5WWw4X0JrYkl6dUs1bEIwemxFa3FOMDRxejJoZk5wLU9jQS1veXFNUTBvTVNjSklQS3BGQTNqSWNmWNIBqgFBVV95cUxOd2V3enVGa2wyX05kbDNtbzhjTzdid3JubkxWeG5NQkE4OUk2WVp1dzJDMFNOWGJYcE9HUFpWRHhfamp4RGZqeGlUNFQzUWFaNU5fVFkzZ3ZERXFXbTRIcV9hMUFqdHlSSFJHNUNqbEhGZ2VwdlJoY2k0N2piNWI4ZFJoV2c3c1NaTHQ2b2FTaXJrQkR0akhHYzIybkY0ek1IXy1EdFZTLU5rUQ?oc=5</guid>
 <pubDate>Fri, 28 Aug 2026 01:02:00 GMT</pubDate>
@@ -404,27 +425,6 @@
 <guid isPermaLink="false">https://huggingface.co/blog/open-asr-leaderboard-global-south</guid>
 <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
 
-</item>
-<item>
-<title>[Newsroom (AI)] Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI</title>
-<link>https://about.fb.com/news/2026/08/closed-loop-cooling-explained-the-plumbing-behind-metas-ai/</link>
-<guid isPermaLink="false">https://about.fb.com/news/2026/08/closed-loop-cooling-explained-the-plumbing-behind-metas-ai/</guid>
-<pubDate>Thu, 27 Aug 2026 21:44:08 +0000</pubDate>
-<description>Tom Shaw explains how Meta is using closed-loop liquid cooling to power AI more efficiently. The post Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI appeared first on Meta Newsroom .</description>
-</item>
-<item>
-<title>[YouTube] Delivering more meals to more moms with ChatGPT</title>
-<link>https://www.youtube.com/shorts/Lj03DNImB3s</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/Lj03DNImB3s</guid>
-<pubDate>Thu, 27 Aug 2026 21:30:15 GMT</pubDate>
-<description>Mandela started Welcome Home to deliver meals to new moms, not to spend 90 minutes every week updating labels. So we helped her get the best out of ChatGPT, by turning her weekly menu spreadsheet into ready-to-print labels in just 6 minutes. Your turn: what do you wish existed? Drop your idea below </description>
-</item>
-<item>
-<title>[Newsroom] NVIDIA Announces Upcoming Event for Financial Community</title>
-<link>https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858</link>
-<guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858</guid>
-<pubDate>Thu, 27 Aug 2026 21:00:00 GMT</pubDate>
-<description>NVIDIA will present at the following event for the financial community</description>
 </item>
 </channel>
 </rss>
