@@ -5,7 +5,49 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 01 Sep 2026 21:04:03 GMT</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 00:16:23 GMT</lastBuildDate>
+<item>
+<title>[YouTube] Tokenomics 101: What Are Tokens &amp; Why They Matter | AI Factory Insider Ep. 4</title>
+<link>https://www.youtube.com/watch?v=MkbepPfaeMU</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=MkbepPfaeMU</guid>
+<pubDate>Tue, 01 Sep 2026 22:56:50 GMT</pubDate>
+<description>In Episode 4 of AI Factory Insider, host Kaushik Shirhatti (VP, AI Factory, NVIDIA) is joined by Shruti Koparkar (Sr. Manager, Product Marketing, NVIDIA) and Tue Tran (GTM Strategic Ops, NVIDIA) to discuss what a token actually is, why not all tokens are equal, and how to tie AI factory investment t</description>
+</item>
+<item>
+<title>[YouTube] NVIDIA and CrowdStrike are advancing agentic cyber defense with SafeMind</title>
+<link>https://www.youtube.com/shorts/MKNMReFVcp4</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/MKNMReFVcp4</guid>
+<pubDate>Tue, 01 Sep 2026 22:16:56 GMT</pubDate>
+<description>NVIDIA and CrowdStrike are advancing agentic cyber defense with SafeMind, a new family of security models and harnesses built on NVIDIA Nemotron. Introduced at Fal.Con, SafeMind is customized with CrowdStrike threat data to support triage and detection generation for cyber defense.</description>
+</item>
+<item>
+<title>[Google News] GEEKOM Builds Four-Node A9 Mega AI Cluster for Local DeepSeek V4 Flash Inference - Gadget Pilipinas</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE03bndpaGNrQmU4WXoybVVIa19WRDNvMXNtYnVOM0I2eGFudjlXYjFlVndWQmNzNEExd2xhTU5XZmZnTUp5Y0dfWW1CdFI2Zk1lb0lSMHJUb3dWeUtZb21vbGVoREpMOTZCYU1HczktaGVyS2FmZ3c?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE03bndpaGNrQmU4WXoybVVIa19WRDNvMXNtYnVOM0I2eGFudjlXYjFlVndWQmNzNEExd2xhTU5XZmZnTUp5Y0dfWW1CdFI2Zk1lb0lSMHJUb3dWeUtZb21vbGVoREpMOTZCYU1HczktaGVyS2FmZ3c?oc=5</guid>
+<pubDate>Tue, 01 Sep 2026 21:44:43 GMT</pubDate>
+
+</item>
+<item>
+<title>[YouTube] Portable Computer demo | Short Sessions</title>
+<link>https://www.youtube.com/watch?v=lnEecRQwwxk</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=lnEecRQwwxk</guid>
+<pubDate>Tue, 01 Sep 2026 21:40:07 GMT</pubDate>
+<description>Portable Computer brings Perplexity Computer to NVIDIA DGX Spark, so more of your work can run locally on your own machine. In this Short Session, PM Joey Zhong shows how Portable Computer keeps the model orchestrator, planner, tool router, and local connectors on your desktop. It can read local fil</description>
+</item>
+<item>
+<title>[Blog] BenchMIRT: What are LLM benchmarks actually measuring?</title>
+<link>https://huggingface.co/blog/allenai/benchmirt</link>
+<guid isPermaLink="false">https://huggingface.co/blog/allenai/benchmirt</guid>
+<pubDate>Tue, 01 Sep 2026 21:39:07 GMT</pubDate>
+
+</item>
+<item>
+<title>[Blog] NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier</title>
+<link>https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/</link>
+<guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/</guid>
+<pubDate>Tue, 01 Sep 2026 21:19:20 +0000</pubDate>
+<description>“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its </description>
+</item>
 <item>
 <title>[Google AI] The latest AI news we announced in August 2026</title>
 <link>https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/</link>
@@ -105,7 +147,14 @@
 <description>The surge in AI adoption is transforming everything from chatbots to content generation. Still, a common pain point remains: How can organizations confidently...</description>
 </item>
 <item>
-<title>[Google News] Hackers Pose as OpenAI, Anthropic and DeepSeek to Steal Credentials and Secrets - cybersecuritynews.com</title>
+<title>[Google News] Meet Prashant Jalan: The Former Google AI Expert Building Guickly to Bring Visibility Into Enterprise AI - ascendants.in</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXpzMjFCZnpYMVc2ZUNzcjNUM3FIazZqMTkyQi1JbGlCU0x4ZDgtRWNCT1VtR19hSHc1Zkdpc25jZHJRRm1MRGkyQUVvSVZEb1NoZk0yc3o1ZUo3Si1JenFVc3lhS0JaRW5EMVRhVU9tZVdEeTk2UlI1bU0wcjFSNV8xd0QxRGxSM2Mtel9jR25tdGtZdi1j?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXpzMjFCZnpYMVc2ZUNzcjNUM3FIazZqMTkyQi1JbGlCU0x4ZDgtRWNCT1VtR19hSHc1Zkdpc25jZHJRRm1MRGkyQUVvSVZEb1NoZk0yc3o1ZUo3Si1JenFVc3lhS0JaRW5EMVRhVU9tZVdEeTk2UlI1bU0wcjFSNV8xd0QxRGxSM2Mtel9jR25tdGtZdi1j?oc=5</guid>
+<pubDate>Tue, 01 Sep 2026 14:48:51 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Hackers Pose as OpenAI, Anthropic and DeepSeek to Steal Credentials and Secrets - CyberSecurityNews</title>
 <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzVUR2VsTE5MeTRXanFnbmxDQUxLT2pxWk83T1VvcThYRC1qY09CZC1tSmZObUFlT0NfZ1pTVE1aRDFsZzY1NU9SVk9RVFhubTQxQklreG9OTEhleVdRSl9ybzJDbUFXMjVOZ3ZIYVhOOTgxTC0tRTJhMENwVGRJQjlFWGlnZm_SAYwBQVVfeXFMTTM5dHViV2hWZkJwQ3lwV0c4em01SDlfVVByblpNMkNYQzZFRzYtV0kwcEhDeVJVNDFEYmFHX2ZWOVBJT0xwRnhRdDVRbTkxaUJtbU42Tm1RTXlsSjhWVkozclI3anJFU0ZkTzZ5Nk0zckRwbERjSlAybzlkRFJ3VHJsT1NNLWhhR2std3U?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzVUR2VsTE5MeTRXanFnbmxDQUxLT2pxWk83T1VvcThYRC1qY09CZC1tSmZObUFlT0NfZ1pTVE1aRDFsZzY1NU9SVk9RVFhubTQxQklreG9OTEhleVdRSl9ybzJDbUFXMjVOZ3ZIYVhOOTgxTC0tRTJhMENwVGRJQjlFWGlnZm_SAYwBQVVfeXFMTTM5dHViV2hWZkJwQ3lwV0c4em01SDlfVVByblpNMkNYQzZFRzYtV0kwcEhDeVJVNDFEYmFHX2ZWOVBJT0xwRnhRdDVRbTkxaUJtbU42Tm1RTXlsSjhWVkozclI3anJFU0ZkTzZ5Nk0zckRwbERjSlAybzlkRFJ3VHJsT1NNLWhhR2std3U?oc=5</guid>
 <pubDate>Tue, 01 Sep 2026 13:34:32 GMT</pubDate>
@@ -147,14 +196,7 @@
 
 </item>
 <item>
-<title>[Google News] The Sequence Knowledge- Issue 924: The Distilled Models You Need to Know About - TheSequence | Jesus Rodriguez</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTFA1UFhxR0VBLXhDMlA0anJXWkgwSUkwN1VwdUIzbG9Nd1FMdTR4VHVwNUhkOGRYcWt6QUJPRkFkQnFJS3YtVGF4VDZTS096OG5oTTJObUNyUk1MeTNXNm5uV1g4c0E5bmVqQWJTM1ZDbWVnMVNwWVE?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTFA1UFhxR0VBLXhDMlA0anJXWkgwSUkwN1VwdUIzbG9Nd1FMdTR4VHVwNUhkOGRYcWt6QUJPRkFkQnFJS3YtVGF4VDZTS096OG5oTTJObUNyUk1MeTNXNm5uV1g4c0E5bmVqQWJTM1ZDbWVnMVNwWVE?oc=5</guid>
-<pubDate>Tue, 01 Sep 2026 11:27:31 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] US to urge hands-off AI regulation at G-20, official says - thestandard.com.hk</title>
+<title>[Google News] US to urge hands-off AI regulation at G-20, official says - The Standard (HK)</title>
 <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2lXYjQ4VWFxS29URnJBZVoyanFNdENIYkpoLWZfYURNVjdKRGVzZ2NFaEdYNGRRY1V3VnZKRndyUWFCaUF6NlQ2QzZCUEJJNmlDT3g4VDhmZWFDLXZiQ0p4WnhoTVBkWWZobzNvN1N0VjhFanJBalgzT0xJQ0NxUGlSZDVLN21lRFJ4ZXdQY29SVDVSWmtaZFNhbUZlVG1zaUMzQ1E2ajUwOGlG?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2lXYjQ4VWFxS29URnJBZVoyanFNdENIYkpoLWZfYURNVjdKRGVzZ2NFaEdYNGRRY1V3VnZKRndyUWFCaUF6NlQ2QzZCUEJJNmlDT3g4VDhmZWFDLXZiQ0p4WnhoTVBkWWZobzNvN1N0VjhFanJBalgzT0xJQ0NxUGlSZDVLN21lRFJ4ZXdQY29SVDVSWmtaZFNhbUZlVG1zaUMzQ1E2ajUwOGlG?oc=5</guid>
 <pubDate>Tue, 01 Sep 2026 11:08:19 GMT</pubDate>
@@ -224,24 +266,10 @@
 
 </item>
 <item>
-<title>[Google News] Artificial intelligence agents going rogue fuel calls for regulation - PBS</title>
-<link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg?oc=5</guid>
-<pubDate>Mon, 31 Aug 2026 22:40:11 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] Nicholls implements new artificial intelligence policy following state mandates - the nicholls worth</title>
 <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQUlJGWVhncFU1ZjFlQTVPZl9QZVI3Wk1GRGNxb0xFWUhUR0w0NjNOMHE5ejNSWWpLYnBuc24xbXViZUpHUGlQWWFoYVR0amlBcnBZWnBVU2NFQ19xQmpfUmt5dFZRRWsteHR3NGRCY3BtMnhJMFlHUnhSUU9BRW5yME5va2tDLTkyX3JMZGhzLUhwSFR3M3pTVVlfbVd5Y3JKRThMWHBOUmRIWTBVOHdaWHZRRURaZ19hR0E4UGtibw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxQUlJGWVhncFU1ZjFlQTVPZl9QZVI3Wk1GRGNxb0xFWUhUR0w0NjNOMHE5ejNSWWpLYnBuc24xbXViZUpHUGlQWWFoYVR0amlBcnBZWnBVU2NFQ19xQmpfUmt5dFZRRWsteHR3NGRCY3BtMnhJMFlHUnhSUU9BRW5yME5va2tDLTkyX3JMZGhzLUhwSFR3M3pTVVlfbVd5Y3JKRThMWHBOUmRIWTBVOHdaWHZRRURaZ19hR0E4UGtibw?oc=5</guid>
 <pubDate>Mon, 31 Aug 2026 20:57:08 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Time is expanding its artificial intelligence coverage - Talking Biz News</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPWERjc2t6R01VY3Bzb21lMVlXeWk3aldHYWJKRXM2cXlSTGNyR3FHc1JWLVU5TFVyVEhLT2FqR2M3VkdrRVlhemRPb004QW5OZ3BWTEd5Z3Vma2F4ckJQQmxCVXBZVzZOWTFDMVBfYlpERE5CanNsWm9fLUJ0TXY1UVp5WXFBVi1DRHNKTXAxbDVKZTRIZjhvZg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimAFBVV95cUxPWERjc2t6R01VY3Bzb21lMVlXeWk3aldHYWJKRXM2cXlSTGNyR3FHc1JWLVU5TFVyVEhLT2FqR2M3VkdrRVlhemRPb004QW5OZ3BWTEd5Z3Vma2F4ckJQQmxCVXBZVzZOWTFDMVBfYlpERE5CanNsWm9fLUJ0TXY1UVp5WXFBVi1DRHNKTXAxbDVKZTRIZjhvZg?oc=5</guid>
-<pubDate>Mon, 31 Aug 2026 18:02:15 GMT</pubDate>
 
 </item>
 <item>
@@ -308,32 +336,11 @@
 <description>A perception stack is shaped by the vehicle that carries it. Move the same software to a new carline—for example, from an SUV to a sedan or another vehicle...</description>
 </item>
 <item>
-<title>[Google News] EU orders AI supercomputer from Bull as demand exceeds capacity - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOaG84MDdUdXlvbzJldndVZWpseUMyeGloNXBCeGZZVG5qYkNlMlJyY0lyakQyWUpvSXhrSHp3UF9idUFsVG43bXRJemIxSTNmOU5Cd2VuNjdJaVJuQzUteHN5NWgzV3JzZjB1NXpFeUlWc2J0cTZCLWs0SzB2SDZaeDNheFdwQzIyUFRzdHR0cm9Tci1oRGhuRm01NVZOamU1M2llSHl5X0Z4QWNsbENHZUhsNkdielRXM3F3Vw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxOaG84MDdUdXlvbzJldndVZWpseUMyeGloNXBCeGZZVG5qYkNlMlJyY0lyakQyWUpvSXhrSHp3UF9idUFsVG43bXRJemIxSTNmOU5Cd2VuNjdJaVJuQzUteHN5NWgzV3JzZjB1NXpFeUlWc2J0cTZCLWs0SzB2SDZaeDNheFdwQzIyUFRzdHR0cm9Tci1oRGhuRm01NVZOamU1M2llSHl5X0Z4QWNsbENHZUhsNkdielRXM3F3Vw?oc=5</guid>
-<pubDate>Mon, 31 Aug 2026 13:39:56 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Today in AI: Mathematics of AI Uncertainty - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPTlNZdVVTYm1vTWMySXoxVURJRk0wT0V0RnBGeS1aU1pqWkUtbkxINjJSQm1WYlBJSTI0TEVKTWx1WjFyUFdELU5XdEYxYllqQ0NNUkd5V2pCQlJVSm52bWoxd2loQV9JNExfbnFwOXBxNHRaZlBTZjJQTUg2ZUQwSXpGRUZSMG1mUnhRTTRUVTlkakNNb0F6NVZrcXZXRmQ0dW9EMzNaQQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxPTlNZdVVTYm1vTWMySXoxVURJRk0wT0V0RnBGeS1aU1pqWkUtbkxINjJSQm1WYlBJSTI0TEVKTWx1WjFyUFdELU5XdEYxYllqQ0NNUkd5V2pCQlJVSm52bWoxd2loQV9JNExfbnFwOXBxNHRaZlBTZjJQTUg2ZUQwSXpGRUZSMG1mUnhRTTRUVTlkakNNb0F6NVZrcXZXRmQ0dW9EMzNaQQ?oc=5</guid>
-<pubDate>Mon, 31 Aug 2026 13:16:26 GMT</pubDate>
-
-</item>
-<item>
 <title>[Newsroom] NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms</title>
 <link>https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms</link>
 <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms</guid>
 <pubDate>Mon, 31 Aug 2026 12:30:00 GMT</pubDate>
 <description>NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms — spanning AI infrastructure, local AI computing and automotive.</description>
-</item>
-<item>
-<title>[Google News] DeepSeek’s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed - The New Stack</title>
-<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wSVZQRmIyQ281akJ3c0pjNk4wdnh1eHdCUGNza2dveWM3b2RvbTh2ejZqelVvR0tRUHZ4NnNONVgzYWVSYWs5RXljVDQ5SHY5bmt0YW9wY09mRzJVMDFLSE5hQnVFN3Fy?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wSVZQRmIyQ281akJ3c0pjNk4wdnh1eHdCUGNza2dveWM3b2RvbTh2ejZqelVvR0tRUHZ4NnNONVgzYWVSYWs5RXljVDQ5SHY5bmt0YW9wY09mRzJVMDFLSE5hQnVFN3Fy?oc=5</guid>
-<pubDate>Mon, 31 Aug 2026 12:03:06 GMT</pubDate>
-
 </item>
 <item>
 <title>[Google News] Aurora Mobile’s Modellix Releases Beta Plugin for DeepSeek Harness, Adding Free LLM Models to the Fast-Growing Open-Source Coding Agent - The Manila Times</title>
@@ -343,17 +350,10 @@
 
 </item>
 <item>
-<title>[Google News] Everyone Can Get a Free "DeepSeek Harness" – Why Still Pay for Claude Code &amp; Similar Service Memberships? - 36氪</title>
+<title>[Google News] Everyone Can Get a Free "DeepSeek Harness" – Why Still Pay for Claude Code &amp; Similar Service Memberships? - 36 Kr</title>
 <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PTlZmM2ZFTWwwVkY4eFZSSS1UQS04MmZ2RDVqZXcxYVlFekdkcFBwS0FOUE9QSTd1X09HcjVLV3JhcVVlbXJJQ2doUkVSUmd4NENn?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PTlZmM2ZFTWwwVkY4eFZSSS1UQS04MmZ2RDVqZXcxYVlFekdkcFBwS0FOUE9QSTd1X09HcjVLV3JhcVVlbXJJQ2doUkVSUmd4NENn?oc=5</guid>
 <pubDate>Mon, 31 Aug 2026 11:11:40 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] After rogue AI hack, regulating the industry takes on urgency in race to succeed Pelosi - San Francisco Chronicle</title>
-<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQUzZ2OGJYMGdGUk1fWXh2LTNfMS1DNWc0ckhhYkFZVS1UQUY1TXJkTlUyWXN1MlpIczNPYUJSdEhiWVpHbFc1cC1qdXZDNkwtVWFkQjZYRlNSSWdzamRNNEgyeGViNGN5LXp5cDUtYzZRVWJJM25JeU5vVWJrVEtIcUE4NFR1SHdUVmZDYXpEMVdZcUdi?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxQUzZ2OGJYMGdGUk1fWXh2LTNfMS1DNWc0ckhhYkFZVS1UQUY1TXJkTlUyWXN1MlpIczNPYUJSdEhiWVpHbFc1cC1qdXZDNkwtVWFkQjZYRlNSSWdzamRNNEgyeGViNGN5LXp5cDUtYzZRVWJJM25JeU5vVWJrVEtIcUE4NFR1SHdUVmZDYXpEMVdZcUdi?oc=5</guid>
-<pubDate>Mon, 31 Aug 2026 11:04:54 GMT</pubDate>
 
 </item>
 <item>
@@ -371,6 +371,20 @@
 
 </item>
 <item>
+<title>[Google News] New AI policy chief warns of export control risks, vows push for homegrown AI - The Korea Times</title>
+<link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNck0xU09hWjVjMC1ybFZ6X2FlYlcwWm55UzdJOWpMZV9DNTVLREw2bnQ3X2JKbENfX0FNQ3pLS1pUQndXRVFUSDlFS0NHNHZFdmUxWmNiMERkT0RkUGVwdEdHVVVMc0tUbWtrRWg1R241Q2VncVNFaUR1YXRKb3ZaZUczMTZqUl9FdXNxLXNFZmxKNFpZUG93cnFlTTJVLTJtUVZhT3JqR2RwaG1aei1zQVpQNmdGUXlhOFdkUmdEdm5kMDB2WjB1VGNGV0NEVVUxbUHSAdcBQVVfeXFMTklnWmFyZlBiZnAyZHhDZ1pxc3RNYS1Ma0psdkJIMUpOV3FBNlNDMXRSMFZob21jUWJqMWV5UXFnaTFKREhBQVFnbmt5a2FqWlp0aGtjaG9Zdk1WTVA2R1JWeHNtUXdVeWhjbHBUZXd5RFJ0QlFHM0ZfQXlqbURyeUVnYXhZV3J3aGZsN29KZXRaQWY0NUtRUHlBcmRkcm01XzNxMHRLVUhzcWN1MUdkbVpBalBZZ1MxOFpWcmktc2l3cmEzcXJoSWZHdi01aFNvR3NvZU43Qms?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxNck0xU09hWjVjMC1ybFZ6X2FlYlcwWm55UzdJOWpMZV9DNTVLREw2bnQ3X2JKbENfX0FNQ3pLS1pUQndXRVFUSDlFS0NHNHZFdmUxWmNiMERkT0RkUGVwdEdHVVVMc0tUbWtrRWg1R241Q2VncVNFaUR1YXRKb3ZaZUczMTZqUl9FdXNxLXNFZmxKNFpZUG93cnFlTTJVLTJtUVZhT3JqR2RwaG1aei1zQVpQNmdGUXlhOFdkUmdEdm5kMDB2WjB1VGNGV0NEVVUxbUHSAdcBQVVfeXFMTklnWmFyZlBiZnAyZHhDZ1pxc3RNYS1Ma0psdkJIMUpOV3FBNlNDMXRSMFZob21jUWJqMWV5UXFnaTFKREhBQVFnbmt5a2FqWlp0aGtjaG9Zdk1WTVA2R1JWeHNtUXdVeWhjbHBUZXd5RFJ0QlFHM0ZfQXlqbURyeUVnYXhZV3J3aGZsN29KZXRaQWY0NUtRUHlBcmRkcm01XzNxMHRLVUhzcWN1MUdkbVpBalBZZ1MxOFpWcmktc2l3cmEzcXJoSWZHdi01aFNvR3NvZU43Qms?oc=5</guid>
+<pubDate>Mon, 31 Aug 2026 09:23:03 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Governance by design: Turning AI policy into executable controls - InfoWorld</title>
+<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOa29UOHgzenR3ejFKTzZmOUlFQ1RNZzZKNGRURTVvTm1Kc0dDakFCNjFNOVNkWmhHaUg0VHBBQmFWaUZ0eXBYTkVSVm9VM3lTX3Y3TjdXajFwVnBKUTk5bjFOX0Z4SUhRamJaOUt1NU9aOFZZZFBLbmEwb2hnck5ING00SnZRTkNFVDJyUGM0QnhvaGRYa1RUYjA0Mkk3YVBVVDVyWXVoVFV4ZXlOck1R?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxOa29UOHgzenR3ejFKTzZmOUlFQ1RNZzZKNGRURTVvTm1Kc0dDakFCNjFNOVNkWmhHaUg0VHBBQmFWaUZ0eXBYTkVSVm9VM3lTX3Y3TjdXajFwVnBKUTk5bjFOX0Z4SUhRamJaOUt1NU9aOFZZZFBLbmEwb2hnck5ING00SnZRTkNFVDJyUGM0QnhvaGRYa1RUYjA0Mkk3YVBVVDVyWXVoVFV4ZXlOck1R?oc=5</guid>
+<pubDate>Mon, 31 Aug 2026 09:03:22 GMT</pubDate>
+
+</item>
+<item>
 <title>[News] OpenAI supports California’s bill to advance youth AI safety</title>
 <link>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</link>
 <guid isPermaLink="false">https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</guid>
@@ -385,6 +399,13 @@
 <description>Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.</description>
 </item>
 <item>
+<title>[Google News] South Korea puts AI veterans at policy helm as $1 trillion push gathers pace - MLex</title>
+<link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnhpSV9qekZZMDdpYVp1eWhVVlRCMko4aS1MWjAyQUNKanpYd2FVTGJYWm1oeGEtR2trQWZ5c0dOWFc4aEwzSGRldEh3THZ0SzRUR2FQYVVBaWNKaW85RVpoa3I3ajF2QmpsaV9ZcHY5dHBBaExuSjh0cUlDbEI3b2xheVRrdmkzRkpmb240cDlkTkFHeTBDSEpUN3JNeEVVcUNDSXY3VlFuVFZRajVjT0JDRldrTmZCQXdNbTk2VTRyYUhSTm1Bb1lycmNrbGY2c0RFT2xJVi10d9IBWkFVX3lxTFBCNnRUOHJhOHNhSEpJaUdzOGRVc2dYU0ppOHozbE1pdGU5aGhvbWpMUG50TWdVbmhTdW4tbWJZb3YtM0tIMzVqNUp3QmJtdEFCd3JrcVduRTlndw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnhpSV9qekZZMDdpYVp1eWhVVlRCMko4aS1MWjAyQUNKanpYd2FVTGJYWm1oeGEtR2trQWZ5c0dOWFc4aEwzSGRldEh3THZ0SzRUR2FQYVVBaWNKaW85RVpoa3I3ajF2QmpsaV9ZcHY5dHBBaExuSjh0cUlDbEI3b2xheVRrdmkzRkpmb240cDlkTkFHeTBDSEpUN3JNeEVVcUNDSXY3VlFuVFZRajVjT0JDRldrTmZCQXdNbTk2VTRyYUhSTm1Bb1lycmNrbGY2c0RFT2xJVi10d9IBWkFVX3lxTFBCNnRUOHJhOHNhSEpJaUdzOGRVc2dYU0ppOHozbE1pdGU5aGhvbWpMUG50TWdVbmhTdW4tbWJZb3YtM0tIMzVqNUp3QmJtdEFCd3JrcVduRTlndw?oc=5</guid>
+<pubDate>Mon, 31 Aug 2026 05:58:00 GMT</pubDate>
+
+</item>
+<item>
 <title>[News] A milestone in expanding access to AI</title>
 <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
 <guid isPermaLink="false">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
@@ -392,39 +413,18 @@
 <description>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.</description>
 </item>
 <item>
+<title>[Google News] South Korean president fills two vacant AI policy posts, creates third - MLex</title>
+<link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnRoeU9oYU1JbXFHc2NmdjZmSnNWQzAwQkpvOUJZR2FwRVU1ZW9xMHNNQmJPN0s1el9RVFZCdGRZNFcwWHJidkQ3MF9kTjNGRnhUSm1zM3ZKeVh1dXdQV3puZ1UxUXJwTUtIZDg0S1lzU2Y2R2RBVzlFcGR3Sko4RUk3UVVXaFF1MU45LXp0b1RCSDJsREo5dk1QVE9IUjBfdVA0Z0w4X0NEUXk0N3ZLNlVLYTI3aFF6aF80NVFndy0tOHJiTW5XZ0JIaHExaVQtU2fSAVpBVV95cUxPUDFNbU5sQzloTEZTeUc1RU82eVNkSWg4bERXOXE0V3h0ajFya2NaZC1sdnktUjBQVFNUak5RTnAzODY3dmJYTGh3dE5rWGpVeUg0Z21HY0JzSXc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnRoeU9oYU1JbXFHc2NmdjZmSnNWQzAwQkpvOUJZR2FwRVU1ZW9xMHNNQmJPN0s1el9RVFZCdGRZNFcwWHJidkQ3MF9kTjNGRnhUSm1zM3ZKeVh1dXdQV3puZ1UxUXJwTUtIZDg0S1lzU2Y2R2RBVzlFcGR3Sko4RUk3UVVXaFF1MU45LXp0b1RCSDJsREo5dk1QVE9IUjBfdVA0Z0w4X0NEUXk0N3ZLNlVLYTI3aFF6aF80NVFndy0tOHJiTW5XZ0JIaHExaVQtU2fSAVpBVV95cUxPUDFNbU5sQzloTEZTeUc1RU82eVNkSWg4bERXOXE0V3h0ajFya2NaZC1sdnktUjBQVFNUak5RTnAzODY3dmJYTGh3dE5rWGpVeUg0Z21HY0JzSXc?oc=5</guid>
+<pubDate>Mon, 31 Aug 2026 02:26:00 GMT</pubDate>
+
+</item>
+<item>
 <title>[News] Improving our alignment and security efforts</title>
 <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
 <guid isPermaLink="false">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 <description>On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over t</description>
-</item>
-<item>
-<title>[Google News] DeepSeek V4-Flash vs Gemini 3.7 Flash vs Qwen3.8-Flash-Next: 5x Price Gap [2026] - tech-insider.org</title>
-<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlBNVHB6eG5DbVU0b3Bxc2NFUWZIaklsc1FtUmoxS2J6SzcybW9uZkhaTjhmUEtQR3ZnS1BhLWpkQjRaclRJb3pRR1BJaVI0ck9SNWgtNVpLbmktNjdnM0FGQ0ZqS3paUnlFUjktTVJSVTF5bk9ueU1XeUM3SmhwRlg2QXFMT0x4VmFOWW1ST2FxRDlh?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlBNVHB6eG5DbVU0b3Bxc2NFUWZIaklsc1FtUmoxS2J6SzcybW9uZkhaTjhmUEtQR3ZnS1BhLWpkQjRaclRJb3pRR1BJaVI0ck9SNWgtNVpLbmktNjdnM0FGQ0ZqS3paUnlFUjktTVJSVTF5bk9ueU1XeUM3SmhwRlg2QXFMT0x4VmFOWW1ST2FxRDlh?oc=5</guid>
-<pubDate>Sat, 29 Aug 2026 12:08:29 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] Magic Manga Girl (:30)</title>
-<link>https://www.youtube.com/watch?v=S6TIVzqTmu8</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=S6TIVzqTmu8</guid>
-<pubDate>Sat, 29 Aug 2026 05:22:53 GMT</pubDate>
-
-</item>
-<item>
-<title>[YouTube] Tennis (:30)</title>
-<link>https://www.youtube.com/watch?v=IEpTT48oW5Y</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=IEpTT48oW5Y</guid>
-<pubDate>Sat, 29 Aug 2026 05:22:32 GMT</pubDate>
-<description>Turn your image into any art style you can imagine with ChatGPT Images.</description>
-</item>
-<item>
-<title>[YouTube] Use Your Computer and Browser</title>
-<link>https://www.youtube.com/watch?v=981SivztzOc</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=981SivztzOc</guid>
-<pubDate>Fri, 28 Aug 2026 20:51:46 GMT</pubDate>
-<description>See how ChatGPT Work can help with tasks in your desktop apps and browser. Use Computer to start music in Spotify, then combine Chrome and Google Calendar to prepare a time-off request and an out-of-office event. Learn how to share screen context with Appshots, grant access, and review the drafts be</description>
 </item>
 </channel>
 </rss>
