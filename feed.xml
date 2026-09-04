@@ -5,13 +5,20 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Thu, 03 Sep 2026 21:03:59 GMT</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 00:08:23 GMT</lastBuildDate>
 <item>
-<title>[Google News] NYC schools ban AI for students through eighth grade under new Mamdani policy - ABC7 New York</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjNWaXZlY1NRcTJnRTJnVXdoclZHa1MxT0NQbXpWSjl4a0lMU1ZtUHhFMGVXMldkT2tLemVfV1RVaXVOUFB2SmlmbXpXaXN4dW8yNHRsSWZQZHdqVlFXOUhZcUdibGVFVVR2OTNZWFdsQ05nQVBGNjNPUzFvejNfcTZ1QnV2OVAyalZmTmpKQnNGRzhSMXZPMDJFT2fSAaIBQVVfeXFMT0NYeUtoa0pSdVd3eERBVlJjcXREU2RRdHI2VXFuY2Vqd1NUdDdONUdpWTN3a0RJZFU0SXRhN2czSmpsNFVsc3pzalh5ODVMTl9mZ0lLYzYzWkRGNTJEcTdNZDh6VU9wSV90cFU3QzZKNkZqRVpncVpoR19xUzZfR1RtYlhUbjRVMHlMUjlZSi1UQWhueEQ3QVBERmtJQXJzNl93?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjNWaXZlY1NRcTJnRTJnVXdoclZHa1MxT0NQbXpWSjl4a0lMU1ZtUHhFMGVXMldkT2tLemVfV1RVaXVOUFB2SmlmbXpXaXN4dW8yNHRsSWZQZHdqVlFXOUhZcUdibGVFVVR2OTNZWFdsQ05nQVBGNjNPUzFvejNfcTZ1QnV2OVAyalZmTmpKQnNGRzhSMXZPMDJFT2fSAaIBQVVfeXFMT0NYeUtoa0pSdVd3eERBVlJjcXREU2RRdHI2VXFuY2Vqd1NUdDdONUdpWTN3a0RJZFU0SXRhN2czSmpsNFVsc3pzalh5ODVMTl9mZ0lLYzYzWkRGNTJEcTdNZDh6VU9wSV90cFU3QzZKNkZqRVpncVpoR19xUzZfR1RtYlhUbjRVMHlMUjlZSi1UQWhueEQ3QVBERmtJQXJzNl93?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 19:47:19 GMT</pubDate>
-
+<title>[Developer] How to Carry User Identity Across Federated Kubernetes and AI Platforms</title>
+<link>https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/</guid>
+<pubDate>Thu, 03 Sep 2026 22:36:02 GMT</pubDate>
+<description>Modern AI platforms are no longer a single application behind one login screen. A user may start in a central portal, open a governed dataset, launch a notebook...</description>
+</item>
+<item>
+<title>[YouTube] First impressions of GPT-6 Astra from developers</title>
+<link>https://www.youtube.com/watch?v=-TTyyY3VWh8</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=-TTyyY3VWh8</guid>
+<pubDate>Thu, 03 Sep 2026 21:20:49 GMT</pubDate>
+<description>See what Ben Davis, Peter Gostev, and Tom Krcha are building with GPT-6 Astra, from a playable 3D history of London to new directions for a matcha shop website to solving a DEF CON puzzle with parallel agents. GPT-6 Astra helps them explore ideas, stay on track, and tackle problems that previously f</description>
 </item>
 <item>
 <title>[YouTube] Introducing GPT-6 Astra: the most intelligent and aligned model in the world.</title>
@@ -28,38 +35,10 @@
 <description>Local AI agents should be easy to set up. That’s why @Nousresearch is bringing one-click local model setup to Hermes Agent across NVIDIA systems on Windows and Linux. Learn more: https://blogs.nvidia.com/local-ai–ifa-next-gen-agents-nv-pair-rtx-spark</description>
 </item>
 <item>
-<title>[Google News] India-Japan hold first Artificial Intelligence Strategic Dialogue in Mumbai - newsonair.gov.in</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ1lkV2JnTEVSdzROWGgxb01qRkMtdGtOaDRrbk1OWXlnZEQxY2o5bWhXNGNjaGwtSFVqTTRybk1DZV8yQkZtMUxtMElKblBRekVfSjRYRFhOVnpNd0JkWHpfeVpYd2Z6a09CdnJ5SW52c1lFSjZLTWJxNXJSNTBpbW55djE3WmI3UWpCNjBxZG1JU1VtUGhhTzV0cFk5ZWItN0JZ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ1lkV2JnTEVSdzROWGgxb01qRkMtdGtOaDRrbk1OWXlnZEQxY2o5bWhXNGNjaGwtSFVqTTRybk1DZV8yQkZtMUxtMElKblBRekVfSjRYRFhOVnpNd0JkWHpfeVpYd2Z6a09CdnJ5SW52c1lFSjZLTWJxNXJSNTBpbW55djE3WmI3UWpCNjBxZG1JU1VtUGhhTzV0cFk5ZWItN0JZ?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 19:22:02 GMT</pubDate>
-
-</item>
-<item>
 <title>[Research] Transfer learning for genomic prediction in underrepresented populations</title>
 <link>https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/</link>
 <guid isPermaLink="false">https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/</guid>
 <pubDate>Thu, 03 Sep 2026 18:20:31 +0000</pubDate>
-
-</item>
-<item>
-<title>[Google News] Nvidia buying AI startup that was hacked by rogue OpenAI agents - KRON4</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVmlZR0Z2NlNRNU4zb3J6dDRzbTROVkJ6U0tiWUU3b3RkeXh1Q2JsbE5zVHE0bEExRndTYzZ5b0VCVWh6SXFCSURWM1hwOWRLTVFuNDdJRDBPVXlpdUdZVEc1eTVlYzU3OFluLUMyR0lRRDhWdXBOcy1BX2s3N1JvMU5sazQxc3pTZHE0NDZWb3FENkY2R0lvTjZmWkVlMlVYZUdQNXMxNTPSAa4BQVVfeXFMTm5tS3JYYUpzeVFFSWdQckFkVTZ4c2V1dTdHUncxNGp4Z2xHUGZqU0kyLU5aNnp5R2F4Nk5YU3dHX3pCNXdob0N2UU5XdGZ4WS1GMFE5SjRMZmRZWXQtbXhUaFFJSW9MZEpVZ05IOGFGNVFad0lhZzJfbVIyQ2FUdm1sZnJ5dUUxSVJpZFdGZThlRmF6aXlEM2tRaTN0S2sxcHJnelI3NEZJYll1MVdB?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVmlZR0Z2NlNRNU4zb3J6dDRzbTROVkJ6U0tiWUU3b3RkeXh1Q2JsbE5zVHE0bEExRndTYzZ5b0VCVWh6SXFCSURWM1hwOWRLTVFuNDdJRDBPVXlpdUdZVEc1eTVlYzU3OFluLUMyR0lRRDhWdXBOcy1BX2s3N1JvMU5sazQxc3pTZHE0NDZWb3FENkY2R0lvTjZmWkVlMlVYZUdQNXMxNTPSAa4BQVVfeXFMTm5tS3JYYUpzeVFFSWdQckFkVTZ4c2V1dTdHUncxNGp4Z2xHUGZqU0kyLU5aNnp5R2F4Nk5YU3dHX3pCNXdob0N2UU5XdGZ4WS1GMFE5SjRMZmRZWXQtbXhUaFFJSW9MZEpVZ05IOGFGNVFad0lhZzJfbVIyQ2FUdm1sZnJ5dUUxSVJpZFdGZThlRmF6aXlEM2tRaTN0S2sxcHJnelI3NEZJYll1MVdB?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 18:08:29 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] The Role of Artificial Intelligence in Mumbai’s Growing Startup Ecosystem - TyN Magazine</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxQNFVGc0dkbjdBWUQxMGlGc1U0RW5ueXdCUW4wWDR4WEo0RmpoY1VPejNudElLakViZERoc0FjZG1LZkdyMkdERGp1b0NwaVo5Y0NYeXFBaTV2RV84bmM3MjJKbFYxaEhXNWlMQ1pBelZtWUFHbENOZzhOUzluRkMwQzRhWE82ZFIxWlU5bl9WNGxRZF9yTXFDS19HbUpQZw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxQNFVGc0dkbjdBWUQxMGlGc1U0RW5ueXdCUW4wWDR4WEo0RmpoY1VPejNudElLakViZERoc0FjZG1LZkdyMkdERGp1b0NwaVo5Y0NYeXFBaTV2RV84bmM3MjJKbFYxaEhXNWlMQ1pBelZtWUFHbENOZzhOUzluRkMwQzRhWE82ZFIxWlU5bl9WNGxRZF9yTXFDS19HbUpQZw?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 18:05:01 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] When Artificial Intelligence Meets Digital Piracy, Who Owns the Future of Creativity? And where does Ethiopia stand? - EthiopiaToday</title>
-<link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVHNVR1dRR1RTQzZGZmJrazdDVlNkS3owdnRwUEI1NVlqaFpGaUdna3dRT1ZZT1NyVFNWRmFELTg3UWtLUWVLUkJoMlRkdnVEZGxWSTlDOHZjNUZob3dRbTd4cEN2Nkw5U25YMWJKNTZ1SUpCc3M1Wk9oWU9NZE9hQUxKRW4zMzZoXy0xOVdPNzlKem5IWHE3UWhOM2lmYjVNVzdzejRrWThSVklpNk04U280alJEQ3NpcVg0N3RoM21leE13bG9tbEtuancyZjdoeEtydktGMA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVHNVR1dRR1RTQzZGZmJrazdDVlNkS3owdnRwUEI1NVlqaFpGaUdna3dRT1ZZT1NyVFNWRmFELTg3UWtLUWVLUkJoMlRkdnVEZGxWSTlDOHZjNUZob3dRbTd4cEN2Nkw5U25YMWJKNTZ1SUpCc3M1Wk9oWU9NZE9hQUxKRW4zMzZoXy0xOVdPNzlKem5IWHE3UWhOM2lmYjVNVzdzejRrWThSVklpNk04U280alJEQ3NpcVg0N3RoM21leE13bG9tbEtuancyZjdoeEtydktGMA?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 16:17:38 GMT</pubDate>
 
 </item>
 <item>
@@ -119,25 +98,11 @@
 <description>September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to th</description>
 </item>
 <item>
-<title>[Google News] Nvidia to buy Hugging Face for nearly $13 billion in big bet on open AI models - forth.news</title>
-<link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QeEVYQXU1UDZfTm43TEUtSnhtOVREc19obF9mM0toeDZZVkFIVXpsMmdhTk9aUlVLRlhURTdXQmxhMjdlU0xtQnFXOGY3WFlNd1BINFBXQ0hHTFlpUnJHV2RTVQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QeEVYQXU1UDZfTm43TEUtSnhtOVREc19obF9mM0toeDZZVkFIVXpsMmdhTk9aUlVLRlhURTdXQmxhMjdlU0xtQnFXOGY3WFlNd1BINFBXQ0hHTFlpUnJHV2RTVQ?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 12:18:18 GMT</pubDate>
-
-</item>
-<item>
 <title>[Newsroom] Launching Bill Payments in India, Helping People to Pay Everyday Household Bills Directly on WhatsApp</title>
 <link>https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/</link>
 <guid isPermaLink="false">https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/</guid>
 <pubDate>Thu, 03 Sep 2026 12:13:48 +0000</pubDate>
 <description>We are launching Bill payments in India, making it easier for people to find, manage, and pay their everyday household and utility bills directly within WhatsApp. The post Launching Bill Payments in India, Helping People to Pay Everyday Household Bills Directly on WhatsApp appeared first on Meta New</description>
-</item>
-<item>
-<title>[Google News] Anthropic's AI Models Are Being Stolen on the Dark Web - The Tech Buzz</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzA2SV90bFJ1TFJEUU5vblRkOElTLVJGS1RaLWdzRWF3Wkw3MFNsTkJrT05FRU9vRUtMd2JZUG1BOEZVWE12N1RHcUlRX2xyZ3M1LXM1QXJ0Z3AxY0ZTdlYtZS1mQWNKNUdBcHU0Y2ViY1U2MUFjVW16QXN2T1RrTklYMkEzVmpuV3hxZjczWG4?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzA2SV90bFJ1TFJEUU5vblRkOElTLVJGS1RaLWdzRWF3Wkw3MFNsTkJrT05FRU9vRUtMd2JZUG1BOEZVWE12N1RHcUlRX2xyZ3M1LXM1QXJ0Z3AxY0ZTdlYtZS1mQWNKNUdBcHU0Y2ViY1U2MUFjVW16QXN2T1RrTklYMkEzVmpuV3hxZjczWG4?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 12:08:00 GMT</pubDate>
-
 </item>
 <item>
 <title>[News] Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
@@ -159,55 +124,6 @@
 <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/</guid>
 <pubDate>Thu, 03 Sep 2026 11:59:49 GMT</pubDate>
 <description>I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hug</description>
-</item>
-<item>
-<title>[Google News] China's AI Industry Landscape: Strength Coordinates of Hundred-Billion-Yuan AI Companies and Major Internet Giants - 36 Kr</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OdnBkUGlHaXp5YngzZU5LUTZ5bmx6R202OThMeFctRlJFZ1dkM0xobnNtb1pGcElOdGpQN1pxNnhyQTlEZkx4dFV0RjdfWFEybGtF?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OdnBkUGlHaXp5YngzZU5LUTZ5bmx6R202OThMeFctRlJFZ1dkM0xobnNtb1pGcElOdGpQN1pxNnhyQTlEZkx4dFV0RjdfWFEybGtF?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 08:12:20 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Chinese AI startup Moonshot files confidentially for Hong Kong IPO - Latest news from Azerbaijan</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPTTdFS2E3OHIyOUozMmdEaXJ6akR4c3FnSnF4Um1hb2NHSTdBTnA4ajk5SUF3VGpicDZCd1kxZzc3bHg1OVRwWldVR3ZmeWdnWXQ2Qm1FaGZxaklhUjVjSlByRzBwbWY1cnY5RENSdkxhcUw5c3RkMlJQdG8tRUVZN1cyaUxtRlFFd3pNSG00TEQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxPTTdFS2E3OHIyOUozMmdEaXJ6akR4c3FnSnF4Um1hb2NHSTdBTnA4ajk5SUF3VGpicDZCd1kxZzc3bHg1OVRwWldVR3ZmeWdnWXQ2Qm1FaGZxaklhUjVjSlByRzBwbWY1cnY5RENSdkxhcUw5c3RkMlJQdG8tRUVZN1cyaUxtRlFFd3pNSG00TEQ?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 07:34:32 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] New York City’s AI school ban will disable AI in 38+ programs, while high schoolers get two 45-minute lessons - ascendants.in</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3I3bnV0NzNmdHF6Vkdtd2llb2JNb3pyZjJ6WFJlNGExdGcwWUtMUkI1VldOV2pmYVloRnU0RFQ5M1JsTVRCRHR4MUxXMTFEWUxNdnduNWNfblBZQjd1RFRWZkYwVDktdjg1YzhXNG9YZGVRR0dLM0I5RG4tMFF2emJfdmJLNWxX?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3I3bnV0NzNmdHF6Vkdtd2llb2JNb3pyZjJ6WFJlNGExdGcwWUtMUkI1VldOV2pmYVloRnU0RFQ5M1JsTVRCRHR4MUxXMTFEWUxNdnduNWNfblBZQjd1RFRWZkYwVDktdjg1YzhXNG9YZGVRR0dLM0I5RG4tMFF2emJfdmJLNWxX?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 07:12:53 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Imaging artificial intelligence vendor Elucid raises $55M - Radiology Business</title>
-<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcndrQzlZZThCdkRCUGdNZWgzRzQ1WG9JLU5RQ1BLeU00QkRCR2ktN3lrUzBDNHkyNWlhRmh5SVVpeVUxUEg3dTU3OG5paGdzOXdBLUlZbmd3UjFBTTItMUdrWl9ISmY1NEJWMmtvU2ZKVXNVSllac29jamhUQ29LclI4NTF6NlgxUGxOS0pfRDYtQklrTWMzVW11QXdFNFcwT3BNT0tOZ25TNjZFbE1IQlFlNFJHT2Q0?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcndrQzlZZThCdkRCUGdNZWgzRzQ1WG9JLU5RQ1BLeU00QkRCR2ktN3lrUzBDNHkyNWlhRmh5SVVpeVUxUEg3dTU3OG5paGdzOXdBLUlZbmd3UjFBTTItMUdrWl9ISmY1NEJWMmtvU2ZKVXNVSllac29jamhUQ29LclI4NTF6NlgxUGxOS0pfRDYtQklrTWMzVW11QXdFNFcwT3BNT0tOZ25TNjZFbE1IQlFlNFJHT2Q0?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 06:03:17 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Adobe Acquires Indian AI Startup Rilo Less Than A Year After Launch - BW Disrupt</title>
-<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPakI3U2NxdnZaS19fdU9meXJ1M0NJVXN5cTFxNDNFY3FxVzhoWHN3QVl5VFNaeGhsNTcwU01kODB3bFdHd091ZUdvUEtSNThwNFN6a2tLclM3QmFyUkpWVmUtbkhySXVueEt4Rkx2M2JfM2NvSWdfRUhJWkJ2bkd6S2lJTEFocktmcTBBT3dNWm1JcjZWQzJZN0N5OUt4Ml9mQjRuRHRKajVHUEVj?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxPakI3U2NxdnZaS19fdU9meXJ1M0NJVXN5cTFxNDNFY3FxVzhoWHN3QVl5VFNaeGhsNTcwU01kODB3bFdHd091ZUdvUEtSNThwNFN6a2tLclM3QmFyUkpWVmUtbkhySXVueEt4Rkx2M2JfM2NvSWdfRUhJWkJ2bkd6S2lJTEFocktmcTBBT3dNWm1JcjZWQzJZN0N5OUt4Ml9mQjRuRHRKajVHUEVj?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 03:53:50 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit - The Washington Post</title>
-<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 00:55:07 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Answer Engine Optimization AEO Saves ATV Tour Days - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFR0VFhFeUo4OXZtQ3lORHZ3MVp3SjlMVkxKRzRiY1gwSzVlSV83c2d1T3dDVjJhcG9hSGptYmdQckpUQjJUVHkxeThtek1CUzBabVNiZUdWMkdJT2cycTRRZ1YzV204T1l4LXFjWUhBMnh5SWh2cDVLak9Bbm5OSk4zOXlySm4wYUluR0tKbUsxREFibmV6VTF5aUNJRjFobVhDQVdOYV9qdklqX3dVOXYwOA?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFR0VFhFeUo4OXZtQ3lORHZ3MVp3SjlMVkxKRzRiY1gwSzVlSV83c2d1T3dDVjJhcG9hSGptYmdQckpUQjJUVHkxeThtek1CUzBabVNiZUdWMkdJT2cycTRRZ1YzV204T1l4LXFjWUhBMnh5SWh2cDVLak9Bbm5OSk4zOXlySm4wYUluR0tKbUsxREFibmV6VTF5aUNJRjFobVhDQVdOYV9qdklqX3dVOXYwOA?oc=5</guid>
-<pubDate>Thu, 03 Sep 2026 00:06:22 GMT</pubDate>
-
 </item>
 <item>
 <title>[News] Safety overview: GPT-6 Astra</title>
@@ -243,34 +159,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=3eNtVFTEys4</guid>
 <pubDate>Wed, 02 Sep 2026 22:11:08 GMT</pubDate>
 <description>Taiwan helped build the computing era. Now its semiconductor ecosystem is building the infrastructure, systems, and software that power the AI era. This video celebrates Taiwan’s technology ecosystem and the engineers, researchers, manufacturers, developers, and partners turning breakthroughs in chi</description>
-</item>
-<item>
-<title>[Google News] Iran, Oil and AI: the main topic Now - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxNci0zYjJpbVVCNGVfZEhqUGxFd3pySTZRbUw0Z2gxQjFGVkF6QVdiQ1lZZF9zTl9mVmlXOHlnQmpfYkFWZS1FQXJTZWxMY3ZEbHRZV0RXdTZ6dFdRbDRTOHdXWVpHaTlwVWxvRXFtcDVBTmdERVF5ejhiN0NJT0lqNnozY2ZhM2NtMXI0M2Jjd0dmS202SVp2ejZ0ejlYQQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxNci0zYjJpbVVCNGVfZEhqUGxFd3pySTZRbUw0Z2gxQjFGVkF6QVdiQ1lZZF9zTl9mVmlXOHlnQmpfYkFWZS1FQXJTZWxMY3ZEbHRZV0RXdTZ6dFdRbDRTOHdXWVpHaTlwVWxvRXFtcDVBTmdERVF5ejhiN0NJT0lqNnozY2ZhM2NtMXI0M2Jjd0dmS202SVp2ejZ0ejlYQQ?oc=5</guid>
-<pubDate>Wed, 02 Sep 2026 22:07:45 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Cursor AI code analysis cuts Nokia work to 2 weeks - StartupHub.ai</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjhrNnN6b1U1czZFU3VEaElBblNJZEFQZmNTdlAtWktndEdwbGtoOWhGU0R0NkV1NGZheVBXWERkTEJmVjFyYy1uZl9JYzVxb3lYd2RCX3RkNnIwN1R5YXhpdU9KRlZyNHdDVFdHQndGWGdSTVNySFRiTEx2TEExUUhaLXBFUFp2aFRNU0g5Q04xMFlNTkFpaV9sMXVBXzZSSkRsNmtNNjJqSW8wZ3NqUXAySQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjhrNnN6b1U1czZFU3VEaElBblNJZEFQZmNTdlAtWktndEdwbGtoOWhGU0R0NkV1NGZheVBXWERkTEJmVjFyYy1uZl9JYzVxb3lYd2RCX3RkNnIwN1R5YXhpdU9KRlZyNHdDVFdHQndGWGdSTVNySFRiTEx2TEExUUhaLXBFUFp2aFRNU0g5Q04xMFlNTkFpaV9sMXVBXzZSSkRsNmtNNjJqSW8wZ3NqUXAySQ?oc=5</guid>
-<pubDate>Wed, 02 Sep 2026 21:07:55 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] US Government Backs Artificial Intelligence Company in New York Times Lawsuit - NTD News</title>
-<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3JuWmZXSmJXcElrWVpOcUNUMmdDQVhJdVA0T2cwOFZiLXVLZVVTc2JabUZqREphVjM1S05oZ1F4bV9ZbkxHbl9mdHMwRlFzM3A1WFJCcjRfS3hsWXNVdEgwd1JBczVzc3FBbzZRRmtQZGNUSzk4SXgxNFRHbFExTDZadE5sejByampzeVBWaVV4SGx1ZkRrYnFYdENtc1BHZ0JlVlY2dE0zenB1aGxR?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3JuWmZXSmJXcElrWVpOcUNUMmdDQVhJdVA0T2cwOFZiLXVLZVVTc2JabUZqREphVjM1S05oZ1F4bV9ZbkxHbl9mdHMwRlFzM3A1WFJCcjRfS3hsWXNVdEgwd1JBczVzc3FBbzZRRmtQZGNUSzk4SXgxNFRHbFExTDZadE5sejByampzeVBWaVV4SGx1ZkRrYnFYdENtc1BHZ0JlVlY2dE0zenB1aGxR?oc=5</guid>
-<pubDate>Wed, 02 Sep 2026 20:54:53 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Trump administration sides with OpenAI in lawsuit against New York Times - The Guardian</title>
-<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOTm1LUjVYZDhGWjNwdUdfc0ZpZHlhMzJubGpjWm5wc3Iyd0JpZWJOdmpIVTd5M0N3MEM0YlJmZmNXX0NuaF8yR3VIVjRiSWR6UmhRSDNjaVlrTWZtVTJHc2x0WHNpaWVsX1hCYlpiUl9TZTNsWkRheUhLdzZCUk1kSWNQZ21Hcks5WVE?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxOTm1LUjVYZDhGWjNwdUdfc0ZpZHlhMzJubGpjWm5wc3Iyd0JpZWJOdmpIVTd5M0N3MEM0YlJmZmNXX0NuaF8yR3VIVjRiSWR6UmhRSDNjaVlrTWZtVTJHc2x0WHNpaWVsX1hCYlpiUl9TZTNsWkRheUhLdzZCUk1kSWNQZ21Hcks5WVE?oc=5</guid>
-<pubDate>Wed, 02 Sep 2026 20:39:00 GMT</pubDate>
-
 </item>
 <item>
 <title>[Developer] The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough</title>
@@ -364,20 +252,6 @@
 <description>Training Agents, Session 4: from reward functions to environments. In this live session, the reward stops being a function and becomes a place the agent acts in. In Session 3 the model answered once and a Python function scored it. Today the model runs a loop: open a file, run a command, read the er</description>
 </item>
 <item>
-<title>[Google News] How Fast Can DeepSeek Run on 8GB VRAM? - HackerNoon</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1pZ3d0c2xYSXE5cnk0X2NJYnVNNWpNeHFlMDVvNC1LVkFDMFV1bXgtbjdpWHpldHNPWDBDbzVzbjY1NVBZMFpMVnlyemJpblFEOW5hMXRvbktENjhLeVp4Z05mMERiZ1JsYVJLSg?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMibEFVX3lxTE1pZ3d0c2xYSXE5cnk0X2NJYnVNNWpNeHFlMDVvNC1LVkFDMFV1bXgtbjdpWHpldHNPWDBDbzVzbjY1NVBZMFpMVnlyemJpblFEOW5hMXRvbktENjhLeVp4Z05mMERiZ1JsYVJLSg?oc=5</guid>
-<pubDate>Wed, 02 Sep 2026 08:21:12 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek and its peers are churning out chips at a frantic pace, has NVIDIA finally lost its shine? - 36 Kr</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rS21fMDdKQjdoZFdrUU9hbnNUOEhOVlR5UnNaMERFMjdhY2h0Mnl3UlpJQk94S3RRMzJiSDA0WkRTa01OOE1zUGtkY2V2bWJNeDVR?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rS21fMDdKQjdoZFdrUU9hbnNUOEhOVlR5UnNaMERFMjdhY2h0Mnl3UlpJQk94S3RRMzJiSDA0WkRTa01OOE1zUGtkY2V2bWJNeDVR?oc=5</guid>
-<pubDate>Wed, 02 Sep 2026 02:22:12 GMT</pubDate>
-
-</item>
-<item>
 <title>[YouTube] Tokenomics 101: What Are Tokens &amp; Why They Matter | AI Factory Insider Ep. 4</title>
 <link>https://www.youtube.com/watch?v=MkbepPfaeMU</link>
 <guid isPermaLink="false">https://www.youtube.com/watch?v=MkbepPfaeMU</guid>
@@ -425,6 +299,132 @@
 <guid isPermaLink="false">https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/</guid>
 <pubDate>Tue, 01 Sep 2026 20:24:43 +0000</pubDate>
 <description>Join Tom Shaw for a look inside Meta's Infrastructure Lab to explore the hardware being developed to power the next generation of AI. The post Inside Meta’s Infrastructure Lab appeared first on Meta Newsroom .</description>
+</item>
+<item>
+<title>[YouTube] Meet Claude Fable 5.1</title>
+<link>https://www.youtube.com/shorts/uVS88gnaxcg</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/uVS88gnaxcg</guid>
+<pubDate>Tue, 01 Sep 2026 19:21:24 GMT</pubDate>
+
+</item>
+<item>
+<title>[Research] Mapping global methane emissions from space with deep learning</title>
+<link>https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/</link>
+<guid isPermaLink="false">https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/</guid>
+<pubDate>Tue, 01 Sep 2026 18:40:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[YouTube] Introducing Claude Fable 5.1</title>
+<link>https://www.youtube.com/watch?v=ROF2Nv_KjOM</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=ROF2Nv_KjOM</guid>
+<pubDate>Tue, 01 Sep 2026 18:02:31 GMT</pubDate>
+
+</item>
+<item>
+<title>[DeepMind] Introducing agentic video understanding with Gemini</title>
+<link>https://deepmind.google/blog/introducing-agentic-video-in-gemini/</link>
+<guid isPermaLink="false">https://deepmind.google/blog/introducing-agentic-video-in-gemini/</guid>
+<pubDate>Tue, 01 Sep 2026 17:08:51 +0000</pubDate>
+
+</item>
+<item>
+<title>[Developer] Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron</title>
+<link>https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/</guid>
+<pubDate>Tue, 01 Sep 2026 17:00:04 GMT</pubDate>
+<description>AI is changing the pace of cybersecurity. Agentic systems can coordinate work and pursue complex objectives over long horizons. Security teams are beginning to...</description>
+</item>
+<item>
+<title>[News] How AI-native companies turn workflows into operating capability</title>
+<link>https://openai.com/index/ai-native-company-workflows</link>
+<guid isPermaLink="false">https://openai.com/index/ai-native-company-workflows</guid>
+<pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
+<description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.</description>
+</item>
+<item>
+<title>[Gemini] Introducing agentic video understanding with Gemini</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/</link>
+<guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/</guid>
+<pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Google AI] Try Google Pics: Easy image creation and editing in Google Workspace</title>
+<link>https://blog.google/products-and-platforms/products/workspace/google-pics/</link>
+<guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/google-pics/</guid>
+<pubDate>Tue, 01 Sep 2026 16:00:00 +0000</pubDate>
+<description>Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.</description>
+</item>
+<item>
+<title>[Cloud AI] What Google Cloud announced in AI this month</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/</guid>
+<pubDate>Tue, 01 Sep 2026 16:00:00 +0000</pubDate>
+<description>Editor’s note : Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more. This month, we focused on making AI highly practical for your business, including its associated costs. Th</description>
+</item>
+<item>
+<title>[Developer] How to Size GPUs for AI Inference and TCO Without Overspending</title>
+<link>https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/</guid>
+<pubDate>Tue, 01 Sep 2026 15:00:00 GMT</pubDate>
+<description>The surge in AI adoption is transforming everything from chatbots to content generation. Still, a common pain point remains: How can organizations confidently...</description>
+</item>
+<item>
+<title>[News] Path to Astra: critical capabilities and frontier safeguards</title>
+<link>https://openai.com/index/path-to-astra</link>
+<guid isPermaLink="false">https://openai.com/index/path-to-astra</guid>
+<pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate>
+<description>Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.</description>
+</item>
+<item>
+<title>[News] Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
+<link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
+<guid isPermaLink="false">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
+<pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+<description>ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.</description>
+</item>
+<item>
+<title>[News] How law firm Gilbert + Tobin governs and scales AI with OpenAI</title>
+<link>https://openai.com/index/gilbert-tobin</link>
+<guid isPermaLink="false">https://openai.com/index/gilbert-tobin</guid>
+<pubDate>Tue, 01 Sep 2026 01:00:00 GMT</pubDate>
+<description>See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.</description>
+</item>
+<item>
+<title>[News] Developing Enterprise Frontier Safeguards with our customers</title>
+<link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Blog] Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</title>
+<link>https://huggingface.co/blog/webgpu-kernels</link>
+<guid isPermaLink="false">https://huggingface.co/blog/webgpu-kernels</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[Azure] Introducing Azure Multicloud Interconnect for AWS</title>
+<link>https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/</link>
+<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/</guid>
+<pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
+<description>Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and AI workloads with a more streamlined, cloud-native networking experience. Built on open interoperability standards, it helps reduce operational complexi</description>
+</item>
+<item>
+<title>[MIT Tech Review] The Hugging Face hack could indicate cultural issues at OpenAI</title>
+<link>https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</link>
+<guid isPermaLink="false">https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</guid>
+<pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
+<description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F</description>
+</item>
+<item>
+<title>[Research] TimesFM-3: A zero-shot foundation model for multivariate forecasting</title>
+<link>https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/</link>
+<guid isPermaLink="false">https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/</guid>
+<pubDate>Mon, 31 Aug 2026 17:19:40 +0000</pubDate>
+
 </item>
 </channel>
 </rss>
