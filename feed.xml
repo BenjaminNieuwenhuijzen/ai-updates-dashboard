@@ -5,7 +5,7 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Fri, 18 Sep 2026 20:55:53 GMT</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 00:22:55 GMT</lastBuildDate>
 <item>
 <title>[Google News] ISIL supporters using AI to seek weapons advice, study finds - Latest news from Azerbaijan</title>
 <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNZUNtLThHVGhtSEZhMWRra2VjZUxWVDU2X05VZnJnYk5CVlNDdkRRVkxCalIwNnZJTVNIY21qTUg4U2VBazJuV2xKUkRhOTBkaER1bVplMFhDbVdyNVZSWmI0WDd1OFRoOUxaVEpOZnh0OUFwMXJaT1ZUaks3a3B4TzBmNEVtNms?oc=5</link>
@@ -56,14 +56,7 @@
 
 </item>
 <item>
-<title>[YouTube] (Mis)Fitting: A Survey of Scaling Laws, with Sneha Kudugunta</title>
-<link>https://www.youtube.com/watch?v=ggz4iaQpzcY</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=ggz4iaQpzcY</guid>
-<pubDate>Fri, 18 Sep 2026 17:40:34 GMT</pubDate>
-<description>​Modern foundation models rely heavily on using scaling laws to guide crucial training decisions. Researchers often extrapolate the optimal architecture and hyper parameters settings from smaller training runs by describing the relationship between, loss, or task performance, and scale. All componen</description>
-</item>
-<item>
-<title>[Google News] Best Chinese AI coding models in September 2026, ranked - Pasquale Pillitteri</title>
+<title>[Google News] Best Chinese AI coding models in September 2026, ranked - pasqualepillitteri.it</title>
 <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxORDhUdzh6ZGNZOTVydDZXQ3B1VXU4TGRYT0tyYndudUlFejdqai01RGJUNEJqc2Rjc3ZVZjlsSnhiMDZnaGE4WlR5bDIwcklVVG1BeXNsa1pBVExwVzhXS1B5aWFqUXF6NlVPSlo4WU9VYmFId2s2aHdiaF83cWg2ckc2M2Y?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxORDhUdzh6ZGNZOTVydDZXQ3B1VXU4TGRYT0tyYndudUlFejdqai01RGJUNEJqc2Rjc3ZVZjlsSnhiMDZnaGE4WlR5bDIwcklVVG1BeXNsa1pBVExwVzhXS1B5aWFqUXF6NlVPSlo4WU9VYmFId2s2aHdiaF83cWg2ckc2M2Y?oc=5</guid>
 <pubDate>Fri, 18 Sep 2026 17:23:39 GMT</pubDate>
@@ -84,18 +77,25 @@
 
 </item>
 <item>
-<title>[YouTube] Why the AI Ecosystem Builds on NVIDIA - Jensen Huang at the All-In Summit</title>
-<link>https://www.youtube.com/shorts/wgd9C8JYZEM</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/wgd9C8JYZEM</guid>
-<pubDate>Fri, 18 Sep 2026 16:07:31 GMT</pubDate>
-<description>Models across the AI ecosystem run on NVIDIA. New models and AI labs are emerging all the time. Our CEO Jensen Huang shares the idea behind NVIDIA’s platform: build what the ecosystem needs and help everyone succeed. #AllInSummit</description>
-</item>
-<item>
-<title>[Cloud AI] Changing the game: How Google uses agentic AI to secure hundreds of millions of lines of code</title>
+<title>[Cloud AI] Changing the game: Using agentic AI to secure infrastructure code</title>
 <link>https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/</link>
 <guid isPermaLink="false">https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/</guid>
 <pubDate>Fri, 18 Sep 2026 16:00:00 +0000</pubDate>
 <description>AI is accelerating software development at an unprecedented pace. But as code generation scales, so do the challenges of securing the code, especially emerging AI-based vulnerability exploitations. To meet these challenges, the Google AI and Infrastructure team is transforming how we approach securi</description>
+</item>
+<item>
+<title>[Google News] How Chinese AI Radicalizes - chinatalk.media</title>
+<link>https://news.google.com/rss/articles/CBMic0FVX3lxTE9TTWcwRTFGZ3NoMDk3MVV5Y0h1RnlqbjYxWDFyc1VpdEtNU19CSnlEU2MyVTVnZ19Bb29udnBOcDNwcDNMLW1iQ211RG12Wjg1VzdUY2dQcEZFTHl5MEFvQVNyeURhdjFXVXFTTjJJU253MGM?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMic0FVX3lxTE9TTWcwRTFGZ3NoMDk3MVV5Y0h1RnlqbjYxWDFyc1VpdEtNU19CSnlEU2MyVTVnZ19Bb29udnBOcDNwcDNMLW1iQ211RG12Wjg1VzdUY2dQcEZFTHl5MEFvQVNyeURhdjFXVXFTTjJJU253MGM?oc=5</guid>
+<pubDate>Fri, 18 Sep 2026 15:38:10 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Governor Newsom issues executive order to accelerate independent oversight and advance the creation of an AI kill switch - California State Portal | CA.gov</title>
+<link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdWNuQ1N2RC1DOTdndklPb2NYbDAwWUx1azRBZjE1R1pCelpZUU9UdEVhNlJUUm9zeDkzcUdTX3laMVU1UkRHaUN5VEY0WWk4S0NuSXNnXzRFMUhVT3RNU3RFWU1PdlowcFFXalMwbHFIR1V6V254c0ZNQ1hkVGFHVnp0Z3BMUzlreFplYTJveHFJZk93Mk5UcUR3cllPT0tGUUdCbU5zbU9rZUp2aWxzTVh2dV9XbXcyWDQ3YUhPdmdJOFhycktnZ1Z3akFwQVhtSUpaRjVRaU9wdUREZm1pNlQ3UXhKa2Uwa2hN?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdWNuQ1N2RC1DOTdndklPb2NYbDAwWUx1azRBZjE1R1pCelpZUU9UdEVhNlJUUm9zeDkzcUdTX3laMVU1UkRHaUN5VEY0WWk4S0NuSXNnXzRFMUhVT3RNU3RFWU1PdlowcFFXalMwbHFIR1V6V254c0ZNQ1hkVGFHVnp0Z3BMUzlreFplYTJveHFJZk93Mk5UcUR3cllPT0tGUUdCbU5zbU9rZUp2aWxzTVh2dV9XbXcyWDQ3YUhPdmdJOFhycktnZ1Z3akFwQVhtSUpaRjVRaU9wdUREZm1pNlQ3UXhKa2Uwa2hN?oc=5</guid>
+<pubDate>Fri, 18 Sep 2026 15:10:22 GMT</pubDate>
+
 </item>
 <item>
 <title>[Newsroom] Prostujemy: fakty o walce z oszukańczymi reklamami w Polsce</title>
@@ -112,67 +112,18 @@
 <description>We are expanding our AI &amp; Economy team with world-class academic advisors, fellows, and core internal researchers.</description>
 </item>
 <item>
-<title>[YouTube] Use ChatGPT Work to ground analysis in your semantic layer</title>
-<link>https://www.youtube.com/watch?v=bbNTY8O0GTY</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=bbNTY8O0GTY</guid>
-<pubDate>Fri, 18 Sep 2026 13:28:31 GMT</pubDate>
-<description>Your data agent needs to understand how your business defines its metrics. In this clip, OpenAI’s data team explains how a semantic layer brings together key entities, metric definitions, filters, and known pitfalls. See why expert review matters, how existing semantic work can be reused, and why th</description>
-</item>
-<item>
-<title>[YouTube] Use ChatGPT Work to build dashboards from a business question</title>
-<link>https://www.youtube.com/watch?v=GzCsKuDgr6Q</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=GzCsKuDgr6Q</guid>
-<pubDate>Fri, 18 Sep 2026 13:27:46 GMT</pubDate>
-<description>Start with the question your team needs to answer: how is product adoption changing? This ChatGPT Work demo shows a prompt for an adoption dashboard and the prepared result: an interactive funnel, customer segment views, and controls for recurring data refreshes. It uses synthetic data and is edited</description>
-</item>
-<item>
-<title>[YouTube] Use ChatGPT Work to tailor dashboards for every stakeholder</title>
-<link>https://www.youtube.com/watch?v=Wb8MhkpQpX8</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=Wb8MhkpQpX8</guid>
-<pubDate>Fri, 18 Sep 2026 13:27:02 GMT</pubDate>
-<description>Give stakeholders a view of the business that fits the decisions they need to make. Watch this ChatGPT Work demo adapt dashboard labels and chart types, explore KPIs, and drill into compute demand. Using synthetic data, it shows ways to tailor dashboards and explore the details behind business perfo</description>
-</item>
-<item>
-<title>[YouTube] Use ChatGPT Work to help teams answer their own data questions</title>
-<link>https://www.youtube.com/watch?v=euED8JRunBA</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=euED8JRunBA</guid>
-<pubDate>Fri, 18 Sep 2026 13:25:54 GMT</pubDate>
-<description>Help more people investigate business questions without routing every question through the data team. In this clip, OpenAI’s data team explains how building a trustworthy foundation for the data agent helped colleagues explore their own questions. Hear the approach behind making self-service analysi</description>
-</item>
-<item>
-<title>[YouTube] Use ChatGPT Work to turn product insights into a team action plan</title>
-<link>https://www.youtube.com/watch?v=wK0zWeVyLM4</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=wK0zWeVyLM4</guid>
-<pubDate>Fri, 18 Sep 2026 13:25:37 GMT</pubDate>
-<description>A drop-off in your adoption funnel tells you where to look. Customer feedback helps you investigate why. See how usage data and feedback from Slack and Google Drive inform recommendations, then watch ChatGPT Work draft a Slack update for review before posting. This demo uses synthetic data to show t</description>
-</item>
-<item>
-<title>[YouTube] Use ChatGPT Work to build your data agent</title>
-<link>https://www.youtube.com/watch?v=cXUmFec2PNY</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=cXUmFec2PNY</guid>
-<pubDate>Fri, 18 Sep 2026 13:25:00 GMT</pubDate>
-<description>Give your data agent the context it needs to work with your business. In this clip, see how to connect tools in ChatGPT Work and bring together data tables, team discussions, and metric definitions. Then see how a data expert can review and refine that context before sharing it across the company. W</description>
-</item>
-<item>
-<title>[YouTube] Meet the Data Agent in ChatGPT Work</title>
-<link>https://www.youtube.com/watch?v=VMgEQ7ym9WU</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=VMgEQ7ym9WU</guid>
-<pubDate>Fri, 18 Sep 2026 13:24:22 GMT</pubDate>
-<description>Turn business questions into clear next steps with the Data agent in ChatGPT Work. See how to analyze company data, build interactive dashboards, monitor changes, and create shared context for consistent answers. Explore data solutions: https://openai.com/business/solutions/data/</description>
-</item>
-<item>
-<title>[Google News] ASEAN regional AI policy eyed amid digital economy pact signing - Philippine News Agency</title>
-<link>https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XVXgwcl9lTWNtalNyRHYxYkVKRGFyd1R2dmVMX1h5QWRpU2M3dURQN19PcUY4SzYtQjA1bHhNbl9uZEZ1S1Zhd2NtU3pIZEhJ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XVXgwcl9lTWNtalNyRHYxYkVKRGFyd1R2dmVMX1h5QWRpU2M3dURQN19PcUY4SzYtQjA1bHhNbl9uZEZ1S1Zhd2NtU3pIZEhJ?oc=5</guid>
-<pubDate>Fri, 18 Sep 2026 13:23:29 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google AI] Co-creating the future of fashion with Google</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/</link>
 <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/</guid>
 <pubDate>Fri, 18 Sep 2026 13:00:00 +0000</pubDate>
 <description>Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.</description>
+</item>
+<item>
+<title>[Google News] Microsoft director called AI scraping ‘the largest theft of labor in human history,’ while OpenAI head brands ChatGPT an ‘existential threat’ to publishers — revelations come from legal briefs filed in NYT lawsuit - Tom's Hardware</title>
+<link>https://news.google.com/rss/articles/CBMiiANBVV95cUxPdTRmS21ZcjU5X1VCbkRGQlZ5emtKMmRaRWRDMzZBdzZxQl9wc1ZMZ2s3a29ZanlSU1NuWkNXRjA0eVlKN2Z1Nmx6aE1qN2dOZVRPQ3JSZTN5NTFnaEM2OWlaWHM3bEE4aFZib1lvRmVOZTQ1S3k1REl1SjZiYTJQVlRJLWI0U3ZEbmlhdW11aUVIbEF5dllwRlR3VUdoTmJXeC1IOGlJS2dzUU1NR2w1V29xUEFjbnpjWFphdGk3ZV9ncXM2bGZkbTV0RmVJNmo3dXN0ZktwOEhXeF8yRVZMYVVRS2k4VEJXR1QxY2dWN3hVbHlBbXlYMER3dWxXWkhOQXhXcElmM2F2dl9HSFI3SEhXYzJUUm43dlRFUXBzUnlQUm1FLXFvYnJvMTFxUFM4d0ZrQ25DR0o1UlMtbU14VjUzV1NYeFFqOEROV2p0VFRINU1pTFYtX0x5YlhhWXpoUS1EYVZObjFQZVRZYmhqcVNfTnI0aW9seFpTMFdKaVB1WktkTmtTNQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiANBVV95cUxPdTRmS21ZcjU5X1VCbkRGQlZ5emtKMmRaRWRDMzZBdzZxQl9wc1ZMZ2s3a29ZanlSU1NuWkNXRjA0eVlKN2Z1Nmx6aE1qN2dOZVRPQ3JSZTN5NTFnaEM2OWlaWHM3bEE4aFZib1lvRmVOZTQ1S3k1REl1SjZiYTJQVlRJLWI0U3ZEbmlhdW11aUVIbEF5dllwRlR3VUdoTmJXeC1IOGlJS2dzUU1NR2w1V29xUEFjbnpjWFphdGk3ZV9ncXM2bGZkbTV0RmVJNmo3dXN0ZktwOEhXeF8yRVZMYVVRS2k4VEJXR1QxY2dWN3hVbHlBbXlYMER3dWxXWkhOQXhXcElmM2F2dl9HSFI3SEhXYzJUUm43dlRFUXBzUnlQUm1FLXFvYnJvMTFxUFM4d0ZrQ25DR0o1UlMtbU14VjUzV1NYeFFqOEROV2p0VFRINU1pTFYtX0x5YlhhWXpoUS1EYVZObjFQZVRZYmhqcVNfTnI0aW9seFpTMFdKaVB1WktkTmtTNQ?oc=5</guid>
+<pubDate>Fri, 18 Sep 2026 12:49:14 GMT</pubDate>
+
 </item>
 <item>
 <title>[Google News] Beating China or Surviving AI? Inside the AI Arms Race - ColombiaOne.com</title>
@@ -210,10 +161,10 @@
 
 </item>
 <item>
-<title>[Google News] Why Congress Only Has Twelve Months To Figure Out Artificial Intelligence Regulation - ИФЗ РАН</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjFqNTgzeXBET1hoSndZVWJ0dnVNVFpnVTBzZTVjbGFYaEdpQmFEU042N283QlJCREI3dC1oQ2FuN280RHJRak9RYnBIVko5ZC1BS2sxZFFnQlY5NmhWU2swb18zSk1Xd1BHeVpTczVmR3FJMHpnLXhlWnpMMHNSVEdiWDVmRF9feDFsNmVfN2dEblk?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjFqNTgzeXBET1hoSndZVWJ0dnVNVFpnVTBzZTVjbGFYaEdpQmFEU042N283QlJCREI3dC1oQ2FuN280RHJRak9RYnBIVko5ZC1BS2sxZFFnQlY5NmhWU2swb18zSk1Xd1BHeVpTczVmR3FJMHpnLXhlWnpMMHNSVEdiWDVmRF9feDFsNmVfN2dEblk?oc=5</guid>
-<pubDate>Fri, 18 Sep 2026 07:50:49 GMT</pubDate>
+<title>[Google News] Why AI Founders Are Suddenly Calling For a Pause - StartupHub.ai</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPenlKTW9iLUMyR2xLM1NrUEZsM1pWQnR0T2RHYTI4cGVHTUNBUnpQejU4a0FCWVlZZHNYRm5sbVZrbEJUdHdjY29zNi1SYVM5clRBNmJDVWJsdGE5Vi05M0czUGx4VUYtcDBDWXQyWGFyYzRwd3FWcWIzSnptSktEUFJFTUZLOFhULWxOOHlDbENDV21rUVd1dmlnWE4tN25JRmNVQ2ZNUFRCN1ptMUlGTw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxPenlKTW9iLUMyR2xLM1NrUEZsM1pWQnR0T2RHYTI4cGVHTUNBUnpQejU4a0FCWVlZZHNYRm5sbVZrbEJUdHdjY29zNi1SYVM5clRBNmJDVWJsdGE5Vi05M0czUGx4VUYtcDBDWXQyWGFyYzRwd3FWcWIzSnptSktEUFJFTUZLOFhULWxOOHlDbENDV21rUVd1dmlnWE4tN25JRmNVQ2ZNUFRCN1ptMUlGTw?oc=5</guid>
+<pubDate>Fri, 18 Sep 2026 07:30:26 GMT</pubDate>
 
 </item>
 <item>
@@ -231,7 +182,7 @@
 
 </item>
 <item>
-<title>[Google News] New framework outlines principles for health-literate artificial intelligence - news-medical.net</title>
+<title>[Google News] New framework outlines principles for health-literate artificial intelligence - News-Medical</title>
 <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmVWZ1I2bzVjbHd3emE2ZzJwZVFWb0tkeEo1RzhXa0FpQU96Vng1c0JUQ2FhUnBvR3FrVHpCMFhTT3dodmZIaWtNMEtUZ1kyMnczc2ZiZjhfUzlsSnBDc0xHRHRTWjA3NlVyRkliRXJFa2JHVDdTbkoweDdLREZIenBDbGhLamJWRm0wS1k3TWRPWHpXNFZaTWYzMTlERXdCYm5RY3UzTlZ6RHdhOS1LV2ctdEtoYk5JMFpzUC04cXJha1U?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmVWZ1I2bzVjbHd3emE2ZzJwZVFWb0tkeEo1RzhXa0FpQU96Vng1c0JUQ2FhUnBvR3FrVHpCMFhTT3dodmZIaWtNMEtUZ1kyMnczc2ZiZjhfUzlsSnBDc0xHRHRTWjA3NlVyRkliRXJFa2JHVDdTbkoweDdLREZIenBDbGhLamJWRm0wS1k3TWRPWHpXNFZaTWYzMTlERXdCYm5RY3UzTlZ6RHdhOS1LV2ctdEtoYk5JMFpzUC04cXJha1U?oc=5</guid>
 <pubDate>Fri, 18 Sep 2026 03:29:00 GMT</pubDate>
@@ -259,13 +210,6 @@
 
 </item>
 <item>
-<title>[Google News] "StillCut," a startup with technology that prevents forgery of artificial intelligence (AI) generate.. - 매일경제</title>
-<link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdDRERk9PWkprZmJtcEd2cllxYzV0U3RMMnhUckVtRTc0WjRHMldWbTM4cEp5YTg0VlFzbk9yQnowRHQ0Z0RuajI1WQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdDRERk9PWkprZmJtcEd2cllxYzV0U3RMMnhUckVtRTc0WjRHMldWbTM4cEp5YTg0VlFzbk9yQnowRHQ0Z0RuajI1WQ?oc=5</guid>
-<pubDate>Fri, 18 Sep 2026 01:14:35 GMT</pubDate>
-
-</item>
-<item>
 <title>[News] Partnering with Accenture on embedded evaluation</title>
 <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
 <guid isPermaLink="false">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
@@ -273,10 +217,10 @@
 <description>We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.</description>
 </item>
 <item>
-<title>[Google News] AI syllabus policy takes effect in classrooms - The Pacer</title>
-<link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VeTJHRXZWekhQMzJiWnJKODJWODA1S3BHQVBaekM1d2dtRUUtYUd6RzREZjl4Z01kUktVYjJYbXRBUGdSQ0IxLTdFUWNIc1FqNTVRQzJCcDFabUROX202MGtMY18?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VeTJHRXZWekhQMzJiWnJKODJWODA1S3BHQVBaekM1d2dtRUUtYUd6RzREZjl4Z01kUktVYjJYbXRBUGdSQ0IxLTdFUWNIc1FqNTVRQzJCcDFabUROX202MGtMY18?oc=5</guid>
-<pubDate>Thu, 17 Sep 2026 22:20:18 GMT</pubDate>
+<title>[Google News] Generative AI Agrees with Incorrect Claims After Repetition - 조선일보</title>
+<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQODFmYzJxVzQ4ZXd5QzNEdExvYmZFaGt5RzlEWEdEaXpnbjdmMHhwOE5LT3h0cWJOR1g0TjBFZzhZd29IbnktQXpWOFhjTEVMU2tGOHNBSGZuT2N4dXRTdUlrcDBPZmw3dmpfWG1ZTjVjeUtVXzN2UjY0ZGxmQjcxTXd2VGNtZHdj?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQODFmYzJxVzQ4ZXd5QzNEdExvYmZFaGt5RzlEWEdEaXpnbjdmMHhwOE5LT3h0cWJOR1g0TjBFZzhZd29IbnktQXpWOFhjTEVMU2tGOHNBSGZuT2N4dXRTdUlrcDBPZmw3dmpfWG1ZTjVjeUtVXzN2UjY0ZGxmQjcxTXd2VGNtZHdj?oc=5</guid>
+<pubDate>Thu, 17 Sep 2026 21:33:40 GMT</pubDate>
 
 </item>
 <item>
@@ -287,14 +231,7 @@
 <description>Education Innovation</description>
 </item>
 <item>
-<title>[YouTube] Astra for Law: Frontier intelligence built for your practice.</title>
-<link>https://www.youtube.com/watch?v=YeeGHCixr7o</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=YeeGHCixr7o</guid>
-<pubDate>Thu, 17 Sep 2026 20:41:08 GMT</pubDate>
-<description>Astra for Law: A new offering powered by GPT-6 Astra with tools, settings, and context to support the expertise and judgment of lawyers and legal technology firms. Astra for Law pairs GPT-6 Astra with instructions for legal analysis and writing, settings for thorough work, and a new Legal Search Ind</description>
-</item>
-<item>
-<title>[Google News] Kansas Board of Regents to focus on crafting artificial intelligence policy standards - kansasreflector.com</title>
+<title>[Google News] Kansas Board of Regents to focus on crafting artificial intelligence policy standards - Kansas Reflector</title>
 <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmdEOVBVSFU5ZVVXNzNqcEJwc1JxYks4U29VZDh2SVdhS1g3bEZVdlhTZ1ZJSjloMFE3OVF0TzdiNDZLYkhsbG5MdDBYV2k2V0Q1dmYxeGljN0pvMXduUlFuR2tHZ2xPaG1URlYteHJkbkptRkRVNGV4a2g4eGFhcm5KWjZJVF9hY2hIVmN5aVVlUGR5N1lESzh2bU56cGpzczZTY0NpVGMtS0lDbmFZUXFWX1N2YjE5TVhROUxLb205YzA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmdEOVBVSFU5ZVVXNzNqcEJwc1JxYks4U29VZDh2SVdhS1g3bEZVdlhTZ1ZJSjloMFE3OVF0TzdiNDZLYkhsbG5MdDBYV2k2V0Q1dmYxeGljN0pvMXduUlFuR2tHZ2xPaG1URlYteHJkbkptRkRVNGV4a2g4eGFhcm5KWjZJVF9hY2hIVmN5aVVlUGR5N1lESzh2bU56cGpzczZTY0NpVGMtS0lDbmFZUXFWX1N2YjE5TVhROUxLb205YzA?oc=5</guid>
 <pubDate>Thu, 17 Sep 2026 20:09:09 GMT</pubDate>
@@ -315,25 +252,11 @@
 <description>Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.</description>
 </item>
 <item>
-<title>[YouTube] ChatGPT for Word is now available</title>
-<link>https://www.youtube.com/watch?v=lxVMdEpe0RQ</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=lxVMdEpe0RQ</guid>
-<pubDate>Thu, 17 Sep 2026 19:12:10 GMT</pubDate>
-<description>Procrastination has met its match. ChatGPT is now in Word. You can add ChatGPT to Microsoft Word to turn rough notes into first drafts, fix formatting issues, proofread, and get suggested edits—all without leaving your document. ChatGPT for Word (and Powerpoint + Excel) are available across all plan</description>
-</item>
-<item>
-<title>[YouTube] Jump Trading points GPT-6 Astra to its most ambiguous, difficult tasks</title>
-<link>https://www.youtube.com/watch?v=s495saGYWFg</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=s495saGYWFg</guid>
-<pubDate>Thu, 17 Sep 2026 18:03:17 GMT</pubDate>
-<description>At Jump Trading, Lucas Baker, Head of LLM R&amp;D, is seeing agents take on broader, less defined work—from building entire services to analyses that run for days across multiple data sources. The shift he describes: AI becoming part of the team’s everyday work.</description>
-</item>
-<item>
-<title>[YouTube] Build Custom AI Infrastructure with NVIDIA NVLink Fusion</title>
-<link>https://www.youtube.com/watch?v=cr61seCie_c</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=cr61seCie_c</guid>
-<pubDate>Thu, 17 Sep 2026 17:51:28 GMT</pubDate>
-<description>Discover how NVIDIA NVLink Fusion enables hyperscalers, AI natives, and other custom silicon innovators to combine NVIDIA technology with their XPUs or CPUs to deploy AI infrastructure. By extending NVIDIA's vertically integrated and horizontally open platform across custom systems, NVLink Fusion de</description>
+<title>[Google News] Adam Optimizer Stability Follows Simple Linear Law - StartupHub.ai</title>
+<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQU01NE9wemJBeVI3LTc2cnJub2lwZmhNazVsYTR5OEhsd21GNUsxX0xjUTNsTXVFd0JxamUwVTlZa1EzSXZKeWdxNHZ3eVRRRXJOQlBoTGRLOElfU3UyQXJrQkw5ZkI3aHBxV3A0OGRLa2taS09OLVVROUp5ZmJWMmhWRWp6b25HaUxsZTJDbk5tMzBsQjJYZl9XNjBtQ1ZNZUFLa29vWkc1Q0liNmo5bUZLRDRIcWcz?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQU01NE9wemJBeVI3LTc2cnJub2lwZmhNazVsYTR5OEhsd21GNUsxX0xjUTNsTXVFd0JxamUwVTlZa1EzSXZKeWdxNHZ3eVRRRXJOQlBoTGRLOElfU3UyQXJrQkw5ZkI3aHBxV3A0OGRLa2taS09OLVVROUp5ZmJWMmhWRWp6b25HaUxsZTJDbk5tMzBsQjJYZl9XNjBtQ1ZNZUFLa29vWkc1Q0liNmo5bUZLRDRIcWcz?oc=5</guid>
+<pubDate>Thu, 17 Sep 2026 20:00:00 GMT</pubDate>
+
 </item>
 <item>
 <title>[Google News] QUICK SPARK: New China AI ETF AICH Targets Chips, Robotics And DeepSeek Era - Benzinga</title>
@@ -343,11 +266,11 @@
 
 </item>
 <item>
-<title>[YouTube] AI-RAN: 5 Things to Know</title>
-<link>https://www.youtube.com/shorts/ehDCT62U-IA</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/ehDCT62U-IA</guid>
-<pubDate>Thu, 17 Sep 2026 16:39:53 GMT</pubDate>
-<description>AI-RAN is moving beyond field trials and toward commercial deployment. NVIDIA and global telecom leaders have committed to building 6G on open, secure and AI-native platforms. The technology is gaining momentum, but what exactly is AI-RAN? In this video, Cindy Goh breaks down 5 things you need to kn</description>
+<title>[Google News] China Is Running a Different AI Race - Tech Policy Press</title>
+<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZdXlNdVVUSFpWRUpaWU5pUGhQeGdDWkp3M1g0TnJ3UTl5SUQzclRrOGx0MEU3SDREYUF6R0dPX2FLRkZ3MXNVdUZXX1VUUG52RzdQOFYzRjIxM1dqMDJnQXlLVUlsS09kc1BDeDdR?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZdXlNdVVUSFpWRUpaWU5pUGhQeGdDWkp3M1g0TnJ3UTl5SUQzclRrOGx0MEU3SDREYUF6R0dPX2FLRkZ3MXNVdUZXX1VUUG52RzdQOFYzRjIxM1dqMDJnQXlLVUlsS09kc1BDeDdR?oc=5</guid>
+<pubDate>Thu, 17 Sep 2026 16:31:55 GMT</pubDate>
+
 </item>
 <item>
 <title>[Google News] DeepSeek engineer's warning suggests AI may reshape, not simply eliminate, technical work - digitimes</title>
@@ -371,13 +294,6 @@
 <description>Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.</description>
 </item>
 <item>
-<title>[YouTube] Predict next week's weather yourself</title>
-<link>https://www.youtube.com/watch?v=1jq7sC6IjMk</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=1jq7sC6IjMk</guid>
-<pubDate>Thu, 17 Sep 2026 11:12:05 GMT</pubDate>
-<description>Weather forecasting is very important, and people are moving towards using neural network models to do it. We at Hugging Face are interested in the tooling around the research and want to make it better. In this video Emma and Aritra talk about what Hugging Face is doing on this front. They also tal</description>
-</item>
-<item>
 <title>[Google News] BlackHatSect0r Uses DeepSeek-Powered AI Agent to Automate Attacks and Harvest 16,834 Credentials - CyberSecurityNews</title>
 <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPVjM5Q2tIRmpkOGJRNEpxUVBhb05zeUhTTUVPVjFoVzFTM2ZsUUVuUjJrSzRxNXhrcG9CdTc2MGh4NnEtZjJ6TGloTDVkY1ZUYzl2azRUZVRxVmpUeXNMWjNWc2zSAWpBVV95cUxPREZDSG9CQTdhajQtSHdLMHhJVFBKR3RtQlZQeWg2ZFduNDJVVlg2RkFlMm1NeTdYOVAwLWYyLUtDNGhBWVZVQll6LUM5SmdXdlJGSWotbV91a2YyN09uYlJWQzJoWjFiYk5n?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPVjM5Q2tIRmpkOGJRNEpxUVBhb05zeUhTTUVPVjFoVzFTM2ZsUUVuUjJrSzRxNXhrcG9CdTc2MGh4NnEtZjJ6TGloTDVkY1ZUYzl2azRUZVRxVmpUeXNMWjNWc2zSAWpBVV95cUxPREZDSG9CQTdhajQtSHdLMHhJVFBKR3RtQlZQeWg2ZFduNDJVVlg2RkFlMm1NeTdYOVAwLWYyLUtDNGhBWVZVQll6LUM5SmdXdlJGSWotbV91a2YyN09uYlJWQzJoWjFiYk5n?oc=5</guid>
@@ -392,25 +308,11 @@
 
 </item>
 <item>
-<title>[Google News] Orient Securities: DeepSeek Harness Update Accelerates Application Deployment, Driving Surge in Demand for Domestic Computing Power - 富途牛牛</title>
-<link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNRXNIcWtUUFRacmRUU1cyTDdjVlZ5UkVldWpRNDh1Ul93bEhCRGNfZnNSM2VJbzZUOWFELVZNZVcyeW1KV2lEYVN2bU91eWlReldhdTg1YmM1QjYzSjJfT0xWTjctOGd1VE1vR3UyWUt0QVY1VFFOMWxCcE4yN0pNNmREZzQxeERTejNLblhyUGoxWV9vellsejJIV3BIVVlKSURuZ3hkc1UtTV96bjJHaTdkVk5IYzVRaExMY3dhQmwxZzVfZ0ZpdFJXSQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxNRXNIcWtUUFRacmRUU1cyTDdjVlZ5UkVldWpRNDh1Ul93bEhCRGNfZnNSM2VJbzZUOWFELVZNZVcyeW1KV2lEYVN2bU91eWlReldhdTg1YmM1QjYzSjJfT0xWTjctOGd1VE1vR3UyWUt0QVY1VFFOMWxCcE4yN0pNNmREZzQxeERTejNLblhyUGoxWV9vellsejJIV3BIVVlKSURuZ3hkc1UtTV96bjJHaTdkVk5IYzVRaExMY3dhQmwxZzVfZ0ZpdFJXSQ?oc=5</guid>
-<pubDate>Thu, 17 Sep 2026 03:10:26 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] Business execs seize on AI as top tool for decision-making - CFO Dive</title>
 <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzVfUEhQSFFPa3hSb0p2bF84QjFsclB3Y2lqbklGNHA0MzRtemlHVkQtLTZPRnhjV0JuSnUxTG9aNnpSMjBxM29UQ0V5Y1FzTnJXT1BhYmc4Tm5OcjVhanByRFlIT0lhejlfeGxzc2JqLXJXU2JBNy1OVUpFaEhjdUJzSVktNXBJZjQyQmFRQjg?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzVfUEhQSFFPa3hSb0p2bF84QjFsclB3Y2lqbklGNHA0MzRtemlHVkQtLTZPRnhjV0JuSnUxTG9aNnpSMjBxM29UQ0V5Y1FzTnJXT1BhYmc4Tm5OcjVhanByRFlIT0lhejlfeGxzc2JqLXJXU2JBNy1OVUpFaEhjdUJzSVktNXBJZjQyQmFRQjg?oc=5</guid>
 <pubDate>Thu, 17 Sep 2026 02:55:57 GMT</pubDate>
 
-</item>
-<item>
-<title>[YouTube] Reimagining IT with ChatGPT</title>
-<link>https://www.youtube.com/watch?v=Q_MEaNdMpZw</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=Q_MEaNdMpZw</guid>
-<pubDate>Thu, 17 Sep 2026 02:11:53 GMT</pubDate>
-<description>Go behind the scenes to see how Open AI's IT team uses ChatGPT to deliver business outcomes.</description>
 </item>
 <item>
 <title>[Google News] Tencent Open-Sources WeKnora With Official DeepSeek Harness Plugin - Pandaily</title>
@@ -425,6 +327,104 @@
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxPOGZPZnNFd0lnWk01VlkxWWhlSWg3cEhyQk93YWNxUVpRY0hQTmw3UlpSTHZPRkdYb2N2QTFFbTcycXowbVptb2NoLTRubk8yVVhlRTVEeGFRWXZqa29qNUdXWXVGRGwxN3d4cTlWc3VVRVFGV1doN2E0aXZLYUdOSUx5M1I?oc=5</guid>
 <pubDate>Thu, 17 Sep 2026 00:29:18 GMT</pubDate>
 
+</item>
+<item>
+<title>[News] Introducing Astra for Law</title>
+<link>https://openai.com/index/astra-for-law</link>
+<guid isPermaLink="false">https://openai.com/index/astra-for-law</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+<description>OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.</description>
+</item>
+<item>
+<title>[News] Introducing the Life Sciences Verification Program</title>
+<link>https://www.anthropic.com/news/life-sciences-verification-program</link>
+<guid isPermaLink="false">https://www.anthropic.com/news/life-sciences-verification-program</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Research] How Claude is uplifting biomolecular modeling</title>
+<link>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</link>
+<guid isPermaLink="false">https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+
+</item>
+<item>
+<title>[Developer] How to Use AI Agents to Prepare 3D Scenes for Simulation</title>
+<link>https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/</guid>
+<pubDate>Wed, 16 Sep 2026 23:20:33 GMT</pubDate>
+<description>Agentic AI workflows can be used to prepare and validate digital twins for physical AI systems. Agents can inspect 3D scenes, author simulation-relevant data in...</description>
+</item>
+<item>
+<title>[Developer] TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor</title>
+<link>https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/</guid>
+<pubDate>Wed, 16 Sep 2026 20:37:07 GMT</pubDate>
+<description>AI agents are moving from cloud data centers to vehicles, robots, and other edge devices. Unlike a chatbot that answers a single prompt, an agent works through...</description>
+</item>
+<item>
+<title>[Agent Framework] From Specialist Agents to Distributed Skills over MCP</title>
+<link>https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to-distributed-skills-over-mcp/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to-distributed-skills-over-mcp/</guid>
+<pubDate>Wed, 16 Sep 2026 18:59:47 +0000</pubDate>
+<description>Keep your domain services distributed. Move the specialist’s instructions, not another model, into the orchestrator. A multi-agent system often starts with a straightforward design: one agent understands the user’s request, delegates to specialist agents, and combines their answers. That was the sta</description>
+</item>
+<item>
+<title>[News] Our framework for reporting model misalignment</title>
+<link>https://openai.com/index/model-misalignment-reporting-framework</link>
+<guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework</guid>
+<pubDate>Wed, 16 Sep 2026 17:00:00 GMT</pubDate>
+<description>OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.</description>
+</item>
+<item>
+<title>[Developer] Translating CUDA Tile Operations from Python to Rust Using Agentic AI</title>
+<link>https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/</guid>
+<pubDate>Wed, 16 Sep 2026 16:28:59 GMT</pubDate>
+<description>cuTile Rust (cutile-rs) is a tile-based system for safe, idiomatic GPU kernel authoring in the Rust programming language. Extending the Rust ownership model to...</description>
+</item>
+<item>
+<title>[Google News] DeepSeek Helps Optimize Resident Evil 7 and Improve Performance by 50% - eTeknix</title>
+<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlZOSkVHMG1vZmlkRXlOX002NnF6bEtDZGp1VW5jM0hUTXltOVBsclFaYk9YNFBHNGt2QndROFhrdmxwZ2RORlBybjhWaEw0eVRHdGt0WElDb29ReEo5ZVVCekg3SFJHdjlRc2tYUnhUREx2bTBpel9GcWQtMUdNMnAybGVmQVVMblZmdXgxUTIyWTY3Z29fM1d3?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlZOSkVHMG1vZmlkRXlOX002NnF6bEtDZGp1VW5jM0hUTXltOVBsclFaYk9YNFBHNGt2QndROFhrdmxwZ2RORlBybjhWaEw0eVRHdGt0WElDb29ReEo5ZVVCekg3SFJHdjlRc2tYUnhUREx2bTBpel9GcWQtMUdNMnAybGVmQVVMblZmdXgxUTIyWTY3Z29fM1d3?oc=5</guid>
+<pubDate>Wed, 16 Sep 2026 16:28:06 GMT</pubDate>
+
+</item>
+<item>
+<title>[Newsroom (AI)] Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics</title>
+<link>https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics/</link>
+<guid isPermaLink="false">https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics/</guid>
+<pubDate>Wed, 16 Sep 2026 16:00:19 +0000</pubDate>
+<description>People and companies are using AI hardware and software to make life easier and more accessible for everyone. That’s the case with smartARM, a Toronto-based startup developing a vision-first bionic arm prototype that uses open-source software, with Meta AI glasses as an optional add-on, to explore m</description>
+</item>
+<item>
+<title>[News] Helping older adults use AI in everyday life</title>
+<link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
+<guid isPermaLink="false">https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</guid>
+<pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
+<description>OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.</description>
+</item>
+<item>
+<title>[Cloud AI] How Orange built FinOps accountability, and why agents are next</title>
+<link>https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/</guid>
+<pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+<description>At Orange , the leading France-based multinational telecom provider, there are days when engineering teams set aside their delivery backlogs and spend the day cleaning up cloud spend together. There's a leaderboard. There are goodies on the line. Experienced practitioners guide the newcomers, so peo</description>
+</item>
+<item>
+<title>[Cloud AI] Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses</title>
+<link>https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/</guid>
+<pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+<description>Welcome to the first Cloud CISO Perspectives for September 2026. Today, Sandra Joyce shares the latest details on Google’s visibility into how attackers are using AI, and how we’re using AI to stop them. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cl</description>
+</item>
+<item>
+<title>[Azure] Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</title>
+<link>https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/</link>
+<guid isPermaLink="false">https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/</guid>
+<pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+<description>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more. The post Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure appeared first on Microsoft Azure Blo</description>
 </item>
 </channel>
 </rss>
