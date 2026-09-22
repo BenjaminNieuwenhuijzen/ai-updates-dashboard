@@ -5,12 +5,117 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Tue, 22 Sep 2026 16:59:08 GMT</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 21:20:35 GMT</lastBuildDate>
+<item>
+<title>[Google News] Trump says he’s renaming AI to ‘super intelligence’ - The Washington Post</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQckMxTlUwUEdVMk5jNEVzdGt3aS1FUHhwS2JwQThYLWNHaUpCbnI1T1dLcWxxVXkzTVlOVkwwbEE5S3UyYmhXbHBjYWkza0x2TTZ0ZEFoMWVNaHRuaWNwLWpmT2JzY09nY3pybDlzbGlNR3YtTGpaMC1LaDQxdWdZR2ZwQmxtaGUwSk5iRjYxRlBFTXNvUnVXWHgwY18xV3py?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxQckMxTlUwUEdVMk5jNEVzdGt3aS1FUHhwS2JwQThYLWNHaUpCbnI1T1dLcWxxVXkzTVlOVkwwbEE5S3UyYmhXbHBjYWkza0x2TTZ0ZEFoMWVNaHRuaWNwLWpmT2JzY09nY3pybDlzbGlNR3YtTGpaMC1LaDQxdWdZR2ZwQmxtaGUwSk5iRjYxRlBFTXNvUnVXWHgwY18xV3py?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 21:02:22 GMT</pubDate>
+
+</item>
+<item>
+<title>[News] Better prompt caching for GPT-6</title>
+<link>https://openai.com/index/better-prompt-caching-for-gpt-6</link>
+<guid isPermaLink="false">https://openai.com/index/better-prompt-caching-for-gpt-6</guid>
+<pubDate>Tue, 22 Sep 2026 21:00:00 GMT</pubDate>
+<description>Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.</description>
+</item>
+<item>
+<title>[Google News] OpenAI Unleashes A New Price War, With GPT-6 Sol And GPT-6 Luna Now Priced Below Claude Opus 5.5 And DeepSeek’s V4.1 Flash, Respectively, Negating The Rationale For Open-Weight Models - Wccftech</title>
+<link>https://news.google.com/rss/articles/CBMiqAJBVV95cUxNMWh1SHR5MGxMc3ktNmR5cjRTY2xkRVBRX3ZTblNPWURDd05kdGRsZF8zMW5QNVQ2eHBITS11WTFONVhnOVFaYWhoV2lyemJuTHFKX2J5b0NSSVhKUzl1WU9XN19TZ2Q4d2tiaE5nVTA4WWxQbnY1SVQ4RFN0RjdZUkVkRjNRSjU3VFB5UUxGMDdXU0E0RTdKQ3JwQ0xzX3VndEVDak9SUUVhZGswNzN0b2hOUmhyRU5pVS02YUJBVDlfZkVtc1YwbFVYUDZUdGRpaDVmV3NzRzQ5TEZPeklHVFI3RHp1VDZaa050azFEUzBYNENLX0lod3lBOEJ0X3NobExwR0cwWW0zY2pWS2hYSExSZWdEQ0JUU1JheXBKT2JGUUlJZUdZZtIBrgJBVV95cUxOY2Z2NFhkNVpIMHdHNTVqdTlBclU3TUV1U2ltRUZiU0NmcV9XTzB4bkp6U0FOX2RGYWJmSFdNM3pOb2RlU0duZmpoR2dMTEloQkNXZ3lEOWsyQzZ6UGFMOEI5MHRWNGxucEEtVG5yNXZqSkNaRTlNZ0NQc3VoWHp1eUpMc3VDQ0ZVcWRUNEJuZ3llOVQ4dXA5WnFwY1QyWGJSazlZWWNpNVV0Y1lmXzhWNkZzVWs0cmV0ZzZROWk5ajRJenZ5UnUwNkV0ZjJqUlItaW1PSXFFMmctTGJmdFFjcDdZN1BpcmhwQkszSVNCQkZlQ0c5VEk1bjNvVHU0WHFkRVZndWgwX1VzRHVMV2dFU2RYMGRaQXQyQ29UWHMzeFVSazhKVlNTcmdNeE8zUQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAJBVV95cUxNMWh1SHR5MGxMc3ktNmR5cjRTY2xkRVBRX3ZTblNPWURDd05kdGRsZF8zMW5QNVQ2eHBITS11WTFONVhnOVFaYWhoV2lyemJuTHFKX2J5b0NSSVhKUzl1WU9XN19TZ2Q4d2tiaE5nVTA4WWxQbnY1SVQ4RFN0RjdZUkVkRjNRSjU3VFB5UUxGMDdXU0E0RTdKQ3JwQ0xzX3VndEVDak9SUUVhZGswNzN0b2hOUmhyRU5pVS02YUJBVDlfZkVtc1YwbFVYUDZUdGRpaDVmV3NzRzQ5TEZPeklHVFI3RHp1VDZaa050azFEUzBYNENLX0lod3lBOEJ0X3NobExwR0cwWW0zY2pWS2hYSExSZWdEQ0JUU1JheXBKT2JGUUlJZUdZZtIBrgJBVV95cUxOY2Z2NFhkNVpIMHdHNTVqdTlBclU3TUV1U2ltRUZiU0NmcV9XTzB4bkp6U0FOX2RGYWJmSFdNM3pOb2RlU0duZmpoR2dMTEloQkNXZ3lEOWsyQzZ6UGFMOEI5MHRWNGxucEEtVG5yNXZqSkNaRTlNZ0NQc3VoWHp1eUpMc3VDQ0ZVcWRUNEJuZ3llOVQ4dXA5WnFwY1QyWGJSazlZWWNpNVV0Y1lmXzhWNkZzVWs0cmV0ZzZROWk5ajRJenZ5UnUwNkV0ZjJqUlItaW1PSXFFMmctTGJmdFFjcDdZN1BpcmhwQkszSVNCQkZlQ0c5VEk1bjNvVHU0WHFkRVZndWgwX1VzRHVMV2dFU2RYMGRaQXQyQ29UWHMzeFVSazhKVlNTcmdNeE8zUQ?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 19:55:36 GMT</pubDate>
+
+</item>
+<item>
+<title>[YouTube] How businesses can use AI and keep their data private</title>
+<link>https://www.youtube.com/shorts/fZ10JtLAoOc</link>
+<guid isPermaLink="false">https://www.youtube.com/shorts/fZ10JtLAoOc</guid>
+<pubDate>Tue, 22 Sep 2026 19:31:08 GMT</pubDate>
+<description>Enterprises should own their intelligence. That means bringing AI to their sensitive data while protecting both business data and proprietary models. NVIDIA’s VP of Enterprise AI Justin Boitano and VAST Data CEO Renen Hallak discuss how NVIDIA Confidential Computing makes this possible.</description>
+</item>
+<item>
+<title>[Google News] China Probes DeepSeek, Moonshot AI Over Anthropic's Claims They Route Requests to Claude - Gizmodo</title>
+<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalNQRnNqazhhNmxmWWVWcm11dDR5NU1xMmpWTi1jNmVxWVNCMnBKQjJvNzJCcVkxMDBkMzlQQ3V2RllHLS1abE9DUmJDRTVLZ2tJYjdOM0dhLWhqRV9rSGpWWW5pWlJwOExpTWJJb200aUVfNGhTR29ucW5CVlNxWFBFOUNsblJwdnQ2QnE3LWJnV0FSY2xkZkJlSUZsdVBqS2VubThFOHdOVkwwZTZlYXNLRENpNVBs?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalNQRnNqazhhNmxmWWVWcm11dDR5NU1xMmpWTi1jNmVxWVNCMnBKQjJvNzJCcVkxMDBkMzlQQ3V2RllHLS1abE9DUmJDRTVLZ2tJYjdOM0dhLWhqRV9rSGpWWW5pWlJwOExpTWJJb200aUVfNGhTR29ucW5CVlNxWFBFOUNsblJwdnQ2QnE3LWJnV0FSY2xkZkJlSUZsdVBqS2VubThFOHdOVkwwZTZlYXNLRENpNVBs?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 18:45:38 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Donald Trump Latest News: Trump Says ‘Artificial Intelligence’ Sounds Fake, Proposes ‘Super Intelligence’; Check AI Force, UNGA Speech &amp; Key Details - The Sunday Guardian</title>
+<link>https://news.google.com/rss/articles/CBMikAJBVV95cUxQcEZERnIzcW1PTnBMLVVGYTVfV0RFSzlXYXhxVDEzalNCRS0xMkJHRGQxNm5jVk1fZ3lVWHhVQUUwUGJzMzl3QURkYmwzSC1xYlE4RVhURXJNSGpKbktxbEZ3dEpxeXNTbmhfa1FNbUFBRjg2LWFaTDNqYUczX0ZHOVE0YW1PdHdTVG1UTFJTbHJsQnEzd0xwVTUtNTVQRjh5RzlLS2h1TTVpZnJ5cE81RldWNDZYdzNuMVN2b1d1M3VkZ3hOTFlVNHg2WGtsYWVBVE1FcWxha0hiQUlweUlXWlhNWFdYc2ExQnM5QjFPdGdGaktWRzM3dmFlNTJSbHVsSWtKQnJmM1N0ck12NUZlSNIBlgJBVV95cUxQVkwwakRlX2hXS2NjV1ZCNHU4N1dyNGJ5b1ZDbk40MXc5TlpBX2JhaHdiQTNjUXNWMy1qLVU2c1FTVVdxMXhmYWYyZTRLSjZVUEVYal93ekdpMlA0TW1EbEM2RXJLajFSYzBwemFLTFg0MEFoSnhzcmRXaGwzN2Q4ZWdqY3pMZjVZVEoyc3lPVXg1RUk3Y3JjOFNMOW9uZHVjbmcwNHhmdVRXMVlIWm5hdUx1bGxDTlhKOGtld0FxYm5sSWFMSXJFQklET1ZCNjRVOGlqX3JERU5pQkVZYVNJUWdfT1JiajhTT0xEeGRZNjZ0VmRxYTBMRzZIeGpzdDBJUl8tUEFKMDRsclVadDJQNW41azBDUQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAJBVV95cUxQcEZERnIzcW1PTnBMLVVGYTVfV0RFSzlXYXhxVDEzalNCRS0xMkJHRGQxNm5jVk1fZ3lVWHhVQUUwUGJzMzl3QURkYmwzSC1xYlE4RVhURXJNSGpKbktxbEZ3dEpxeXNTbmhfa1FNbUFBRjg2LWFaTDNqYUczX0ZHOVE0YW1PdHdTVG1UTFJTbHJsQnEzd0xwVTUtNTVQRjh5RzlLS2h1TTVpZnJ5cE81RldWNDZYdzNuMVN2b1d1M3VkZ3hOTFlVNHg2WGtsYWVBVE1FcWxha0hiQUlweUlXWlhNWFdYc2ExQnM5QjFPdGdGaktWRzM3dmFlNTJSbHVsSWtKQnJmM1N0ck12NUZlSNIBlgJBVV95cUxQVkwwakRlX2hXS2NjV1ZCNHU4N1dyNGJ5b1ZDbk40MXc5TlpBX2JhaHdiQTNjUXNWMy1qLVU2c1FTVVdxMXhmYWYyZTRLSjZVUEVYal93ekdpMlA0TW1EbEM2RXJLajFSYzBwemFLTFg0MEFoSnhzcmRXaGwzN2Q4ZWdqY3pMZjVZVEoyc3lPVXg1RUk3Y3JjOFNMOW9uZHVjbmcwNHhmdVRXMVlIWm5hdUx1bGxDTlhKOGtld0FxYm5sSWFMSXJFQklET1ZCNjRVOGlqX3JERU5pQkVZYVNJUWdfT1JiajhTT0xEeGRZNjZ0VmRxYTBMRzZIeGpzdDBJUl8tUEFKMDRsclVadDJQNW41azBDUQ?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 18:43:53 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Trump Says He's Changing Artificial Intelligence to 'Super Intelligence' on Government Documents - Gizmodo</title>
+<link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEhNaHJ3WEYyTHdFd0ptbHRtRm51Ym1jSnB3aUx1cUdWVFA2SWRMOXBmMXpyQ3BQeDRXR1gzaldjWl9TR0h3NThkeURoX1FEUlBlNFktcHNfR2p1WWsyNDlicEJUSzBLLWQ1M3ctNm42SHlkM0MxMFpwMHVfd2t6Wks3dkxLLXdJTnhvTHhzMkZaNWZTcndBcXNSOEZzSExfUWFnYk9HZWNfUV9wSGpjd2x1Z3Z4SFZmMl9xWndWRDltUQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEhNaHJ3WEYyTHdFd0ptbHRtRm51Ym1jSnB3aUx1cUdWVFA2SWRMOXBmMXpyQ3BQeDRXR1gzaldjWl9TR0h3NThkeURoX1FEUlBlNFktcHNfR2p1WWsyNDlicEJUSzBLLWQ1M3ctNm42SHlkM0MxMFpwMHVfd2t6Wks3dkxLLXdJTnhvTHhzMkZaNWZTcndBcXNSOEZzSExfUWFnYk9HZWNfUV9wSGpjd2x1Z3Z4SFZmMl9xWndWRDltUQ?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 18:30:32 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more - VentureBeat</title>
+<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTktvX19jdFJXNk1zWk9uQ01FWm84c1dhWGZMaWlkeFpKRHdlVUtnRUZRdjBueGlXTUlteFI1Z2diRHhsUHdYTmlKZ0hnMHZNdm9LUDZWdGlXc3VZSlpfakQyZ1BDQ1BuSUJlTFEwMlpXN3Zlb3JPLWFjT0k2YW9XQTVIcVIxYWUtM01hR3VaR05lVHFoTUJkQjdOUWVuSnJXbUJpRV9kSnBxQQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTktvX19jdFJXNk1zWk9uQ01FWm84c1dhWGZMaWlkeFpKRHdlVUtnRUZRdjBueGlXTUlteFI1Z2diRHhsUHdYTmlKZ0hnMHZNdm9LUDZWdGlXc3VZSlpfakQyZ1BDQ1BuSUJlTFEwMlpXN3Zlb3JPLWFjT0k2YW9XQTVIcVIxYWUtM01hR3VaR05lVHFoTUJkQjdOUWVuSnJXbUJpRV9kSnBxQQ?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 18:22:38 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Beijing turns on DeepSeek and Moonshot over Claude data - The Next Web</title>
+<link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOeUE2dVR5YnhqT1UyY1BtMExHSlAtbGExbFlaYVBTVkJvMkc4YW5kNHBJTTJmNW9PY2FxeHdweHJXZXhURUhicEtyTXNoNVFQTkFlNzQ5NDRwUGFKMXNuX1IxZ0dFT0VuOU5fQ1NKVlZVWnJvaUFHYkpaMUl0b25Kb3NB?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxOeUE2dVR5YnhqT1UyY1BtMExHSlAtbGExbFlaYVBTVkJvMkc4YW5kNHBJTTJmNW9PY2FxeHdweHJXZXhURUhicEtyTXNoNVFQTkFlNzQ5NDRwUGFKMXNuX1IxZ0dFT0VuOU5fQ1NKVlZVWnJvaUFHYkpaMUl0b25Kb3NB?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 18:06:08 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek Set to Brief UN Security Council on AI Risks - tovima.com</title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQOF9iUTF4a2h2ejRNZHdoaU51XzRFQm5MdmVyMzVMbHpwWGk2NWprLVF2Q2VITld1YUU4Q3NmdW1fZFpZT1p1c0hlakItUE5MSmNhTUdPS1NLMUNyRDRyODN0X0hWaWJRRXRnbTZpV3lwUmd6dS1TSl9TM2t4UU5kU1hEemloU05XWlQyVEVPYnRtVFhxRkHSAZsBQVVfeXFMTW1iRmlyb2d2clJ2cE5GMXVuMjBjSDV4M1BjWFpueGdySGdCLW5pMWdtODBicjdoVXJ2UlEzcE5tWDZ3NU81Skdfdlc3UjhTWUlxVUV2RmFlWDczUVJhUExFVE9ZMjNBakstdDZtbDJOSU4tMWpLVmJFZENPUFZHMGJFUzROWGlZWHYwQWlrV1pfQTNHcmhSNkxHM1E?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxQOF9iUTF4a2h2ejRNZHdoaU51XzRFQm5MdmVyMzVMbHpwWGk2NWprLVF2Q2VITld1YUU4Q3NmdW1fZFpZT1p1c0hlakItUE5MSmNhTUdPS1NLMUNyRDRyODN0X0hWaWJRRXRnbTZpV3lwUmd6dS1TSl9TM2t4UU5kU1hEemloU05XWlQyVEVPYnRtVFhxRkHSAZsBQVVfeXFMTW1iRmlyb2d2clJ2cE5GMXVuMjBjSDV4M1BjWFpueGdySGdCLW5pMWdtODBicjdoVXJ2UlEzcE5tWDZ3NU81Skdfdlc3UjhTWUlxVUV2RmFlWDczUVJhUExFVE9ZMjNBakstdDZtbDJOSU4tMWpLVmJFZENPUFZHMGJFUzROWGlZWHYwQWlrV1pfQTNHcmhSNkxHM1E?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 18:02:57 GMT</pubDate>
+
+</item>
+<item>
+<title>[News] Introducing GPT-6 Sol and Luna</title>
+<link>https://openai.com/index/introducing-gpt-6-sol-and-luna</link>
+<guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-sol-and-luna</guid>
+<pubDate>Tue, 22 Sep 2026 18:00:00 GMT</pubDate>
+<description>Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.</description>
+</item>
+<item>
+<title>[Developer] Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing</title>
+<link>https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/</guid>
+<pubDate>Tue, 22 Sep 2026 17:27:41 GMT</pubDate>
+<description>As large language model (LLM) inference increasingly processes sensitive information and proprietary model context across personal, enterprise, and regulated...</description>
+</item>
+<item>
+<title>[Developer] Topology-Aware Workload Scheduling with NVIDIA Topograph</title>
+<link>https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/</link>
+<guid isPermaLink="false">https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/</guid>
+<pubDate>Tue, 22 Sep 2026 17:16:28 GMT</pubDate>
+<description>AI factories are power-limited systems that deliver maximum value when fully optimized. GPU workload placement is a key optimization. Poor workload placement...</description>
+</item>
+<item>
+<title>[Google News] Trump renames artificial intelligence as 'super intelligence', rejects international regulation of AI - The New Indian Express</title>
+<link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYU5rQjZkYjhjSlFjRUNDZnNKVkRKUG95TklvS1RzMkc5dUc5LWppTHNXMFVZWDBoYjNULTJfYkFCbThKWUFyWTU2LVNvZWY2U2YzM2tjVXIwQ3BnMjU4UEV1Tmhlc3R2U2tKVXJGNllFb3ozd0F6b0hKVmt3WkE0ZDFYS1ROSDZHVjBCQ19sYVJzel9DNjZOZ3kzX0dzMTFlek1xdnZITm9pLUR4b3hoVXpuai1GN3UyRUV5Yl9ybnJoeUc3RVZ6S0hFZllFdTJkdUowdS1SUnNxd2w3Mi1rV1ZKRdIB8AFBVV95cUxOcldMbnY2QXl4OVA1NlpWbEt0ajQ3V19sUGh3WW1JRUtFd053eFFhdW9BMDZXMWM4YnRzY2lBb3hKd0V0UVB1ZGFtakc1Y2Q4Yi1Cb3JMT2RheWt0TkI3WHNvVHBUUlFBNl9rS0pGamZHampQRk1nZko2dkYxeGdCWW9jS2IwUkd6QVFDQlRrNzN4SGNBWUZsRXpyVUVjMTA3alJZYWJVa1JBZmNKYzhRQnZoMGRqZWhfVEtuZFcyWENpclFqRk9pQndobGJodlQzOUhRQmlUbmUyaTlySzFQaDdnZWowUGJ6bUQ5YlA1dHc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYU5rQjZkYjhjSlFjRUNDZnNKVkRKUG95TklvS1RzMkc5dUc5LWppTHNXMFVZWDBoYjNULTJfYkFCbThKWUFyWTU2LVNvZWY2U2YzM2tjVXIwQ3BnMjU4UEV1Tmhlc3R2U2tKVXJGNllFb3ozd0F6b0hKVmt3WkE0ZDFYS1ROSDZHVjBCQ19sYVJzel9DNjZOZ3kzX0dzMTFlek1xdnZITm9pLUR4b3hoVXpuai1GN3UyRUV5Yl9ybnJoeUc3RVZ6S0hFZllFdTJkdUowdS1SUnNxd2w3Mi1rV1ZKRdIB8AFBVV95cUxOcldMbnY2QXl4OVA1NlpWbEt0ajQ3V19sUGh3WW1JRUtFd053eFFhdW9BMDZXMWM4YnRzY2lBb3hKd0V0UVB1ZGFtakc1Y2Q4Yi1Cb3JMT2RheWt0TkI3WHNvVHBUUlFBNl9rS0pGamZHampQRk1nZko2dkYxeGdCWW9jS2IwUkd6QVFDQlRrNzN4SGNBWUZsRXpyVUVjMTA3alJZYWJVa1JBZmNKYzhRQnZoMGRqZWhfVEtuZFcyWENpclFqRk9pQndobGJodlQzOUhRQmlUbmUyaTlySzFQaDdnZWowUGJ6bUQ5YlA1dHc?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 17:00:54 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Donald Trump wants to create a dedicated artificial intelligence force in the United States - Meta-Defense</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE8xQUpPNEhQVDczb2syeHJKTWZiS2pTNnVUcHZPSmx1T2t4RlVmT1o5Zk9XS1J5bGZRME8zclQ0QzE0RGFtV3BVTWthOXMyclJaVFhKUVo0LW43b3FuSlh4RkI4SVhCWWhnQVdRMU84TFZ1ZWRwLVE?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE8xQUpPNEhQVDczb2syeHJKTWZiS2pTNnVUcHZPSmx1T2t4RlVmT1o5Zk9XS1J5bGZRME8zclQ0QzE0RGFtV3BVTWthOXMyclJaVFhKUVo0LW43b3FuSlh4RkI4SVhCWWhnQVdRMU84TFZ1ZWRwLVE?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 15:35:51 GMT</pubDate>
+
+</item>
 <item>
 <title>[Google News] Artificial Intelligence Issue Favors Democrats - Rasmussen Reports</title>
 <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMFQyVmxVQ1c4eW50dTdsM2N4TDRjRV8ta2phbTladXlCV1ozbl95cjFla1otaFRxZDVYNTFMSFVzN1dGaEsxNFBWTkhkaEh5Qk10QXllaHRuZ1QyYldPWGlyek5pTE9zZ0IwdHRwN1JjVmQ5LUY1X29KdTRNdUotUFk4NnpJdmhLVEkxNUliQlVabmFyZVgzd0swQk51VmtwUWwzVnRuVV9yYi10QkdtYUotdkpHeUo3clVhMmhsbmhLQTVVLURPT2xyZ3lpTWp5aEE?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMFQyVmxVQ1c4eW50dTdsM2N4TDRjRV8ta2phbTladXlCV1ozbl95cjFla1otaFRxZDVYNTFMSFVzN1dGaEsxNFBWTkhkaEh5Qk10QXllaHRuZ1QyYldPWGlyek5pTE9zZ0IwdHRwN1JjVmQ5LUY1X29KdTRNdUotUFk4NnpJdmhLVEkxNUliQlVabmFyZVgzd0swQk51VmtwUWwzVnRuVV9yYi10QkdtYUotdkpHeUo3clVhMmhsbmhLQTVVLURPT2xyZ3lpTWp5aEE?oc=5</guid>
-<pubDate>Tue, 22 Sep 2026 14:41:59 GMT</pubDate>
+<pubDate>Tue, 22 Sep 2026 14:46:47 GMT</pubDate>
 
 </item>
 <item>
@@ -42,6 +147,20 @@
 
 </item>
 <item>
+<title>[Google News] What Is an AI Regulation Keynote Speaker? - futuristsspeakers.com</title>
+<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPR2Fyb19jQWVvakQ5ZkVJY3J0cG43NlE1VFNzN3Vfa0JLaXFHamNQd1BhaFNEM05qbjFuRE1tcG5GT1VLVTVyMWt5OTYzRTRYb1FzRGtrVjdhVW43bUxhOE5qYldtZHN5czJxZXhaWVJ2UDFSU3NyN3ZPQXhEQlBjc3ZIZ3J3WWM?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPR2Fyb19jQWVvakQ5ZkVJY3J0cG43NlE1VFNzN3Vfa0JLaXFHamNQd1BhaFNEM05qbjFuRE1tcG5GT1VLVTVyMWt5OTYzRTRYb1FzRGtrVjdhVW43bUxhOE5qYldtZHN5czJxZXhaWVJ2UDFSU3NyN3ZPQXhEQlBjc3ZIZ3J3WWM?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 13:18:57 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Governor Moore Outlines AI Framework to Protect Marylanders - The Office of Governor Wes Moore (.gov)</title>
+<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZXlXcVc2eVQxV1QzSk5Ec2FER1U5WldrN0UtOHlNTUp2eHFmZ1RocjdzejhUOTNMQXBZai1yUmZKdUVxeE1PaHdSSmJzRzZqUUZpXzAzak9MeXB3MUxETzhaOTBMM2l3d1hWSjJGLWZDYWhxanhfU2JqTzVqWHk0Z3lqNUcxeDRvbUdjRzAtZU82eU5ZUmlTckR5aE9CbzNLeUlYLXd4dkliUQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZXlXcVc2eVQxV1QzSk5Ec2FER1U5WldrN0UtOHlNTUp2eHFmZ1RocjdzejhUOTNMQXBZai1yUmZKdUVxeE1PaHdSSmJzRzZqUUZpXzAzak9MeXB3MUxETzhaOTBMM2l3d1hWSjJGLWZDYWhxanhfU2JqTzVqWHk0Z3lqNUcxeDRvbUdjRzAtZU82eU5ZUmlTckR5aE9CbzNLeUlYLXd4dkliUQ?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 13:11:32 GMT</pubDate>
+
+</item>
+<item>
 <title>[Google News] DeepSeek, Moonshot Reportedly Face China Scrutiny Over Anthropic Claims Ahead Of Trump-Xi AI Talks - Yahoo Finance</title>
 <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0tCVVQ1cFE1WTBjTlBBUzIzOG02Z1RkdXRBcWZNMzdNRnphQ1pMZDdFcFlTQzk0SXNNdnN5OEYtTUVzUEYyNkVkWTdUckJZZ2x0RGFDWkZMdnQxMGo5S25NUl94enhjZDlWNEczcDRHTGs3ZlFuY1dlSi1pNUFkUUlHNzlvc3dwdlNDei1PU1lfQzBrZXA1TU9ITkhXd3NDa3NTVWl3?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0tCVVQ1cFE1WTBjTlBBUzIzOG02Z1RkdXRBcWZNMzdNRnphQ1pMZDdFcFlTQzk0SXNNdnN5OEYtTUVzUEYyNkVkWTdUckJZZ2x0RGFDWkZMdnQxMGo5S25NUl94enhjZDlWNEczcDRHTGs3ZlFuY1dlSi1pNUFkUUlHNzlvc3dwdlNDei1PU1lfQzBrZXA1TU9ITkhXd3NDa3NTVWl3?oc=5</guid>
@@ -56,7 +175,7 @@
 <description>NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and granular controls that help game developers add lifelike lighting and material detail while...</description>
 </item>
 <item>
-<title>[Google News] DeepSeek Will Join UN Security Council Briefing on Artificial Intelligence Risks - mezha.net</title>
+<title>[Google News] DeepSeek Will Join UN Security Council Briefing on Artificial Intelligence Risks - Межа. Новини України.</title>
 <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjck16VV9JZ0hJMmlGWWhmRnZSZ0xSb0pRX3JyY2F6c2tFa25acFl5VlBXd0RQVmFPTW8xNlJGdWxhRXN0aG1IZlpySFN2OERObWdaRFdRVXBSMmR6NWwyam5GSERGdw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjck16VV9JZ0hJMmlGWWhmRnZSZ0xSb0pRX3JyY2F6c2tFa25acFl5VlBXd0RQVmFPTW8xNlJGdWxhRXN0aG1IZlpySFN2OERObWdaRFdRVXBSMmR6NWwyam5GSERGdw?oc=5</guid>
 <pubDate>Tue, 22 Sep 2026 12:38:46 GMT</pubDate>
@@ -70,17 +189,10 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek, Moonshot being probed by China over potential data leaks: report - Seeking Alpha</title>
-<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOWm1FSWhRTGE3QTVteHRCV1hISXlLMDFMQ19iTndueHdWQlh1T3o1dTJZTE9fNTBtbFNKOTJtbGZ0ek5YTDJCcWJxRTlMV29KcF8wbUJWdW5KV3FGYldibTBRRTZLd2JwOGJVR1JqR21IUFVvWUZWRUtfVGRXYUEyUG92SEFTc1FDT3cxYXh5alV6aU1xZ3ZBNmo2Nkk4SnBYWDI1amZMUHFUU0tzRFdn?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxOWm1FSWhRTGE3QTVteHRCV1hISXlLMDFMQ19iTndueHdWQlh1T3o1dTJZTE9fNTBtbFNKOTJtbGZ0ek5YTDJCcWJxRTlMV29KcF8wbUJWdW5KV3FGYldibTBRRTZLd2JwOGJVR1JqR21IUFVvWUZWRUtfVGRXYUEyUG92SEFTc1FDT3cxYXh5alV6aU1xZ3ZBNmo2Nkk4SnBYWDI1amZMUHFUU0tzRFdn?oc=5</guid>
+<title>[Google News] DeepSeek, Moonshot being probed by China over potential data leaks: report - tradingview.com</title>
+<link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY1FHV19xMElRSU9LX2NKbTYyZy1TWTRoNWNaZEZTOG5HalJFRDB4MGZMTG5iWXYtODJHZ0NZNmxwVXlxQXNUblZqVm1tT0YtdHp1Z09jYzBPOU13NHZsNWNEUEtHajZ4NmhDTExSanlxQjVtYjZXeGNqMGtvTm9pbWpRV3l4VXYyWGx3dWlSNmZ6SUFhSWx1M3VtQW5LbHhLX3l0aE9td282NXYwcHFEQzZXdHB5d2c1TkV3MDFvQVZxTHk3Z0J4aEk5Nk5oOGI0?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY1FHV19xMElRSU9LX2NKbTYyZy1TWTRoNWNaZEZTOG5HalJFRDB4MGZMTG5iWXYtODJHZ0NZNmxwVXlxQXNUblZqVm1tT0YtdHp1Z09jYzBPOU13NHZsNWNEUEtHajZ4NmhDTExSanlxQjVtYjZXeGNqMGtvTm9pbWpRV3l4VXYyWGx3dWlSNmZ6SUFhSWx1M3VtQW5LbHhLX3l0aE9td282NXYwcHFEQzZXdHB5d2c1TkV3MDFvQVZxTHk3Z0J4aEk5Nk5oOGI0?oc=5</guid>
 <pubDate>Tue, 22 Sep 2026 12:37:56 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Where Did Zhu Xiaohu Go Wrong: Uncovering the Key Missteps and Critical Errors - eu.36kr.com</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE52enh1Q0RDRTlRMHRNcDFidHBwckJCVE45ZFFJVXZHd2haOVRCXzEtdWlIcW5VOXZoQ0hTanBGQklIV2RjQ1FoX0JMck9WMkNKdnpv?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE52enh1Q0RDRTlRMHRNcDFidHBwckJCVE45ZFFJVXZHd2haOVRCXzEtdWlIcW5VOXZoQ0hTanBGQklIV2RjQ1FoX0JMck9WMkNKdnpv?oc=5</guid>
-<pubDate>Tue, 22 Sep 2026 12:01:54 GMT</pubDate>
 
 </item>
 <item>
@@ -98,10 +210,10 @@
 <description>GPU acceleration can speed up compute-intensive robotics workloads, but a fast CUDA kernel alone does not guarantee a fast ROS 2 graph. As messages move between...</description>
 </item>
 <item>
-<title>[Google News] AI Developers Required To Register With NYS, Follow Strict Guidelines - WRFA-LP 107.9 FM</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU5HU1JaVERDWWJDVnVpdEhZUHROR0xSWkR0czBUcktpMWxkanRfQTk4aG81dXhyejFaaUxYYklLa3c4QU01NlowQnNocEZhdU56Y2tSbVNtUHEwLXFWUVRQVXdNZ05EQnozMmVob2VaSXhRVkZjQUZIRHlNSkdpbHR0bnVRb0JuTks5TTk3Y01WMHd0QXJZ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU5HU1JaVERDWWJDVnVpdEhZUHROR0xSWkR0czBUcktpMWxkanRfQTk4aG81dXhyejFaaUxYYklLa3c4QU01NlowQnNocEZhdU56Y2tSbVNtUHEwLXFWUVRQVXdNZ05EQnozMmVob2VaSXhRVkZjQUZIRHlNSkdpbHR0bnVRb0JuTks5TTk3Y01WMHd0QXJZ?oc=5</guid>
-<pubDate>Tue, 22 Sep 2026 11:55:29 GMT</pubDate>
+<title>[Google News] China regulator probes DeepSeek and Moonshot AI over data routing - Information - Investing.com</title>
+<link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX09IVjI3X3JPZVEtZ3A0VFFteW9RbXRqVUc0VFdRdlZxcmFDbXJ1ZjVpaXhmdFkxUkVYSWk0bGZiR1p0bFVaQmM2SWZWaE9MbzJjT3JyUGNuaGpNTjVtNlFZZ3RpVUdLU2xyQ3N4UU1aMlk3eHNTWk1pWkV4a0s5ZXlPcXM1eXJIejJTd3dDeW1SNUhlVkJvb080YlJiWUR2UlNLUTR3cWJ6TDU0dFIweWl5SXFrelhJZGVIYjdUVXFiSVVtM256YTUxdVFKc1pyS3ZZLWFGYw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX09IVjI3X3JPZVEtZ3A0VFFteW9RbXRqVUc0VFdRdlZxcmFDbXJ1ZjVpaXhmdFkxUkVYSWk0bGZiR1p0bFVaQmM2SWZWaE9MbzJjT3JyUGNuaGpNTjVtNlFZZ3RpVUdLU2xyQ3N4UU1aMlk3eHNTWk1pWkV4a0s5ZXlPcXM1eXJIejJTd3dDeW1SNUhlVkJvb080YlJiWUR2UlNLUTR3cWJ6TDU0dFIweWl5SXFrelhJZGVIYjdUVXFiSVVtM256YTUxdVFKc1pyS3ZZLWFGYw?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 11:58:34 GMT</pubDate>
 
 </item>
 <item>
@@ -112,10 +224,10 @@
 
 </item>
 <item>
-<title>[Google News] China regulator probes DeepSeek and Moonshot AI over data routing - Information - Investing.com</title>
-<link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX09IVjI3X3JPZVEtZ3A0VFFteW9RbXRqVUc0VFdRdlZxcmFDbXJ1ZjVpaXhmdFkxUkVYSWk0bGZiR1p0bFVaQmM2SWZWaE9MbzJjT3JyUGNuaGpNTjVtNlFZZ3RpVUdLU2xyQ3N4UU1aMlk3eHNTWk1pWkV4a0s5ZXlPcXM1eXJIejJTd3dDeW1SNUhlVkJvb080YlJiWUR2UlNLUTR3cWJ6TDU0dFIweWl5SXFrelhJZGVIYjdUVXFiSVVtM256YTUxdVFKc1pyS3ZZLWFGYw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX09IVjI3X3JPZVEtZ3A0VFFteW9RbXRqVUc0VFdRdlZxcmFDbXJ1ZjVpaXhmdFkxUkVYSWk0bGZiR1p0bFVaQmM2SWZWaE9MbzJjT3JyUGNuaGpNTjVtNlFZZ3RpVUdLU2xyQ3N4UU1aMlk3eHNTWk1pWkV4a0s5ZXlPcXM1eXJIejJTd3dDeW1SNUhlVkJvb080YlJiWUR2UlNLUTR3cWJ6TDU0dFIweWl5SXFrelhJZGVIYjdUVXFiSVVtM256YTUxdVFKc1pyS3ZZLWFGYw?oc=5</guid>
-<pubDate>Tue, 22 Sep 2026 11:49:36 GMT</pubDate>
+<title>[Google News] China Probes DeepSeek, Moonshot Over Data Security, Report Says - Bloomberg.com</title>
+<link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWThhYXJzdkc0V0V3S2NkS2w0akJjUjJfdzVlSlYzSlppTUI1RlZUVW0zWmZVcGZXT1hMaEY0NDBqdTZqUk9QeUtpNXFiZ3VjSkYycUlDX2p3WUYtRm9FRjNKQXZfbjFsbVhYcWhWSXlZMDdJMGZpcFRnYTZMM2kzZjFHYnB2cjJVbDRERG5ZWXFnbkJaX0hSQmFnQU1WN0ltZDc5MjFMSHpfenJfT1BkNTZFazQtNHJVWWRnNmhXV0dlWHRXT29uR2VldXZxeDllNk51aHE2TWhnQ2VCdGlR?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWThhYXJzdkc0V0V3S2NkS2w0akJjUjJfdzVlSlYzSlppTUI1RlZUVW0zWmZVcGZXT1hMaEY0NDBqdTZqUk9QeUtpNXFiZ3VjSkYycUlDX2p3WUYtRm9FRjNKQXZfbjFsbVhYcWhWSXlZMDdJMGZpcFRnYTZMM2kzZjFHYnB2cjJVbDRERG5ZWXFnbkJaX0hSQmFnQU1WN0ltZDc5MjFMSHpfenJfT1BkNTZFazQtNHJVWWRnNmhXV0dlWHRXT29uR2VldXZxeDllNk51aHE2TWhnQ2VCdGlR?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 11:44:10 GMT</pubDate>
 
 </item>
 <item>
@@ -126,7 +238,7 @@
 
 </item>
 <item>
-<title>[Google News] China’s internet regulator is investigating DeepSeek and Moonshot AI after Anthropic alleged both companies had been routing sensitive user data to Claude models, The Information reports - Newsquawk</title>
+<title>[Google News] China’s internet regulator is investigating DeepSeek and Moonshot AI after Anthropic alleged both companies had been routing sensitive user data to Claude models, The Information reports - newsquawk.com</title>
 <link>https://news.google.com/rss/articles/CBMiwgJBVV95cUxOV2Q4UVJ4T1JSQjJlMllWVnhuYy1HTldHVmRTb0NxbDI0TFZ6alp0cGdUWGlLS2NVRmxnV0tlVlQ1TDBueDFUeFptMHBuWG9QVmE1MTFGa01LZFgyNWd4dnktVVAtTXh1RWU2V1hTejRwc3EyODFHYTFHU2RhUXhZUGZkSXlFVTRucWhnd0RQdzFsWTNnMDEwOENGY1hSTDk0QVZRMzhGMTVMelNTemdBRjRoQnYyUHNNTjg1cV9yTHpQUTlLTDllN2JnRWVMOE5iZ3FpSkdVNnJxWEdwU3lYV2hjQ0VxcWd5VnhLb010ZEdrV2t5MlkwTnhfNHZ3RDRGMnpVZDRoR3dELTVYVnRDRGQtaTNZX2dreDFfRHBmSWcwQlJfNm15VkZSSTJZZzVCaTYzTVd1MTdDRHFDWk5hWHdB?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgJBVV95cUxOV2Q4UVJ4T1JSQjJlMllWVnhuYy1HTldHVmRTb0NxbDI0TFZ6alp0cGdUWGlLS2NVRmxnV0tlVlQ1TDBueDFUeFptMHBuWG9QVmE1MTFGa01LZFgyNWd4dnktVVAtTXh1RWU2V1hTejRwc3EyODFHYTFHU2RhUXhZUGZkSXlFVTRucWhnd0RQdzFsWTNnMDEwOENGY1hSTDk0QVZRMzhGMTVMelNTemdBRjRoQnYyUHNNTjg1cV9yTHpQUTlLTDllN2JnRWVMOE5iZ3FpSkdVNnJxWEdwU3lYV2hjQ0VxcWd5VnhLb010ZEdrV2t5MlkwTnhfNHZ3RDRGMnpVZDRoR3dELTVYVnRDRGQtaTNZX2dreDFfRHBmSWcwQlJfNm15VkZSSTJZZzVCaTYzTVd1MTdDRHFDWk5hWHdB?oc=5</guid>
 <pubDate>Tue, 22 Sep 2026 11:39:20 GMT</pubDate>
@@ -154,20 +266,6 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek &amp; OpenAI to Brief UN Security Council on AI Risks - businesstimes-bd.com</title>
-<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VWlNhRnRGNEJEU2UyLW9FMzd1c1FQN1J5NjdyU0lpOUx4SnJ5cUdKZ3o1ZV9BdlcyZUNPaW1HMEEybVdrVnpIb092LVNjdnpneDRzdWoxTWNDQ1NnN2c?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VWlNhRnRGNEJEU2UyLW9FMzd1c1FQN1J5NjdyU0lpOUx4SnJ5cUdKZ3o1ZV9BdlcyZUNPaW1HMEEybVdrVnpIb092LVNjdnpneDRzdWoxTWNDQ1NnN2c?oc=5</guid>
-<pubDate>Tue, 22 Sep 2026 11:25:47 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] China Probes DeepSeek, Moonshot Over Potential Data Leaks to Anthropic - The Information</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEdBM0xIWXMwNkNGbHlhekt4cFlSdEczU09GTGt4RE1YZnNDUU1GLTlsLWhJNHlWOUdJU041aFN4eFEyTW9RX2VBRW9xNnRiYUpReUFzdm1veEgwa1hFR1FvTmRIeFpnS2VIbFJpOGRFLTJ5eFFfc2hSNzY2bmZweXlCUktCT1gwOG1IenJoTWp2WTJlZ0lYZzYzYlJuMWFhNjk0?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEdBM0xIWXMwNkNGbHlhekt4cFlSdEczU09GTGt4RE1YZnNDUU1GLTlsLWhJNHlWOUdJU041aFN4eFEyTW9RX2VBRW9xNnRiYUpReUFzdm1veEgwa1hFR1FvTmRIeFpnS2VIbFJpOGRFLTJ5eFFfc2hSNzY2bmZweXlCUktCT1gwOG1IenJoTWp2WTJlZ0lYZzYzYlJuMWFhNjk0?oc=5</guid>
-<pubDate>Tue, 22 Sep 2026 11:18:00 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] China's DeepSeek To Brief UN Security Council This Week Amid Talks On AI Guardrails - NDTV Profit</title>
 <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRkFZLThJTzVoOHllNkxCLW9oWGhvS05oVWdBeldyMEh4V2Ffa2xSMjEtaTB1NkFmS2tVcjBGUkN5SGhzNUtQTzN4YVRITkpfV0RwajhqTVFJN25mUU43bC1mc19vZnJKMmNtaUx6WXJsQU1UdTlMWXJpV0ViWUJ6bEkwZXE1bFMxU1ZWSjlxM2ZoV1NJRzZwOUlLTGI2c0xFRDMtZm9qemNUeXRMMi1XM21hTTNMcHRvMXVSZzdYZFQ5ZHZPRVZfetIB0AFBVV95cUxQNkhlZklITjRGVnlyTzlvQ1RRYS00T1hqMTlrcWlRNHZlR0diTXQzbS1jSXByeXdvcS0wcWFOblFKM3pDUFNPTXdERTROUkdSMFFQMEhab3FPZERDTHZlOV9hUmFyMjRxRF85MElWa3dTNnZJWWVXelBkaXZlcEZVek5qWmpkLXpjMmItMWkteE5objNSVXBSU3hTVXpaenJXUk9uRFdIaEZXVnJlNHF2NWRBeHZUVGlvNEF6TVFBY3d3cXBhVG05X1FVU3ZkZVAz?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRkFZLThJTzVoOHllNkxCLW9oWGhvS05oVWdBeldyMEh4V2Ffa2xSMjEtaTB1NkFmS2tVcjBGUkN5SGhzNUtQTzN4YVRITkpfV0RwajhqTVFJN25mUU43bC1mc19vZnJKMmNtaUx6WXJsQU1UdTlMWXJpV0ViWUJ6bEkwZXE1bFMxU1ZWSjlxM2ZoV1NJRzZwOUlLTGI2c0xFRDMtZm9qemNUeXRMMi1XM21hTTNMcHRvMXVSZzdYZFQ5ZHZPRVZfetIB0AFBVV95cUxQNkhlZklITjRGVnlyTzlvQ1RRYS00T1hqMTlrcWlRNHZlR0diTXQzbS1jSXByeXdvcS0wcWFOblFKM3pDUFNPTXdERTROUkdSMFFQMEhab3FPZERDTHZlOV9hUmFyMjRxRF85MElWa3dTNnZJWWVXelBkaXZlcEZVek5qWmpkLXpjMmItMWkteE5objNSVXBSU3hTVXpaenJXUk9uRFdIaEZXVnJlNHF2NWRBeHZUVGlvNEF6TVFBY3d3cXBhVG05X1FVU3ZkZVAz?oc=5</guid>
@@ -182,9 +280,16 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek to brief UN Security Council on AI risks- report - TradingView</title>
-<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHZzVnBXbW9FSTA3U0lmazlmdUZBaXg3aWU2UnIxZmZuSldkS1lZZWhQdHlIQVB4elVOVkRWOHE4S1VOanlxSWcyMTRjTzUxTk9JQnZlMWNOUEd1MGFmb3RIbVZqVnNRSENnYWhGbWpNai1XcVBJckJab3hkTjE3Y1hlblpJU09wQVB2MXBoZ3RLTk9YNjhxWlRmQ3RnbGxyRWdpSWg4S1BTVzNBVmNGcFRNa1pyYlhMZ3o0?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHZzVnBXbW9FSTA3U0lmazlmdUZBaXg3aWU2UnIxZmZuSldkS1lZZWhQdHlIQVB4elVOVkRWOHE4S1VOanlxSWcyMTRjTzUxTk9JQnZlMWNOUEd1MGFmb3RIbVZqVnNRSENnYWhGbWpNai1XcVBJckJab3hkTjE3Y1hlblpJU09wQVB2MXBoZ3RLTk9YNjhxWlRmQ3RnbGxyRWdpSWg4S1BTVzNBVmNGcFRNa1pyYlhMZ3o0?oc=5</guid>
+<title>[Google News] DeepSeek to Address UN Security Council on AI Risks This Week - marketscreener.com</title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkVSd1BuSnZUNjNVeE4wdHRMUkp5dHAtYjRQRlBqOS1RS0Z6VUJfdlhrcnd0cUNsQkl6bi1HSW1XLUxJbGVRaXMxWVp6dUxldlBMejloYTZmR3NaWDdHSnNGNFlKV2piVHZYTHZOQXQzZjZzaWV1My1JQnlZSl9scTR5ZE9VWXVCMEFPVFV6THc1WXZRcUlxUlY4NXk2WTQxdl9xSU44TjJnR1JsUllsaWZzNzM?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkVSd1BuSnZUNjNVeE4wdHRMUkp5dHAtYjRQRlBqOS1RS0Z6VUJfdlhrcnd0cUNsQkl6bi1HSW1XLUxJbGVRaXMxWVp6dUxldlBMejloYTZmR3NaWDdHSnNGNFlKV2piVHZYTHZOQXQzZjZzaWV1My1JQnlZSl9scTR5ZE9VWXVCMEFPVFV6THc1WXZRcUlxUlY4NXk2WTQxdl9xSU44TjJnR1JsUllsaWZzNzM?oc=5</guid>
+<pubDate>Tue, 22 Sep 2026 11:07:02 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek to brief UN Security Council on AI risks: report (OPENAI:Private) - Seeking Alpha</title>
+<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQMXRwSG8ycjJKU20zSGFVMllRWGhESXgyVEh3T1dkZ3lYS0MxMjdWUHota2Z1bDF1WVpMbDI1U3kzM0dYS042NENGNkI2ZjJTNVlrdy04OGxrTFBzaDdlbVhPOVF3YjZaR2VzRFZDZXhPZml5WjdZeUd3RDRqMXEyVDJmOHBUNEU1aU5sNEIyZFJHcHdRcHRXWXlB?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxQMXRwSG8ycjJKU20zSGFVMllRWGhESXgyVEh3T1dkZ3lYS0MxMjdWUHota2Z1bDF1WVpMbDI1U3kzM0dYS042NENGNkI2ZjJTNVlrdy04OGxrTFBzaDdlbVhPOVF3YjZaR2VzRFZDZXhPZml5WjdZeUd3RDRqMXEyVDJmOHBUNEU1aU5sNEIyZFJHcHdRcHRXWXlB?oc=5</guid>
 <pubDate>Tue, 22 Sep 2026 11:05:46 GMT</pubDate>
 
 </item>
@@ -224,14 +329,14 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek to use more domestic chips like Huawei for AI training - The Standard (HK)</title>
+<title>[Google News] DeepSeek to use more domestic chips like Huawei for AI training - thestandard.com.hk</title>
 <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNbC1JMjBURE9JOEVod2x5Mlozd3Fnd05BeUpaMnFkdnlfUExKdmNfOFp1V2V2YzNqN21pNTR5aDdUNlRCUnhjQi1POUpES1ZndTRZNjBMMGNQRHJDRENUN0lETWU2dVRDUXc3eTd3bWpWWkx2ZXA5OU11RXowcXhBcEFWS1FkdWViTmJpQTFMVE5QMk90UXJyUVJVaGcwVWlrc05McXpoSUFTZEJHaWhoNWNyM1lVdjczdjl5WA?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxNbC1JMjBURE9JOEVod2x5Mlozd3Fnd05BeUpaMnFkdnlfUExKdmNfOFp1V2V2YzNqN21pNTR5aDdUNlRCUnhjQi1POUpES1ZndTRZNjBMMGNQRHJDRENUN0lETWU2dVRDUXc3eTd3bWpWWkx2ZXA5OU11RXowcXhBcEFWS1FkdWViTmJpQTFMVE5QMk90UXJyUVJVaGcwVWlrc05McXpoSUFTZEJHaWhoNWNyM1lVdjczdjl5WA?oc=5</guid>
 <pubDate>Tue, 22 Sep 2026 09:16:58 GMT</pubDate>
 
 </item>
 <item>
-<title>[Google News] DeepSeek to brief UN Security Council on AI this week, sources say - TradingView</title>
+<title>[Google News] DeepSeek to brief UN Security Council on AI this week, sources say - tradingview.com</title>
 <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcURhaFJvaEYzaFNBLVJYUEgyRUM5Z29ncUVtSVo5T09qRXFybDA1WmczWmNGTnAtY2d4MUNWSUdYT3EyMC1IX2kwRTBnTGlxdjRTZXNmQ29NRkNXWlljZWZJSkxSb0FkR0VEXzBtTEtFYVBYamdWV05qdEIyQlUzLUNrNm9BWmxubHhvU3Y0aTFWTmpCcWxINGZpNnhpTzJfN1VLM3kxX0ZfX3M0MGNxVk1FSjFtUnFvdUNQWXpxc1A5NGVaLXY2QXh3Uzk2VVlB?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcURhaFJvaEYzaFNBLVJYUEgyRUM5Z29ncUVtSVo5T09qRXFybDA1WmczWmNGTnAtY2d4MUNWSUdYT3EyMC1IX2kwRTBnTGlxdjRTZXNmQ29NRkNXWlljZWZJSkxSb0FkR0VEXzBtTEtFYVBYamdWV05qdEIyQlUzLUNrNm9BWmxubHhvU3Y0aTFWTmpCcWxINGZpNnhpTzJfN1VLM3kxX0ZfX3M0MGNxVk1FSjFtUnFvdUNQWXpxc1A5NGVaLXY2QXh3Uzk2VVlB?oc=5</guid>
 <pubDate>Tue, 22 Sep 2026 09:15:51 GMT</pubDate>
@@ -266,13 +371,6 @@
 
 </item>
 <item>
-<title>[Google News] Local start-ups are loving Chinese AI (just don’t ask them about it) - AFR</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQbEFpUTF3S2tnRVJ4QTJPby1vZDE0aGNqZzZXanpFMVEwbm9JSXBQQldlUTBLUUgzVDJyQUhoX3dCMHRXY2JnUXJxUjdGc05weTVyeVhyUGxzdzFBUldKQk1YQ0xESlBVbncySVdkRjA2RmZGcmxZcG1BTEFTV1pPUjNRdnQxSVJOS2hxMXhIR1RXME13c05iME5XUGRkc0ZsM01rTEc2TGNobU5xLXo5Q2JPbw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxQbEFpUTF3S2tnRVJ4QTJPby1vZDE0aGNqZzZXanpFMVEwbm9JSXBQQldlUTBLUUgzVDJyQUhoX3dCMHRXY2JnUXJxUjdGc05weTVyeVhyUGxzdzFBUldKQk1YQ0xESlBVbncySVdkRjA2RmZGcmxZcG1BTEFTV1pPUjNRdnQxSVJOS2hxMXhIR1RXME13c05iME5XUGRkc0ZsM01rTEc2TGNobU5xLXo5Q2JPbw?oc=5</guid>
-<pubDate>Tue, 22 Sep 2026 08:01:00 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] President Trump Plans Formation of “AI Force“ - The Presidential Prayer Team</title>
 <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPdTA1UUtqalo5YmVyMWNwZHA3QWtvSkRnX1EwcGJMT2FVdW5fcEFQYlp2VmIzWTlLME11NXFlcndPdzZMOU1VQzFPMW1qVENvMC11TFQyY3JyYjhpc3N4QXBMMXZJRWRqVk9PVG5lckZLODNRdU9KNFc2WS1TeWczUC11dXRsQkRmeUs5UW9IalpxNHZVR0RYVTR3?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxPdTA1UUtqalo5YmVyMWNwZHA3QWtvSkRnX1EwcGJMT2FVdW5fcEFQYlp2VmIzWTlLME11NXFlcndPdzZMOU1VQzFPMW1qVENvMC11TFQyY3JyYjhpc3N4QXBMMXZJRWRqVk9PVG5lckZLODNRdU9KNFc2WS1TeWczUC11dXRsQkRmeUs5UW9IalpxNHZVR0RYVTR3?oc=5</guid>
@@ -280,17 +378,10 @@
 
 </item>
 <item>
-<title>[Google News] The role of the Data Protection Officer (DPO) in the age of artificial intelligence: survey results released - cnil.fr</title>
+<title>[Google News] The role of the Data Protection Officer (DPO) in the age of artificial intelligence: survey results released - CNIL</title>
 <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hUnpqOVdHd1JObWliN282cHBGU2otM1VlQ2ZlNUxfS3dVV0ZqVFhzZ3NFVENWSkhSQXVuZzBFSENQSkRCYzZDQldrY21tSDFYZlV4dnpkTQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hUnpqOVdHd1JObWliN282cHBGU2otM1VlQ2ZlNUxfS3dVV0ZqVFhzZ3NFVENWSkhSQXVuZzBFSENQSkRCYzZDQldrY21tSDFYZlV4dnpkTQ?oc=5</guid>
 <pubDate>Tue, 22 Sep 2026 07:52:31 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek bets on Huawei chips for model training as Nvidia's China sales slip - digitimes</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQYjNVRDZabjkyblQ3U1lwOHcxUGdsVnp3ZVN1RFdkQTBvd01EbWRfSDNmRjl2SVk3QUJRNUZSa3ZITndiMnVwa0xJRkdLSllNbnRLVEVkTXhBVHhmWVNGOGwxa1FuZUJJRHRCdWRna25POV9TQ0JXVmU3SDkzRE1FTzFialRyckZPd1l1MExEZWpPUQ?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikgFBVV95cUxQYjNVRDZabjkyblQ3U1lwOHcxUGdsVnp3ZVN1RFdkQTBvd01EbWRfSDNmRjl2SVk3QUJRNUZSa3ZITndiMnVwa0xJRkdLSllNbnRLVEVkTXhBVHhmWVNGOGwxa1FuZUJJRHRCdWRna25POV9TQ0JXVmU3SDkzRE1FTzFialRyckZPd1l1MExEZWpPUQ?oc=5</guid>
-<pubDate>Tue, 22 Sep 2026 06:28:05 GMT</pubDate>
 
 </item>
 <item>
@@ -329,102 +420,11 @@
 
 </item>
 <item>
-<title>[Google News] Lawmakers clash over artificial intelligence regulation - WVNS</title>
-<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNd1RKNFp0TXg5akcwdGJZQ3V3aE91T0x6Y0tBb0tOd1RMX0dsSXE3allyeERkejF3bTQ1b3Z3cDZiNVRZckRXakNIRHZhOGJDMDVIRmhERWFkWUdUVGRHNF9hVkV1R01KZDNFR3hrZ0ROekl5TEhmREJxOGROams1U1VIaFVrNUF0WjBCZGw4cXlYUHZGUHA1VVFlLUx4Z2PSAaQBQVVfeXFMT1djOTdJN1VZS1d4ZXVRbl9nRjhra1FDeUhJQ3l6UzFvNzN0SnBjS2cxeXBUN2x0dGw3MkxwNXNnaWdaMTFoTk9mTlVtSm9nU2pkQXpDRHg2T0laZDZhRi03VkdITzNiY0lUcHdQRTNxcEd0cUN0RVFiT0FpOGo5X0x5M0VKajlON0YteDdIbU5iRkR5TFBGRk5aNUU0bzY4TWthc0Q?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxNd1RKNFp0TXg5akcwdGJZQ3V3aE91T0x6Y0tBb0tOd1RMX0dsSXE3allyeERkejF3bTQ1b3Z3cDZiNVRZckRXakNIRHZhOGJDMDVIRmhERWFkWUdUVGRHNF9hVkV1R01KZDNFR3hrZ0ROekl5TEhmREJxOGROams1U1VIaFVrNUF0WjBCZGw4cXlYUHZGUHA1VVFlLUx4Z2PSAaQBQVVfeXFMT1djOTdJN1VZS1d4ZXVRbl9nRjhra1FDeUhJQ3l6UzFvNzN0SnBjS2cxeXBUN2x0dGw3MkxwNXNnaWdaMTFoTk9mTlVtSm9nU2pkQXpDRHg2T0laZDZhRi03VkdITzNiY0lUcHdQRTNxcEd0cUN0RVFiT0FpOGo5X0x5M0VKajlON0YteDdIbU5iRkR5TFBGRk5aNUU0bzY4TWthc0Q?oc=5</guid>
-<pubDate>Tue, 22 Sep 2026 00:14:56 GMT</pubDate>
-
-</item>
-<item>
-<title>[Blog] Transformers now runs llama.cpp quants</title>
-<link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
-<guid isPermaLink="false">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
+<title>[News] Priorities and principles for effective third party assessments</title>
+<link>https://openai.com/index/priorities-principles-third-party-assessments</link>
+<guid isPermaLink="false">https://openai.com/index/priorities-principles-third-party-assessments</guid>
 <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Blog] Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
-<link>https://huggingface.co/blog/omlx</link>
-<guid isPermaLink="false">https://huggingface.co/blog/omlx</guid>
-<pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] B.C. sues OpenAI over deadly Tumbler Ridge mass shooting - CityNews Vancouver</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNX2JnTXl3akZYazZRNmFrN1pTb1NqNUJUMHc4a05hLTJiSnBYOUtFX1hGZnhHbGNzZ01ISkZKUVk1QmVjdVBXNFphMWdiS3JuYjVERFlFbHlHdWhjU2M4RkdHMnFCZFBBTG9LVklkNl9BZHZDWVNDMDd3Ul9GSG1kWTRVbWhvQ0Q0VjUxQ1FMVzM3X0k?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMikwFBVV95cUxNX2JnTXl3akZYazZRNmFrN1pTb1NqNUJUMHc4a05hLTJiSnBYOUtFX1hGZnhHbGNzZ01ISkZKUVk1QmVjdVBXNFphMWdiS3JuYjVERFlFbHlHdWhjU2M4RkdHMnFCZFBBTG9LVklkNl9BZHZDWVNDMDd3Ul9GSG1kWTRVbWhvQ0Q0VjUxQ1FMVzM3X0k?oc=5</guid>
-<pubDate>Mon, 21 Sep 2026 23:01:08 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Will MPD use generative artificial intelligence? - Milwaukee Neighborhood News Service</title>
-<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXhRcjVmRjdKV2xqX3JNaHUxY3pvVVRkVWt1czg5RUtXZ28wLWFLOVhDWjZVMlJQTHVDUXUwcGYwU240N3d2LVFsd2I3Q2ROY0R1RjBFMFRDYjZ3ZV9EUHRCQ3Z6YWZYYkNtbFFUeTAzN0NWYXRzZnpXbC1nZDIxLUFubHlCWXl2TUFJSw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXhRcjVmRjdKV2xqX3JNaHUxY3pvVVRkVWt1czg5RUtXZ28wLWFLOVhDWjZVMlJQTHVDUXUwcGYwU240N3d2LVFsd2I3Q2ROY0R1RjBFMFRDYjZ3ZV9EUHRCQ3Z6YWZYYkNtbFFUeTAzN0NWYXRzZnpXbC1nZDIxLUFubHlCWXl2TUFJSw?oc=5</guid>
-<pubDate>Mon, 21 Sep 2026 22:00:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Developer] Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton</title>
-<link>https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/</guid>
-<pubDate>Mon, 21 Sep 2026 21:51:06 GMT</pubDate>
-<description>The compute and memory demands of generative AI increasingly exceed what a single GPU can provide. NVIDIA TensorRT multi-device inference is a new capability...</description>
-</item>
-<item>
-<title>[Google News] Lawmakers clash over artificial intelligence regulation - WVNS</title>
-<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQNThKMVdXU2s5REl2OXR5VVRxaFdwc0dYNDNDY1VaY3VxdzRRSFJJdE5HUDhmTzVfTk1sYXZjNkx6bjdzZ3NGZGh4ZFc0Z0VkRTlOUzIxYlhBdno0NXZHLUdlVlhHdTFJbWN3LWEzdDdLcDY2OS1hWVVBVU5UWk42OTdvZ0RDSkZXelpLSnNKMzBiN3dqX0tqZW1B?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxQNThKMVdXU2s5REl2OXR5VVRxaFdwc0dYNDNDY1VaY3VxdzRRSFJJdE5HUDhmTzVfTk1sYXZjNkx6bjdzZ3NGZGh4ZFc0Z0VkRTlOUzIxYlhBdno0NXZHLUdlVlhHdTFJbWN3LWEzdDdLcDY2OS1hWVVBVU5UWk42OTdvZ0RDSkZXelpLSnNKMzBiN3dqX0tqZW1B?oc=5</guid>
-<pubDate>Mon, 21 Sep 2026 21:12:22 GMT</pubDate>
-
-</item>
-<item>
-<title>[Developer] How to Evaluate AI Agents From Tool Calls to Task Completion</title>
-<link>https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/</link>
-<guid isPermaLink="false">https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/</guid>
-<pubDate>Mon, 21 Sep 2026 21:05:28 GMT</pubDate>
-<description>When you ship an AI agent, the key question is whether it can execute a chain of work across dozens of sequential tool calls against a live environment, and...</description>
-</item>
-<item>
-<title>[YouTube] Figma Gave GPT-6 Astra a Moonshot. Here's what happened.</title>
-<link>https://www.youtube.com/watch?v=rRm3Vnb7UPY</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=rRm3Vnb7UPY</guid>
-<pubDate>Mon, 21 Sep 2026 19:25:46 GMT</pubDate>
-<description>John gave GPT-6 Astra a moonshot: design the flight-control experience for a new personal aircraft. The gap between generating an interface and designing a system is massive, and AI models have always fallen short. Until now. Astra reasoned through the audience, jobs to be done, pilot-versus-passeng</description>
-</item>
-<item>
-<title>[YouTube] One Prompt. A Feature Built and Tested. | Ramp × GPT-6 Astra</title>
-<link>https://www.youtube.com/watch?v=p7TjXroM4ak</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=p7TjXroM4ak</guid>
-<pubDate>Mon, 21 Sep 2026 19:22:03 GMT</pubDate>
-<description>Veeral gave GPT-6 Astra a one-line feature request: add routing controls for individual API keys. Astra found the right settings, made the changes, and used computer use to check its own work. It verified the mobile experience without being asked. About 12 minutes of implementing. Another 15 for val</description>
-</item>
-<item>
-<title>[YouTube] “A Staff Engineer Collaborator” | Notion’s First Look at GPT-6 Astra</title>
-<link>https://www.youtube.com/watch?v=dtNlpZI86Dk</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=dtNlpZI86Dk</guid>
-<pubDate>Mon, 21 Sep 2026 19:17:35 GMT</pubDate>
-<description>Don’t sleep on Astra. Quinn Johnson started working with GPT-6 Astra differently in Codex: he shared the goal, added context, and let it tackle the problem his team had been working on. On a cache-reuse audit, Astra connected patterns the Notion team had overlooked, then explained the issue clearly.</description>
-</item>
-<item>
-<title>[YouTube] “A Jaw Drop. Literally.” How Cooley Is Reimagining IPOs with OpenAI</title>
-<link>https://www.youtube.com/watch?v=4swQ0YknTLs</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=4swQ0YknTLs</guid>
-<pubDate>Mon, 21 Sep 2026 19:02:38 GMT</pubDate>
-<description>“How do we save time and effort and energy for our clients?” For David Wang, Cooley’s Chief Innovation Officer, that question is central to IPO preparation, when information requests, drafting sessions, and reviews place heavy demands on senior executives. With GO Public, built on OpenAI technology,</description>
-</item>
-<item>
-<title>[Google News] SpaceX’s Grok 4.7 Lands Like A Damp Squib Albeit With Some Improvements, As DeepSeek Teases 8 Trillion Parameters For An Upcoming Model - Wccftech</title>
-<link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSnJqcVFabEQzWjhPYnZacXFVTVM4Z1hjbjNNY0JBRk1pZDZTTUxxUmw0aVV4Nlo0VU5GaXZERVV0R3A3bTd5YkN6NmVtXzE0czJrY210c1F1TFVXTEZycm5Wak5FMDROSGhuQ3Q1WG02Skk3VjhhenhHMFZhTExDcW5Sd0Z5S2NsMVU5bER4UG1IOHR2STZta2hBZEtQcG93YVNpRFg4dGt0WU05S0k2dVFhRnZjeERRYmd3bHBYaFBrbmFVUVJ5NjF6RGpyeTY4TDVaZ2FLa3BnUUM1RDRrYW4ySVBJaTVUQWxj0gHwAUFVX3lxTE5jOVhxbklITGpDaG00LWdoZzdXZWFNVEdrY1dabWxSYTVIWjhPU3p1UEstTWxQaDNmOW5hU3ppb2pBWTR1b20yb2xneDhVWHh6X2l2Q0RRcTIyQTNKLXROdHNMVWV3NFRuNFIwc25uazdMT0kyZlFEajJISGNNNzcxemlLNDBtTXA0Zl91QVBQcnd3M0lxTW9Fdllja3hSaDAwV1dQVEdvYmR3TFRKMlN2UGNlRnQ5dThOVnFjUFRuSWpXQjR2VU5VaGpiRWU3RGpPbjVYaHBiZ2pIdlo3X196TFBjb1hpOW01d2gyWmJlZw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSnJqcVFabEQzWjhPYnZacXFVTVM4Z1hjbjNNY0JBRk1pZDZTTUxxUmw0aVV4Nlo0VU5GaXZERVV0R3A3bTd5YkN6NmVtXzE0czJrY210c1F1TFVXTEZycm5Wak5FMDROSGhuQ3Q1WG02Skk3VjhhenhHMFZhTExDcW5Sd0Z5S2NsMVU5bER4UG1IOHR2STZta2hBZEtQcG93YVNpRFg4dGt0WU05S0k2dVFhRnZjeERRYmd3bHBYaFBrbmFVUVJ5NjF6RGpyeTY4TDVaZ2FLa3BnUUM1RDRrYW4ySVBJaTVUQWxj0gHwAUFVX3lxTE5jOVhxbklITGpDaG00LWdoZzdXZWFNVEdrY1dabWxSYTVIWjhPU3p1UEstTWxQaDNmOW5hU3ppb2pBWTR1b20yb2xneDhVWHh6X2l2Q0RRcTIyQTNKLXROdHNMVWV3NFRuNFIwc25uazdMT0kyZlFEajJISGNNNzcxemlLNDBtTXA0Zl91QVBQcnd3M0lxTW9Fdllja3hSaDAwV1dQVEdvYmR3TFRKMlN2UGNlRnQ5dThOVnFjUFRuSWpXQjR2VU5VaGpiRWU3RGpPbjVYaHBiZ2pIdlo3X196TFBjb1hpOW01d2gyWmJlZw?oc=5</guid>
-<pubDate>Mon, 21 Sep 2026 18:46:44 GMT</pubDate>
-
-</item>
-<item>
-<title>[Blog] NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories</title>
-<link>https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/</link>
-<guid isPermaLink="false">https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/</guid>
-<pubDate>Mon, 21 Sep 2026 18:00:07 +0000</pubDate>
-<description>Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful</description>
+<description>OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.</description>
 </item>
 </channel>
 </rss>
