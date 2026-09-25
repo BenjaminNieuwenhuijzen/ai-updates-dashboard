@@ -5,12 +5,75 @@
 <link>https://ai-radar.eu/</link>
 <description>Combined updates from leading AI companies.</description>
 <language>en</language>
-<lastBuildDate>Fri, 25 Sep 2026 13:48:44 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 18:38:07 GMT</lastBuildDate>
 <item>
-<title>[Google News] DeepSeek Reveals How AI Agents Exploit Their Sandboxes - Dataconomy</title>
+<title>[News] Proaction boosts sales 60% and saves 75+ hours with Codex</title>
+<link>https://openai.com/index/proaction</link>
+<guid isPermaLink="false">https://openai.com/index/proaction</guid>
+<pubDate>Fri, 25 Sep 2026 19:00:00 GMT</pubDate>
+<description>With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.</description>
+</item>
+<item>
+<title>[YouTube] Debjyoti Paul - The mathematics behind transformer and attention mechanism</title>
+<link>https://www.youtube.com/watch?v=__p8I5CgaCA</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=__p8I5CgaCA</guid>
+<pubDate>Fri, 25 Sep 2026 17:17:42 GMT</pubDate>
+<description>The session will cover the following: 1. The positional encoding, ROPE 2. How that becomes attention and then how approximation is done at inference time 3. A short corollary for multi-head attention and mixture of experts Speaker Bio: Debjyoti is a Data Scientist at Amazon with over 9 years of indu</description>
+</item>
+<item>
+<title>[Cloud AI] Best practices guide for customizing Gemini models via Reinforcement Learning (RL)</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/</link>
+<guid isPermaLink="false">https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/</guid>
+<pubDate>Fri, 25 Sep 2026 16:00:00 +0000</pubDate>
+<description>Reinforcement learning (RL) has been a keystone of modern LLM post-training, but it demands large training clusters and access to model internals that external customers can't have with proprietary models like Gemini. So here at Google Cloud, we packaged it into a managed RL fine-tuning service (RLF</description>
+</item>
+<item>
+<title>[Google News] Xi acknowledges risks of AI even as Trump dismisses them - The Washington Post</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0dJTXZpNXNuRzB3OGUxWUFJMjB0bWt5UHgyTFJJdWNCMUpSdkdncnA3XzZ1T1p3S2Y3Y1R0UEdyS1dFX2s0eFNqYjVaMFc1Sy0tZzZoMUtqTW14bTZJNW9fRXZhX0NSZlVVNHJxM3dlQ21JUEVOTGE0d1piMFFDVFFZcGtRRlBVMG00a3p2MjRPYVhBQnBuQWtyMEJIeEhmOE1MZm5MdWFvTC1UN3U1VXBuOA?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0dJTXZpNXNuRzB3OGUxWUFJMjB0bWt5UHgyTFJJdWNCMUpSdkdncnA3XzZ1T1p3S2Y3Y1R0UEdyS1dFX2s0eFNqYjVaMFc1Sy0tZzZoMUtqTW14bTZJNW9fRXZhX0NSZlVVNHJxM3dlQ21JUEVOTGE0d1piMFFDVFFZcGtRRlBVMG00a3p2MjRPYVhBQnBuQWtyMEJIeEhmOE1MZm5MdWFvTC1UN3U1VXBuOA?oc=5</guid>
+<pubDate>Fri, 25 Sep 2026 16:00:00 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Cognition to hit $1B annualized revenue: report - TradingView</title>
+<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUo5SV9ZQnRqaGwyX3plSGxBTTVVSm03N3JmWjE5cEVBNTZZQy1VcnFpaUtPR1V6QWdaRXlnWWpQZFhMdEE2S2kxcHQwTWYyV0NBQ2FrcnpnN1lzMmY1a045ZXE0TnY0U1hzSTRMeHhodEw2V0dhRzZraG44OC1PMlEwSjlTQkpZWndMcGI4MmlYR0NKR1RFVjdUYWUza1FkUWZGWEF2V1lySWFf?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUo5SV9ZQnRqaGwyX3plSGxBTTVVSm03N3JmWjE5cEVBNTZZQy1VcnFpaUtPR1V6QWdaRXlnWWpQZFhMdEE2S2kxcHQwTWYyV0NBQ2FrcnpnN1lzMmY1a045ZXE0TnY0U1hzSTRMeHhodEw2V0dhRzZraG44OC1PMlEwSjlTQkpZWndMcGI4MmlYR0NKR1RFVjdUYWUza1FkUWZGWEF2V1lySWFf?oc=5</guid>
+<pubDate>Fri, 25 Sep 2026 15:09:30 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Anmol Pushjai Goel: Examining India’s Position in Technology and AI Policy - Pioneer Edge</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOSXpvb1NXUktVZ0RRVGxrS3JmQTQwYVRxMFc2SF8yRTBfSzhreldmc295UVh4RDFaOUVzV1dmOTBzUUNQY3JhSGlqWjViVy1VUFo3QlZtamVkdmthMTNzQTlkczdzczVzU0NUYjRhU2pDSFBWRnZUbzl2N0RlT29JUjRWQjhfcVQwWkZWekFkR0VwR01Yc3otclJPZWE?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxOSXpvb1NXUktVZ0RRVGxrS3JmQTQwYVRxMFc2SF8yRTBfSzhreldmc295UVh4RDFaOUVzV1dmOTBzUUNQY3JhSGlqWjViVy1VUFo3QlZtamVkdmthMTNzQTlkczdzczVzU0NUYjRhU2pDSFBWRnZUbzl2N0RlT29JUjRWQjhfcVQwWkZWekFkR0VwR01Yc3otclJPZWE?oc=5</guid>
+<pubDate>Fri, 25 Sep 2026 12:36:26 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek V4.1 Flash vs V4 Pro vs V4-Flash: 4.4x Gap [2026] - tech-insider.org</title>
+<link>https://news.google.com/rss/articles/CBMifEFVX3lxTE9ybnBqbUJsSEJOWDhzQzRHQ3dldVZYa3BCNFZDOEJsNjdYcVgtR0FmVGJMbUxnbG5PUnU2aXlqdDEwVllqZjlOV3cyWXJwS0pRRS1fS21iblg4X2VMd0swY0s2Um5JY0RrSzJyRWRzbG5NbjBDUnBPN1lwZ3E?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMifEFVX3lxTE9ybnBqbUJsSEJOWDhzQzRHQ3dldVZYa3BCNFZDOEJsNjdYcVgtR0FmVGJMbUxnbG5PUnU2aXlqdDEwVllqZjlOV3cyWXJwS0pRRS1fS21iblg4X2VMd0swY0s2Um5JY0RrSzJyRWRzbG5NbjBDUnBPN1lwZ3E?oc=5</guid>
+<pubDate>Fri, 25 Sep 2026 12:10:41 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] DeepSeek Reveals How AI Agents Exploit Their Sandboxes - dataconomy.com</title>
 <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPYW9DMngydk5EU0YyZ0ZBT01YUU83bWl3bFhBYy1fYzRqNHpGS1lTM0VPN1BZZmVQVjRaZDNEYmpudlg2cnp0MlJsQ3F1cFdTdmplVU1oYjZWSGtDajh6YzZkSVltZDFfbnF5TDhDRUZPWGt3OWhHMDFlVGluSnZzWExTcE5yTUk?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPYW9DMngydk5EU0YyZ0ZBT01YUU83bWl3bFhBYy1fYzRqNHpGS1lTM0VPN1BZZmVQVjRaZDNEYmpudlg2cnp0MlJsQ3F1cFdTdmplVU1oYjZWSGtDajh6YzZkSVltZDFfbnF5TDhDRUZPWGt3OWhHMDFlVGluSnZzWExTcE5yTUk?oc=5</guid>
 <pubDate>Fri, 25 Sep 2026 10:43:06 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] Build a Multi-Model AI Router: Fallback in 13 Steps [2026] - tech-insider.org</title>
+<link>https://news.google.com/rss/articles/CBMieEFVX3lxTE95Nm1neUpWWnowbTBxNUQ2NFpEOF85NGRVTnctVmdlZ2FDUFVBOWIwWGZDci1KU1M0NHZ1RnIzSEVRTlkyaU9CdjRuVWh4alpvRmxTTENZaXNOTGtPR2MxcWdXZ2F4OHJrWHhHMnBXdnY2QXViVXJsMg?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTE95Nm1neUpWWnowbTBxNUQ2NFpEOF85NGRVTnctVmdlZ2FDUFVBOWIwWGZDci1KU1M0NHZ1RnIzSEVRTlkyaU9CdjRuVWh4alpvRmxTTENZaXNOTGtPR2MxcWdXZ2F4OHJrWHhHMnBXdnY2QXViVXJsMg?oc=5</guid>
+<pubDate>Fri, 25 Sep 2026 10:22:29 GMT</pubDate>
+
+</item>
+<item>
+<title>[Google News] The EU is Pushing to Weaken Privacy Rules for AI - Civil Liberties Union for Europe</title>
+<link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE14bWNucWVMWkRRYXJZTWZXTm90d0ZUSzZRWDVQWWt2d1BzRTgtaGV1dm4yTVFfd3RraE9yc1lrUUZUVmhZSEx2Z0RSOTJCWUZ3UkdXSV9ONHlmd0w0cGRvcDNaZw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiY0FVX3lxTE14bWNucWVMWkRRYXJZTWZXTm90d0ZUSzZRWDVQWWt2d1BzRTgtaGV1dm4yTVFfd3RraE9yc1lrUUZUVmhZSEx2Z0RSOTJCWUZ3UkdXSV9ONHlmd0w0cGRvcDNaZw?oc=5</guid>
+<pubDate>Fri, 25 Sep 2026 09:58:23 GMT</pubDate>
 
 </item>
 <item>
@@ -35,13 +98,6 @@
 
 </item>
 <item>
-<title>[Google News] UN Secretary‑General Antonio Guterres calls for global regulation of artificial intelligence in final UNGA address - Digital Watch Observatory</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUEItbHZpb2czTkYtSS1mRmtEc0d0WWZFU1hKWW8xZ29FMDFnb1dGNy1DZ2tvVEEtdEZYZl83ZkxBX3BLTDVpbjFHbk9nd21FNTB0UW5LUUdOdUt2UVNCbEpwZmlBcHlpenlYVzcwdTFwazdhb2p1TDNiVnRoc0lFcmhoNXZWV3NJNEk4?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUEItbHZpb2czTkYtSS1mRmtEc0d0WWZFU1hKWW8xZ29FMDFnb1dGNy1DZ2tvVEEtdEZYZl83ZkxBX3BLTDVpbjFHbk9nd21FNTB0UW5LUUdOdUt2UVNCbEpwZmlBcHlpenlYVzcwdTFwazdhb2p1TDNiVnRoc0lFcmhoNXZWV3NJNEk4?oc=5</guid>
-<pubDate>Fri, 25 Sep 2026 06:56:18 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] Career Path after B.Tech. (ME – Artificial Intelligence and Machine Learning) - LPU</title>
 <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNbE8xTlBSNjAzYVAwTDRUT1dfbEtEdWxXR3dRell2bnJ2VnRHX3pSTG1zOVphUUhRemxuNi1tcHNJZUd0WmM0bWZNRkpDQndEXzZwUG1FdjFqTDVmSl80dXVhakVZU29ydXgzWUxWOFcxUXNOc3U4d2NyNnl3aDd0eFpmeVNHVHdXem9mWnpKdVVCWWNNUGNoeWxkV3Rmdw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxNbE8xTlBSNjAzYVAwTDRUT1dfbEtEdWxXR3dRell2bnJ2VnRHX3pSTG1zOVphUUhRemxuNi1tcHNJZUd0WmM0bWZNRkpDQndEXzZwUG1FdjFqTDVmSl80dXVhakVZU29ydXgzWUxWOFcxUXNOc3U4d2NyNnl3aDd0eFpmeVNHVHdXem9mWnpKdVVCWWNNUGNoeWxkV3Rmdw?oc=5</guid>
@@ -63,7 +119,7 @@
 
 </item>
 <item>
-<title>[Google News] Forget rogue robots; AI’s biggest threat is the ‘lay-off trap’ - afr.com</title>
+<title>[Google News] Forget rogue robots; AI’s biggest threat is the ‘lay-off trap’ - AFR</title>
 <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUZvclY1dDdpWllwS0tkcEl3U0hoUjBfRXNINnBabklIN3hiZzFUUzVmbjdjODF2VWd2cG5KQzVFS1BwcTE0VWNzM1p5S1p3eWY1LWVQMkpUa0RVTmJfZ2gzWGxJUjVDUVBGZEs5Z0pRMTVEM1JRVVllTXdFN3dnUlE4WFNtRDdQbEZJbEhNMkwtQk43a1B5dG5HcDR2cVNORmMtNkJwUUNXeVZtclE?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUZvclY1dDdpWllwS0tkcEl3U0hoUjBfRXNINnBabklIN3hiZzFUUzVmbjdjODF2VWd2cG5KQzVFS1BwcTE0VWNzM1p5S1p3eWY1LWVQMkpUa0RVTmJfZ2gzWGxJUjVDUVBGZEs5Z0pRMTVEM1JRVVllTXdFN3dnUlE4WFNtRDdQbEZJbEhNMkwtQk43a1B5dG5HcDR2cVNORmMtNkJwUUNXeVZtclE?oc=5</guid>
 <pubDate>Fri, 25 Sep 2026 02:11:00 GMT</pubDate>
@@ -84,7 +140,7 @@
 <description>Yesterday at Connect, we announced that we're bringing Muse to our AI glasses, launched Meta VR Glasses, and more. The post The Biggest News From Connect 2026 appeared first on Meta Newsroom .</description>
 </item>
 <item>
-<title>[Google News] ‘Bigger than a Breadbox’ in AI. Capex, Gemini &amp; DeepSeek. ARD #170 - michaelparekh.substack.com</title>
+<title>[Google News] ‘Bigger than a Breadbox’ in AI. Capex, Gemini &amp; DeepSeek. ARD #170 - AI: Reset to Zero</title>
 <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5UMi1fb1hwcTd3QWpLMlpqdXp3TE82NDVSLUk3bWc3RUt5YlM4OE4xS3FwUm5kWTkybmhGWEpoaDgwMER1ZV9vUHZXYUIxaFNOMWxRQWp3Ml9JVXNvQjItYmtuZDlmSkM3b3I5aUcxazVlbllxenc2UGhnSQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMie0FVX3lxTE5UMi1fb1hwcTd3QWpLMlpqdXp3TE82NDVSLUk3bWc3RUt5YlM4OE4xS3FwUm5kWTkybmhGWEpoaDgwMER1ZV9vUHZXYUIxaFNOMWxRQWp3Ml9JVXNvQjItYmtuZDlmSkM3b3I5aUcxazVlbllxenc2UGhnSQ?oc=5</guid>
 <pubDate>Thu, 24 Sep 2026 20:02:47 GMT</pubDate>
@@ -126,7 +182,7 @@
 <description>Ten years ago at NVIDIA GTC 2016, our CEO Jensen Huang introduced DGX-1, our first AI supercomputer. Since then, NVIDIA DGX has transformed from a single system into a blueprint for AI factories. What hasn’t changed is the reason why we build DGX: to test the systems and work through the details of </description>
 </item>
 <item>
-<title>[Google News] DeepSeek Sends Strong Signal Ahead of Funding Push - Yahoo Finance</title>
+<title>[Google News] DeepSeek Sends Strong Signal Ahead of Funding Push - finance.yahoo.com</title>
 <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPZy1xaWJmSGlhaUVqMmZ5RnlqbVl5akk5bjNnaG04R0N2YWhKWkFGM3pWWllObkdUU2RKbDdwYjdCVi1vMmstVkN5SjRnV2RhUFQyUUNuWGxKT3E4d2RpcVFrOVIyYk1MUm5ZbC1vUmNVa09PYXg3QktCczBkRE1ZdElMMHJ3Z0xWZ19sdVlWWEVqUnphaTVPaWQzV1E2cWc?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxPZy1xaWJmSGlhaUVqMmZ5RnlqbVl5akk5bjNnaG04R0N2YWhKWkFGM3pWWllObkdUU2RKbDdwYjdCVi1vMmstVkN5SjRnV2RhUFQyUUNuWGxKT3E4d2RpcVFrOVIyYk1MUm5ZbC1vUmNVa09PYXg3QktCczBkRE1ZdElMMHJ3Z0xWZ19sdVlWWEVqUnphaTVPaWQzV1E2cWc?oc=5</guid>
 <pubDate>Thu, 24 Sep 2026 17:20:38 GMT</pubDate>
@@ -161,7 +217,7 @@
 <description>A decade ago, Jensen Huang introduced DGX-1 to help researchers tackle AI challenges once thought out of reach. He delivered the first DGX-1 to OpenAI, which started the AI revolution. What began as a single system has evolved into the blueprint for the modern AI factory—driving breakthroughs across</description>
 </item>
 <item>
-<title>[Google News] Don’t CON Law Artificial Intelligence - American Legislative Exchange Council</title>
+<title>[Google News] Don’t CON Law Artificial Intelligence - alec.org</title>
 <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBCLThGeUpObTNaTm9WWTFUX1BMdzZxaDVGVTRSX1VGcTFxRElhV0Rfd0ZYYmowRXBCTmZ2U05Pa2UtUkVSV2hmQTk3ak9rbGYyN1JDUXhoanZyLWJWNmpvWWYxSzcyV1o0WVVoUVZLSQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMib0FVX3lxTFBCLThGeUpObTNaTm9WWTFUX1BMdzZxaDVGVTRSX1VGcTFxRElhV0Rfd0ZYYmowRXBCTmZ2U05Pa2UtUkVSV2hmQTk3ak9rbGYyN1JDUXhoanZyLWJWNmpvWWYxSzcyV1o0WVVoUVZLSQ?oc=5</guid>
 <pubDate>Thu, 24 Sep 2026 15:32:11 GMT</pubDate>
@@ -266,7 +322,7 @@
 
 </item>
 <item>
-<title>[Google News] Cybersecurity startup Island valued at $6.4 billion amid AI agent security risks - Reuters</title>
+<title>[Google News] Cybersecurity startup Island valued at $6.4 billion amid AI agent security risks - reuters.com</title>
 <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1puRmlKdUNRcnUzb2hocUxkZmdland2NVEzY0V3T0g3akFuM2M0dzF4T3dxWEZVYlBMN1NxSTQ4cUR3VndWRV94eThxV3dzRjhzNzNIdnpKeUZJQ2JmZjBFSXZuU0E0LVh6cVp3dGc4RE9RVF9JWXVhbXZTQXJWREtrVkIzbzh2akFkUVJwNE8wcVlWLXd4UzFqWmM2c0p0bkk4dDZR?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1puRmlKdUNRcnUzb2hocUxkZmdland2NVEzY0V3T0g3akFuM2M0dzF4T3dxWEZVYlBMN1NxSTQ4cUR3VndWRV94eThxV3dzRjhzNzNIdnpKeUZJQ2JmZjBFSXZuU0E0LVh6cVp3dGc4RE9RVF9JWXVhbXZTQXJWREtrVkIzbzh2akFkUVJwNE8wcVlWLXd4UzFqWmM2c0p0bkk4dDZR?oc=5</guid>
 <pubDate>Thu, 24 Sep 2026 11:38:17 GMT</pubDate>
@@ -287,7 +343,7 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek Aims to Close $7.5 Billion Funding Round by End-October - theinformation.com</title>
+<title>[Google News] DeepSeek Aims to Close $7.5 Billion Funding Round by End-October - The Information</title>
 <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPblRMZFR0b2FnMThIUTJ1ekZ0R19wZ2tOMWV2ZVh1SnBSclZzbzQ5UVpRX0lqUC1jSUJwQk5ET0pvQXVIZGd6a2w1RUFZY1FsWEs5VmVYYTJROUJLaXFCVFNpb3NtcTVSZzNKTXFDT1EyN2xKdGZ4WXJKUTBRRjZqSGxjbXZJTjB5MTNhRkZ2dzRJQnp2b0JJdFZjS0xJWGM?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxPblRMZFR0b2FnMThIUTJ1ekZ0R19wZ2tOMWV2ZVh1SnBSclZzbzQ5UVpRX0lqUC1jSUJwQk5ET0pvQXVIZGd6a2w1RUFZY1FsWEs5VmVYYTJROUJLaXFCVFNpb3NtcTVSZzNKTXFDT1EyN2xKdGZ4WXJKUTBRRjZqSGxjbXZJTjB5MTNhRkZ2dzRJQnp2b0JJdFZjS0xJWGM?oc=5</guid>
 <pubDate>Thu, 24 Sep 2026 10:33:00 GMT</pubDate>
@@ -322,13 +378,6 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek's annualized revenue tops $1 billion, plans to raise $7.5 billion in IPO - finance.biggo.com</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE0wQmNTcldoVmZaeklsZ0I2R2JjREcxaUw1dlRUMmltcTZONVJubUFSYm1TU25DNWlCakh4eG9JM25odlEzbWo0WnNfbkY0YU5Yc3dmenhwb3RvTWk2eDRzelNGd0lUVUdhY1lPX2c4X2R4ZUtoaEE?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE0wQmNTcldoVmZaeklsZ0I2R2JjREcxaUw1dlRUMmltcTZONVJubUFSYm1TU25DNWlCakh4eG9JM25odlEzbWo0WnNfbkY0YU5Yc3dmenhwb3RvTWk2eDRzelNGd0lUVUdhY1lPX2c4X2R4ZUtoaEE?oc=5</guid>
-<pubDate>Thu, 24 Sep 2026 08:55:00 GMT</pubDate>
-
-</item>
-<item>
 <title>[Google News] DeepSeek Tops $1 Billion in Annualized Revenue, Nears Final Stage of $7.45 Billion IPO Fundraising - bloomingbit</title>
 <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ERGp3MnVFcF9rNVNhSHFHQl9rZXd3X25fRlhzbFQ3aFVTcFdzR3Q5ZE1HcDh5dmZvZ1Nrd2lXYVFXUHdQSXZiblM1aWQtSUFrLTRsSw?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ERGp3MnVFcF9rNVNhSHFHQl9rZXd3X25fRlhzbFQ3aFVTcFdzR3Q5ZE1HcDh5dmZvZ1Nrd2lXYVFXUHdQSXZiblM1aWQtSUFrLTRsSw?oc=5</guid>
@@ -357,7 +406,7 @@
 
 </item>
 <item>
-<title>[Google News] China's DeepSeek annualised revenue run rate hits $1 billion, the Information reports - Reuters</title>
+<title>[Google News] China's DeepSeek annualised revenue run rate hits $1 billion, the Information reports - reuters.com</title>
 <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGc0WFRZWVl4akx6RTdZUmJoTUpYTFk4SHRzUE9jUHl0NGI1TEptNDhibGZlWTZDVHAySENjSHBNQnpDVFlwZlp5V2U0Y2txN000SnZTVHpqQS1kN2wwMzYzV1pKUmZaX1NTRnZ0X1JaNk13T21uMXA3VkNuYXJ1b1NmVGEwYzJGaDNTVjlaaUdOdUtPNmY2LUUtN1NhMzhrOEw1NU1zczBrMTljUDZfenN0X3M3Zkl2enVucTVoX0xmQQ?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGc0WFRZWVl4akx6RTdZUmJoTUpYTFk4SHRzUE9jUHl0NGI1TEptNDhibGZlWTZDVHAySENjSHBNQnpDVFlwZlp5V2U0Y2txN000SnZTVHpqQS1kN2wwMzYzV1pKUmZaX1NTRnZ0X1JaNk13T21uMXA3VkNuYXJ1b1NmVGEwYzJGaDNTVjlaaUdOdUtPNmY2LUUtN1NhMzhrOEw1NU1zczBrMTljUDZfenN0X3M3Zkl2enVucTVoX0xmQQ?oc=5</guid>
 <pubDate>Thu, 24 Sep 2026 06:31:00 GMT</pubDate>
@@ -371,60 +420,11 @@
 
 </item>
 <item>
-<title>[Google News] DeepSeek’s Annualized Revenue Hits $1 Billion as Startup Finalizes $7.5 Billion Fundraising - theinformation.com</title>
+<title>[Google News] DeepSeek’s Annualized Revenue Hits $1 Billion as Startup Finalizes $7.5 Billion Fundraising - The Information</title>
 <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGU1QmdBMDNLUDlJNzByUU1LUWFCNHBodFQxdHN1WTk5RWo3NzdRMjNQVGlBYW1FN1laWVNtbVgxbXBrd3BnckFrZFgzRDZhSXYwb2xRYWlxMWV5alZZa1E5dDZNdDdkUTJMU1RVd3ZXWUpPU0s2aGY0MXBvSXNaZVZJTmxYNU5ENlh5c3RuUGNzMUFDZkl0aW03T1dFeWpEZnUtdmlsdm5va3Z4S00ybEtZSm91NWFjZEx3d1M5T2V2M3M?oc=5</link>
 <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGU1QmdBMDNLUDlJNzByUU1LUWFCNHBodFQxdHN1WTk5RWo3NzdRMjNQVGlBYW1FN1laWVNtbVgxbXBrd3BnckFrZFgzRDZhSXYwb2xRYWlxMWV5alZZa1E5dDZNdDdkUTJMU1RVd3ZXWUpPU0s2aGY0MXBvSXNaZVZJTmxYNU5ENlh5c3RuUGNzMUFDZkl0aW03T1dFeWpEZnUtdmlsdm5va3Z4S00ybEtZSm91NWFjZEx3d1M5T2V2M3M?oc=5</guid>
 <pubDate>Thu, 24 Sep 2026 06:20:00 GMT</pubDate>
 
-</item>
-<item>
-<title>[YouTube] AI Engineer Paris 2026 - Day 1 - Sept 23</title>
-<link>https://www.youtube.com/watch?v=XpZCyQobP-c</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=XpZCyQobP-c</guid>
-<pubDate>Thu, 24 Sep 2026 05:17:10 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Sam Altman Warned at the UN About Two Major Threats of Artificial Intelligence - Inbox.eu</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTdQWG1VSmtzR3BQVXN4UElfMlZwNUpnOVZiMjJxV2RoOTdYbkxaT0tqa2IybXRBT0QtT1YzemdmWWJuQUs2aFZYczBUVHJ5a21ONXZmU1dIdWVRSnhORGc4c29mb1BUV2hTaXB3X0tqTjlXWldHMVAwTkx5ZWZvZ21DZEFNTm0wLU02NGtkRllTYTdLZnNnanVMekI4SV9jSlZnNGpubVNkNDdOX1pjMEhIWXJUTDJteXZNdw?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTdQWG1VSmtzR3BQVXN4UElfMlZwNUpnOVZiMjJxV2RoOTdYbkxaT0tqa2IybXRBT0QtT1YzemdmWWJuQUs2aFZYczBUVHJ5a21ONXZmU1dIdWVRSnhORGc4c29mb1BUV2hTaXB3X0tqTjlXWldHMVAwTkx5ZWZvZ21DZEFNTm0wLU02NGtkRllTYTdLZnNnanVMekI4SV9jSlZnNGpubVNkNDdOX1pjMEhIWXJUTDJteXZNdw?oc=5</guid>
-<pubDate>Thu, 24 Sep 2026 03:49:05 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Students outraged after Stanford University uses artificial intelligence to alter race, appearances in promotional photo - ABC7 Bay Area</title>
-<link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTnYwdjl6VGt1VFNuSlZiR0xkb1RqY2ZYNWJ2YXBGVHozZGctU0ZscXlCcElwcWFaWE55bnlnenBHaUZoakZPM3JsMVZBWG9jTUR2aTR1QXZkZWdnMHRNTWZqcUpEaG93WllfanZqMjUxNkU0bDVYakhtRUZkR1N3bllkLVNzRzZtOWFoVmxTNHM5Ui11OWNHcnpMQmg2ak05bmFwc3U5aHlGU0lvNFNWR3ZxNVY3UUJiRkNjcS1VbnJfZUhPSm5tallyaEtidWNoWGfSAdcBQVVfeXFMUHlIcGt1WGZHc1ZqaHhxU1FYaFJJRVI5b0NaRXpJYlV1OEpybGJzbFdpSVVzTTg3RzVIcF92STBvRHpDOV83MEpwcmpiNVBxbExoQmtXUVdaaGxVZno4RE5YY2lLc1oyUDVVNTBHNU4wdXZpd0lEelU4ekZiV1RHa1k2ckpPQk9lQ2VOcEZhV1RQT0M3RkFWNVZlTHN2UFhWYng2aHJ5VVNWR1RvUXJLWHgyMmdnVGNSNURWNV9McEppd29hNzlPckh5bDJ6MDJtYU1EQXdaVUU?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTnYwdjl6VGt1VFNuSlZiR0xkb1RqY2ZYNWJ2YXBGVHozZGctU0ZscXlCcElwcWFaWE55bnlnenBHaUZoakZPM3JsMVZBWG9jTUR2aTR1QXZkZWdnMHRNTWZqcUpEaG93WllfanZqMjUxNkU0bDVYakhtRUZkR1N3bllkLVNzRzZtOWFoVmxTNHM5Ui11OWNHcnpMQmg2ak05bmFwc3U5aHlGU0lvNFNWR3ZxNVY3UUJiRkNjcS1VbnJfZUhPSm5tallyaEtidWNoWGfSAdcBQVVfeXFMUHlIcGt1WGZHc1ZqaHhxU1FYaFJJRVI5b0NaRXpJYlV1OEpybGJzbFdpSVVzTTg3RzVIcF92STBvRHpDOV83MEpwcmpiNVBxbExoQmtXUVdaaGxVZno4RE5YY2lLc1oyUDVVNTBHNU4wdXZpd0lEelU4ekZiV1RHa1k2ckpPQk9lQ2VOcEZhV1RQT0M3RkFWNVZlTHN2UFhWYng2aHJ5VVNWR1RvUXJLWHgyMmdnVGNSNURWNV9McEppd29hNzlPckh5bDJ6MDJtYU1EQXdaVUU?oc=5</guid>
-<pubDate>Thu, 24 Sep 2026 03:41:16 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek Releases New Paper Again, Officially Signed by Leading AI Researcher Liang Wenfeng - eu.36kr.com</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UcGJta2k3aWdXQzRGNWJ4b0E2d0RPejVGZEVTa2U1LXpuNWtsbTQ1ODFCVFJweGFUNmRQMUp5YWh4VmtZRm9NYUJJc001cDlsdW5B?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UcGJta2k3aWdXQzRGNWJ4b0E2d0RPejVGZEVTa2U1LXpuNWtsbTQ1ODFCVFJweGFUNmRQMUp5YWh4VmtZRm9NYUJJc001cDlsdW5B?oc=5</guid>
-<pubDate>Thu, 24 Sep 2026 03:30:10 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] Anthropic says its Claude AI helped uncover previously unknown enzyme system that may enable new gene editing - Malay Mail</title>
-<link>https://news.google.com/rss/articles/CBMigAJBVV95cUxNdWw0SXlVSjVHTTliTmo4Qkh1eDBzYnR4RlRwdmRBSkhZcTRSUi1TSWxuZmgzMEFzb29LOUZhU0EydG4yYjNNeVdoTWRJLW9FOHl4d0pNbGtxd0ZkZ3BXdVNiRGw4eWktSmplQ2RGZS0zMi1tUXB0ZHJOTVdvcG40c2FkUXE3bktqMmtGck5FcDJFUHUxTDlkMEhjZWtUZ3FLU0lsSDR6c2g1WnF3NXdpYzZHMEN3NEZ5dUlGM2hHNFRJT0k5dExFaUdkVlRTNjJYSS1laWREVko5ZWN5SjJJTl9ScVpTMndvQ1RWc1VKaGVXSDc5WHVZUmc0UHFHaldR0gGGAkFVX3lxTE9yNnR2b0x0d1V4RVVsWlJ4dGEwcV8yNFloUVVac1dmdldQX0M1UGY1U2xXQVlCeTJxVC1zM3dSMzdSaVFyWkxvbVhSMzA1MWpfVndKOXdwdFl4US1HMzFNNWFVZE0yUEtpcmZBVWpzTHRqZURlRjZHemdaVFZWV2pOc0dzQ1JsMWJWSHNvazZ3TndubkY1ZUd6b1N2YXNNeFcyQ1UxN2RWZXNWcEUxSlEyQ0QwaVl0clRFR3NCaktEQ3hEd25lbzh3VWpxeDByMFdfVWdDR1R3WkJFbDlfa3R5VGEyVW1IZzd6eHh5dXM0R1lEZEUzODR1Nk9Dc0oySVEwNWxYNmc?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAJBVV95cUxNdWw0SXlVSjVHTTliTmo4Qkh1eDBzYnR4RlRwdmRBSkhZcTRSUi1TSWxuZmgzMEFzb29LOUZhU0EydG4yYjNNeVdoTWRJLW9FOHl4d0pNbGtxd0ZkZ3BXdVNiRGw4eWktSmplQ2RGZS0zMi1tUXB0ZHJOTVdvcG40c2FkUXE3bktqMmtGck5FcDJFUHUxTDlkMEhjZWtUZ3FLU0lsSDR6c2g1WnF3NXdpYzZHMEN3NEZ5dUlGM2hHNFRJT0k5dExFaUdkVlRTNjJYSS1laWREVko5ZWN5SjJJTl9ScVpTMndvQ1RWc1VKaGVXSDc5WHVZUmc0UHFHaldR0gGGAkFVX3lxTE9yNnR2b0x0d1V4RVVsWlJ4dGEwcV8yNFloUVVac1dmdldQX0M1UGY1U2xXQVlCeTJxVC1zM3dSMzdSaVFyWkxvbVhSMzA1MWpfVndKOXdwdFl4US1HMzFNNWFVZE0yUEtpcmZBVWpzTHRqZURlRjZHemdaVFZWV2pOc0dzQ1JsMWJWSHNvazZ3TndubkY1ZUd6b1N2YXNNeFcyQ1UxN2RWZXNWcEUxSlEyQ0QwaVl0clRFR3NCaktEQ3hEd25lbzh3VWpxeDByMFdfVWdDR1R3WkJFbDlfa3R5VGEyVW1IZzd6eHh5dXM0R1lEZEUzODR1Nk9Dc0oySVEwNWxYNmc?oc=5</guid>
-<pubDate>Thu, 24 Sep 2026 03:20:57 GMT</pubDate>
-
-</item>
-<item>
-<title>[Google News] DeepSeek Releases New Paper on Large-Scale Agent Training, Authored by Liang Wenfeng - eu.36kr.com</title>
-<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ySnBDQ0xuWEdxQl9aWTBxSUZTbkRpOUZMdWR6N0J4UUJSSDFqX052eTFDbnlWRlo1dC0zWEV5dkg3ZEZYZXpTN3ZBaXVrdEthVEdF?oc=5</link>
-<guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ySnBDQ0xuWEdxQl9aWTBxSUZTbkRpOUZMdWR6N0J4UUJSSDFqX052eTFDbnlWRlo1dC0zWEV5dkg3ZEZYZXpTN3ZBaXVrdEthVEdF?oc=5</guid>
-<pubDate>Thu, 24 Sep 2026 00:05:00 GMT</pubDate>
-
-</item>
-<item>
-<title>[Research] EconomicsProject Swap: What happens when agents trade for us?</title>
-<link>https://www.anthropic.com/research/project-swap</link>
-<guid isPermaLink="false">https://www.anthropic.com/research/project-swap</guid>
-<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-<description>To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes.</description>
 </item>
 </channel>
 </rss>
